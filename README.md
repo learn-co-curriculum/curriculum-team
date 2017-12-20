@@ -23,6 +23,7 @@ This is the canonical source of information about the Flatiron School Curriculum
     * [README Creation: Writing the README](./creation-content-focus-writing_readme.md)
     * [README template](./creation-content-focus-readme_template.md)
   * Labs: ("Code-Alongs" and "Test-Driven Labs")
+    * [Lab Creation](./creation-lab-materials.md)
 
 ## Resources
 
