@@ -24,6 +24,7 @@ This is the canonical source of information about the Flatiron School Curriculum
     * [README template](./creation-content-focus-readme_template.md)
   * Labs: ("Code-Alongs" and "Test-Driven Labs")
     * [Lab Creation](./creation-lab-materials.md)
+    * [Lab Template](./lab-template)
 
 ## Resources
 
