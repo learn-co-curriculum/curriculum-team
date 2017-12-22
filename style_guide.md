@@ -12,6 +12,31 @@ redable in the terminal with `cat` or other pagers. **DO NOT** retroactively
 open a number of files and apply some sort of scripting to change this. If
 you're in a file doing work, make the change.
 
+## Headings Get an Additional Blank Line
+
+Markdown was designed to emualte rich text within console based editors and
+pagers. As such a headline should "pop" by being surrounded by blank lines.
+
+Do:
+
+```
+lorem ipsum sit dolor amet
+
+## Example
+
+Example is a very important word.
+```
+
+Do not:
+
+```
+lorem ipsum sit dolor amet
+
+## Example
+Example is a very important word.
+```
+
+
 ## Links
 
 Prefer footnote-style linke definition to inline. Given our width constraint
