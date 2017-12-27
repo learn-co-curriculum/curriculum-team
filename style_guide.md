@@ -66,7 +66,9 @@ does not reflect poorly on my yearly
 review.
 ```
 
-Don't leave these. Most editors will detect and highlight these.
+If you try to "select" with your mouse, you'll see there are extra space
+characters at the end of the first two lines.  Don't leave these. Most editors
+will detect and highlight these.
 
 ## Footnote Style Markdown Links
 
