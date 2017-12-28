@@ -5,6 +5,30 @@
 To ensure that we all write with a common voice, we have adopted the following
 style decisions.
 
+Contents:
+
+* Formatting Markdown
+  * [Text Wrap at 80 Column](#text_wrap_at_80_column)
+  * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
+  * [Do Not Leave Hanging Whitespace at End-of-Line](#do_not_leave_hanging_whitespace_at_end-of-line)
+  * [Footnote Style Markdown Links](#footnote_style_markdown_links)
+* Style
+  * [Tone](#tone)
+  * [Personhood](#personhood)
+  * [Non-Gendered Speech](#non-gendered_speech)
+  * [Abbreviations](#abbreviations)
+  * [Headings Should Be Capitalized According to AP Style](#headings_should_be_capitalized_according_to_ap_style)
+* Engaging Writing
+  * [Avoid Burying the Lede](#avoid_burying_the_lede)
+  * [Avoid Value Judgements](#avoid_value_judgements)
+  * [Prefer Active Voice](#prefer_active_voice)
+  * [Write from the Student Perspective](#write_from_the_student_perspective)
+  * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
+
+---
+
+<a name="text_wrap_at_80_column"></a>
+
 ## Text Wrap at 80 Column
 
 Text should be hard wrapped near 80 column width. This has a number of
@@ -26,6 +50,9 @@ reformat and then get to work. The `diff` for this commit will (likely) touch
 many of the files and, as a result, if it's integrated with an actual content
 change, will make it difficult to see the content change in a sea of
 reformatted lines.
+
+
+<a name="headings_get_an_additional_blank_line"></a>
 
 ## Headings Get an Additional Blank Line
 
@@ -56,6 +83,9 @@ to 80-columns. Here's an example of how this looks when it goes wrong:
 
 ![Re-wrapping with unbroken header](./img/why_space_between_headings.png)
 
+
+<a name="do_not_leave_hanging_whitespace_at_end-of-line"></a>
+
 ### Do Not Leave Hanging Whitespace at End-of-Line
 
 When editing it's common to leave hanging whitespace
@@ -69,6 +99,9 @@ review.
 If you try to "select" with your mouse, you'll see there are extra space
 characters at the end of the first two lines.  Don't leave these. Most editors
 will detect and highlight these.
+
+
+<a name="footnote_style_markdown_links"></a>
 
 ## Footnote Style Markdown Links
 
@@ -93,18 +126,28 @@ Not:
 ```
 
 Obviously, in unordered lists of links this is unhelpful and therefore can be
-ignored.
+ignored. Where intelligibility is impaired or level of indirection is
+needlessly increased, this rule may be ignored.
+
+The goal of this rule is to increase readability and to ensure that an image
+link is not > 80 columns. Honor that spirit.
 
 ## Style Decisions
+
+<a name="tone"></a>
 
 ### Tone
 
 Tone should be conversational. It is appropriate to "break the fourth wall" and
 speak to the reader using "you."
 
+<a name="personhood"></a>
+
 ### Personhood
 
 Curriculum should be writen in first-person plural.
+
+<a name="non-gendered_speech"></a>
 
 ### Non-Gendered Speech
 
@@ -112,6 +155,9 @@ We do not use "he" or "she" or "ze" or "wir" or "hir."
 
 We use "they" as a third-person singular honoring the descriptivist tendencies
 of pre-18<sup>th</sup> century usage.
+
+
+<a name="abbreviations"></a>
 
 ### Abbreviations
 
@@ -137,6 +183,15 @@ browser. It has no bearing on the actual material written on the disk on the
 server!
 ```
 
+<a name="headings_should_be_capitalized_according_to_ap_style"></a>
+
+### Headings Should Be Capitalized According to AP Style
+
+Capitalize every word except: "a," "an," "and," "at," "but," "by," "for," "in,"
+"nor," "of," "on," "or," "out," "so," "the," "to," "up," and "yet."
+
+<a name="avoid_burying_the_lede"></a>
+
 ### Avoid Burying the Lede
 
 The "lede" is the point of the thing.
@@ -156,6 +211,8 @@ for learners.
 a novel (building to a rising **ho-ho!** _reveal_!) Your lede is _most likely_
 in your final paragraph. You can often literally move that paragraph to be the
 first and *ka-bam* you now have writing ideal for learners!
+
+<a name="avoid_value_judgements"></a>
 
 ### Avoid Value Judgements
 
@@ -206,6 +263,8 @@ Versus:
 > programmatically "queue" and move text efficiently that earns `vim` the
 > adjective of being "powerful."
 
+<a name="prefer_active_voice"></a>
+
 ### Prefer Active Voice
 
 While it is unnatural to avoid all passive construction, strive for active
@@ -224,6 +283,8 @@ over:
 
 > The server must be started by you before it can be reached.
 
+<a name="write_from_the_student_perspective"></a>
+
 ### Write from the Student Perspective
 
 While this seems to be natural enough, keeping your goals separate from the
@@ -235,10 +296,7 @@ in order to subvert the prying eyes of the corporo-politico nation state;
 can't be read when at rest?" **Our** values as a school or writer or
 enthusiasts can occasionally move us away from proper student empathy.
 
-### Headings Should Be Capitalized According to AP Style
-
-Capitalize every word except: "a," "an," "and," "at," "but," "by," "for," "in,"
-"nor," "of," "on," "or," "out," "so," "the," "to," "up," and "yet."
+<a name="avoid_rhetorical_questions_to_drive_material"></a>
 
 ### Avoid Rhetorical Questions to Drive Material
 
