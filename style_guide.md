@@ -13,11 +13,24 @@ Contents:
   * [Do Not Leave Hanging Whitespace at End-of-Line](#do_not_leave_hanging_whitespace_at_end-of-line)
   * [Footnote Style Markdown Links](#footnote_style_markdown_links)
   * [Do Not Use Smartquotes](#do_not_use_smartquotes)
+  * [Long Dash](#long_dash_em-dash_literal)
+  * [Code Blocks](#code_blocks)
+  * [Block Quote](#block_quote)
+  * [Lists](#lists)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
   * [Non-Gendered Speech](#non-gendered_speech)
   * [Abbreviations](#abbreviations)
+  * [Code Words](#code_words)
+  * [Capitalization](#capitalization)
+  * [Asides](#asides)
+  * [Numerology](#numerology)
+  * [Latin Abbreviations](#latin_abbrevs)
+  * [In-Line Quote](#in_line_quote)
+  * [Disambiguation of "learn"](#disambiguation_of_learn)
+  * [Learner vs. learner](#learner_vs_learner)
+  * [Tables](#tables)
   * [Headings Should Be Capitalized According to AP Style](#headings_should_be_capitalized_according_to_ap_style)
 * Engaging Writing
   * [Avoid Burying the Lede](#avoid_burying_the_lede)
@@ -27,6 +40,10 @@ Contents:
   * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
 
 ---
+
+## Formatting Markdown
+
+Use [GitHub-flavored markdown][GHMD].
 
 <a name="text_wrap_at_80_column"></a>
 
@@ -52,6 +69,110 @@ many of the files and, as a result, if it's integrated with an actual content
 change, will make it difficult to see the content change in a sea of
 reformatted lines.
 
+<a name="code_words"></a>
+
+#### Code Words
+
+When discussing a "code word" as part of a regular sentence, wrap the code word
+in single back ticks ( \` ). This could be a variable name (`myString`), a
+class name (`NSArray`), a method name (`.include?`), an operator (`<=>`), or a
+string literal (`"Hi, Grandma."`); in general, any piece of code that does not
+constitute a whole line or statement.
+
+Avoid beginning a new paragraph with a code word:
+
+Not: `pwd` means "print working directory".  
+Use: The `pwd` command means "print working directory".  
+
+Also avoid beginning a new sentence with a code word whenever possible, though
+a semicolon `;` can be employed if altering the english syntax would make the
+paragraph awkward.
+
+<a name="capitalization"></a>
+
+### Capitalization
+
+Names of languages should be capitalized unless part of a code snippet (e.g.
+Ruby or `ruby`, Objective-C, Python or `python`; not: ruby, objective-c,
+python).  
+
+Don't capitalize:
+
+* autolayout (iOS)
+* bash — the commonly-used acronym for Bourne-Again SHell.
+* boolean — though in specific reference to the fields of Boolean Algebra or
+* Boolean Logic this can be appropriate, just be consistent.
+* debug console (iOS) — this is a colloquial name for the 'Console Output
+* Viewer' in Xcode
+
+**Do** capitalize:
+
+* *most acronyms:* CLI, URL, HTTP, LLDB.
+* *names of programming languages:* Python, Ruby, Objective-C, Swift
+* Interface Builder — Xcode's integrated storyboard design tool.
+
+<a name="asides"></a>
+
+### Asides
+
+**Note:** *The basic aside for "whispering" something minor that doesn't fit
+into the flow of exposition.*  
+**Advanced:** *A helpful note that is not readily understandable to the present
+skill level of the reading and not required to fulfill the objectives.*  
+**Top-tip:** *A note about style or best-practice, or a friendly reminder about
+avoiding a common or simple mistake. Think opinion-piece.*  
+**Hint:** (in labs) *A note about avoiding a common mistake not readily
+apparent in the given instructions, or direction to a useful method that has
+not been previously explained.*  
+**//Flat-fact:** *Read "fun-fact". Helpful for inserting informational tidbits
+relevant to the context of a reading without breaking the flow of instruction.*  
+**Reminder:** *A reminder of previously learned concepts as we start to build
+on them.* 
+**Custom:** *If none of these fit, write something yourself, such as* "**A Note
+To Fellow Tolkien Nerds:**".  
+
+<a name="lists"></a>
+
+### Lists:
+
+1. Lists can be automatically numbered,
+   * and contain bullet points.
+
+* Or they can be unnumbered (bulleted) lists.
+
+2 — You can also manually number your list if the automatic numbering gets
+broken because of a code-snippet.
+
+But, keep a consistent style. And generally avoiding making a list with only
+one point. Consider using an aside.
+
+<a name="numerology"></a>
+
+### Numerology
+
+When discussing numbers in exposition paragraphs, remember the English rule
+that numbers from zero to ten should be written out and values over 1,000
+should be written with comma separators. Since this can collide with discussing
+code, think of the use case to determine what you're talking about. Are you:
+
+* discussing the number only in your exposition? Use the English form. 
+* discussing an integer value from your code? Put the digit `10` in a code
+* snippet. 
+* discussing an abstract count that's relevant to your code? Do both, by
+* presenting it as ten (10) or ten (`10`).
+
+<a name="latin_abbrevs"></a>
+
+### *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
+
+* e.g. — Latin for "given example(s)" — points to a single example or a finite
+* list of examples.
+* i.e. — Latin for "meaning" — points out a further explanation of the same
+* idea.
+* etc. — follows one or several examples pulled from a longer set of potential
+* examples. 
+
+*etc. and e.g. should not be combined in the same list*
 
 <a name="headings_get_an_additional_blank_line"></a>
 
@@ -150,6 +271,63 @@ But:
 If one wanted to change the first example from `“` to `'` one couldn't search
 for this character. Use code characters.
 
+<a name="long_dash_em-dash_literal"></a>
+
+### Long Dash (Em-Dash) Literal
+
+Employ the the long dash character \`&mdash;\` directly by using the HTML
+entity `&mdash;`.
+
+
+<a name="code_blocks"></a>
+
+#### Code Blocks
+
+```objc
+NSString *code = @"Code ";
+NSString *block = @"block.";
+NSString *codeBlock = [code stringByAppendingString:block];
+```
+
+"Code blocks" are declared by wrapping in triple back-ticks ( ``` ). The
+opening triple back-tick should be followed with a language declaration
+appropriate to the contents of the code block:
+
+* `bash` : Bash, CLI output
+* `ruby` : Ruby
+* `js`   : JavaScript
+* `objc` : Objective-C
+* `swift`: Swift
+* (none) : LLDB console output
+
+The example code block above is written in markdown with the following syntax:
+
+\`\`\`objc  
+NSString *code = @"Code ";  
+NSString *block = @"block.";  
+NSString *codeBlock = [code stringByAppendingString:block];  
+\`\`\`
+
+<a name="block_quote"></a>
+
+##### Block Quote
+
+>You can employ an HTML-style block quote by starting the first line with an
+>`>`. This is better for large excerpts when line breaks don't matter.
+>(attribution or link)
+
+More commonly a block quote will be appropriate when quoting a technical work,
+programming documents, or a blog.
+
+<a name="in_line_quote"></a>
+
+##### In-Line Quote
+
+When writing an "in-line quote", punctuation should remain outside the phrase
+"unless you are making a reference quote that includes it." Punctuation symbols
+can have technical importance to the subject matter so explicitly excluding
+punctuation from quotes is justifiable.
+
 ## Style
 
 <a name="tone"></a>
@@ -201,6 +379,51 @@ browser. It has no bearing on the actual material written on the disk on the
 server!
 ```
 
+<a name="disambiguation_of_learn"></a>
+
+### Disambiguation of "learn"
+
+Because of our appropriation of the word "learn" among our curriculum software,
+disambiguating its use is important:
+
+* learn — verb — to gain knowledge or improve a skill. 
+* `learn` command, the — noun phrase (as, "the `learn` command") — the bash
+* command that runs RSpec tests in Ruby labs. This should always be wrapped in
+* a code snippet.
+* Learn.co — proper noun — the website and address of the curriculum tool
+* available to students, faculty, and staff.
+* Learn IDE, the — proper noun — the application that students use to work
+* through the Learn.co curriculum.
+
+Usage:
+
+"You'll learn that the `learn` command integrates with your profile on Learn.co
+by uploading information through the Learn IDE."
+
+<a name="learner_vs_learner"></a>
+
+#### Learner vs. learner
+
+* learner — noun — a person who is gaining new knowledge or developing a skill.
+* Learner — proper noun — a student using Learn.co to learn software
+* development.
+
+Usage:
+
+"Learners on Learn.co are learning the tools to make themselves lifelong
+learners."
+
+<a name="tables"></a>
+
+### Tables
+
+Tables are a great way to organize sets of parallel information, such as
+[logical
+operators](https://github.com/learn-co-curriculum/reading-ios-looping-and-conditionals#combining-conditionals).
+
+Try to keep the markdown symbols as table-like as possible, wrap symbols in
+code snippets, and use markdown reference notation for icon links inside a
+"cell". These will improve future maintainability of the code.
 <a name="headings_should_be_capitalized_according_to_ap_style"></a>
 
 ### Headings Should Be Capitalized According to AP Style
@@ -324,3 +547,4 @@ to have material presented. Speaking with authority, especially in earlier
 courses, creates safety that allows them to learn comfotably.
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
+[GHMD]: https://help.github.com/categories/writing-on-github/
