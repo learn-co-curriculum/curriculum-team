@@ -13,6 +13,12 @@ This is the canonical source of information about the Flatiron School Curriculum
 * [Curriculum Style Guide](./style_guide.md)
 * [Curriculum Philosophy and Flatiron School Culture](./philo_and_culture.md)
 
+### Curriculum Pipeline / Review Process
+
+_Extremely under construction as of 2017-12-28_
+* Currently tracked in [Trello](https://trello.com/b/dujVgBTU/curriculum-big-issues)
+* [Review Status Types](./pipeline-review_status_types.md)
+
 ### Curriculum Authoring
 
 * [Curriculum Creation: Mechanics and Systems](./creation-mechanics_and_systems.md)
