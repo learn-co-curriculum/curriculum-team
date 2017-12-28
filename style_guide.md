@@ -12,6 +12,7 @@ Contents:
   * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
   * [Do Not Leave Hanging Whitespace at End-of-Line](#do_not_leave_hanging_whitespace_at_end-of-line)
   * [Footnote Style Markdown Links](#footnote_style_markdown_links)
+  * [Do Not Use Smartquotes](#do_not_use_smartquotes)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
@@ -132,7 +133,24 @@ needlessly increased, this rule may be ignored.
 The goal of this rule is to increase readability and to ensure that an image
 link is not > 80 columns. Honor that spirit.
 
-## Style Decisions
+<a name="do_not_use_smartquotes"></a>
+
+### Do Not Use Smartquotes
+
+If your editor does this, stop it.
+
+Not:
+
+“Why”
+
+But:
+
+"Why"
+
+If one wanted to change the first example from `“` to `'` one couldn't search
+for this character. Use code characters.
+
+## Style
 
 <a name="tone"></a>
 
