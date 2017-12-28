@@ -71,11 +71,6 @@ linked below and be sure to duplicate it.
 * [js](#js)
 * [front-end](#front-end)
 
-
-
-Note for rails labs moving forward we should be using [flatiron-rails][] to
-generate new Rails labs.
-
 <a name="fundamental-ruby"></a>
 
 ### Fundamental Ruby
