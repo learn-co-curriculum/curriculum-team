@@ -13,6 +13,12 @@ This is the canonical source of information about the Flatiron School Curriculum
 * [Curriculum Style Guide](./style_guide.md)
 * [Curriculum Philosophy and Flatiron School Culture](./philo_and_culture.md)
 
+### Curriculum Issues / "Bugs"
+
+* [Issue-Handling Process](./issue-handling-process.md)
+* [Boilerplate Templates](./saved-replies)
+
+
 ### Curriculum Pipeline / Review Process
 
 _Extremely under construction as of 2017-12-28_
