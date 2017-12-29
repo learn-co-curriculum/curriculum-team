@@ -37,6 +37,7 @@ _Extremely under construction as of 2017-12-28_
     * [Lab Template](./lab-template.md)
 
 ## Utilities
+
   * [Common Github Searches](./github-searches.md)
 
 ## Resources
