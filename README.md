@@ -30,7 +30,7 @@ _Extremely under construction as of 2017-12-28_
     * [README template](./creation-content-focus-readme_template.md)
   * Labs: ("Code-Alongs" and "Test-Driven Labs")
     * [Lab Creation](./creation-lab-materials.md)
-    * [Lab Template](./lab-template)
+    * [Lab Template](./lab-template.md)
 
 ## Resources
 
