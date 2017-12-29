@@ -35,6 +35,8 @@ _Extremely under construction as of 2017-12-28_
   * Labs: ("Code-Alongs" and "Test-Driven Labs")
     * [Lab Creation](./creation-lab-materials.md)
     * [Lab Template](./lab-template.md)
+    * [Lab Checklist](./lab-checklist.md)
+* Follow the [GitHub Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 
 ## Utilities
 
