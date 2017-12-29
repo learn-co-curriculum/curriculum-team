@@ -321,12 +321,22 @@ Not:
 [Byron](https://laurennicoleroth.smugmug.com/Byron/i-KgvCcgX/A) loves to play in Marin County!
 ```
 
+In the first sample we can use the `Byron` pointer in a variety of cases. In a
+technical document we could create a pointer like `[link-definition]` and
+easily (with a sufficently powerful editor) wrap all occurrences of `<a>`,
+`link` and `MDN documentation of the anchor tag` all with the same pointer. And
+when / if that `href` changes, we can make 1 change, 1 commit, 1 focused line
+(provided the lines are wrapped!).
+
+This recalls the wisdom behind the refactor "EXTRACT MAGIC STRING TO SYMBOLIC
+CONSTANT."
+
 Obviously, in unordered lists of links this is unhelpful and therefore can be
 ignored. Where intelligibility is impaired or level of indirection is
 needlessly increased, this rule may be ignored.
 
-The goal of this rule is to increase readability and to ensure that an image
-link is not > 80 columns. Honor that spirit.
+The goal of this rule is to increase readability and make changing links (which
+have a tendency to die out) easy. Honor that spirit.
 
 <a name="do_not_use_smartquotes"></a>
 
