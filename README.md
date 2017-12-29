@@ -17,7 +17,11 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 _Extremely under construction as of 2017-12-28_
 * Currently tracked in [Trello](https://trello.com/b/dujVgBTU/curriculum-big-issues)
+* [Updating Lessons Process](./updating-lessons-process.md)
 * [Review Status Types](./pipeline-review_status_types.md)
+* [Deprecated Labs](./deprecated-labs.md)
+* [Duplicated Labs](./duplicated-labs.md)
+* [Deleting Labs](./deleting-labs.md)
 
 ### Curriculum Authoring
 
