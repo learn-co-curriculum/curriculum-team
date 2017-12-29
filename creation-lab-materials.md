@@ -129,6 +129,23 @@ and instructions.
 
 All work should be done on a `work-in-progress` branch. **Remember** Include a `solution` branch.
 
+## README Content
+
+A good Readme accomplishes the following:
+
+* The student should know right away what the lab is about. Be sure to clearly introduce the lesson right away.
+* Clearly lays out the learning objectives (This could be in paragraph form, or even in an objectives section). Try to have this early on in the Readme.
+* Lists the tasks the student must complete to satisfy the lab.
+  * These instructions should be clear enough without giving away too much to the student.
+* Gives deliverables (for example, which tests must be passed, or which tests need to be finished by the student)
+* Has helpful, short resources, which could be anything you think might help and enhance the student's learning (examples: blog posts, conference talks, chapters or sections from programming books from our library).
+* Is clearly written, and very explicit: avoid words like "it", "this", "these", etc. Take nothing for granted in your explanation of new topics.
+  * If this lab is introducing something new (something that has not be covered yet in lecture), the Readme can be more handholding in regards to the new material.
+* Bonuses, if applicable:
+  * A screenshot of the desired outcome
+  * a demo (if it's a Rails app, think about deploying your solution to Heroku; the flatiron-rails gem makes this easy)
+  * a screencast explaining an important concept pertaining to the lab
+
 ## Extras
 
 We always want to make sure our students are having fun, and a lot of that can be achieved through the tone of the lab. Here are some ways to achieve that:
