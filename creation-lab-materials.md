@@ -40,7 +40,7 @@ name.
 Ideally, a lab should focus on one Learn-specified Lesson. Of course, many of our labs
 require students to practice more than one skill, especially in more complex
 full-application labs. But most effective labs are granular, because they allow
-a student to hone in and focus on one skill. 
+a student to hone in and focus on one skill.
 
 Try to keep your labs focused to one lesson. For Rails and more complex topics,
 our labs should be granular, with each iteration building off the preceding
