@@ -27,6 +27,22 @@ curriculum grow treacly or over-precious.
 
 ## Pedagogical Approach
 
-We want to begin in the middle, jummp to the bottom, spiral upward back to the middle, and then launch upward.
+We want to begin in the middle, jummp to the bottom, spiral upward back to
+the middle, and then launch upward.
+
+## Embrace Doing it by Hand
+
+"At the end, we're not teaching students to use an API, we're teaching them
+...to think as an engineer." &mdash; Jason Decker
+
+The classical example here is that we would ask students to write their own
+ORM. They should come to appreciate the way it abstracts out the pluralized
+nouns in their SQL queries, but also understand how brittle it is. When
+introducing powerful APIs e.g. ActiveRecord we want to explain not _how_ to
+use it exclusively, but also cover the _why_ it exists and the _what_ things
+like AR (i.e. _any_ ORM) must do.
+
+If, when we reveal the power tool, students feel upset that we made them
+"do it by hand," then we succeeded.
 
 [LOGO]: https://en.wikipedia.org/wiki/Logo_(programming_language)
