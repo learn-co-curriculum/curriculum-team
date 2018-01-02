@@ -7,6 +7,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 ### Team Management
 
 * [Team Members](./team_members.md)
+* [What is My Job?](./the_job.md)
 
 ### Curricular Approach
 
