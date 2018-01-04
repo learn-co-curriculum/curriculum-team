@@ -593,9 +593,9 @@ simply _deleting the sentence_.
 
 ### Prefer Active Voice
 
-While it is unnatural to avoid all passive construction, strive for active
-voice as much as possible. Implicit here is that it's permissible to use the
-imperative mood when warranted.
+While **it is unnatural to avoid all passive construction**, strive for active
+voice as much as possible. Implicit here is that **it's permissible to use the
+imperative mood** when warranted since we _are_ experts.
 
 Prefer:
 
