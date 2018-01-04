@@ -85,7 +85,7 @@ Not: `pwd` means "print working directory".
 Use: The `pwd` command means "print working directory".  
 
 Also avoid beginning a new sentence with a code word whenever possible, though
-a semicolon `;` can be employed if altering the english syntax would make the
+a semicolon `;` can be employed if altering the English syntax would make the
 paragraph awkward.
 
 <a name="capitalization"></a>
