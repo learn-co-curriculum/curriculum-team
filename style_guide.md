@@ -49,99 +49,25 @@ Use [GitHub-flavored markdown][GHMD].
 
 ## Text Wrap at 80 Column
 
-Text should be hard wrapped near 80 column width. Here is the rationale.
+Text should be hard wrapped near 80-column width.
 
 The text we write as curriculum is not _merely_ text, it's _technical text_.
-It's important to be written easily, but it's more important that it be
-_reviewed, vetted, and dsicussed_ with the same rigor as code. We will, likely,
-even review with a finer granularity than code. While, for instance, Ruby's
-usages are likely to be on the expression level e.g. `derps.map{ |d| d + 2 }`,
-in _technical text_ we are likely to analyze down to the _singular word_.
+It's important that it be written easily, but it's more important that it be
+_reviewed, vetted, and discussed_ easily.
 
-For this reason our style is influence by our text being _essentially_ code
-that will be reviewed and discussed closely.
+In a long line, reviewers must point to the portion of the text via some
+relative means (third sentence, second use of "their") before explaining the
+change, which can be very time consuming for both the editor and the author
+receiving the feedback. A line number serves as an absolute coordinate from
+which edits can be suggested. For these reasons console-based diff, edit,
+integration tools are more successful at identifying changes are also more
+successful. These tools help the editing process. All major editors have
+configuration options to support this (e.g. vim's `format`,
+[Atom][atom-hard-wrap]).
 
-We should hard-break lines at 80 columns because...
-
-### ...It Honors the Truth of Programming that Small Comparisons are easier
-
-Smaller surface areas have proven again and again to be desirable. Single
-Responsibility Classes, pure functions, mixins over inheritance chains. By
-having code comparison being in shorter versus longer lines I can use tools
-like `vimdiff` to "take" line 1 and 3, but leave 2. It makes editing easier.
-
-### ...It Conforms to Multiple Code Standards
-
-At the risk of an argument by appeal to authority, we'll acknowledge that the
-most important open source project ever enforces an 80 column wrap.
-
-* [Linux Kernel Guide][kernel-style]
-* [Gitlab Style Guide][gitlab-sg]
-
-### ... It is Easier to Point To Specific Granules of Usage
-
-Per the [Gitlab][gitlab-sg] post:
-
-> However, when you don't wrap [a line], a collaborator needs to point to the
-> portion of the text before explaining the change, which can be very time
-> consuming.
-
-As an editor, all these will add up to a significant burn of editors' time.
-
-### ...It Works on Smaller Screens
-
-While at home, away, or on an iPhone one can compare code easily with two
-vertical areas of 80 column width. Doing the same with long lines requires long
-horizontal scrolls.
-
-### ...It Works with Editing Power Tools
-
-Here we'll demonstrate with `vimdiff`.
-
-![Broken vertical comparison](./img/why_80col_width.png)
-
-_Side-by-side editing_: Here it's harder to see that Right-side, line 9, fourth
-sentence was the "thrust" of that paragraph and was promoted to Left-side, line
-12. It's even a mouthful to refer to here.
-
-![Helpful vertical editing](./img/why_80col_width2.png)
-
-_Side-by-side editing with column wrap_
-
-Which will help you quickly understand the difference between two bodies of
-_technical text_? Which one allows you to most flexibly pick and choose which
-`diff` hunks you want? Which one would be easier to use to discuss granular
-choices with a peer? A peer working on Skype on a laptop with precious little
-screen real estate?
-
-* Side-by-side editing is greatly abetted by able to have two vertical areas
-  fit nicely
-* Stacked (window on top of window)  involves a bigger eye-jump downward into a
-  long line that can't be addressed by line number. For this reason few editors
-  use this layout
-* Data power tools like `diff`, `git`, `git diff`, `git * --patch`,  and
-  `vimdiff` all excel when there are shorter lines.
-* The portability of a given line is easier to repurpose:
-  `grep derp README.md > derp_mentions`.
-  With shorter lines you get less junk per grepped line.
-
-### ...It is Supported by Most Editors and Costs Little Time to Follow
-
-* [Atom][atom-hard-wrap]
-* [Further...][80col]
-
-For the reasons above we recommend an 80-column wrap. That said, don't make
-changing this a holy war.
-
-* **DO NOT** retroactively open a number of files and apply some sort of
-  scripting to change this.
-* **DO** try to create new files in line with this directive
-* **IF**  you open a file to do significant work and its lines are wrapped, do
-  a commit which does a wholesale reformat and then get to work.  The `diff`
-  for this commit will (likely) touch many of the files and, as a result, if it's
-  integrated with an actual content change, will make it difficult to see the
-  content change in a sea of
-  reformatted lines.
+That said, don't make this a crusade. It would be an anti-pattern to iterate
+through old curriculum making everything 80-column compliant. If you're going
+to do substantial rework or new work, adhere to this guideline.
 
 <a name="code_words"></a>
 
@@ -159,7 +85,7 @@ Not: `pwd` means "print working directory".
 Use: The `pwd` command means "print working directory".  
 
 Also avoid beginning a new sentence with a code word whenever possible, though
-a semicolon `;` can be employed if altering the english syntax would make the
+a semicolon `;` can be employed if altering the English syntax would make the
 paragraph awkward.
 
 <a name="capitalization"></a>
@@ -189,19 +115,42 @@ Don't capitalize:
 
 ### Asides
 
-Use sparingly
+Use sparingly.
 
 **Note:** *The basic aside for "whispering" something minor that doesn't fit
-into the flow of exposition.*  
+into the flow of exposition.*  Example:
+
+**Note:** You might find that your version differs in its third number versus
+what we have in our example. We use 2.7.2, but 2.7.3 would work just fine.
+
 **Advanced:** *A helpful note that is not readily understandable to the present
-skill level of the reading and not required to fulfill the objectives.*  
+skill level of the reading and not required to fulfill the objectives.*
+Example:
+
+**Advanced:** If you notice that you're repeating yourself a lot in these specs,
+you might want to try using a `let` block to DRY out the code. Consult the
+documentation...
+
 **Pro-tip:** *A note about style or best-practice, or a friendly reminder about
 avoiding a common or simple mistake. Think opinion-piece.*  
+
+**Pro-tip:** Since launching the debugger console is a *very* common task when
+writing JavaScript, you might want to learn the shortcut: &#8984; + &#8997; +
+j.
+
 **Hint:** (in labs) *A note about avoiding a common mistake not readily
 apparent in the given instructions, or direction to a useful method that has
-not been previously explained.* 
+not been previously explained.* Example:
+
+**Hint:** Your first insinct might be to reach for `.each`, but since you're
+accumulating the values, there might be a better Enumerable.
+
 **Reminder:** *A reminder of previously learned concepts as we start to build
-on them.* 
+on them.* Example:
+
+**Reminder:** JavaScript does not have implicit `return` in its functions. If
+you pass a closure in, you might be surprised unless you're careful about what
+you return!
 
 <a name="lists"></a>
 
@@ -573,7 +522,7 @@ Example:
 > `vim` is a powerful editor!
 
 First, we have an implicit value judgment (Are other editors underpowered? What
-does "power" even mean in this context?)
+does "power" even mean in this context?).
 
 Versus:
 
@@ -585,13 +534,17 @@ Versus:
 > programmatically "queue" and move text efficiently that earns `vim` the
 > adjective of being "powerful."
 
+This, however, makes one ask, is that argument _even useful_? Did I just break
+the flow? If the answer is "yes" then there's probably a very good argument for
+simply _deleting the sentence_.
+
 <a name="prefer_active_voice"></a>
 
 ### Prefer Active Voice
 
-While it is unnatural to avoid all passive construction, strive for active
-voice as much as possible. Implicit here is that it's permissible to use the
-imperative mood when warranted.
+While **it is unnatural to avoid all passive construction**, strive for active
+voice as much as possible. Implicit here is that **it's permissible to use the
+imperative mood** when warranted since we _are_ experts.
 
 Prefer:
 
@@ -610,13 +563,22 @@ over:
 ### Write from the Student Perspective
 
 While this seems to be natural enough, keeping your goals separate from the
-students' perspective can often become muddled. Relentlessly ask "is this _my_
-value or is this the student's _value_." You might well believe that
-cryptography is a moral right and that the student is learning PK-cryptography
-in order to subvert the prying eyes of the corporo-politico nation state;
-**however**, the student might well be wondering "How can we ensure a message
-can't be read when at rest?" **Our** values as a school or writer or
-enthusiasts can occasionally move us away from proper student empathy.
+students' perspective can often become muddled.
+
+First, it is **absolutely fine** for Flatiron to indoctrinate Flatiron values.
+This guide, in many ways, does exactly that. By expressing an opinion on how
+we handle gender and personhood, we are expressing a value. Expressing
+the enthusiasm we have in our corporate culture about technology is fine.
+
+That said, both code and text needs to be written for where the _student's_
+values and knowledge are, _not the curriculum author's_. Consider that, as a
+developer we know a `let` block is a great way to DRY up an spec. But is a
+student on their 3rd test-driven lab going to be able to handle the attending
+questions e.g.:
+
+* Am I **wrong** if I don't use `let`
+* Will I not get a job if I don't use `let`
+* This test is failing, did someone make a mistake by using `let`?
 
 <a name="avoid_rhetorical_questions_to_drive_material"></a>
 
