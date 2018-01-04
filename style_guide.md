@@ -585,6 +585,10 @@ Versus:
 > programmatically "queue" and move text efficiently that earns `vim` the
 > adjective of being "powerful."
 
+This, however, makes one ask, is that argument _even useful_? Did I just break
+the flow? If the answer is "yes" then there's probably a very good argument for
+simply _deleting the sentence_.
+
 <a name="prefer_active_voice"></a>
 
 ### Prefer Active Voice
