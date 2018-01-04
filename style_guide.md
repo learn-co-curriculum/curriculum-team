@@ -189,19 +189,42 @@ Don't capitalize:
 
 ### Asides
 
-Use sparingly
+Use sparingly.
 
 **Note:** *The basic aside for "whispering" something minor that doesn't fit
-into the flow of exposition.*  
+into the flow of exposition.*  Example:
+
+**Note:** You might find that your version differs in its third number versus
+what we have in our example. We use 2.7.2, but 2.7.3 would work just fine.
+
 **Advanced:** *A helpful note that is not readily understandable to the present
-skill level of the reading and not required to fulfill the objectives.*  
+skill level of the reading and not required to fulfill the objectives.*
+Example:
+
+**Advanced:** If you notice that you're repeating yourself a lot in these specs,
+you might want to try using a `let` block to DRY out the code. Consult the
+documentation...
+
 **Pro-tip:** *A note about style or best-practice, or a friendly reminder about
 avoiding a common or simple mistake. Think opinion-piece.*  
+
+**Pro-tip:** Since launching the debugger console is a *very* common task when
+writing JavaScript, you might want to learn the shortcut: &#8984; + &#8997; +
+j.
+
 **Hint:** (in labs) *A note about avoiding a common mistake not readily
 apparent in the given instructions, or direction to a useful method that has
-not been previously explained.* 
+not been previously explained.* Example:
+
+**Hint:** Your first insinct might be to reach for `.each`, but since you're
+accumulating the values, there might be a better Enumerable.
+
 **Reminder:** *A reminder of previously learned concepts as we start to build
-on them.* 
+on them.* Example:
+
+**Reminder:** JavaScript does not have implicit `return` in its functions. If
+you pass a closure in, you might be surprised unless you're careful about what
+you return!
 
 <a name="lists"></a>
 
