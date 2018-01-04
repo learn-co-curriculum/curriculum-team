@@ -182,28 +182,26 @@ Don't capitalize:
 **Do** capitalize:
 
 * *most acronyms:* CLI, URL, HTTP, LLDB.
-* *names of programming languages:* Python, Ruby, Objective-C, Swift
+* *names of programming languages:* Python, Ruby, Objective-C, Swift, JavaScript
 * Interface Builder — Xcode's integrated storyboard design tool.
 
 <a name="asides"></a>
 
 ### Asides
 
+Use sparingly
+
 **Note:** *The basic aside for "whispering" something minor that doesn't fit
 into the flow of exposition.*  
 **Advanced:** *A helpful note that is not readily understandable to the present
 skill level of the reading and not required to fulfill the objectives.*  
-**Top-tip:** *A note about style or best-practice, or a friendly reminder about
+**Pro-tip:** *A note about style or best-practice, or a friendly reminder about
 avoiding a common or simple mistake. Think opinion-piece.*  
 **Hint:** (in labs) *A note about avoiding a common mistake not readily
 apparent in the given instructions, or direction to a useful method that has
-not been previously explained.*  
-**//Flat-fact:** *Read "fun-fact". Helpful for inserting informational tidbits
-relevant to the context of a reading without breaking the flow of instruction.*  
+not been previously explained.* 
 **Reminder:** *A reminder of previously learned concepts as we start to build
 on them.* 
-**Custom:** *If none of these fit, write something yourself, such as* "**A Note
-To Fellow Tolkien Nerds:**".  
 
 <a name="lists"></a>
 
@@ -220,6 +218,8 @@ broken because of a code-snippet.
 But, keep a consistent style. And generally avoiding making a list with only
 one point. Consider using an aside.
 
+If you reference other bullets use numbered list.
+
 <a name="numerology"></a>
 
 ### Numerology
@@ -231,7 +231,7 @@ code, think of the use case to determine what you're talking about. Are you:
 
 * discussing the number only in your exposition? Use the English form. 
 * discussing an integer value from your code? Put the digit `10` in a code
-* snippet. 
+  snippet. 
 * discussing an abstract count that's relevant to your code? Do both, by
 * presenting it as ten (10) or ten (`10`).
 
@@ -240,11 +240,11 @@ code, think of the use case to determine what you're talking about. Are you:
 ### *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
 
 * e.g. — Latin for "given example(s)" — points to a single example or a finite
-* list of examples.
+  list of examples.
 * i.e. — Latin for "meaning" — points out a further explanation of the same
-* idea.
+  idea.
 * etc. — follows one or several examples pulled from a longer set of potential
-* examples. 
+  examples. 
 
 *etc. and e.g. should not be combined in the same list*
 
@@ -301,7 +301,7 @@ will detect and highlight these.
 
 ## Footnote Style Markdown Links
 
-Prefer footnote-style linke definition to inline. Given our width constraint
+Prefer footnote-style link definition to inline. Given our width constraint
 guidelines, footnote-style helps keep the document readable. Further, as URLs
 need to change, the grep-ability / maintainability is increased by using
 footnote style. Prefer:
@@ -360,7 +360,8 @@ for this character. Use code characters.
 ### Long Dash (Em-Dash) Literal
 
 Employ the the long dash character \`&mdash;\` directly by using the HTML
-entity `&mdash;`.
+entity `&mdash;`. Additionally modern markdown engines will convert `--`
+to &mdash;
 
 
 <a name="code_blocks"></a>
@@ -425,7 +426,7 @@ speak to the reader using "you."
 
 ### Personhood
 
-Curriculum should be writen in first-person plural.
+Curriculum should be writen in first-person plural (We).
 
 <a name="non-gendered_speech"></a>
 
@@ -444,23 +445,19 @@ of pre-18<sup>th</sup> century usage.
 Technological writing is full of initialisms, acronyms, and abbreviations. Our
 audience is quite likely to be unfamiliar with them. To remedy this, any
 abbreviation may be used _only after it is introduced_ in the document and the
-corresponding shortener _explicitly stated_.
+corresponding shortener _explicitly stated_. Feel free to be generous with your
+abbreviations' explanations. Feel free to use abbreviations sparringly.
 
 Incorrect:
 
 ```
-We will transform the display of this content by using CSS. Remember, CSS only
-adjusts the way the content is viewed on the browser. It has no bearing on the
-actual material written on the disk on the server!
+You can use AR to access the database...
 ```
 
 Correct:
 
 ```
-We will transform the display of this content by using Cascading Style Sheets
-("CSS"). Remember, CSS only adjusts the way the content is viewed on the
-browser. It has no bearing on the actual material written on the disk on the
-server!
+You can use ActiveRecord ('AR') to access the database...
 ```
 
 <a name="disambiguation_of_learn"></a>
@@ -472,12 +469,12 @@ disambiguating its use is important:
 
 * learn — verb — to gain knowledge or improve a skill. 
 * `learn` command, the — noun phrase (as, "the `learn` command") — the bash
-* command that runs RSpec tests in Ruby labs. This should always be wrapped in
-* a code snippet.
+  command that runs all tests in labs. This should always be wrapped in
+  a code snippet.
 * Learn.co — proper noun — the website and address of the curriculum tool
-* available to students, faculty, and staff.
+  available to students, faculty, and staff.
 * Learn IDE, the — proper noun — the application that students use to work
-* through the Learn.co curriculum.
+  through the Learn.co curriculum.
 
 Usage:
 
@@ -505,7 +502,7 @@ Tables are a great way to organize sets of parallel information, such as
 [logical
 operators](https://github.com/learn-co-curriculum/reading-ios-looping-and-conditionals#combining-conditionals).
 
-Try to keep the markdown symbols as table-like as possible, wrap symbols in
+Try to keep the Markdown symbols as table-like as possible, wrap symbols in
 code snippets, and use markdown reference notation for icon links inside a
 "cell". These will improve future maintainability of the code.
 <a name="headings_should_be_capitalized_according_to_ap_style"></a>
@@ -541,7 +538,7 @@ first and *ka-bam* you now have writing ideal for learners!
 
 ### Avoid Value Judgements
 
-Learners, especially in technology, will tend to ape and absorb our opinions
+Learners, especially in technology, will tend to mimic our opinions
 about technology. A statement such as: "We'll be using Ruby, because this would
 be Hell on Earth in Java" is often humorous for the experienced, but will be
 taken and parroted by neophytes in ways that might be dangerous to their
@@ -583,7 +580,7 @@ Versus:
 > `vim will let you accomplish many changes in a programmatic interface. To see
 > this in action type `:%s/dog/poodle/g|%s/Dog/Poodle/g|44,50m0|w`. In this
 > one line you changed all mentions of dogs to Poodle and took your
-> lede-bearing paragraph and moved it to the top of the documen _and_ saved the
+> lede-bearing paragraph and moved it to the top of the document _and_ saved the
 > file to disk _all without leaving the home-row_. It's this capability to
 > programmatically "queue" and move text efficiently that earns `vim` the
 > adjective of being "powerful."
