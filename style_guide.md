@@ -614,13 +614,22 @@ over:
 ### Write from the Student Perspective
 
 While this seems to be natural enough, keeping your goals separate from the
-students' perspective can often become muddled. Relentlessly ask "is this _my_
-value or is this the student's _value_." You might well believe that
-cryptography is a moral right and that the student is learning PK-cryptography
-in order to subvert the prying eyes of the corporo-politico nation state;
-**however**, the student might well be wondering "How can we ensure a message
-can't be read when at rest?" **Our** values as a school or writer or
-enthusiasts can occasionally move us away from proper student empathy.
+students' perspective can often become muddled.
+
+First, it is **absolutely fine** for Flatiron to indoctrinate Flatiron values.
+This guide, in many ways, does exactly that. By expressing an opinion on how
+we handle gender and personhood, we are expressing a value. Expressing
+the enthusiasm we have in our corporate culture about technology is fine.
+
+That said, both code and text needs to be written for where the _student's_
+values and knowledge are, _not the curriculum author's_. Consider that, as a
+developer we know a `let` block is a great way to DRY up an spec. But is a
+student on their 3rd test-driven lab going to be able to handle the attending
+questions e.g.:
+
+* Am I **wrong** if I don't use `let`
+* Will I not get a job if I don't use `let`
+* This test is failing, did someone make a mistake by using `let`?
 
 <a name="avoid_rhetorical_questions_to_drive_material"></a>
 
