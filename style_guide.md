@@ -573,7 +573,7 @@ Example:
 > `vim` is a powerful editor!
 
 First, we have an implicit value judgment (Are other editors underpowered? What
-does "power" even mean in this context?)
+does "power" even mean in this context?).
 
 Versus:
 
