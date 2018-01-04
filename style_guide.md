@@ -49,99 +49,25 @@ Use [GitHub-flavored markdown][GHMD].
 
 ## Text Wrap at 80 Column
 
-Text should be hard wrapped near 80 column width. Here is the rationale.
+Text should be hard wrapped near 80-column width.
 
 The text we write as curriculum is not _merely_ text, it's _technical text_.
-It's important to be written easily, but it's more important that it be
-_reviewed, vetted, and dsicussed_ with the same rigor as code. We will, likely,
-even review with a finer granularity than code. While, for instance, Ruby's
-usages are likely to be on the expression level e.g. `derps.map{ |d| d + 2 }`,
-in _technical text_ we are likely to analyze down to the _singular word_.
+It's important that it be written easily, but it's more important that it be
+_reviewed, vetted, and discussed_ easily.
 
-For this reason our style is influence by our text being _essentially_ code
-that will be reviewed and discussed closely.
+In a long line, reviewers must point to the portion of the text via some
+relative means (third sentence, second use of "their") before explaining the
+change, which can be very time consuming for both the editor and the author
+receiving the feedback. A line number serves as an absolute coordinate from
+which edits can be suggested. For these reasons console-based diff, edit,
+integration tools are more successful at identifying changes are also more
+successful. These tools help the editing process. All major editors have
+configuration options to support this (e.g. vim's `format`,
+[Atom][atom-hard-wrap]).
 
-We should hard-break lines at 80 columns because...
-
-### ...It Honors the Truth of Programming that Small Comparisons are easier
-
-Smaller surface areas have proven again and again to be desirable. Single
-Responsibility Classes, pure functions, mixins over inheritance chains. By
-having code comparison being in shorter versus longer lines I can use tools
-like `vimdiff` to "take" line 1 and 3, but leave 2. It makes editing easier.
-
-### ...It Conforms to Multiple Code Standards
-
-At the risk of an argument by appeal to authority, we'll acknowledge that the
-most important open source project ever enforces an 80 column wrap.
-
-* [Linux Kernel Guide][kernel-style]
-* [Gitlab Style Guide][gitlab-sg]
-
-### ... It is Easier to Point To Specific Granules of Usage
-
-Per the [Gitlab][gitlab-sg] post:
-
-> However, when you don't wrap [a line], a collaborator needs to point to the
-> portion of the text before explaining the change, which can be very time
-> consuming.
-
-As an editor, all these will add up to a significant burn of editors' time.
-
-### ...It Works on Smaller Screens
-
-While at home, away, or on an iPhone one can compare code easily with two
-vertical areas of 80 column width. Doing the same with long lines requires long
-horizontal scrolls.
-
-### ...It Works with Editing Power Tools
-
-Here we'll demonstrate with `vimdiff`.
-
-![Broken vertical comparison](./img/why_80col_width.png)
-
-_Side-by-side editing_: Here it's harder to see that Right-side, line 9, fourth
-sentence was the "thrust" of that paragraph and was promoted to Left-side, line
-12. It's even a mouthful to refer to here.
-
-![Helpful vertical editing](./img/why_80col_width2.png)
-
-_Side-by-side editing with column wrap_
-
-Which will help you quickly understand the difference between two bodies of
-_technical text_? Which one allows you to most flexibly pick and choose which
-`diff` hunks you want? Which one would be easier to use to discuss granular
-choices with a peer? A peer working on Skype on a laptop with precious little
-screen real estate?
-
-* Side-by-side editing is greatly abetted by able to have two vertical areas
-  fit nicely
-* Stacked (window on top of window)  involves a bigger eye-jump downward into a
-  long line that can't be addressed by line number. For this reason few editors
-  use this layout
-* Data power tools like `diff`, `git`, `git diff`, `git * --patch`,  and
-  `vimdiff` all excel when there are shorter lines.
-* The portability of a given line is easier to repurpose:
-  `grep derp README.md > derp_mentions`.
-  With shorter lines you get less junk per grepped line.
-
-### ...It is Supported by Most Editors and Costs Little Time to Follow
-
-* [Atom][atom-hard-wrap]
-* [Further...][80col]
-
-For the reasons above we recommend an 80-column wrap. That said, don't make
-changing this a holy war.
-
-* **DO NOT** retroactively open a number of files and apply some sort of
-  scripting to change this.
-* **DO** try to create new files in line with this directive
-* **IF**  you open a file to do significant work and its lines are wrapped, do
-  a commit which does a wholesale reformat and then get to work.  The `diff`
-  for this commit will (likely) touch many of the files and, as a result, if it's
-  integrated with an actual content change, will make it difficult to see the
-  content change in a sea of
-  reformatted lines.
+That said, don't make this a crusade. It would be an anti-pattern to iterate
+through old curriculum making everything 80-column compliant. If you're going
+to do substantial rework or new work, adhere to this guideline.
 
 <a name="code_words"></a>
 
