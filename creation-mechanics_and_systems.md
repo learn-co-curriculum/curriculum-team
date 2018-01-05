@@ -28,3 +28,7 @@ improvements that curriculum engineers create. These branches will not be
 populated to the student repositories.
 
 [learn]: ./learn-file.md
+
+<!-- Note! Heroku application: https://learn-linter-ci.herokuapp.com/ points to
+this page! Therefore if you move this page, you need to make sure to open up
+that application which is in flatiron-labs/learn-linter-ci -->
