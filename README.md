@@ -19,6 +19,9 @@ This is the canonical source of information about the Flatiron School Curriculum
 * [Issue-Handling Process](./issue-handling-process.md)
 * [Boilerplate Templates](./saved-replies)
 
+### Curriculum IT / Deployment / Student Experience
+
+* ["I Updated a Lesson in Curriculum but it's not going to students"](./it-dep-1.md)
 
 ### Curriculum Pipeline / Review Process
 
