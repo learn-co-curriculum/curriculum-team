@@ -16,6 +16,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 ### Curriculum Issues / "Bugs"
 
+* [Finding Issues](./finding-issues.md)
 * [Issue-Handling Process](./issue-handling-process.md)
 * [Boilerplate Templates](./saved-replies)
 
