@@ -7,7 +7,8 @@ First give this a read: https://github.com/learn-co-curriculum/curriculum-guide-
 - [Learn more](https://help.github.com/articles/working-with-saved-replies/)
 - [Add new saved replies](https://github.com/settings/replies)
 - [Flatiron saved reply templates](https://github.com/flatiron-school/education-team-wiki/tree/master/curriculum/github-saved-replies)
-  + When copying these templates, make sure you grab the raw Markdown.
+
+**When copying these templates, make sure you grab the raw Markdown.**
 
 ## Four Types of Issues
 
