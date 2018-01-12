@@ -9,6 +9,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 * [Team Members](./team_members.md)
 * [What is My Job?](./the_job.md)
 * [What Tools Should I Have?][tooldoc]
+* [I'm Not in Curriculum, How Can I help?](./casual_contrib.md)
 
 ### Curricular Approach
 
