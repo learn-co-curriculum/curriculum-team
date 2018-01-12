@@ -57,6 +57,7 @@ _Extremely under construction as of 2017-12-28_
 ## Utilities
 
   * [Common Github Searches](./github-searches.md)
+  * [Keyboard Hotkey Symbols](./keyboard-symbols.md)
 
 ## Resources
 
