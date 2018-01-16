@@ -26,6 +26,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 * [Opening IT / Deployment / Engineering Issues](./it-reporting.md)
 * ["I Updated a Lesson in Curriculum but it's not going to students"](./it-dep-1.md)
+* ["How Can I See What This Look Like In Learn?"](./it-learn-display.md)
 
 ### Curriculum Pipeline / Review Process
 
