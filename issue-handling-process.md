@@ -23,7 +23,7 @@ Here is a summary of issues that are *not* actionable:
   issue (with a smile! and a comment) and ask them to re-open if they come across
   the issue again.
 
-Saved replies are available here:
+Saved replies are available [here][saved-replies].
 
 ## Saved Replies on GitHub
 
@@ -150,7 +150,7 @@ cost / payoff relationships. e.g.
 * [WHOA:low][1:1]: _Wow, someone's found an edge case_
 * [Easy:high][100:100]: _Wow, lots of things wrong in this thing. Probably need
   a rewrite_
-  
+
 ### Escalation / Help
 
 If this process didn't help you, contact @steven.harms and we'll try to iron it
@@ -158,3 +158,4 @@ out. This is still work in progress.
 
 
 [trello]: https://trello.com/b/dujVgBTU/curriculum-big-issues
+[saved-replies]: ./issue-handling-saved-responses.md
