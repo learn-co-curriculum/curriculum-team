@@ -5,6 +5,8 @@ once it's distributed "out there."
 
 ## Process
 
+![What It Looks Like in Learn Back-End](./img/preview/back-end.png)
+
 1. Identify the name of the lesson "selecting-single-elements-readme"
 2. Visit http://learn.co/curriculum
 3. Enter the name of the lesson in the search box
@@ -14,6 +16,9 @@ once it's distributed "out there."
    level "track" can be selected by looking at the first breadcrumb. In the
    example we'll correlate "abcp" to "accelerated prep" where we expect to find
    the `selecting-single-elements-readme` content.
-6. Change to the track and select the appropriate, topic, unit descent to see
+
+![What It Looks Like in Learn Front-End](./img/preview/front-end.png)
+
+1. Change to the track and select the appropriate, topic, unit descent to see
    the lesson.
 
