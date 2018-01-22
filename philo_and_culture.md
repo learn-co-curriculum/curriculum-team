@@ -22,8 +22,9 @@ sample code, joke breaks, .gifs, etc. appeal to audiences larger than New York
 City, larger than the East Coast, larger than the United States. Our amibitions
 are worldwide, our examples must be as well. Inside knowledge (the NYC grid,
 the rules of cricket, etc.) should be recognized as being exclusionary.
-Worldwide media juggernauts but must be used sparingly and with care lest the
-curriculum grow treacly or over-precious.
+Worldwide media juggernauts as example are permissible, but must be used
+sparingly and with care lest the curriculum grow treacly or over-precious
+(there's only so many Ron, Hermione, and Harry jokes to go around).
 
 ## Pedagogical Approach
 
