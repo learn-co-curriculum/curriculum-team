@@ -3,7 +3,7 @@
 ## Powerful Text Editor
 
 We write, a lot. Your preferred tools need to be a text editor that makes you
-_lethal_. 
+_lethal_.
 
 ## (Optional) Markdown Editor
 
@@ -23,4 +23,5 @@ You will need to become a `git` master in this role. Common behaviors:
 * melding commits
 * cleaning up commit histories
 
-If this is a growth area, signal it early.
+If this is a growth area, be sure to communicate this early so that we can show
+you advanced techniques which help editors / authors work more efficiently.

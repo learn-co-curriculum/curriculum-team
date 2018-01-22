@@ -3,13 +3,13 @@
 ## Define Objectives
 
 In this stage, either you or someone from the Flatiron team will be defining
-the learning objectives/outline for the content. 
+the learning objectives/outline for the content.
 
 If you're defining the learning objectives, then in the Readme file of the
 GitHub repository, list your objectives and any additional outlines that will
 help flesh out the structure and info to be included in the Readme. Once you've
 done this, then you change the status to Ready for Assignment. In the Owner
-column, add your name. 
+column, add your name.
 
 If this is the responsibility of a Flatiron team member, then you can ignore
 any piece of content that's in this stage as it's not Ready for Assignment.
