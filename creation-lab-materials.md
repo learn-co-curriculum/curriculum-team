@@ -127,7 +127,7 @@ to create in the lab, then build the tests that test the skills you want the
 lab to practice. From there, write your Readme with clearly stated objectives
 and instructions.
 
-All work should be done on a `work-in-progress` branch. **Remember** Include a `solution` branch.
+# All work should be done on a `work-in-progress` branch. **Remember** Include a `solution` branch.
 
 ## README Content
 

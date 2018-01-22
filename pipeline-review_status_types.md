@@ -17,17 +17,17 @@ any piece of content that's in this stage as it's not Ready for Assignment.
 ## Ready for Assignment
 
 The lesson is ready for assignment. This means that the Readme in the repo will
-have a list of learning objectives and sometimes additional notes as guidance. 
+have a list of learning objectives and sometimes additional notes as guidance.
 
 ## Writing
 
 When you are ready to get started on a specific lesson, change the stage from
 Ready for Assignment to Writing. Then in the Assignee column, update it to your
 name. If you haven't done so in the Owner column, update it to your name as
-well.  
+well.
 
 When you're working on the lesson, DON'T make your commits into the `master`
-branch. Instead create a new branch and title it `wip-master` (or
+branch. **Instead** create a new branch and title it `wip-master` (or
 `wip-solution`, depending on the branch you're pushing the commits to).
 Code/type your content into this branch.
 

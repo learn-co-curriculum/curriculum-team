@@ -20,10 +20,10 @@ script](./curriculum-initialize.sh).
 
 Your new content should be added to the learn-co organization in GitHub.
 
-Within a lab’s GitHub repository, there are 3 branches of note: master,
-solution, and wip-\*. Master is the branch which will be populated to the
-student experience. Solution contains the recommended solution to the lab and
-whose implementation passes all the tests. Lastly, wip-\* branches are for
+Within a lab’s GitHub repository, there are 3 branches of note: `master`,
+`solution`, and `wip-\*`. `master` is the branch which will be populated to the
+student experience. `solution` contains the recommended solution to the lab and
+whose implementation passes all the tests. Lastly, `wip-\*` branches are for
 improvements that curriculum engineers create. These branches will not be
 populated to the student repositories.
 
