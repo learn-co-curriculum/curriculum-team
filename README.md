@@ -8,8 +8,8 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 * [Team Members](./team_members.md)
 * [What is My Job?](./the_job.md)
-* [What Tools Should I Have?][tooldoc] : Some tooling here is not applicable to
-  Curriculum e.g. Stripe, Salesforce, Hubspot
+* [What Tools Should I Have?][tooldoc] : _Some tooling here is not applicable to
+  Curriculum e.g. Stripe, Salesforce, Hubspot_
 * [Curriculum-Specific Toolk](./curtools.md)
 * [I'm Not in Curriculum, How Can I help?](./casual_contrib.md)
 
