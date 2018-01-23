@@ -79,7 +79,8 @@ PROBLEM: Derps are derpy
 NOTIFY: @octocat, @sgharms, @new-issue-reporter
 ```
 
-IF NOT: Add a PROBLEM **and** and a NOTIFY line e.g.
+IF NOT: Add a PROBLEM **and** and a NOTIFY line and a `#number` as a link to
+the original issue. e.g.
 
 ```text
 PROBLEM: Lerps are lerpy
@@ -99,7 +100,7 @@ Thanks for reporting this issue. We're now aware of it and are tracking it in
 $URL_TO_KNOWN_ISSUE_ISSUE.  We will add this to our internal work queue and
 notify you when it is resolved.
 
-We're closing this issue but invite you to follow $URL_TO_KNOWN_ISSUE_ISSUE
+We're closing this issue but invite you to follow progress at that URL.
 
 -- Flatiron Curriculum Team
 ```
