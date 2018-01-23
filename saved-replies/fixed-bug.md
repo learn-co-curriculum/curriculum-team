@@ -7,8 +7,4 @@ but thank you for helping us ensure that those who follow in your path will not
 encounter the same problems that you faced.
 
 If you do not believe that this issue has been addressed, please re-open this
-issue.
-
-Sincerely,
-
-Flatiron Curriculum Team
+issue. 💙
