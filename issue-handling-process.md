@@ -149,7 +149,7 @@ The title should be:
 `[difficulty:payoff][issue_count:number_of_reporters] Repo Name: Known Issues`
 
 * difficulty: How hard would it be to clear this Known Issues backlog
-  (EASY|MEDIUM|HARD|WHOA)
+  (EASY|MEDIUM|HARD|WHOA|VIDEO)
 * payoff: Is this a popular lesson? Is it a critical lesson? The more you
   answer these questions in the affirmative, the more the payff is HIGH. The
   less, well, the less. Values are: (HIGH|MEDIUM|LOW)
@@ -158,6 +158,8 @@ The title should be:
   count is **2**.
 * number_of_reporters: How many people report an issue. You might have a
   _single_ issue with 100 reporters. That implies a big payoff for the fix!
+
+Within the card include a link back to the "Known Issues" Issue.
 
 ### Inferences
 
