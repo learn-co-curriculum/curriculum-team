@@ -25,72 +25,91 @@ Here is a summary of issues that are *not* actionable:
 
 Saved replies are available [here][saved-replies].
 
-## Saved Replies on GitHub
+When copying these templates, **make sure you grab the raw Markdown.**
 
-- [Learn more](https://help.github.com/articles/working-with-saved-replies/)
-- [Add new saved replies](https://github.com/settings/replies)
-- [Flatiron saved reply templates](https://github.com/flatiron-school/education-team-wiki/tree/master/curriculum/github-saved-replies)
-
-**When copying these templates, make sure you grab the raw Markdown.**
+If the problem is not one of the above, you have an actionable curriculum
+issue.
 
 ## Actionable Curriculum Issues
 
 If the text is unclear, the `div` they're meant to find by `id` isn't there,
 etc. It's a bug on our side. This is our work!
 
-The process is that the Curriculum Issues Manager should have delegated a
-repository to you.
+The Curriculum Issues Manager should have delegated a repository to you.
 
-### Step 1: Load up the Repo's Issues
+### Step 1: Load up the Repository's Issues
 
 http://_repo_/issues
 
 ### Step 2: Do a Rough Triage
 
 Look at the issues present. For each issue which you think you can fix in
-**fewer than 5 minutes**, FIX IT.
+**fewer than 5 minutes**, FIX IT [according to this process][process].
+
+If this addresses all the issues, great! You're done!
 
 ### Step 3: Big Issues
 
-This is a hard step: **ignore the urge to fix it**. Issues > 5 minutes need to
-be planned and considered. It's never that we don't want to fix an issue, that
-matter is, rather, that we want to do many things and we have to choose to do
-the _most important_ things.
+OK, so there are issues left that take > 5 minutes to fix.
 
-### Step 4: Is a KNOWN ISSUES Uber-issue Present?
+This is a hard step: **ignore the urge to fix it**. Issues > 5 minutes need to
+be planned and considered. It's never that we don't want to fix an issue, the
+matter is, rather, that we want to do many things and we have to choose to do
+the _most important_ things. We will now do some administrative work to help us
+track the cost of handling a given repository's issues well.
+
+### Step 4: Is a KNOWN ISSUES Issue Present?
 
 Has someone already created a KNOWN ISSUES issue? *IF SO* proceed to Step 5.
+*IF NOT* proceed to Step 6.
 
-### Step 5: Repository has a Known Issues Issue
+### Step 5: Repository has a "Known Issues" Issue
 
-Is the new issue already covered in the "Known Issues" issue?
+This step has 3 sub-steps
 
-IF SO: Add the issue-opener's GitHub userid under the NOTIFY: bloc for the
-given Problem e.g.
+#### Step 5A: Find or create a PROBLEM in the "Known Issues" Issue
+
+Is the new issue already covered as a PROBLEM in the "Known Issues" issue?
+
+*IF SO*: Add the issue-opener's GitHub `userid` under the NOTIFY: bloc for the
+given PROBLEM e.g.
 
 ```text
 PROBLEM: Derps are derpy
-NOTIFY: @octocat, @sgharms
+NOTIFY: @octocat, @sgharms, @new-issue-reporter
 ```
 
 IF NOT: Add a PROBLEM **and** and a NOTIFY line e.g.
 
 ```text
 PROBLEM: Lerps are lerpy
-NOTIFY: @octocat
+NOTIFY: @new-issue-reporter
 ```
 
-Close the issue and provide the original reporter a link to the KNOWN ISSUES
-issue.
+Save the "Known Issues" issue.
+
+#### Step 5B: Close the Original Issue
+
+Close the _original issue_ with a nice message (see below) and provide the
+original reporter a link to the KNOWN ISSUES issue.
 
 ```text
-Thanks for reporting this issue. We're aware of it and are tracking it in $URL.
-We're closing this issue but invite you to follow $URL.
+
+Thanks for reporting this issue. We're now aware of it and are tracking it in
+$URL_TO_KNOWN_ISSUE_ISSUE.  We will add this to our internal work queue and
+notify you when it is resolved.
+
+We're closing this issue but invite you to follow $URL_TO_KNOWN_ISSUE_ISSUE
+
+-- Flatiron Curriculum Team
 ```
 
-Finally, visit the [Trello for Curriculum Projectgs][trello]. Find the card for
+#### Step 5C: Update Curriculum Projects Tracking Board
+
+Finally, visit the [Trello for Curriculum Projects][trello]. Find the card for
 this repo in "REPORTED ISSUES IN GH REPOS." Follow the UPDATE FLAG RANKINGS on
-this card
+this card. The card _should_ have been created as part of Step 6 by a previous
+contributor...but if not, help their oversight :).
 
 You're done!
 
@@ -113,7 +132,7 @@ Thanks for reporting this issue. We're aware of it and are tracking it in $URL.
 We're closing this issue but invite you to follow $URL.
 ```
 
-Finally, visit the [Trello for Curriculum Projectgs][trello]. Find the card for
+Finally, visit the [Trello for Curriculum Projects][trello]. Find the card for
 this repo in "REPORTED ISSUES IN GH REPOS." Follow the UPDATE FLAG RANKINGS on
 this card
 
@@ -126,14 +145,14 @@ Create a card in the REPORTED ISSUES IN GH REPOS lane of Trello.
 
 The title should be:
 
-`[difficulty:payoff][issue_count:number_of_reporters] Repo Name: Known Issues"
+`[difficulty:payoff][issue_count:number_of_reporters] Repo Name: Known Issues`
 
 * difficulty: How hard would it be to clear this Known Issues backlog
   (EASY|MEDIUM|HARD|WHOA)
 * payoff: Is this a popular lesson? Is it a critical lesson? The more you
   answer these questions in the affirmative, the more the payff is HIGH. The
   less, well, the less. Values are: (HIGH|MEDIUM|LOW)
-* issue_count: How many problems are in the known issue. If the problems "foo,
+* issue\_count: How many problems are in the known issue. If the problems "foo,
   bar, and bat" are each reported by "alpha, beta, and beta again") the issue
   count is **2**.
 * number_of_reporters: How many people report an issue. You might have a
@@ -159,3 +178,4 @@ out. This is still work in progress.
 
 [trello]: https://trello.com/b/dujVgBTU/curriculum-big-issues
 [saved-replies]: ./issue-handling-saved-responses.md
+[process]: ./updating-lessons-process.md
