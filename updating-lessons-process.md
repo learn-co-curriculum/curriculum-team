@@ -67,23 +67,45 @@
 
 ### Git History and `master` and `solution`
 
-Let's take a moment to imagine an ideal learning experience. _Ideally_ we have
-work for the Lesson inside of the `master` branch. _Ideally_ a developer would
-then branch `master` to `solution` and then work in a TDD manner to meet the
-tests and have a beautifully green test suite. This doesn't seem too onerous.
+Let's take a moment to imagine an ideal learning experience._Ideally_ we have
+work for the Lesson inside of the `master` branch. _Ideally_ a curriculum
+developer would then branch `master` to `solution` and then work in a TDD
+manner to meet the tests and have a beautifully green test suite and post
+it as a branch.
 
-But what about subsequent edits. Imagine a student sees a typo or a punctuation
-error. They submit, and get merged, this update. Great! Since they're making,
-"light" changes, the `solution` branch isn't impacted.
+So this is a great process for the _initial_ population of the lesson. But
+let's consider that at some point later, we discover a typo in the `README.md`
+file. Being customer-focused clever people, we make the change and merge it
+into `master`. But now `solution` is out of sync.
 
-But now along comes a major code change. A curriculum developer needs to
+Or imagine the addition of a test to expose "weaker" implementations. That gets
+written in `solution` (so that the suite can be verified as green) but now it
+needs to appear in both `solution` **and** `master`.
 
-1. Make sure they have the latest `master` (`git pull`)
-2. `git checkout solution`
-3. `git rebase master`
-4. Now your `solution` is synchronized to `master`
-5. Update `master`
-6. Update `solution` from `master`
+Ay-yay-yay.
+
+There really isn't a hard and fast **rule** here. You need to reason through
+what students need to see carefully. If in doubt, ask for help.
+
+Here's the approach @sgharms and @curiositypaths are using at the moment.
+
+#### Update To README Or a Test Or Changing A Solution Implementation
+
+1. Locally make the change to `solution`
+2. Ensure the suite passes
+3. `git stash` the change
+4. `git checkout -b wip-add-some-thing master`
+5. `git stash apply` (commits the change)
+6. `git push origin wip-add-some-thing`
+7. (merge that to master)
+8. `git checkout master`
+9. `git pull origin master` (catch the integrated change)
+10. `git checkout solution`
+11. `git merge master`
+12. `git push origin solution:wip-solution-catchup`
+13. Merge `wip-solution-catchup` to **`solution`**
+14. _fin_: clean up `wip-` branches, pull origin/solution to local solution,
+    etc.
 
 The exact process may vary with your familiarity with `git`, but the essential
 quality is that `solution` should be a descendant from `master`. The extra
