@@ -30,6 +30,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 * ["I Updated a Lesson in Curriculum but it's not going to students"](./it-dep-1.md)
 * ["How Can I See What This Look Like In Learn?"](./it-learn-display.md)
 * ["How Can I See What Software is in Learn IDE Images?"](./learn-images.md)
+* ["I see PRs with util--hide paragraphs, what's that?"](./github-backlinks.md)
 
 ### Curriculum Pipeline / Review Process
 
