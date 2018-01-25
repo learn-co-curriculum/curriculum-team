@@ -4,6 +4,14 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 ## Topics
 
+### Intra-Flatiron Relationships
+
+* [Educational Coaching](./collab-educ-coaching.md)
+* [Marketing](./collab-marketing.md)
+* [Labs](./collab-labs.md)
+* [Technical Coaching](./collab-tech-coaching.md)
+* [Online Education](./collab-online-education.md)
+
 ### Team Management
 
 * [Team Members](./team_members.md)
