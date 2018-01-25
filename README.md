@@ -68,4 +68,8 @@ _Extremely under construction as of 2017-12-28_
 
 * [Glossary](./glossary.md)
 
+## Peer Resources
+
+* [Technical Coaches: Reporting Painful Issues](./tc-painful-issues.md)
+
 [tooldoc]: https://docs.google.com/document/d/1p617rtI3H9aw527ve5TDJRTwWez1fXS8yUEaI1cR-MA/edit
