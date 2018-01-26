@@ -77,3 +77,7 @@ languages:
   - ruby
 resources: 2
 EOT
+
+cat > .gitignore <<EOT
+.DS_Store
+EOT
