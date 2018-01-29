@@ -28,7 +28,7 @@ sparingly and with care lest the curriculum grow treacly or over-precious
 
 ## Pedagogical Approach
 
-We want to begin in the middle, jummp to the bottom, spiral upward back to
+We want to begin in the middle, jump to the bottom, spiral upward back to
 the middle, and then launch upward.
 
 ## Embrace Doing it by Hand
