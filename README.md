@@ -20,6 +20,7 @@ This is the canonical source of information about the Flatiron School Curriculum
   Curriculum e.g. Stripe, Salesforce, Hubspot_
 * [Curriculum-Specific Tools](./curtools.md)
 * [I'm Not in Curriculum, How Can I help?](./casual_contrib.md)
+* [Interviewing](./interviewing.md)
 
 ### Curricular Approach
 
