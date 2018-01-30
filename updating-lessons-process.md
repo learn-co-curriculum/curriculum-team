@@ -14,7 +14,7 @@
    * Remainder should be a reasonable `dash-cased-title` derived from the issue
      name/summary
 2. Fix the issue in your new [wip-branch][wip]. Try and keep any conversation
-   around the issue in the issue so every can see it. Try to avoid emailing
+   around the issue in the issue so everyone can see it. Try to avoid emailing
    people outside of the GitHub environment.
 3. The final commit that fixes the issue should make sure to mention the issue
    number in the commit message so it shows up in that issue. So a commit
