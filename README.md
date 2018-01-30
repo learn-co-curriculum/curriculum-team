@@ -21,6 +21,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 * [Curriculum-Specific Tools](./curtools.md)
 * [I'm Not in Curriculum, How Can I help?](./casual_contrib.md)
 * [Interviewing](./interviewing.md)
+* [Hiring Curriculum Engineers](./hiring.md)
 
 ### Curricular Approach
 
