@@ -20,6 +20,5 @@ change in `solution` as well.
 If you add a test in `master`, you need to add that test, and its resolution, in
 `solution`.
 
-These are some mechanics that you'll need to reason about, but are a bit of an
-art, you'll probably need help reasoning about these. Don't be afraid to ask a
-friend here!
+These mechanics can take some getting used to -- don't be afraid to ask a
+friend here if you run in to trouble!
