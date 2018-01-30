@@ -563,16 +563,16 @@ over:
 ### Write from the Student Perspective
 
 While this seems to be natural enough, keeping your goals separate from the
-students' perspective can often become muddled.
+students' perspectives can often become muddled.
 
 First, it is **absolutely fine** for Flatiron to indoctrinate Flatiron values.
 This guide, in many ways, does exactly that. By expressing an opinion on how
 we handle gender and personhood, we are expressing a value. Expressing
 the enthusiasm we have in our corporate culture about technology is fine.
 
-That said, both code and text needs to be written for where the _student's_
-values and knowledge are, _not the curriculum author's_. Consider that, as a
-developer we know a `let` block is a great way to DRY up an spec. But is a
+That said, both code and text needs to be written for where the _students'_
+values and knowledge are, _not the curriculum authors'_. Consider that, as a
+developer, we know a `let` block is a great way to DRY up a spec. But is a
 student on their 3rd test-driven lab going to be able to handle the attending
 questions e.g.:
 
@@ -587,7 +587,7 @@ questions e.g.:
 It's tempting to "plant" a rhetorical question in order to set up material.
 Often, however, this work is not required. They're reading a lesson expecting
 to have material presented. Speaking with authority, especially in earlier
-courses, creates safety that allows them to learn comfotably.
+courses, creates safety that allows them to learn comfortably.
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
