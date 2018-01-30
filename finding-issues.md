@@ -17,7 +17,7 @@ Considerations:
 If you make a change to the README on `master`, you probably need to make that
 change in `solution` as well.
 
-If you add a test in `master`, you need to add that test, and its resolution in
+If you add a test in `master`, you need to add that test, and its resolution, in
 `solution`.
 
 These are some mechanics that you'll need to reason about, but are a bit of an
