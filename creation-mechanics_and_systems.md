@@ -9,7 +9,7 @@ Given a pristine directory, one must provide the following:
 * **LICENSE.md**: Contains the Flatiron School copyright notice
 * **.learn** [file][learn]: Include tags that describe the content covered.
 
-Obviously the `CONTRIBUTING.md` file and `LICENSE.md` files will look identical
+The `CONTRIBUTING.md` file and `LICENSE.md` files will look identical
 across _most_ if not _all_ lessons. Variance is to be expected in the
 [`.learn`][learn] file.
 
