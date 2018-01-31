@@ -22,6 +22,8 @@ Senior-level writers will be distinguished by:
 * Level of education
 * Experience
 
+# Pre-Screen
+
 ## Desired Artifacts
 
 * GitHub repository
@@ -42,3 +44,21 @@ about their pedagogical priorities.
 
 [Evaluation Guide](./writing-sample-evaluation-guide.md)
 
+# Pre-Onsite Interview
+
+* Candidate should sign up for Flatiron Bootcamp Prep in order to understand
+  the product and experience we're currently offering. They can access this
+  through:  https://learn.co/sign_up
+* Candidate should check out and make a pull request to this repo:
+  https://github.com/learn-co-curriculum/git-interview-baseline
+  The repo describes what to do
+
+# Evaluation
+
+At this time the team will determine whether to offer the candidate an
+in-person interview. At time of writing (2018-01-31) we're not entirel;y clear
+on offer extension to people we've never seen &mdash; but that may be coming!
+
+# On-Site Interview
+
+TBD
