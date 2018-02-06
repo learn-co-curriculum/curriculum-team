@@ -5,6 +5,9 @@
 The `.learn` file is written in the YAML serialization format. It provides the
 metadata for each [lesson][].
 
+A full specification of its properties can be found in the
+["Dot Learn Properties"][dl-doc] document.
+
 ## Keys
 
 * `tags`: An array which contains tags associated with the lesson
@@ -41,3 +44,4 @@ tags: methods, variable assignment, iteration
 tags: jquery, variable scope
 
 [lesson]: ./glossary.md#lesson
+[dl-doc]: https://docs.google.com/spreadsheets/d/19t0OXNCLOEToRiEiS7AlNjZ-tQFAidC0r4HsIB89eCo/edit#gid=0
