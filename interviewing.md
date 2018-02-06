@@ -45,8 +45,6 @@ Here we ask candidates to edit a legacy snapshot of a document about git
 revision control. How they respond and what they catch will be informative
 about their pedagogical priorities.
 
-[Evaluation Guide](./writing-sample-evaluation-guide.md)
-
 # Pre-Onsite Interview
 
 * Candidate should sign up for Flatiron Bootcamp Prep in order to understand
