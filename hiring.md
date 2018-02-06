@@ -9,7 +9,8 @@ Technical Writer -------------------------------------------- Software engineer
 ## Recruiting from Technical Writers
 
 **PLUSES**: They can write, they understand voice, they understand style, they
-understand taking technical information and making it digestible  
+understand taking technical information and making it digestible<br/>
+
 **CONS**: At the far-left extreme, they don't have the ability to _generate_
 content. They need a technician to generate the content which they re-craft.
 This is a sub-optimal match for FI because we need that _generative_
@@ -19,6 +20,7 @@ capability.
 
 **PLUSES**: They have a long history of digesting technical documentation
 and implementing it. They can generate the tasks required to do technical work. 
+
 **CONS**: At the far-right extreme, they don't have the ability to empathize
 and engage with a _reader_. Owing to a lack of history or credits in humanities
 classes they have likely been de-incentivized from practicing writing in _human
