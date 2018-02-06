@@ -22,7 +22,7 @@ Senior-level writers will be distinguished by:
 * Duration, breadth of exposure to larger technical organizations
 * Breadth of familiar technologies (e.g. "C, Java, Ruby, and Python")
 * Level of education
-* Experience
+* Work Experience
 
 # Pre-Screen
 
@@ -58,7 +58,7 @@ about their pedagogical priorities.
 # Evaluation
 
 At this time the team will determine whether to offer the candidate an
-in-person interview. At time of writing (2018-01-31) we're not entirel;y clear
+in-person interview. At time of writing (2018-01-31) we're not entirely clear
 on offer extension to people we've never seen &mdash; but that may be coming!
 
 # On-Site Interview
