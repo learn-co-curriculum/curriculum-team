@@ -18,7 +18,7 @@ capability.
 ## Recruiting from Software Developers
 
 **PLUSES**: They have a long history of digesting technical documentation
-and implementing it. They can generate the tasks required to do technical work
+and implementing it. They can generate the tasks required to do technical work. 
 **CONS**: At the far-right extreme, they don't have the ability to empathize
 and engage with a _reader_. Owing to a lack of history or credits in humanities
 classes they have likely been de-incentivized from practicing writing in _human
