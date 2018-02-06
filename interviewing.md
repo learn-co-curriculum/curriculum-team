@@ -5,7 +5,9 @@
 Curriculum authors in the technical education space are rare birds indeed. Some
 are more writers who know a bit about technology; some are teachers who love to
 write; some are teachers who want to have a bigger impact. There's no set path
-for a successful candidate.
+for a successful candidate. Since the "bootcamp" sector is less than a decade old,
+it's rare to find an experienced bootcamp curriculum writer. As such, interviews
+take a cross-disciplinary, inference-heavy approach.
 
 ## Typical Backgrounds
 
