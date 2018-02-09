@@ -7,6 +7,8 @@ style decisions.
 
 Contents:
 
+* Flatiron Concerns
+  * [Do Not Mention Dates](#do_not_mention_dates)
 * Formatting Markdown
   * [Text Wrap at 80 Column](#text_wrap_at_80_column)
   * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
@@ -40,6 +42,17 @@ Contents:
   * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
 
 ---
+
+## Flatiron Concerns
+
+<a name="do_not_mention_dates"></a>
+
+Do not specify delivery-specific concerns in the text. The "first Monday of the
+module" seems specific, obivious, and routine, but in the US Market, many
+holidays fall on Monday such that this won't be appropriate. As Flatiron has an
+ever wider presence we will run against cultures that work on Friday, don't
+work on Saturday, etc.
+
 
 ## Formatting Markdown
 
