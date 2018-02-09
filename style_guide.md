@@ -47,6 +47,8 @@ Contents:
 
 <a name="do_not_mention_dates"></a>
 
+## Do Not Mention Dates
+
 Do not specify delivery-specific concerns in the text. The "first Monday of the
 module" seems specific, obivious, and routine, but in the US Market, many
 holidays fall on Monday such that this won't be appropriate. As Flatiron has an
