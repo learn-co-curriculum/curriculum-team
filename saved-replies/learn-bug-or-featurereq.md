@@ -9,5 +9,5 @@ improvements. You can reach them at support@learn.co. Alternatively, if Learn
 is misbehaving, please direct your bug report to bugs@learn.co.
 
 If, on the other hand, we've misunderstood the purpose of this request, please
-re-open this issue and we will try to discern a proper path to resolution.
+re-open this issue, provide any additional information you can, and we will try to discern a proper path to resolution.
 
