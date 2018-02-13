@@ -14,7 +14,8 @@ In general, you will need to do some text transformation (see "Powerful Text
 Editor") in order to make it compliant. Steven recommends learning to "read"
 Markdown in ASCII, but your mileage may vary.
 
-Note: Atom, for example, enables viewing formatted markdown next to ASCII markdown. On MacOS, in Atom, keyboard shortcut is: control + shift + m. 
+Note: Atom, for example, enables viewing formatted markdown next to ASCII
+markdown. On MacOS, in Atom, keyboard shortcut is: control + shift + m. 
 
 ## Git
 
