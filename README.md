@@ -15,15 +15,23 @@ This is the canonical source of information about the Flatiron School Curriculum
 ### Team Management
 
 * [Team Members](./team_members.md)
+
+#### Onboarding
+
 * [What is My Job?](./the_job.md)
 * [Your First Day](./first_day.md)
 * [What Tools Should I Have?][tooldoc] : _Some tooling here is not applicable to
-  Curriculum e.g. Stripe, Salesforce, Hubspot_
+Curriculum e.g. Stripe, Salesforce, Hubspot_
 * [Curriculum-Specific Tools](./curtools.md)
-* [I'm Not in Curriculum, How Can I help?](./casual_contrib.md)
-* [Interviewing](./interviewing.md)
-* ["How Can I Work in Curriculum, full-time?"](./interviewing-pitch.md)
+
+#### Hiring
+
 * [Hiring Curriculum Engineers (For Recruiters / External parties)](./hiring.md)
+
+#### Contributing
+
+* ["I'm Not in Curriculum, How Can I Help?"](./casual_contrib.md)
+* ["How Can I Work in Curriculum, Full-time?"](./interviewing-pitch.md)
 
 ### Curricular Approach
 
