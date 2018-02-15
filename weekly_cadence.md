@@ -13,10 +13,11 @@ progress / stability as we go about our work.
 
 Thank goodness it's Monday! We're glad you're here.
 
-### Standup
+### Monday Kick-Off (_a modified Standup_)
 
 1. Review our [monthly commitments](./this_month.md). Determine if any of these
    are in jeopardy.
+2. Review our [Online Team Impact page][impact-page]
 
 ### Operations
 
@@ -117,3 +118,4 @@ _Standard_
 
 [gir]: http://localhost:5000/curriculum/github_issues_report
 [ia]: ./instructor_app.md
+[impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
