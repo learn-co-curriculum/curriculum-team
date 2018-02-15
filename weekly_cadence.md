@@ -7,6 +7,8 @@ team. We have project obligations and operational obligations and, as such, we
 want to make sure that we stay aware of our workload _and_ emit signals of
 progress / stability as we go about our work.
 
+----
+
 ## Monday
 
 Thank goodness it's Monday! We're glad you're here.
@@ -32,6 +34,8 @@ Work on projects.
 
 _Guideline_: You should have ~60% free for this.
 
+----
+
 ## Tuesday
 
 It's a day named after the Norse god of death, but don't let that stop you!
@@ -53,6 +57,8 @@ _Standard_
 
 1. Remember the round-up at 1700 Eastern.
 
+----
+
 ## Wednesday
 
 Halfway there!
@@ -68,6 +74,8 @@ _Standard_
 ### Projects
 
 1. Have fun!
+
+----
 
 ## Thursday
 
@@ -89,6 +97,8 @@ _Standard_
 ### Projects
 
 1. Have fun, and focus on closing out in alignment to our monthly goals.
+
+----
 
 ## Friday
 
