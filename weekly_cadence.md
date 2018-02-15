@@ -13,7 +13,7 @@ Thank goodness it's Monday! We're glad you're here.
 
 ### Standup
 
-1. Review our [monthly commitments][./this_month.md]. Determine if any of these
+1. Review our [monthly commitments](./this_month.md). Determine if any of these
    are in jeopardy.
 
 ### Operations
