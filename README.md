@@ -15,13 +15,14 @@ This is the canonical source of information about the Flatiron School Curriculum
 ### Team Management
 
 * [Team Members](./team_members.md)
+* [Weekly Cadence](./weekly_cadence.md)
 
 #### Onboarding
 
 * [What is My Job?](./the_job.md)
 * [Your First Day](./first_day.md)
 * [What Tools Should I Have?][tooldoc] : _Some tooling here is not applicable to
-Curriculum e.g. Stripe, Salesforce, Hubspot_
+  Curriculum e.g. Stripe, Salesforce, Hubspot_
 * [Curriculum-Specific Tools](./curtools.md)
 
 #### Hiring
