@@ -41,9 +41,16 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 ### Curriculum Issues / "Bugs"
 
-* [Finding Issues](./finding-issues.md)
-* [Issue-Handling Process](./issue-handling-process.md)
+* [Finding Issues: "What Should I Fix?"](./finding-issues.md)
+* [How to Resolve a Specific Issue Update a README/ Merges / Rebases / etc.](./updating-lessons-process.md)
 * [Boilerplate Templates](./saved-replies)
+
+### Triage Process for Support-Debt
+
+When you're not actually _fixing_ an issue, but are trying to size work or to
+help us tear down any legacy Support-Debt, this is the process to use.
+
+* [Issue-Handling Process](./issue-handling-process.md)
 
 ### Curriculum IT / Deployment / Student Experience
 

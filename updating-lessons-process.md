@@ -91,20 +91,20 @@ Here's the approach @sgharms and @curiositypaths are using at the moment.
 
 #### Update To README Or a Test Or Changing A Solution Implementation
 
-1. Locally make the change to `solution`
-2. Ensure the suite passes
-3. `git stash` the change
-4. `git checkout -b wip-add-some-thing master`
-5. `git stash apply` (commits the change)
-6. `git push origin wip-add-some-thing`
-7. (merge that to master)
-8. `git checkout master`
-9. `git pull origin master` (catch the integrated change)
-10. `git checkout solution`
-11. `git merge master`
-12. `git push origin solution:wip-solution-catchup`
-13. Merge `wip-solution-catchup` to **`solution`**
-14. _fin_: clean up `wip-` branches, pull origin/solution to local solution,
+The general approach should be this:
+
+1. Make a feature branch against `master`
+2. Merge the fix into `master` with the power of a Pull Request
+3. `git fetch origin` to update your SHAs
+4. `git checkout -b wip-new-solution solution`
+5. `git rebase master`
+6. Run `learn`, make sure things are kosher
+7. `git push origin wip-new-solution`
+8. Merge the `wip-new-solution` into `solution` with the power of a Pull
+   Request.
+9. Back in your git repo make sure to git pull `master` and `solution` so that
+   you're in sync.
+10. _fin_: clean up `wip-` branches, pull origin/solution to local solution,
     etc.
 
 The exact process may vary with your familiarity with `git`, but the essential
