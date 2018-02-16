@@ -33,6 +33,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 * ["I'm Not in Curriculum, How Can I Help?"](./casual_contrib.md)
 * ["How Can I Work in Curriculum, Full-time?"](./interviewing-pitch.md)
+* ["I'm Not In Curriculum, But Can You Help Me Become a Senior TCF?][path]
 
 ### Curricular Approach
 
@@ -109,3 +110,4 @@ process for that.
 
 [tooldoc]: https://docs.google.com/document/d/1p617rtI3H9aw527ve5TDJRTwWez1fXS8yUEaI1cR-MA/edit
 [newver-proc]: ./major_project_deploy_new_version.md
+[path]: ./curriculum-as-tcf-career-path.md
