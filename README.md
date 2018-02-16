@@ -71,6 +71,13 @@ _Extremely under construction as of 2017-12-28_
 * [Duplicated Labs](./duplicated-labs.md)
 * [Deleting Labs](./deleting-labs.md)
 
+### Deploying Major Releases of Curriculum
+
+Occasionally re release new "major versions" of the Curriculum. Here is the
+process for that.
+
+* [MAJOR THING: Deploying New Major Versions of Curriculum][newver-proc]
+
 ### Curriculum Authoring
 
 * [Curriculum Creation: Mechanics and Systems](./creation-mechanics_and_systems.md)
@@ -101,3 +108,4 @@ _Extremely under construction as of 2017-12-28_
 * [Technical Coaches: Reporting Painful Issues](./tc-painful-issues.md)
 
 [tooldoc]: https://docs.google.com/document/d/1p617rtI3H9aw527ve5TDJRTwWez1fXS8yUEaI1cR-MA/edit
+[newver-proc]: ./major_project_deploy_new_version.md
