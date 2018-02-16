@@ -9,6 +9,9 @@ Welcome to your first day in Flatiron School Curriculum!
   This describers one of our most complicated and difficult projects. By
   looking at our approach here you'll get a good read on the culture of the team
   and see several key parts of IT infrastructure.
+* Read up about the organziations / batch / track architecture. You might never
+  actually work on engineering this app, but you'll definitely work with it in
+  a power-user sense! [Read](./tracks-batches-orgs-learn.md)
 * Make a meantiful addition to this wiki before you close out for the first
   day. Try to reach beyond grammar and spelling &mdash; resolve a mystery that
   the docs didn't help with, link together ideas that needed linking, make the
