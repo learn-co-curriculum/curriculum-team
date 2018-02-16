@@ -1,4 +1,4 @@
-### Online :Education
+### Online: Education
 
 **STATUS**: Established; active engagement
 **CONTACT**: Peter Bell, Ian Candy, Luisa Scavo
