@@ -13,11 +13,14 @@ progress / stability as we go about our work.
 
 Thank goodness it's Monday! We're glad you're here.
 
-### Monday Kick-Off (_a modified Standup_)
+### Monday Kick-Off Meeting
+
+_Supercedes Stand-Up_
 
 1. Review our [monthly commitments](./this_month.md). Determine if any of these
    are in jeopardy.
 2. Review our [Online Team Impact page][impact-page]
+3. Review [Question Volume by Lesson][qvl]
 
 ### Operations
 
@@ -25,7 +28,7 @@ Thank goodness it's Monday! We're glad you're here.
    to view this, check out the [Instructor App][ia] page. The goal here is to
    check what happened since last Thursday and see if something has gone horribly
    wrong.
-2. Spend an interval (~1 hour) burning down our "current focus." As of writing
+2. Spend an interval (~90 minutes) burning down our "current focus." As of writing
    (2018-02-15), FI has a substantial backlock of operational issues. Here's some
    regularly slated time to make sure we're clearing this out.
 
@@ -119,3 +122,4 @@ _Standard_
 [gir]: http://localhost:5000/curriculum/github_issues_report
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
+[qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
