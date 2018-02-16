@@ -21,4 +21,10 @@ Welcome to your first day in Flatiron School Curriculum!
   sure that your manager knows about you, how you can be helped, areas where you
   are excited to grow, etc.
 
+## Important Knowledge
 
+* Instructional assets live in learn-co-curriculum/repo
+* Students experience things in learn-co-students/repo
+* Don't make changes in learn-co-students
+* If you add a branch in learn-co-curriculum **it will be instantaneously
+  downstream replicated** &rarr; unless &larr; it starts with `wip-`
