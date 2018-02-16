@@ -12,6 +12,9 @@ Welcome to your first day in Flatiron School Curriculum!
 * Read up about the organziations / batch / track architecture. You might never
   actually work on engineering this app, but you'll definitely work with it in
   a power-user sense! [Read](./tracks-batches-orgs-learn.md)
+* [ "How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
+  shows how to ask Learn about a given lesson / tradck relationship. This will
+  help you get oriented quickly.
 * Make a meantiful addition to this wiki before you close out for the first
   day. Try to reach beyond grammar and spelling &mdash; resolve a mystery that
   the docs didn't help with, link together ideas that needed linking, make the
