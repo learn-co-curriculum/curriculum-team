@@ -19,8 +19,9 @@ _Supercedes Stand-Up_
 
 1. Review our [monthly commitments](./this_month.md). Determine if any of these
    are in jeopardy.
-2. Review our [Online Team Impact page][impact-page]
-3. Review [Question Volume by Lesson][qvl]
+2. Review our [Online Team Impact page][impact-page] from Section Leads
+3. Review [Question Volume by Lesson][qvl] from Section Leads
+4. _Under process_ -- How to get signal around Known Issues?
 
 ### Operations
 
