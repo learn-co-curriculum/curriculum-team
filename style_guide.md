@@ -67,22 +67,26 @@ Use [GitHub-flavored markdown][GHMD].
 Text should be hard wrapped near 80-column width.
 
 The text we write as curriculum is not _merely_ text, it's _technical text_.
-It's important that it be written easily, but it's more important that it be
-_reviewed, vetted, and discussed_ easily.
+It's important that it be written easily, but **it's more important** that it
+be _reviewed, vetted, and discussed_ easily.
 
-In a long line, reviewers must point to the portion of the text via some
-relative means (third sentence, second use of "their") before explaining the
-change, which can be very time consuming for both the editor and the author
-receiving the feedback. A line number serves as an absolute coordinate from
-which edits can be suggested. For these reasons console-based diff, edit,
-integration tools are more successful at identifying changes are also more
-successful. These tools help the editing process. All major editors have
-configuration options to support this (e.g. vim's `format`,
-[Atom][atom-hard-wrap]).
+While _editors_ may have soft wrap, many editing tools (e.g. `git diff`,
+`DiffMerge`, `vimdiff`, etc.) have their efficacy undermined by long lines. For
+the same reason we don't write methods with their implementation all in one
+line, we want a similar level of granularity when editing _technical text_.
 
-That said, don't make this a crusade. It would be an anti-pattern to iterate
-through old curriculum making everything 80-column compliant. If you're going
-to do substantial rework or new work, adhere to this guideline.
+With short (i.e. wrapped) lines, reviewers have an absolute coordinate from
+which edits can be suggested.  In a long line, reviewers must point to the
+portion of the text via some relative means (third sentence, second use of
+"their") before explaining the change, which can be very time consuming for
+both the editor and the author receiving the feedback.
+
+These tools help the editing process. All major editors have configuration
+options to support this (e.g. vim's `format`, [Atom][atom-hard-wrap]).
+
+That said, **don't make this a crusade**. It would be an anti-pattern to
+iterate through old curriculum making everything 80-column compliant. If you're
+going to do substantial rework or new work, adhere to this guideline.
 
 <a name="code_words"></a>
 
