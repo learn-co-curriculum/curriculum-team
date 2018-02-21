@@ -1,4 +1,4 @@
-# Updating a Lab/ReadMe
+# Repository Git Workflow
 
 Flatiron has a unique use of Git: we keep parallel branches (master and solution) that have no intention of ever being merged. Ideally, the `solution` branch is a perfect superset of `master`, which may have a commit history that looks like this:
 
@@ -58,21 +58,28 @@ After asserting that everything is working locally, we would PR on our remotes:
 
 -----
 
-### Something goes wrong with merging/solutions are being overwritten:
+## Something goes wrong with merging/solutions are being overwritten:
 
 Some repositories have a commit history that will cause problems. While there can be many reasons this occurs, following is a possible scenario, in which commits `mC` & `mD` make conflicting changes to a solution file that was filled out in `sE` & `sF`:
 ```
+PROBLEM!
                 wsH------------wsJ  PR: [wip-solution] <-- [wip-master]
                /               /
         sE---sF               /
        /                     /
 mA---mB---mC---mD           /  
                  \         /
-                  wmG---wmI
+                  wmG---wmI                  
 ```
 What we wanted to happen is for the changes made in `wmG` & `wmI` to be incorporated into `solution`. Instead, we uncovered a rats nest of disjointed commits causing conflicts.
 
 In this scenario, my boy Linus Torvald's Git would rightfully search back for the 'common ancestor' commit between `wip-master` and `wip-solution`. Following, we would experience pain when changes in commits `mC` & `mD` blow up being compared against `sE` & `sF`.
+
+We are presented with two options:
+* `cherry-pick` <-- not ideal
+* `rebase` <-- can fix the problem
+
+### `cherry-pick`
 
 If we weren't to go back and fix the original problem, gitting everything back on track, we could use [`cherry-pick`][cherry-pick] to only apply `wmG` & `wmI` to `wip-solution`. In this case the command (while co'd in `wip-solution` branch) may look like:
 `git cherry-pick origin/master..origin/wip-master`
@@ -88,9 +95,22 @@ mA---mB---mC---mD
                   wmG---wmI
 ```
 
-Understanding that our Git flow is non-traditional (two parallel branches with no intent to consolidate), and that our flow has not been heavily controlled, we will experience legacy issues with our repositories.
+### `rebase`
 
-(Should I add rebasing on this right now or is this appropriate? Rebasing should be more appropriate for permanent fixes to some of these issues, but may suck time up into fixing things in the process instead of applying a change we need/want now.)
+If we were to go back and fix the issue in the 'PROBLEM!' tree above, so that we can resume our normal merge git flow, one option is [`rebase`][rebase]. Rebase will take a branches commits, from the point it diverged with another, and play them on the head of another. In this case, we could `git rebase master solution`, which would re-assert `solution` as a superset of `master`:
+
+```
+                  sE---sF             
+                 /                   
+mA---mB---mC---mD           
+```
+
+Now we are free to resume out normal merge git flow described at the beginning of this document.
+
+---
+
+Understanding that our Git flow is non-traditional (two parallel branches with no intent to consolidate), and that our flow has not been heavily controlled, we will experience legacy issues with our repositories.
 
 
 [cherry-pick]: https://git-scm.com/docs/git-cherry-pick
+[rebase]: https://git-scm.com/docs/git-rebase
