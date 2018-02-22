@@ -22,10 +22,14 @@ To remove:
 5. Return to learn.co/curriculum
 6. Find that track
 7. Expand the breadcrumbs as found in 4, above
-8. **SELECT THE CORRECT BATCH FROM THE DROP-DOWN.** In this case `nyc-web-031218`
+8. **SELECT THE CORRECT BATCH FROM THE DROP-DOWN.** In this case
+   `nyc-web-031218`
 9. Click the checkbox for "Bonus - Collections Practice 2"
 10. Click deploy at the bottom
 11. Wait for the ajax spinner to confirm it completed the undeployment
+12. Additionally, visit the `learn-co-curriculum/collections_practice_vol_2`
+    page and close all the issues as we're no longer going to support it. Use a
+    message like "closing due to lesson retirement."
 
 Done!
 
