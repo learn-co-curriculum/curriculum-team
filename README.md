@@ -67,6 +67,7 @@ help us tear down any legacy Support-Debt, this is the process to use.
 ### Curriculum Pipeline / Review Process
 
 _Extremely under construction as of 2017-12-28_
+* ["How Do I Write a Quiz"](./quizzes.md)
 * Currently tracked in [Trello](https://trello.com/b/dujVgBTU/curriculum-big-issues)
 * [Updating Lessons Process](./updating-lessons-process.md)
 * [Review Status Types](./pipeline-review_status_types.md)
