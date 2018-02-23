@@ -21,17 +21,9 @@ _Supercedes Stand-Up_
    are in jeopardy.
 2. Review our [Online Team Impact page][impact-page] from Section Leads
 3. Review [Question Volume by Lesson][qvl] from Section Leads
-4. _Under process_ -- How to get signal around Known Issues?
-
-### Operations
-
-1. Check in on the [Github issues report][gir]. If you don't have the ability
-   to view this, check out the [Instructor App][ia] page. The goal here is to
-   check what happened since last Thursday and see if something has gone horribly
-   wrong.
-2. Spend an interval (~90 minutes) burning down our "current focus." As of writing
-   (2018-02-15), FI has a substantial backlock of operational issues. Here's some
-   regularly slated time to make sure we're clearing this out.
+4. Review [Github Known Issues Health Sheet][gki]
+5. Review [Github issues report][gir].
+6. Schedule an interval (~90 minutes) burning down our "current focus."
 
 ### Project
 
@@ -113,7 +105,7 @@ _Standard_
 
 ### Operations
 
-1. Aim to have your Monday Ops-projects 50% done by today
+_TBD_
 
 ### Projects
 
@@ -124,3 +116,4 @@ _Standard_
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
 [qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
+[gki]: https://docs.google.com/spreadsheets/d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit?ts=5a90379e#gid=0
