@@ -1,4 +1,4 @@
-* (&#x2714;0-ish) Execute Rails Shrinking (work finished / in review / first round finish 2018-03-02)
+* (&#x2714;-ish) Execute Rails Shrinking (work finished / in review / first round finish 2018-03-02)
 * Outstanding Issue Attack Topic: ActiveRecord & ORM (@ 50)
 * &#x2714; Better tooling, graphing WIP via Jason Decker
 * &#x2714; Better reporting through reworked `rspec`
