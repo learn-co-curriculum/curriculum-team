@@ -5,3 +5,4 @@
 * On Track: Size a React-remediation project for March; delay Rails 5 upgrade
 * On Track: **One Outstanding** Pilot quizzes in Mod1 / Mod3 based on NPS feedback; do self-admin mini-tests help?
 * On Track: Provide supplemental work for students repeating Mod1: targeted remediation versus "repeat-and-pray"
+  * Living in the mod-3-repeat track
