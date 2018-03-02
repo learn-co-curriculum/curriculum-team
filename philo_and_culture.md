@@ -9,6 +9,16 @@ as writers.
 
 ## Qualities
 
+### Back From The Bleeding Edge, But Not Too Far
+
+We are on the critical-mass bubble bounded by speed of product delivery,
+market-relevance, **and** approachability.
+
+We _prefer_ concepts to _implementations_
+We will _shy away_ from the ragged edge
+We will _follow_ the ragged edge
+We will trade market-relevance for speed of delivery and approachability
+
 ### Irreverent
 
 Our voice is irreverent. While we are never _offensive_, we are irreverent. We
@@ -46,4 +56,28 @@ like AR (i.e. _any_ ORM) must do.
 If, when we reveal the power tool, students feel upset that we made them
 "do it by hand," then we succeeded.
 
+## Do Work Where Teaching Makes a Difference
+
+There are many topics to teach. In an ideal world without the bound of time, we
+could make every atomic idea clear and build up an air-tight education. But
+education functions within time and, as a result, requires us to invest more
+and less time unevenly.
+
+**There very well may be topics that are difficult but that are not fully
+explored in the curriculum**. As a statement on orientation on how we evaluate
+these decisions we provide the following:
+
+1. Is the idea well explored. Active Record's helper methods that come as a
+   result from `has_many` or `belongs_to` are [exhaustive][ex]. A _reference_
+   here should be sufficient. An extensive README **and** a lab is overkill. A
+   brief README or a reference within a larger project-based lab should be
+   sufficient
+2. Is the idea used, but has a lot of bad instruction around it? Looking at the
+   case of the Apple CoreData platform. The documentation is impeterable and
+   most resources a student would find would *increase* confusion, not reduce
+   it. In this case, as a vaccine, it makes sense for us to teach it in-house
+   so as to keep the eyballs in-house and not getting bad information.
+
+
 [LOGO]: https://en.wikipedia.org/wiki/Logo_(programming_language)
+[ex]: http://guides.rubyonrails.org/association_basics.html#detailed-association-reference
