@@ -390,6 +390,20 @@ punctuation from quotes is justifiable.
 Tone should be conversational. It is appropriate to "break the fourth wall" and
 speak to the reader using "you."
 
+Per our "[Brand Book][bb]," here are attributes that our voice should have:
+
+#### Passionate
+
+Optimistic, Positive, Purposeful **over** Apathetic, Sarcastic, Detached
+
+#### Rigorous
+
+Elite, Determined, Eager **over** Elistist, Gentle, Easy
+
+#### Knowledgable
+
+Trustworthy, Useful, Transparent **over** Uninformed, Unhelpful, Overtly Salesy
+
 <a name="personhood"></a>
 
 ### Personhood
@@ -613,3 +627,4 @@ courses, creates safety that allows them to learn comfortably.
 [gitlab-sg]: https://about.gitlab.com/2016/10/11/wrapping-text/
 [kernel-style]: https://www.kernel.org/doc/html/v4.10/process/coding-style.html#breaking-long-lines-and-strings
 [atom-hard-wrap]: https://atom.io/packages/hard-wrap
+[bb]: https://flatiron.atlassian.net/wiki/spaces/ER/pages/330104842/Flatiron+School+Brand+Book

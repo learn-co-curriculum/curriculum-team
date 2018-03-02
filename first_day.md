@@ -23,6 +23,7 @@ Welcome to your first day in Flatiron School Curriculum!
   your 1:1. That will be your time to talk about anything you want and to make
   sure that your manager knows about you, how you can be helped, areas where you
   are excited to grow, etc.
+* Read the [Flatiron School Style Guide][brand-book]
 
 ## Important Knowledge
 
@@ -31,3 +32,5 @@ Welcome to your first day in Flatiron School Curriculum!
 * Don't make changes in learn-co-students
 * If you add a branch in learn-co-curriculum **it will be instantaneously
   downstream replicated** &rarr; unless &larr; it starts with `wip-`
+
+[brand-book]: https://flatiron.atlassian.net/wiki/spaces/ER/pages/330104842/Flatiron+School+Brand+Book
