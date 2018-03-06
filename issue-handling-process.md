@@ -1,6 +1,6 @@
 # Closing Issues and PRs
 
-## Issue Resolution Process (ALPHA: 2018-01-14)
+## Issue Resolution Process (ALPHA: 2018-03-06)
 
 ### Goal
 
@@ -105,12 +105,9 @@ We're closing this issue but invite you to follow progress at that URL.
 -- Flatiron Curriculum Team
 ```
 
-#### Step 5C: Update Curriculum Projects Tracking Board
+#### Step 5C: Update Known Issues Spreadsheet
 
-Finally, visit the [Trello for Curriculum Projects][trello]. Find the card for
-this repo in "REPORTED ISSUES IN GH REPOS." Follow the UPDATE FLAG RANKINGS on
-this card. The card _should_ have been created as part of Step 6 by a previous
-contributor...but if not, help their oversight :).
+If a new problem was added, visit the [Known Issues Spreadsheet] and create an entry describing the new problem. The definitions for `Cost to Fix`, `Impact of Fix` and `Urgency` can be found here: [Known Issues Spreadsheet Ratings].
 
 You're done!
 
@@ -133,45 +130,12 @@ Thanks for reporting this issue. We're aware of it and are tracking it in $URL.
 We're closing this issue but invite you to follow $URL.
 ```
 
-Finally, visit the [Trello for Curriculum Projects][trello]. Find the card for
-this repo in "REPORTED ISSUES IN GH REPOS." Follow the UPDATE FLAG RANKINGS on
-this card
 
-## Reported Issues In GH Repos
+#### Step 6A: Update Known Issues Spreadsheet
 
-When we have a "Known Issues" Issue, we want to reflect that work exists in a
-project management software. That's what we use [Trello][trello] for.
+Finally, visit the [Known Issues Spreadsheet] and create an entry describing the new problem. The definitions for `Cost to Fix`, `Impact of Fix` and `Urgency` can be found here: [Known Issues Spreadsheet Ratings].
 
-Create a card in the REPORTED ISSUES IN GH REPOS lane of Trello.
-
-The title should be:
-
-`[difficulty:payoff][issue_count:number_of_reporters] Repo Name: Known Issues`
-
-* difficulty: How hard would it be to clear this Known Issues backlog
-  (EASY|MEDIUM|HARD|WHOA|VIDEO)
-* payoff: Is this a popular lesson? Is it a critical lesson? The more you
-  answer these questions in the affirmative, the more the payff is HIGH. The
-  less, well, the less. Values are: (HIGH|MEDIUM|LOW)
-* issue\_count: How many problems are in the known issue. If the problems "foo,
-  bar, and bat" are each reported by "alpha, beta, and beta again") the issue
-  count is **2**.
-* number_of_reporters: How many people report an issue. You might have a
-  _single_ issue with 100 reporters. That implies a big payoff for the fix!
-
-Within the card include a link back to the "Known Issues" Issue.
-
-### Inferences
-
-Titling our cards in this way makes it possible for management to understand
-cost / payoff relationships. e.g.
-
-* [Medium:High][1:100]: _Wow! We're lagging. One issue could help a lot of
-  reporters and is onldy midldly difficult. Is the team trained properly?_
-* [Easy:low][1:1]: _Meh_
-* [WHOA:low][1:1]: _Wow, someone's found an edge case_
-* [Easy:high][100:100]: _Wow, lots of things wrong in this thing. Probably need
-  a rewrite_
+You're done!
 
 ### Escalation / Help
 
@@ -180,5 +144,7 @@ out. This is still work in progress.
 
 
 [trello]: https://trello.com/b/dujVgBTU/curriculum-big-issues
+[Known Issues Spreadsheet]: https://docs.google.com/spreadsheets/d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit#gid=0
+[Known Issues Spreadsheet Ratings]:https://docs.google.com/spreadsheets/d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit#gid=1317169924&range=A1d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit#gid=0
 [saved-replies]: ./issue-handling-saved-responses.md
 [process]: ./updating-lessons-process.md
