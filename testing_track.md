@@ -26,6 +26,17 @@ curriculum-livetrack-test
       Lesson One
 ```
 
+By selecting the "divider" with a circle in it below one heading you can
+add a child. Thus by clicking on `curriculum-livetrack-test`'s divider
+you can add a sub-container. By clicking on that container you can add
+your second (required!) sub-container.
+
+By clicking on that "grandchild" sub-container you can choose to ADD or 
+FIND a lesson.
+
+FIND means "pull in from somewhere else" (like another track) ADD means
+"I'm going to give you a repository in the `learn-co-curiculum` org."
+
 ## Find Your Batch
 
 Try using [sgharms test webdev fund](https://learn.co/batches/539).
