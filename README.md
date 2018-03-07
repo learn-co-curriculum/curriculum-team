@@ -64,6 +64,7 @@ help us tear down any legacy Support-Debt, this is the process to use.
 * ["I see PRs with util--hide paragraphs, what's that?"](./github-backlinks.md)
 * ["How Do I Undeploy Something?"](./it-learn-undeploy.md)
 * ["How Can I Test What Something Will Look Like In a Track?"](./testing_track.md)
+* ["How Do I Create a New Track?"](./it-learn-new-track.md)
 
 ### Curriculum Pipeline / Review Process
 
