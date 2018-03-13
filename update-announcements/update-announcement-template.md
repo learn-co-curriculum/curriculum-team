@@ -43,6 +43,8 @@ More quizzes were requested on these topics and in general throughout the curric
 
 ## "I am a stakeholder and would like something to be changed about this curriculum update"
 
+Excellent! We are hoping for feedback if this could be improved, especially from those who are working with the material everyday and can better understand the side effects of the changes in the course of teaching the material. Please reach out ASAP so we have time to make the requested changes.  
+
 Please contact: Daniel
 
 [js-quiz]: https://github.com/learn-co-curriculum/asynchrony-in-javascript-quiz
