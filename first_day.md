@@ -6,7 +6,7 @@ Welcome to your first day in Flatiron School Curriculum!
 * Make sure you have the right tools (see: README)
 * Make sure you know how to process issues (see: README)
 * Take a look at [New Project Deploy](./major_project_deploy_new_version.md).
-  This describers one of our most complicated and difficult projects. By
+  This describes one of our most complicated and difficult projects. By
   looking at our approach here you'll get a good read on the culture of the team
   and see several key parts of IT infrastructure.
 * Read up about the organziations / batch / track architecture. You might never
@@ -15,7 +15,7 @@ Welcome to your first day in Flatiron School Curriculum!
 * [ "How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
   shows how to ask Learn about a given lesson / tradck relationship. This will
   help you get oriented quickly.
-* Make a meantiful addition to this wiki before you close out for the first
+* Make a meantingful addition to this wiki before you close out for the first
   day. Try to reach beyond grammar and spelling &mdash; resolve a mystery that
   the docs didn't help with, link together ideas that needed linking, make the
   path all the better for whoever comes after.
