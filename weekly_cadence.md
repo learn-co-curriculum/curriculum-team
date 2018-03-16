@@ -67,6 +67,7 @@ _Standard_
 ### Operations
 
 1. Aim to have your Monday Ops-projects 100% done by today
+2. Divide work within the "Managed Sections" and address
 
 ### Projects
 
