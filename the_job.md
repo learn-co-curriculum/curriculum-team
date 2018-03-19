@@ -21,8 +21,10 @@ outcomes.
 
 The learners are enrolled in two programs:
 
-* Intensive on-site experience based in New York City
-* Online, self-paced program ("the online program")
+* The two primary adjectives are: **Intensive** _or_ **on-site** used to describe
+  the experience started in New York City under the "bootcamp" model. This has 
+  grown to encompass other sites (DC, London, etc)
+* **Online**, self-paced program ("the online program")
 
 ## Character Expectations
 
@@ -39,6 +41,8 @@ The learners are enrolled in two programs:
 * Write a shell script to emit template files
 * Catch up on changes in ActiveRecord 5.0 that will need to be propagated into
   a series of repositories.
+* Contribute to our book club!
+* Help "program" a new offering as Flatiron expands into a new market
 
 ## Required Skills
 
@@ -50,7 +54,9 @@ The learners are enrolled in two programs:
   delete that which doesn't work, _like code_. A tool that allows us to move
   fast and change things is `git`. While you needn't be a guru, familiarity with
   `git diff` and `git add --patch` behooves you.
-* 
+* **Programming** and an eye to automation: The number of challenges we have _is not
+  small_. We achieve good scale on Flatiron's investment by building tools, reducing
+  hand-cranked work, and seeking automation.
 
 ## Getting Started
 
@@ -60,9 +66,10 @@ will immediately work on. Here are some skills and documents that will put you
 in position to be able to contribute.
 
 * [Review a typical review][review]
-* Look at currently open issues (*TBD*)
-
-
+* Look at currently open issues
+  * [All](http://instruction.learn.co/curriculum/github_issues_report/open)
+  * [Last 7 days](http://instruction.learn.co/curriculum/github_issues_report/last_week_issues)
+  * [Pretty Graphs!](http://instruction.learn.co/curriculum/github_issues_report)
 
 ## Tools
 
@@ -80,7 +87,6 @@ in position to be able to contribute.
 * **Slack**: A chat-room / virtual shared workspace app. You should be subscribed
   to certain channels by default. Ask for an invitation to `#curriculum` for
   curricular discussion.
-
 
 
 [about-FI-school]: https://flatironschool.com/about-flatiron-school/
