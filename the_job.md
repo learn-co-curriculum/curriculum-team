@@ -86,7 +86,9 @@ in position to be able to contribute.
   professional, you know when you need focus time.
 * **Slack**: A chat-room / virtual shared workspace app. You should be subscribed
   to certain channels by default. Ask for an invitation to `#curriculum` for
-  curricular discussion.
+  curricular discussion. Those reporting into curriculum are also invited to the
+  `#curriculum-internal` channel. The latter is "safe zone" for team discussion
+  (and private).
 
 
 [about-FI-school]: https://flatironschool.com/about-flatiron-school/
