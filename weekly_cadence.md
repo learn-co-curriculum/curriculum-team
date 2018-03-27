@@ -78,8 +78,8 @@ _Standard_
 
 ## Thursday
 
-Online education meeting. This is where we do a status update on where the
-group is. We want to report happy things.
+**Reporting Day** This is where we do a status update on where the group is. We
+want to report happy things.
 
 ### Standup
 
@@ -87,11 +87,8 @@ _Standard_
 
 ### Operations
 
-1. Check in on the [Github issues report][gir]. If you don't have the ability
-   to view this, check out the [Instructor App][ia] page. The goal here is to
-   check what happened since last Thursday and see if something has gone horribly
-   wrong. Look for new entrants in our "managed sections" and clean them out.
-2. (Manager) Write reports for reporting status
+1. Check in on the [Github issues report][gir]
+2. (Manager) Write reports for [reporting status][statusrep]
 
 ### Projects
 
@@ -114,7 +111,8 @@ _TBD_
 1. Have fun!
 
 
-[gir]: http://localhost:5000/curriculum/github_issues_report
+[statusrep]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=374068213
+[gir]: http://instruction.learn.co/curriculum/github_issues_report/
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
 [qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
