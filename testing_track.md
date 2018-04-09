@@ -1,19 +1,28 @@
+# Introduction
+
+**Tracks** define the lessons that are to be provided as part of the experience
+of the students in a **batch**. Batches are the join model between students
+and a given track.
+
+Batches are assigned tracks that they "present" to their students. Thus a given
+batch can present "foo-bar" as well as "full stack web development 4" and
+"embedded python idea"
+
 # Testing Track
 
-First: **tracks cannot be destroyed**
+First: **tracks cannot be destroyed** Therefore: **we have a test track**
+if you need it **however** you should not count on this to be anything but
+ephemeral; data might be lost, etc.
 
-Therefore: **we have a test track**
-
-and... **you should not count on this to be anything but ephemeral; data might
-be lost, etc.**. That said: you could Slack the channel before you do any
-overhauls that break things.
-
-Also: **you should break the binding between the track to your test batch when
-you are done so someone else can use this track**
+Most often, thus far, practice has shown you will generally **not** need
+a test track. You will either be deploying an existing track, a 
+monthballed track, or a new track that has not been associated with any
+batches (yet). We'll talk more about batches below.
 
 **Track Name**: [curriculum-livetrack-test][test]
 
-[test]: https://learn.co/curriculum/tracks/32272
+Also: **you should break the binding between the track to your test batch when
+you are done so someone else can use this track**
 
 ## Tracks
 
@@ -60,7 +69,12 @@ you'd do it:
    step 3 exists. Specify your admins and specify the default track that the
    batch is to be populated with.
 6. Viol&agrave;! You have a batch!
+
 ## Add the Test Track as the Track to your Test Batch
 
 If you need to create your own batch, add `curriculum-livetrack-test` as a
-track that's assigned to it.
+track that's assigned to it. Alternatively, if you're working on a track
+that's _not_ ephemeral, deploy it to the `sgharms-test-webdev-fund` batch.
+
+
+[test]: https://learn.co/curriculum/tracks/32272
