@@ -5,10 +5,13 @@ expand / improve scripting and tooling. It also shows (I think) the Unix
 philosophy and how (I beleive) we should model this for students. It's Scrappy,
 the way unix and Flatiron School, both are but blends programming, scripting,
 shell, etc. in a way that FSWD developers do to "get things done." Maybe this
-ought be a track? Dunno.
+ought be a track? Dunno. It also means that you don't have to write throwaway
+code. The throwaway stuff is in pure CLI Unix.
 
 It's not a straight PROCESS, but more of an approach. It will need to be
 amended and edited by intelligences before execution.
+
+----
 
 Scenario:
 
