@@ -81,7 +81,9 @@ _Extremely under construction as of 2017-12-28_
 ### Deploying Major Releases of Curriculum
 
 Occasionally re release new "major versions" of the Curriculum. Here is the
-process for that.
+process for that. It's a big deal and requires careful coordination with
+Product, Admissions, Section Leads. Read and _consider_ the following, it's not
+a rote play-book.
 
 * [MAJOR THING: Deploying New Major Versions of Curriculum][newver-proc]
 
