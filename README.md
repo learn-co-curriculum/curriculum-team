@@ -77,6 +77,8 @@ _Extremely under construction as of 2017-12-28_
 * [Deprecated Labs](./deprecated-labs.md)
 * [Duplicated Labs](./duplicated-labs.md)
 * [Deleting Labs](./deleting-labs.md)
+* ["What the heck is this data-visibility thing at the bottom of
+  READMES?"](./data-vis-backlink.md)
 
 ### Deploying Major Releases of Curriculum
 
