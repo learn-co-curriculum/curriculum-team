@@ -77,8 +77,8 @@ _Extremely under construction as of 2017-12-28_
 * [Deprecated Labs](./deprecated-labs.md)
 * [Duplicated Labs](./duplicated-labs.md)
 * [Deleting Labs](./deleting-labs.md)
-* ["What the heck is this data-visibility thing at the bottom of
-  READMES?"](./data-vis-backlink.md)
+* ["What the heck is this data-visibility thing at the bottom of READMES?"](./data-vis-backlink.md)
+* ["Mass updates to curriculum - HOW?"](./how_i_did_a_mass_update.md)
 
 ### Deploying Major Releases of Curriculum
 
