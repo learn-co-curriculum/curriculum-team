@@ -25,9 +25,26 @@ This document assumes that you have followed the suggested process flow and are 
     - To add a reviewer as a student, click the blue + Students link at the top of the page.
     - To add a reviewer as an admin or teaching assistant, click on the blue + link in the right sidebar.
     - Use the box to search for the reviewer's name or email address. If the reviewer is a Flatiron School employee, clicking on their name should bring up the correct email address for them.
-        ![Find reviewer](./img/qa-process/qa-curriculum-find-reviewer.png)
+    ![Find reviewer](./img/qa-process/qa-curriculum-find-reviewer.png)
 3. Publish updated lessons to the QA-curriculum track.
-4. Email reviewers to inform them that they have new content to review.
+  - Navigate to the [track page](https://learn.co/curriculum/tracks), locate, and click on the QA-curriculum track.
+  - Ensure the batch you are looking at is the qa-review batch.
+  ![Curriculum batch](./img/qa-process/qa-curriculum-right-batch.png)
+  - Locate the lesson you would like to deploy, and check the box on the right-hand side of the lesson. Repeat this for every lesson you'd like to deploy.
+  ![Lesson to be deployed](./img/qa-process/qa-curriculum-lesson-to-deploy.png)
+  - Once all lessons have been selected, click the blue deploy button on the bottom of the screen.
+  ![Deploy button](./img/qa-curriculum-deploy-button.png)
+  - Read the alert carefully to ensure that all the lessons selected are correct. If so, click the blue continue button. Your curriculum will be deployed.
+  ![Alert box and continue button](./img/qa-curriculum-alert-continue.png)
+4. Confirm the lessons have been deployed
+  - Navigate to [Learn.co](https://learn.co/)
+  - Click on the Curriculum link in the upper left-hand corner, and select the change button next to your current track.
+  ![Curriculum drop-down](./img/qa-curriculum-drop-down.png)
+  - Select the QA-Curriculum track
+  ![Curriculum track selector](./img/qa-curriculum-track-selector.png)
+  -Click on the curriculum link again to view the file tree and ensure your lessons have been deployed.
+  ![Curriculum file tree](./img/qa-curriculum-file-tree.png)
+5. Email reviewers to inform them that they have new content to review.
 #### Suggested email message:
 Thank you for your availability. Your review of the {{INSERT SECTION HERE}} will ensure it will be in the best state possible before we release it our students.
 
