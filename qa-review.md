@@ -1,10 +1,3 @@
-Document how to release a branch to the curriculum team test track
-Workflows by changes
-needs to be reviewed in learn internally, but within the learn framework
-	- work completed/deployed to the QA batch
-	- need to write up instructions on how to switch to the QA track
-  - need internal instructions for adding someone to the appropriate batch
-***********
 This document assumes that you have followed the suggested process flow and are at the point where you are ready to have your work reviewed, either internally or externally. If you are just starting work, make sure you have read [why we always work in WIP](./why-we-work-in-wip.md), [major project deploy](./major_project_deploy_new_version.md), [git flow](./repo-git-flow), and the Flatiron School [style guide](./style_guide). The full process for releasing can be found in [updating lessons process](./updating-lessons-process.md).
 
 
@@ -32,15 +25,3 @@ This document assumes that you have followed the suggested process flow and are 
     - Use the box to search for the reviewer's name or email address. If the reviewer is a Flatiron School employee, clicking on their name should bring up the correct email address for them.
 3. Publish updated lessons to the QA-curriculum track.
 4. Email reviewers to inform them that they have new content to review.
-
-
-
-- need to understand the propagation of cannonical to students
-- big no-nos while work is in progress:
-	- changing cannonical master, changing solution, making a branch that is not prefaced with WIP, don't change repo names on Github
-	- use the test track if it's appropriate for the work, make sure to follow dev workflow
-- check out WIP branch (explain)
-- publish lessons to QA-curriculum track and batch (qa-review)
-- email reviewers with instructions on how to change their track in learn
-
-QA Process: minor changes with outside reviewers
