@@ -19,9 +19,12 @@ This document assumes that you have followed the suggested process flow and are 
 2. If not already added, add the reviewer to the Qa Review batch.
   - Visit [https://learn.co/batches/](https://learn.co/batches/).
   - Select the qa-review batch under Curriculum (Internal) on the left sidebar.
+    ![Find your batch](./img/qa-process/qa-curriculum-select-batch.png)
   - Add the reviewer under the appropriate category. For most non-technical reviewers, this will be as a student. This is a judgement call on your part, depending on how much access the reviewer should have.
+    ![Add reviewer to the batch](./img/qa-process/  qa-curriculum-add-member-to-batch.png)
     - To add a reviewer as a student, click the blue + Students link at the top of the page.
     - To add a reviewer as an admin or teaching assistant, click on the blue + link in the right sidebar.
     - Use the box to search for the reviewer's name or email address. If the reviewer is a Flatiron School employee, clicking on their name should bring up the correct email address for them.
+        ![Find reviewer](./img/qa-process/qa-curriculum-find-reviewer.png)
 3. Publish updated lessons to the QA-curriculum track.
 4. Email reviewers to inform them that they have new content to review.
