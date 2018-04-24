@@ -51,5 +51,5 @@ We ask that you complete your review by {{DEADLINE}}. Let us know if this is not
 Thank you again,
 {{YOUR NAME}}
 
-** Minor Changes
+## Minor Changes
 - Minor curriculum edits (small wording changes, grammatical error correction, etc) can be done with or without a review at the curriculum writer's discretion.
