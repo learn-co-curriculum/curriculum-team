@@ -28,3 +28,28 @@ This document assumes that you have followed the suggested process flow and are 
         ![Find reviewer](./img/qa-process/qa-curriculum-find-reviewer.png)
 3. Publish updated lessons to the QA-curriculum track.
 4. Email reviewers to inform them that they have new content to review.
+#### Suggested email message:
+Thank you for your availability. Your review of the {{INSERT SECTION HERE}} will ensure it will be in the best state possible before we release it our students.
+
+The objective of the material is {{INSERT OBEJCTIVE/S HERE}}
+
+The revised material includes {{NUMBER}} lessons, and we are asking you to focus on the following:
+-  {{Lesson 1 name, with link}}
+-  {{Lesson 2 name, with link}}
+- etc...
+
+You can find a full list of the updated material here:{{INSERT LINK}}
+
+During the review feel free to create a branch with your edits (please prefix the name of the branch with `wip-`) or open an issue on our Trello board: https://trello.com/b/dujVgBTU/curriculum-big-issues under the {{INSERT SECTION NAME}} section. Please include the lesson name, issue, and the suggested edit.
+
+Ideally, your review will focus on the details of your assigned lesson. {{FULL REVIEWER}} will be our review hero and will read all the lessons to review the overall content flow.
+
+Let me know it if it would be beneficial to schedule a short meeting to kick off the review and ask any questions that might help you in reviewing the material. I am also available to schedule a discussion after you complete your review to collect your input.
+
+We ask that you complete your review by {{DEADLINE}}. Let us know if this is not feasible.
+
+Thank you again,
+{{YOUR NAME}}
+
+** Minor Changes
+- Minor curriculum edits (small wording changes, grammatical error correction, etc) can be done with or without a review at the curriculum writer's discretion.
