@@ -33,17 +33,17 @@ This document assumes that you have followed the suggested process flow and are 
   - Locate the lesson you would like to deploy, and check the box on the right-hand side of the lesson. Repeat this for every lesson you'd like to deploy.
   ![Lesson to be deployed](./img/qa-process/qa-curriculum-lesson-to-deploy.png)
   - Once all lessons have been selected, click the blue deploy button on the bottom of the screen.
-  ![Deploy button](./img/qa-curriculum-deploy-button.png)
+  ![Deploy button](./img/qa-process/qa-curriculum-deploy-button.png)
   - Read the alert carefully to ensure that all the lessons selected are correct. If so, click the blue continue button. Your curriculum will be deployed.
-  ![Alert box and continue button](./img/qa-curriculum-alert-continue.png)
+  ![Alert box and continue button](./img/qa-process/qa-curriculum-alert-continue.png)
 4. Confirm the lessons have been deployed
   - Navigate to [Learn.co](https://learn.co/)
   - Click on the Curriculum link in the upper left-hand corner, and select the change button next to your current track.
-  ![Curriculum drop-down](./img/qa-curriculum-drop-down.png)
+  ![Curriculum drop-down](./img/qa-process/qa-curriculum-drop-down.png)
   - Select the QA-Curriculum track
-  ![Curriculum track selector](./img/qa-curriculum-track-selector.png)
+  ![Curriculum track selector](./img/qa-process/qa-curriculum-track-selector.png)
   -Click on the curriculum link again to view the file tree and ensure your lessons have been deployed.
-  ![Curriculum file tree](./img/qa-curriculum-file-tree.png)
+  ![Curriculum file tree](./img/qa-process/qa-curriculum-file-tree.png)
 5. Email reviewers to inform them that they have new content to review.
 #### Suggested email message:
 Thank you for your availability. Your review of the {{INSERT SECTION HERE}} will ensure it will be in the best state possible before we release it our students.
