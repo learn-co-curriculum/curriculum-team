@@ -19,6 +19,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 #### Onboarding
 
+* [Administrator Guide](./onboarding-someone.md)
 * [What is My Job?](./the_job.md)
 * [Your First Day](./first_day.md)
 * [What Tools Should I Have?][tooldoc] : _Some tooling here is not applicable to

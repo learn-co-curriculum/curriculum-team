@@ -22,7 +22,7 @@ into a separate document: the [instructor app][]
 ## (Optional) Markdown Editor
 
 We write, a lot, in Markdown. If you benefit from a WYSIWYG editor, use it.
-HOWEVER, make sure the code you check in is matches with our [style guide][].
+HOWEVER, make sure the code you check in is matches with our [style guide][sg].
 
 In general, you will need to do some text transformation (see "Powerful Text
 Editor") in order to make it compliant. Steven recommends learning to "read"
@@ -44,3 +44,4 @@ If this is a growth area, be sure to communicate this early so that we can show
 you advanced techniques which help editors / authors work more efficiently.
 
 [instructor app]: (./instructor_app.md)
+[sg]: (./style_guide.md)
