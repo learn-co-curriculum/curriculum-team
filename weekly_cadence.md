@@ -22,7 +22,7 @@ _Supercedes Stand-Up_
 2. Review our [Online Team Impact page][impact-page] from Section Leads
 3. Review [Question Volume by Lesson][qvl] from Section Leads
 4. Review [Github Known Issues Health Sheet][gki]
-5. Review [Github issues report][gir].
+5. Review [Github issues chart][gir].
 6. Schedule an interval (~90 minutes) burning down our "current focus."
 7. Assign the [ops-duty guru](./ops-guru-duty.md)
 
@@ -53,7 +53,7 @@ _Standard_
 
 ### Organization
 
-1. Remember the round-up at 1700 Eastern.
+1. Remember the round-up
 
 ----
 
@@ -112,7 +112,7 @@ _TBD_
 
 
 [statusrep]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=374068213
-[gir]: http://instruction.learn.co/curriculum/github_issues_report/
+[gir]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=1232053441
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
 [qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
