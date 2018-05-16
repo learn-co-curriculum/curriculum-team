@@ -18,7 +18,7 @@
    the topic. There are two approaches here:
    1. Create a repo in the `learn-co-curriculum` org using the "New Repository"
       process in GitHub. You can then "Find Lesson" in Learn and include it in
-      the Topic
+      the `Topic`. **This is the recommended path.**
    2. Choose "Create Lesson" which will launch an editor and create a repo for you.
       This interface is more buggy and is not actively encouraged by the Product
-      team. For this reason **we recommend you follow the process described above**.
+      team. For this reason **we discourage this approach**.
