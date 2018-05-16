@@ -29,3 +29,18 @@ process we describe here work with more schools and more curricula?
 
 It's a hard problem and we're finding our way. We just don't have a process
 yet. Talk to #curriculum and we'll try to help get the change integrated.
+
+## My Students are Stymied, we have a PR, why won't you merge it!?!
+
+Curriculum was (re-)born in 2018 with a backlog of ~600 issues dating
+from the ~2 year time period when the team was disbanded. As of January
+2018 we are trying to 1) advance business strategy by releasing new
+products releases, etc. ("projects") and balancing that against 2)
+needs to maintain and sustain the existing operation ("ops"). Where
+there is a bug that's been ignored and a fix is present, please use the
+Slack channel `#curriculum` as an interrupt to put our attention on something
+in a timely fashion.
+
+Bear in mind order and structure issues are far less easily integrated, but
+"point" fixes to repos should be implement-able quickly, once our "interrupt"
+is activated.
