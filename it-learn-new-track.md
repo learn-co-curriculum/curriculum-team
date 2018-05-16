@@ -11,5 +11,5 @@
 6. You can now choose to create a topic or find a topic. Since, for the most
    part, you're going to keep 90%+ of what was pre-existing you're going to
    want to copy nearly 100% and pare down what doesn't need to exist any longer
-   ("deleting"). ![Add a Topic](./img/topic_add_create_find.png)
+   ("deleting"). <br/> ![Add a Topic](./img/topic_add_create_find.png)
 
