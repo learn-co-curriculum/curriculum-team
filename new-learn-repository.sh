@@ -65,7 +65,7 @@ EOT
 cat > LICENSE.md <<EOT
 # Learn.co Educational Content License
 
-Copyright (c) 2015 Flatiron School, Inc
+Copyright (c) 2018 Flatiron School, Inc
 
 The Flatiron School, Inc. owns this Educational Content. However, the Flatiron
 School supports the development and availability of educational materials in
