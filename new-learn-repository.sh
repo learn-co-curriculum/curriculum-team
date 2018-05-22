@@ -5,15 +5,26 @@
 ##### example - learn-create js-functions-readme
 #
 # learn-create () {
-#  mkdir $1
-#  cd $1
-#  git init
-#  bash ~/new-learn-repository.sh
-#  hub create learn-co-curriculum/${PWD##*/}
-#  git add .
-#  git commit -m 'initial commit using learn-create'
-#  git remote add origin https://github.com/learn-co-curriculum/${PWD##*/}.git
-#  git push
+#   mkdir $1
+#   cd $1
+#   git init
+#   bash <(curl -s https://raw.githubusercontent.com/learn-co-curriculum/curriculum-team/master/new-learn-repository.sh?token=AQS7rfFKV1FFKdVjiCscLlG9_4DqMJ_Vks5bDXRDwA%3D%3D)
+#   hub create learn-co-curriculum/${PWD##*/}
+#   git remote add origin https://github.com/learn-co-curriculum/${PWD##*/}.git
+#   git add .
+#   git commit -m 'initial commit with learn-create'
+#   if git push
+#   then
+#     echo "git push succeeded"
+#   else
+#     echo "push failed, attempting --set-upstream"
+#     if git push --set-upstream origin master
+#     then
+#       echo "...pushed!"
+#     else
+#       echo "push to remote origin failed!"
+#     fi
+#   fi
 # }
 #
 ### for github remote repo creation:
