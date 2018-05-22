@@ -12,6 +12,7 @@
 #  hub create learn-co-curriculum/${PWD##*/}
 #  git add .
 #  git commit -m 'initial commit using learn-create'
+#  git remote add origin https://github.com/learn-co-curriculum/${PWD##*/}.git
 #  git push
 # }
 #
