@@ -40,6 +40,8 @@ Contents:
   * [Prefer Active Voice](#prefer_active_voice)
   * [Write from the Student Perspective](#write_from_the_student_perspective)
   * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
+* Word Choice
+  * [Terminal, console, etc.](#wc_terminal)
 
 ---
 
@@ -621,6 +623,24 @@ It's tempting to "plant" a rhetorical question in order to set up material.
 Often, however, this work is not required. They're reading a lesson expecting
 to have material presented. Speaking with authority, especially in earlier
 courses, creates safety that allows them to learn comfortably.
+
+## Specific Word Choice
+
+<a name="wc_terminal"></a>
+### Terminal, console, etc.
+
+Given our subject matter we have to be careful not to conflate `bash`, `shell`,
+`command line`, `command promnpt`. Here are tips:
+
+* All students should be pointed to the `terminal`. Pretty safe
+* `Terminal` is a command used only by Mac users. Not safe
+* `console`s exist in Chrome and in an XTerm. Not safe.
+* `bash` is a specific shell. Probably not safe.
+* `the shell` takes input, thinks, prints things out. Pretty safe
+* The command prompt is the thing set by `PS1`, might be safe to orient by,
+  but it doesn't process data, etc.
+* The command-line...roughly the same as shell, but it's really a style of
+  of interaction. Prefer shell.
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
