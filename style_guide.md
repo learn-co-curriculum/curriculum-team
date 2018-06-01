@@ -8,6 +8,7 @@ style decisions.
 Contents:
 
 * Flatiron Concerns
+  * [American English Standard](#american_dictionary)
   * [Do Not Mention Dates](#do_not_mention_dates)
 * Formatting Markdown
   * [Text Wrap at 80 Column](#text_wrap_at_80_column)
@@ -47,6 +48,13 @@ Contents:
 
 ## Flatiron Concerns
 
+<a name="american_dictionary"></a>
+
+## American English Standard
+
+We draw from the American English dictionary. It's a "hood" not a "bonnet," a "trunk" not a "boot," a "color" not a 
+"colour" et al.
+
 <a name="do_not_mention_dates"></a>
 
 ## Do Not Mention Dates
@@ -56,7 +64,6 @@ module" seems specific, obivious, and routine, but in the US Market, many
 holidays fall on Monday such that this won't be appropriate. As Flatiron has an
 ever wider presence we will run against cultures that work on Friday, don't
 work on Saturday, etc.
-
 
 ## Formatting Markdown
 
