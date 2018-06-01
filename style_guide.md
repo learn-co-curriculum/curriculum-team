@@ -97,6 +97,11 @@ That said, **don't make this a crusade**. It would be an anti-pattern to
 iterate through old curriculum making everything 80-column compliant. If you're
 going to do substantial rework or new work, adhere to this guideline.
 
+Also, Markdown image linking will break sometimes if you hard break.
+First, using the inline link style _generally_ prevents this. However, if
+it's onerous, make one long line in order to keep all the inclusion syntax
+working.
+
 <a name="code_words"></a>
 
 #### Code Words
