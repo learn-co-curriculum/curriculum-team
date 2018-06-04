@@ -35,6 +35,7 @@ Contents:
   * [Learner vs. learner](#learner_vs_learner)
   * [Tables](#tables)
   * [Headings Should Be Capitalized According to AP Style](#headings_should_be_capitalized_according_to_ap_style)
+  * [Bullet Terminators](#bullets)
 * Engaging Writing
   * [Avoid Burying the Lede](#avoid_burying_the_lede)
   * [Write to a Junior High level](#write_jr_high)
@@ -508,6 +509,13 @@ code snippets, and use markdown reference notation for icon links inside a
 
 Capitalize every word except: "a," "an," "and," "at," "but," "by," "for," "in,"
 "nor," "of," "on," "or," "out," "so," "the," "to," "up," and "yet."
+
+<a name="bullet_termination"></a>
+
+### Bullet Termination
+
+At the end of a sentence on a bullet **do not** add a period. If multiple sentences
+are present in the bullet, punctuate as normal but leave the period off the last statement.
 
 <a name="write_jr_high"></a>
 
