@@ -37,6 +37,7 @@ Contents:
   * [Headings Should Be Capitalized According to AP Style](#headings_should_be_capitalized_according_to_ap_style)
 * Engaging Writing
   * [Avoid Burying the Lede](#avoid_burying_the_lede)
+  * [Write to a Junior High level](#write_jr_high)
   * [Avoid Value Judgements](#avoid_value_judgements)
   * [Prefer Active Voice](#prefer_active_voice)
   * [Write from the Student Perspective](#write_from_the_student_perspective)
@@ -507,6 +508,25 @@ code snippets, and use markdown reference notation for icon links inside a
 
 Capitalize every word except: "a," "an," "and," "at," "but," "by," "for," "in,"
 "nor," "of," "on," "or," "out," "so," "the," "to," "up," and "yet."
+
+<a name="write_jr_high"></a>
+
+### Write to a Junior-High Reading Level
+
+While beautiful prose is something that we, as writers, likely hold dear, we
+need to downplay that when writing technical material. We want the cognitive
+burden to be on the _learning_ not waiting for the third nested appositive in
+the sentence after an em-dash to be the burden.
+
+In effort to help this we're using readable.io to score. While there are some
+cases where using words that readable doesn't like are the right thing to do
+(e.g. "integrated development environment" is, well, what it is, I don't give a
+damn if those mean a lot of syllables that make for long sentences in their
+scorer).
+
+For READMES, target 6.x and for technical material target 7.x. Obviously, the
+lower the score the more friendly you are to the reader, but let's be
+reasonable.
 
 <a name="avoid_burying_the_lede"></a>
 
