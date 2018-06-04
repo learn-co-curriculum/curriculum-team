@@ -26,11 +26,11 @@ Every Monday, 0900 Eastern
 
 * July 14: Check up on readability.io
 
-## Standing Agenda
+## Standing Items
 
 * Weekly Standup Chant, but for the week (Every Attendee)
   * What you did last week
   * What you're going to do this week
   * Perceived blockers
 * Weekly Standup _for the team_ (Manager, FSWD)
-* New Business Items
+* Vacations / Sabbatical / Unusual OOO
