@@ -670,13 +670,21 @@ courses, creates safety that allows them to learn comfortably.
 ### Terminal, console, etc.
 
 Given our subject matter we have to be careful not to conflate `bash`, `shell`,
-`command line`, `command promnpt`. Here are tips:
+`command line`, `command prompt`. It's important to be clear on which layer
+of abstracting you're working with, where. The general preferred nouns should
+be `terminal` and `shell`. Here are tips for sensing the boundary:
 
-* All students should be pointed to the `terminal`. Pretty safe
+* All students should be pointed to the `terminal`. Pretty safe. This means
+  the terminal emulation program, i.e. the thing that handles raw input and output
+  and painting a screen. **NOTE** it does not process the input for semantic
+  meaning. `ls` is handled by the **shell** not the **terminal**. You _can_
+  type `ls` into the termainal though.
+* `the shell` takes input, thinks, prints things out. Pretty safe. Use this when
+   you're trying to talk about the OS level mechanics. The shell doesn't paint
+   the screen.
 * `Terminal` is a command used only by Mac users. Not safe
 * `console`s exist in Chrome and in an XTerm. Not safe.
 * `bash` is a specific shell. Probably not safe.
-* `the shell` takes input, thinks, prints things out. Pretty safe
 * The command prompt is the thing set by `PS1`, might be safe to orient by,
   but it doesn't process data, etc.
 * The command-line...roughly the same as shell, but it's really a style of
