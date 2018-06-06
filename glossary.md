@@ -46,5 +46,5 @@
 <dl id="u-items">
   <dt><a name="unit">Unit</a></dt><dd>A collection of <em>at least</em> two
   pieces of content e.g. a <a href="#readme">Readme</a> and a <a
-  href="#lab">lab</a>. Units are arregated into a <a href="#topic">Topics</a>.</dd>
+  href="#lab">lab</a>. Units are aggregated into a <a href="#topic">Topics</a>.</dd>
 </dl>
