@@ -45,6 +45,7 @@ Contents:
   * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
 * Word Choice
   * [Terminal, console, etc.](#wc_terminal)
+  * [Table of Word Choice Alternatives](#wc_subs)
 
 ---
 
@@ -689,6 +690,13 @@ be `terminal` and `shell`. Here are tips for sensing the boundary:
   but it doesn't process data, etc.
 * The command-line...roughly the same as shell, but it's really a style of
   of interaction. Prefer shell.
+  
+<a name="wc_subs"></a>  
+Table of Substitutions
+
+|Not|Prefer|
+|---|------|
+|interacting|working|
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
