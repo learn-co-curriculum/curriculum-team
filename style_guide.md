@@ -697,6 +697,8 @@ Table of Substitutions
 |Not|Prefer|
 |---|------|
 |interacting|working|
+|as presented by|shown|
+|erroneous|wrong|
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
