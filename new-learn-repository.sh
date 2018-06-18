@@ -8,7 +8,7 @@
 #   mkdir $1
 #   cd $1
 #   git init
-#   bash <(curl -s https://raw.githubusercontent.com/learn-co-curriculum/curriculum-team/master/new-learn-repository.sh?token=AQS7rfFKV1FFKdVjiCscLlG9_4DqMJ_Vks5bDXRDwA%3D%3D)
+#   bash <(curl -s https://raw.githubusercontent.com/learn-co-curriculum/curriculum-team/master/new-learn-repository.sh?token=AYgaYLq5auX01Vters9SdX-GvDsLWVVFks5bMRFgwA%3D%3D)
 #   hub create learn-co-curriculum/${PWD##*/}
 #   git remote add origin https://github.com/learn-co-curriculum/${PWD##*/}.git
 #   git add .
