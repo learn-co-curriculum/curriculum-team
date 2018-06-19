@@ -20,6 +20,7 @@ Contents:
   * [Code Blocks](#code_blocks)
   * [Block Quote](#block_quote)
   * [Lists](#lists)
+  * [Do Not Use Curly-Quotes](#curly_quotes)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
@@ -401,6 +402,15 @@ When writing an "in-line quote", punctuation should remain outside the phrase
 "unless you are making a reference quote that includes it." Punctuation symbols
 can have technical importance to the subject matter so explicitly excluding
 punctuation from quotes is justifiable.
+
+<a name="curly_quotes"></a>
+
+##### Do Not Use Curly-Quotes
+
+No: `”`
+
+They render unpredictably, you can't search for them from a standard keyboard.
+No. Also no: &raquo; &laquo;. Use American quotation formatting.
 
 ## Style
 
