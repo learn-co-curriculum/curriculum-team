@@ -39,7 +39,12 @@ sparingly and with care lest the curriculum grow treacly or over-precious
 ## Pedagogical Approach
 
 We want to begin in the middle, jump to the bottom, spiral upward back to
-the middle, and then launch upward.
+the middle, and then launch upward. It is fine, in early documents, to
+give rules or rote practices. Subtleties and edge cases can be saved for later.
+
+As developers we are loath to say anything online which means we'll have a
+Twitter rage-fight about subtleties of something we said. That impulse should
+not limit your providing rules to beginners. They are paying for our heuristics.
 
 ## Embrace Doing it by Hand
 
