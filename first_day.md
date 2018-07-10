@@ -24,6 +24,7 @@ Welcome to your first day in Flatiron School Curriculum!
   sure that your manager knows about you, how you can be helped, areas where you
   are excited to grow, etc.
 * Read the [Flatiron School Style Guide][brand-book]
+* Add yourself to the [Team List](./team_members.md)
 
 ## Important Knowledge
 
