@@ -12,7 +12,6 @@ A full specification of its properties can be found in the
 
 * `tags`: An array which contains tags associated with the lesson
 * `language`: The languages which are used
-* `resources`: _undefined_
 
 Specific documentation for each key follows.
 
