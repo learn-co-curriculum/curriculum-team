@@ -197,7 +197,7 @@ you return!
 
 ### Lists:
 
-1. Lists can be automatically numbered.
+1. Lists can be automatically numbered,
    * and contain bullet points
 
 * Or they can be unnumbered (bulleted) lists
