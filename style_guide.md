@@ -140,17 +140,17 @@ python).
 Don't capitalize:
 
 * autolayout (iOS)
-* bash — the commonly-used acronym for Bourne-Again SHell.
+* bash — the commonly-used acronym for Bourne-Again SHell
 * boolean — though in specific reference to the fields of Boolean Algebra or
-* Boolean Logic this can be appropriate, just be consistent.
+Boolean Logic this can be appropriate, just be consistent
 * debug console (iOS) — this is a colloquial name for the 'Console Output
-* Viewer' in Xcode
+Viewer' in Xcode
 
 **Do** capitalize:
 
-* *most acronyms:* CLI, URL, HTTP, LLDB.
+* *most acronyms:* CLI, URL, HTTP, LLDB
 * *names of programming languages:* Python, Ruby, Objective-C, Swift, JavaScript
-* Interface Builder — Xcode's integrated storyboard design tool.
+* Interface Builder — Xcode's integrated storyboard design tool
 
 <a name="asides"></a>
 
@@ -197,10 +197,10 @@ you return!
 
 ### Lists:
 
-1. Lists can be automatically numbered,
-   * and contain bullet points.
+1. Lists can be automatically numbered.
+   * and contain bullet points
 
-* Or they can be unnumbered (bulleted) lists.
+* Or they can be unnumbered (bulleted) lists
 
 2 — You can also manually number your list if the automatic numbering gets
 broken because of a code-snippet.
@@ -219,22 +219,22 @@ that numbers from zero to ten should be written out and values over 1,000
 should be written with comma separators. Since this can collide with discussing
 code, think of the use case to determine what you're talking about. Are you:
 
-* discussing the number only in your exposition? Use the English form. 
+* discussing the number only in your exposition? Use the English form 
 * discussing an integer value from your code? Put the digit `10` in a code
-  snippet. 
+  snippet 
 * discussing an abstract count that's relevant to your code? Do both, by
-* presenting it as ten (10) or ten (`10`).
+presenting it as ten (10) or ten (`10`)
 
 <a name="latin_abbrevs"></a>
 
 ### *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
 
 * e.g. — Latin for "given example(s)" — points to a single example or a finite
-  list of examples.
+  list of examples
 * i.e. — Latin for "meaning" — points out a further explanation of the same
-  idea.
+  idea
 * etc. — follows one or several examples pulled from a longer set of potential
-  examples. 
+  examples
 
 *etc. and e.g. should not be combined in the same list*
 
@@ -274,7 +274,7 @@ to 80-columns. Here's an example of how this looks when it goes wrong:
 
 ### Do Not Leave Hanging Whitespace at End-of-Line
 
-When editing it's common to leave hanging whitespace
+When editing it's common to leave hanging whitespace.
 
 ```
 I hope that this 
@@ -480,14 +480,14 @@ You can use ActiveRecord ('AR') to access the database...
 Because of our appropriation of the word "learn" among our curriculum software,
 disambiguating its use is important:
 
-* learn — verb — to gain knowledge or improve a skill. 
+* learn — verb — to gain knowledge or improve a skill
 * `learn` command, the — noun phrase (as, "the `learn` command") — the bash
   command that runs all tests in labs. This should always be wrapped in
-  a code snippet.
+  a code snippet
 * Learn.co — proper noun — the website and address of the curriculum tool
-  available to students, faculty, and staff.
+  available to students, faculty, and staff
 * Learn IDE, the — proper noun — the application that students use to work
-  through the Learn.co curriculum.
+  through the Learn.co curriculum
 
 Usage:
 
@@ -500,7 +500,7 @@ by uploading information through the Learn IDE."
 
 * learner — noun — a person who is gaining new knowledge or developing a skill.
 * Learner — proper noun — a student using Learn.co to learn software
-* development.
+development.
 
 Usage:
 
@@ -693,17 +693,17 @@ be `terminal` and `shell`. Here are tips for sensing the boundary:
   the terminal emulation program, i.e. the thing that handles raw input and output
   and painting a screen. **NOTE** it does not process the input for semantic
   meaning. `ls` is handled by the **shell** not the **terminal**. You _can_
-  type `ls` into the termainal though.
+  type `ls` into the termainal though
 * `the shell` takes input, thinks, prints things out. Pretty safe. Use this when
    you're trying to talk about the OS level mechanics. The shell doesn't paint
-   the screen.
+   the screen
 * `Terminal` is a command used only by Mac users. Not safe
-* `console`s exist in Chrome and in an XTerm. Not safe.
-* `bash` is a specific shell. Probably not safe.
+* `console`s exist in Chrome and in an XTerm. Not safe
+* `bash` is a specific shell. Probably not safe
 * The command prompt is the thing set by `PS1`, might be safe to orient by,
   but it doesn't process data, etc.
 * The command-line...roughly the same as shell, but it's really a style of
-  of interaction. Prefer shell.
+  of interaction. Prefer shell
   
 <a name="wc_subs"></a>  
 Table of Substitutions
