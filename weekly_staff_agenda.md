@@ -16,7 +16,6 @@ Every Monday, 1000 Eastern
 
 * Weekly Standup Chant, but for the week (Every Attendee)
   * What you did last week
-  * What you're going to do this week
-  * Perceived blockers
+  * What's on your mind for this upcoming week
 * Weekly Standup _for the team_ (Manager, FSWD)
 * Vacations / Sabbatical / Unusual OOO
