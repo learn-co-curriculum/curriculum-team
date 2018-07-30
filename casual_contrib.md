@@ -16,10 +16,15 @@ challenges is a major question for the road ahead.
 
 ## I Want To Update a Lesson Or Lab
 
+We call these "targeted fixes" (it's a small thing...) or "repository fixes"
+(the flow or explanation are off).
+
 1. Read the [style guide](./style_guide.md)
+1. Create a pull request with your solution **OR**
 1. Create an issue that reports the problem
-1. Create a pull request with your solution
-1. Notify #curriculum on Slack
+1. Create an entry via the [form][]
+
+[form]: https://docs.google.com/forms/d/e/1FAIpQLScRHNWEycL_dup5uX7IKrae6YGKARdG0ZekF80bJqT75GfGDg/viewform?usp=sf_link
 
 ## I Want To Change The Way We Teach a Topic (order)
 
@@ -27,8 +32,8 @@ Phew, this one is a bit dicier. What if your change sets us backward (I'm sure
 it won't) or what if another teacher disagrees with you? And how will whatever
 process we describe here work with more schools and more curricula?
 
-It's a hard problem and we're finding our way. We just don't have a process
-yet. Talk to #curriculum and we'll try to help get the change integrated.
+Write your perspective, point of view, recommendation, edits etc. Then use
+the [form][] to alert us to the presence of the issue and we'll be in contact.
 
 ## My Students are Stymied, we have a PR, why won't you merge it!?!
 
