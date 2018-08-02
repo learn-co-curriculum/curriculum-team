@@ -17,4 +17,6 @@ Every Monday, 1000 Eastern
 * Weekly Standup _for the team_ (Manager, FSWD)
 * Vacations / Sabbatical / Unusual OOO
 * Review our [active projects](https://docs.google.com/spreadsheets/d/115um-NPIENKyeBPK3pvXi0JZvAsO4W7eCw73DjWjDK0/edit#gid=0)
-* Review support requests [spreadsheet](https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit?usp=sharing) & Update reporting sheet
+* Operations and Maintenance
+  * Review support requests [spreadsheet](https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit?usp=sharing)
+  * Update reporting sheet
