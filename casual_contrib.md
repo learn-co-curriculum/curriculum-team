@@ -24,7 +24,7 @@ We call these "targeted fixes" (it's a small thing...) or "repository fixes"
 1. Create an issue that reports the problem
 1. Create an entry via the [form][]
 
-[form]: https://docs.google.com/forms/d/e/1FAIpQLScRHNWEycL_dup5uX7IKrae6YGKARdG0ZekF80bJqT75GfGDg/viewform?usp=sf_link
+We review the form at our weekly staff meeting on Mondays.
 
 ## I Want To Change The Way We Teach a Topic (order)
 
@@ -34,6 +34,8 @@ process we describe here work with more schools and more curricula?
 
 Write your perspective, point of view, recommendation, edits etc. Then use
 the [form][] to alert us to the presence of the issue and we'll be in contact.
+
+We review the form at our weekly staff meeting on Mondays.
 
 ## My Students are Stymied, we have a PR, why won't you merge it!?!
 
@@ -49,3 +51,5 @@ in a timely fashion.
 Bear in mind order and structure issues are far less easily integrated, but
 "point" fixes to repos should be implement-able quickly, once our "interrupt"
 is activated.
+
+[form]: https://docs.google.com/forms/d/e/1FAIpQLScRHNWEycL_dup5uX7IKrae6YGKARdG0ZekF80bJqT75GfGDg/viewform?usp=sf_link
