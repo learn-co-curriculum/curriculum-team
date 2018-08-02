@@ -20,3 +20,9 @@ Every Monday, 1000 Eastern
 * Operations and Maintenance
   * Review support requests [spreadsheet](https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit?usp=sharing)
   * Update reporting sheet
+  * Review [Github Known Issues Health Sheet][gki] -- _Broken_
+  * Review [Github issues chart][gir] -- _Broken_
+
+[qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
+[gki]: https://docs.google.com/spreadsheets/d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit?ts=5a90379e#gid=0
+[gir]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=1232053441
