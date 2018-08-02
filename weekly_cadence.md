@@ -21,8 +21,6 @@ _Supercedes Stand-Up_
 3. Review [Question Volume by Lesson][qvl] from Section Leads
 4. Review [Github Known Issues Health Sheet][gki]
 5. Review [Github issues chart][gir].
-6. Schedule an interval (~90 minutes) burning down our "current focus."
-7. Assign the [ops-duty guru](./ops-guru-duty.md)
 
 ### Project
 
