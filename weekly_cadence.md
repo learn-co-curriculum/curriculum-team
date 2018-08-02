@@ -17,10 +17,7 @@ Thank goodness it's Monday! We're glad you're here.
 
 _Supercedes Stand-Up_
 
-2. Review our [Online Team Impact page][impact-page] from Section Leads
-3. Review [Question Volume by Lesson][qvl] from Section Leads
-4. Review [Github Known Issues Health Sheet][gki]
-5. Review [Github issues chart][gir].
+See [Weekly Staff Agenda](https://github.com/learn-co-curriculum/curriculum-team/blob/master/weekly_staff_agenda.md)
 
 ### Project
 
@@ -106,10 +103,6 @@ _TBD_
 
 1. Have fun!
 
-
 [statusrep]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=374068213
-[gir]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=1232053441
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
-[qvl]: https://docs.google.com/spreadsheets/d/10XLji3-013RWPKNr9WxqiqNobSYWfcat1JJKsIAhDEU/edit?ts=5a8214e8#gid=0
-[gki]: https://docs.google.com/spreadsheets/d/1YUKD-N4XSkn-T4-biA6N1n9LGZDW-qwYhxAH2JAsyMo/edit?ts=5a90379e#gid=0
