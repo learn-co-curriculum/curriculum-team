@@ -19,6 +19,8 @@ _Supercedes Stand-Up_
 
 See [Weekly Staff Agenda](https://github.com/learn-co-curriculum/curriculum-team/blob/master/weekly_staff_agenda.md)
 
+Assign Issues Manager
+
 ### Project
 
 Work on projects.
@@ -35,6 +37,8 @@ It's one of the most effective days for getting work done
 ### Standup
 
 _Standard_
+[
+(Issues Manager) Check [issue queue][gir]
 
 ### Operations
 
@@ -58,6 +62,8 @@ Halfway there!
 
 _Standard_
 
+(Issues Manager) Check [issue queue][gir]
+
 ### Operations
 
 1. Aim to have your Monday Ops-projects 100% done by today
@@ -71,17 +77,15 @@ _Standard_
 
 ## Thursday
 
-**Reporting Day** This is where we do a status update on where the group is. We
-want to report happy things.
-
 ### Standup
 
 _Standard_
 
+(Issues Manager) Check [issue queue][gir]
+
 ### Operations
 
-1. Check in on the [Github issues report][gir]
-2. (Manager) Write reports for [reporting status][statusrep]
+1. (Manager) Write reports for [reporting status][statusrep]
 
 ### Projects
 
@@ -95,6 +99,8 @@ _Standard_
 
 _Standard_
 
+(Issues Manager) Check [issue queue][gir]
+
 ### Operations
 
 _TBD_
@@ -106,3 +112,4 @@ _TBD_
 [statusrep]: https://docs.google.com/spreadsheets/d/1B4oa6VlI6_RIQ3uVN2lra1UoEtxxgYtk6Dp0w-KcBeE/edit#gid=374068213
 [ia]: ./instructor_app.md
 [impact-page]: https://docs.google.com/spreadsheets/d/1F-ePaB2qNIZbb-RxMZ5gSJyrsQvvqiUMfhj4gqneC-M/edit#gid=0
+[gir]: https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit#gid=1916189230
