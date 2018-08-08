@@ -37,7 +37,7 @@ It's one of the most effective days for getting work done
 ### Standup
 
 _Standard_
-[
+
 (Issues Manager) Check [issue queue][gir]
 
 ### Operations
