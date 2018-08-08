@@ -24,3 +24,12 @@ help center here: http://help.learn.co/the-learn-ide.
 
 Good luck
 ```
+
+## Improve Curriculum
+
+```
+Hello,
+
+We're always working to improve the curriculum. This is helpful feedback and we'll take it into consideration as we make future updates. Thank you for taking your time to help us make Learn a better place.
+
+```
