@@ -1,7 +1,5 @@
-Thank you for submitting this PR and catching this issue. 
+Hello,
 
-We've merged the pull request in. Thank you for contributing
-to a learn-co-curriculum repository and helping future
-students learn to code!
+We've merged this pull request in. Thank you for submitting this PR and for contributing to a learn-co-curriculum repository!
 
 We appreciate your support! 💙
