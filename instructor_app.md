@@ -5,9 +5,28 @@
 A guide to installing the Instructor App, a Rails application that hosts many
 data analytics functions.
 
+## Pre-Requisites
+
+### GitHub Group
+
+You need access to the `flatiron-labs` group. This is controlled by `#labs-team`.
+Use this Slack channel and mention @Patrick Veverka to request enrollment. Specify
+that you're part of the Curriculum team looking to work on the Intructor app.
+
+### Production Instructor App Enrollment
+
+Ensure that you've used the production app: https://instruction.learn.co/
+
+If you need access, contact `@Ian Candy` on Slack. Specify
+that you're part of the Curriculum team looking to work on the Intructor app.
+
 ## Repository
 
 https://github.com/flatiron-labs/instructor-app-v2
+
+### Local Setup Documentation:
+
+In: `docs/LOCAL_DEVELOPMENT_SETUP.md` of the repo.
 
 ## Installation
 
