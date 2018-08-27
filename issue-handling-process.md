@@ -1,6 +1,6 @@
 # Closing Issues and PRs
 
-## Issue Resolution Process (ALPHA: 2018-03-06)
+## Issue Resolution Process
 
 ### Goal
 
