@@ -14,6 +14,7 @@ Every Monday, 1000 Eastern
 * Weekly Standup Chant, but for the week (Every Attendee)
   * What you did last week
   * What's on your mind for this upcoming week
+  * Anything "hanging over" from last week that you need to stitch up today?
 * Weekly Standup _for the team_ (Manager, FSWD)
 * Vacations / Sabbatical / Unusual OOO
 * Review our [active projects](https://docs.google.com/spreadsheets/d/115um-NPIENKyeBPK3pvXi0JZvAsO4W7eCw73DjWjDK0/edit#gid=0)
