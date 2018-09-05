@@ -20,8 +20,7 @@ We call these "targeted fixes" (it's a small thing...) or "repository fixes"
 (the flow or explanation are off).
 
 1. Read the [style guide](./style_guide.md)
-1. Create a pull request with your solution **OR**
-1. Create an issue that reports the problem
+1. Create a pull request with your change **OR** Create an issue that reports the problem. These will be created in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`
 1. Create an entry via the [form][]
 
 We review the form at our weekly staff meeting on Mondays.
