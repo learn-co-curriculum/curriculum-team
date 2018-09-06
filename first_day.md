@@ -13,7 +13,7 @@ Welcome to your first day in Flatiron School Curriculum!
   actually work on engineering this app, but you'll definitely work with it in
   a power-user sense! [Read](./tracks-batches-orgs-learn.md)
 * [ "How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
-  shows how to ask Learn about a given lesson / tradck relationship. This will
+  shows how to ask Learn about a given lesson / track relationship. This will
   help you get oriented quickly.
 * Make a meantingful addition to this wiki before you close out for the first
   day. Try to reach beyond grammar and spelling &mdash; resolve a mystery that
