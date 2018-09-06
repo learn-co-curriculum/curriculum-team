@@ -12,6 +12,12 @@ Welcome to your first day in Flatiron School Curriculum!
 * Read up about the organziations / batch / track architecture. You might never
   actually work on engineering this app, but you'll definitely work with it in
   a power-user sense! [Read](./tracks-batches-orgs-learn.md)
+* Request admin permissions to active tracks in Learn.co from 
+  [@sgharms](https://github.com/sgharms) or [@peterbell](https://github.com/peterbell). 
+  This will give you access to courses that students are seeing, and give more 
+  insight as to what the students are experiencing! It may not be necessary knowledge 
+  to complete day-to-day tasks, but can help inspire improvements to our curriculum
+  as the platform evolves over time.
 * [ "How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
   shows how to ask Learn about a given lesson / track relationship. This will
   help you get oriented quickly.
