@@ -15,7 +15,7 @@ Welcome to your first day in Flatiron School Curriculum!
 * [ "How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
   shows how to ask Learn about a given lesson / track relationship. This will
   help you get oriented quickly.
-* Make a meantingful addition to this wiki before you close out for the first
+* Make a meaningful addition to this wiki before you close out for the first
   day. Try to reach beyond grammar and spelling &mdash; resolve a mystery that
   the docs didn't help with, link together ideas that needed linking, make the
   path all the better for whoever comes after.
