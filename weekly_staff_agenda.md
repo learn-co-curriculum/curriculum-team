@@ -4,7 +4,7 @@
 
 Every Monday, 1000 Eastern
 
-## July 30, 2018
+## September 10, 2018
 
 * _Standing Items_
 * New Business Items
