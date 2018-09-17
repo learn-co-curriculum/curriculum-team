@@ -8,7 +8,7 @@ Every Monday, 1000 Eastern
 
 * _Standing Items_
 * New Business Items
-  * [Managed sections burndown](https://docs.google.com/spreadsheets/d/1CDvh-tYOU8f9omVVRzFYZQGyG8kad1AZ6eMUJQVyBjs/edit?pli=1#gid=1335446277)
+  * [Managed sections burndown](https://docs.google.com/spreadsheets/d/1CDvh-tYOU8f9omVVRzFYZQGyG8kad1AZ6eMUJQVyBjs/edit?pli=1#gid=1419215631)
 
 ## Standing Items
 
