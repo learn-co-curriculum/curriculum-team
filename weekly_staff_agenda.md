@@ -16,6 +16,7 @@ Every Monday, 1000 Eastern
   * What you did last week
   * What's on your mind for this upcoming week
   * Anything "hanging over" from last week that you need to stitch up today?
+  * Anything you *_learned_* last week
 * Weekly Standup _for the team_ (Manager, FSWD)
 * Vacations / Sabbatical / Unusual OOO
 * Review our [active projects][curriculum-plan]
