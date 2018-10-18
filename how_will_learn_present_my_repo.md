@@ -28,15 +28,15 @@ first match wins
 
 |Type|Logic|
 |----|-----|
-|`Lessons::JupyterReadmeType.new`| `.learn` contains truthy value for `jupyter notebook` and **has any tests** is not true|
-|`Lessons::JupyterLabType.new`| `.learn` contains truthy value for `jupyter notebook` and **has any tests** is true|
-|`Lessons::ProjectType.new`| `.learn` contains truthy value for `project`|
-|`Lessons::EnvSetupType.new`| `.learn` contains truthy value for `env_setup`|
-|`Lessons::LiveAssessmentType.new`| `.learn` contains truthy value for `live_assessment`|
-|`Lessons::LabWithSpecsType.new`| if **has any directories**; possibly dangerous since order in this table changes outcome!|
-|`Lessons::LabWithoutSpecsType.new`| if **has any directories** is false; possibly dangerous since order in this table changes outcome!|
-|`Lessons::QuizType.new`| if **can infer quiz type**; implicitly relies on order to ensure it's the last-last-ditch ahead of `ReadmeType`; possibly dangerous since order in this table changes outcome!|
-|Lessons::ReadmeType.new|(default)|
+|`Lessons::JupyterReadmeType`| `.learn` contains truthy value for `jupyter notebook` and **has any tests** is not true|
+|`Lessons::JupyterLabType`| `.learn` contains truthy value for `jupyter notebook` and **has any tests** is true|
+|`Lessons::ProjectType`| `.learn` contains truthy value for `project`|
+|`Lessons::EnvSetupType`| `.learn` contains truthy value for `env_setup`|
+|`Lessons::LiveAssessmentType`| `.learn` contains truthy value for `live_assessment`|
+|`Lessons::LabWithSpecsType`| if **has any directories**; possibly dangerous since order in this table changes outcome!|
+|`Lessons::LabWithoutSpecsType`| if **has any directories** is false; possibly dangerous since order in this table changes outcome!|
+|`Lessons::QuizType`| if **can infer quiz type**; implicitly relies on order to ensure it's the last-last-ditch ahead of `ReadmeType`; possibly dangerous since order in this table changes outcome!|
+|`Lessons::ReadmeType`|(default)|
 
 ## Process
 
