@@ -62,6 +62,7 @@ help us tear down any legacy Support-Debt, this is the process to use.
 * ["I Updated a Lesson in Curriculum but it's not going to students"](./it-dep-1.md)
 * ["How Can I See What This Look Like In Learn?"](./it-learn-display.md)
 * ["How Can I See What Software is in Learn IDE Images?"](./learn-images.md)
+* [How will Learn present my lesson?](./how_will_learn_present_my_repo.md)
 * ["How Can I See Which Batches Have a Lesson?"](./it-learn-batch-lesson.md)
 * ["I see PRs with util--hide paragraphs, what's that?"](./github-backlinks.md)
 * ["How Do I Undeploy Something?"](./it-learn-undeploy.md)
