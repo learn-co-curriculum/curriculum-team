@@ -35,7 +35,7 @@ first match wins
 |`Lessons::LiveAssessmentType`| `.learn` contains truthy value for `live_assessment`|
 |`Lessons::LabWithSpecsType`| if **has any directories**; possibly dangerous since order in this table changes outcome!|
 |`Lessons::LabWithoutSpecsType`| if **has any directories** is false; possibly dangerous since order in this table changes outcome!|
-|`Lessons::QuizType`| if **can infer quiz type**; implicitly relies on order to ensure it's the last-last-ditch ahead of `ReadmeType`; possibly dangerous since order in this table changes outcome!|
+|`Lessons::QuizType`| if **can infer quiz type**; implicitly relies on order to ensure it's the last-last-ditch ahead of `ReadmeType`; possibly dangerous since order in this table changes outcome! If you understand regular expressions, it's a bloc of text `/\?{3}\s*?(.+?)\?{3}/m`|
 |`Lessons::ReadmeType`|(default)|
 
 ## Process
