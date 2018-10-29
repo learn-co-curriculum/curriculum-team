@@ -21,6 +21,7 @@ Every Monday, 1000 Eastern
 
 -->
 
+* Where we are in the Big Plan (Manager, FSWD)
 * Weekly Standup _for the team_ (Manager, FSWD)
 
 * Review our [active projects][curriculum-plan]
