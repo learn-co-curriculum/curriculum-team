@@ -15,12 +15,11 @@ Contents:
   * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
   * [Do Not Leave Hanging Whitespace at End-of-Line](#do_not_leave_hanging_whitespace_at_end-of-line)
   * [Footnote Style Markdown Links](#footnote_style_markdown_links)
-  * [Do Not Use Smartquotes](#do_not_use_smartquotes)
+  * [Do Not Use Smartquotes](#do_not_use_smartquotes) / [Do Not Use Curly-Quotes](#curly_quotes)
   * [Long Dash](#long_dash_em-dash_literal)
   * [Code Blocks](#code_blocks)
   * [Block Quote](#block_quote)
   * [Lists](#lists)
-  * [Do Not Use Curly-Quotes](#curly_quotes)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
@@ -112,7 +111,7 @@ lines.
 
 <a name="code_words"></a>
 
-#### Code Words
+## Code Words
 
 When discussing a "code word" as part of a regular sentence, wrap the code word
 in single back ticks ( \` ). This could be a variable name (`myString`), a
@@ -131,7 +130,7 @@ paragraph awkward.
 
 <a name="capitalization"></a>
 
-### Capitalization
+## Capitalization
 
 Names of languages should be capitalized unless part of a code snippet (e.g.
 Ruby or `ruby`, Objective-C, Python or `python`; not: ruby, objective-c,
@@ -154,7 +153,7 @@ Viewer' in Xcode
 
 <a name="asides"></a>
 
-### Asides
+## Asides
 
 Use sparingly.
 
@@ -195,7 +194,7 @@ you return!
 
 <a name="lists"></a>
 
-### Lists:
+## Lists:
 
 1. Lists can be automatically numbered,
    * and contain bullet points
@@ -212,7 +211,7 @@ If you reference other bullets use numbered list.
 
 <a name="numerology"></a>
 
-### Numerology
+## Numerology
 
 When discussing numbers in exposition paragraphs, remember the English rule
 that numbers from zero to ten should be written out and values over 1,000
@@ -227,7 +226,7 @@ presenting it as ten (10) or ten (`10`)
 
 <a name="latin_abbrevs"></a>
 
-### *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
+## *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
 
 * e.g. — Latin for "given example(s)" — points to a single example or a finite
   list of examples
@@ -330,7 +329,7 @@ have a tendency to die out) easy. Honor that spirit.
 
 <a name="do_not_use_smartquotes"></a>
 
-### Do Not Use Smartquotes
+## Do Not Use Smartquotes
 
 If your editor does this, stop it.
 
@@ -347,7 +346,7 @@ for this character. Use code characters.
 
 <a name="long_dash_em-dash_literal"></a>
 
-### Long Dash (Em-Dash) Literal
+## Long Dash (Em-Dash) Literal
 
 Employ the the long dash character \`&mdash;\` directly by using the HTML
 entity `&mdash;`. Additionally modern markdown engines will convert `--`
@@ -356,7 +355,7 @@ to &mdash;
 
 <a name="code_blocks"></a>
 
-#### Code Blocks
+## Code Blocks
 
 ```objc
 NSString *code = @"Code ";
@@ -385,7 +384,7 @@ NSString *codeBlock = [code stringByAppendingString:block];
 
 <a name="block_quote"></a>
 
-##### Block Quote
+## Block Quote
 
 >You can employ an HTML-style block quote by starting the first line with an
 >`>`. This is better for large excerpts when line breaks don't matter.
@@ -396,7 +395,7 @@ programming documents, or a blog.
 
 <a name="in_line_quote"></a>
 
-##### In-Line Quote
+## In-Line Quote
 
 When writing an "in-line quote", punctuation should remain outside the phrase
 "unless you are making a reference quote that includes it." Punctuation symbols
@@ -405,7 +404,7 @@ punctuation from quotes is justifiable.
 
 <a name="curly_quotes"></a>
 
-##### Do Not Use Curly-Quotes
+## Do Not Use Curly-Quotes
 
 No: `”`
 
