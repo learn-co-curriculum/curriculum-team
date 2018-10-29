@@ -12,13 +12,17 @@ Every Monday, 1000 Eastern
 
 ## Standing Items
 
-* Weekly Standup Chant, but for the week (Every Attendee)
-  * What you did last week
-  * What's on your mind for this upcoming week
-  * Anything "hanging over" from last week that you need to stitch up today?
-  * Anything you *_learned_* last week
-* Weekly Standup _for the team_ (Manager, FSWD)
 * Vacations / Sabbatical / Unusual OOO
+
+<!--
+* Open Anxiety Checkin (Optional)
+  * What's on your mind for this upcoming week
+  * Anything you *_learned_* last week
+
+-->
+
+* Weekly Standup _for the team_ (Manager, FSWD)
+
 * Review our [active projects][curriculum-plan]
 * Operations and Maintenance
   * Review support requests [spreadsheet][req]
