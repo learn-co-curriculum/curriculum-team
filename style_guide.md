@@ -352,6 +352,7 @@ Employ the the long dash character \`&mdash;\` directly by using the HTML
 entity `&mdash;`. Additionally modern markdown engines will convert `--`
 to &mdash;
 
+According to AP Style, all em dashes should have a space before and after the dash. [Dash format reference][dashes]
 
 <a name="code_blocks"></a>
 
@@ -719,3 +720,4 @@ Table of Substitutions
 [kernel-style]: https://www.kernel.org/doc/html/v4.10/process/coding-style.html#breaking-long-lines-and-strings
 [atom-hard-wrap]: https://atom.io/packages/hard-wrap
 [bb]: https://flatiron.atlassian.net/wiki/spaces/ER/pages/330104842/Flatiron+School+Brand+Book
+[dashes]: https://www.quickanddirtytips.com/education/grammar/em-dash-space
