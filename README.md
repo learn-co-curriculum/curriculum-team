@@ -107,6 +107,7 @@ a rote play-book.
     * [Lab Checklist](./lab-checklist.md)
     * [JavaScript Lab Testing Stack](./javascript-lab-testing-stack.md)
 * Follow the [GitHub Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [How to Add Images to Lessons](./adding-images-to-lessons.md)
 
 ## Utilities
 
