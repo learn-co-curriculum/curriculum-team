@@ -46,7 +46,7 @@ Contents:
 * Word Choice
   * [Terminal, console, etc.](#wc_terminal)
   * [Table of Word Choice Alternatives](#wc_subs)
-  * [JavaScript Conventions](#js_wc)
+  * [OO Conventions](#wc_oo)
 
 ---
 
