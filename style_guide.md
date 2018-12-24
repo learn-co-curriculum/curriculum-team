@@ -46,6 +46,7 @@ Contents:
 * Word Choice
   * [Terminal, console, etc.](#wc_terminal)
   * [Table of Word Choice Alternatives](#wc_subs)
+  * [JavaScript Conventions](#js_wc)
 
 ---
 
@@ -712,6 +713,14 @@ Table of Substitutions
 |interacting|working|
 |as presented by|shown|
 |erroneous|wrong|
+
+<a name="wc_oo"></a>
+
+### Style for Object-Oriented Concepts
+
+* We call them "getter methods" and "setter methods."
+* Methods are written as `aMethod()` while getter methods (i.e. act as properties) are "a getter called `perimeter`" (note, lack of parentheses
+
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
