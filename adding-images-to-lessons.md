@@ -23,11 +23,14 @@ credentials, please put your images into an archive (`zip`, `tar.gz`, etc.).
 The curriculum team will upload your archive for you into the appropriate place
 and return the S3 URL(s).
 
-_Solution TBD_
 
-We use Cyberduck as a transfer program.
+We use [Cyberduck](https://cyberduck.io/) as a transfer program.
 
-Create your image in 
+You need to create a connection to Amazon S3 using the credentials.
+
+Via Cyberduck you'll be able to create folders / subfolders / etc. There aren't
+any hard and fast rules here. Try to honor a sensible folder organization
+scheme.
 
 <a name="hosting"></a>
 
