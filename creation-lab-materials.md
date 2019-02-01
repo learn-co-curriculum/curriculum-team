@@ -146,6 +146,10 @@ A good Readme accomplishes the following:
   * a demo (if it's a Rails app, think about deploying your solution to Heroku; the flatiron-rails gem makes this easy)
   * a screencast explaining an important concept pertaining to the lab
 
+## Levelling Your Coding
+
+When writing, make sure your code **and the solution branch** honor where the learner is. That is, if you're teaching the basics of iteration in JavaScript, your `solution` branch **does not** get to use advanced structures like `map()` and destructured assignment.
+
 ## Extras
 
 We always want to make sure our students are having fun, and a lot of that can be achieved through the tone of the lab. Here are some ways to achieve that:
