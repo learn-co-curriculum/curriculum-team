@@ -151,7 +151,7 @@ consistent, standardized syntax in code.
 
 * For Ruby classes and modules, we use `TitleCase`. We use `snake_case` for variables
 and methods.
-* For Ruby classes, we use also `TitleCase`. However, for for variables and functions/
+* For Ruby classes, we use also `TitleCase`. However, for variables and functions/
 methods we use `camelCase`.
 
 [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
