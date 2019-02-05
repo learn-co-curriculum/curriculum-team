@@ -26,6 +26,7 @@ Contents:
   * [Non-Gendered Speech](#non-gendered_speech)
   * [Abbreviations](#abbreviations)
   * [Code Words](#code_words)
+  * [Naming Conventions](#naming_conventions)
   * [Capitalization](#capitalization)
   * [Asides](#asides)
   * [Numerology](#numerology)
@@ -140,6 +141,8 @@ up a record by `id`. `Dog#bark()` will blow out the speakers on your computer.
 It should already be established within the lesson if we're referring to a specific
 JavaScript method or user-defined function to avoid confusion. In JavaScript, we do
 not need to prefix the method or function name with `.` (`.map()`).
+
+<a name="naming_conventions"></a>
 
 ## Naming Conventions in Ruby and JavaScript
 
