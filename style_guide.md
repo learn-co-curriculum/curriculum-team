@@ -383,6 +383,18 @@ NSString *block = @"block.";
 NSString *codeBlock = [code stringByAppendingString:block];  
 \`\`\`
 
+In a code block denoting `bash` syntax, prefix all commands with `$` like so:
+
+```bash
+$ cd /Users
+```
+
+or
+
+```bash
+$ ls -a
+```
+
 <a name="block_quote"></a>
 
 ## Block Quote
