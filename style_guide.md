@@ -44,6 +44,7 @@ Contents:
   * [Write from the Student Perspective](#write_from_the_student_perspective)
   * [Avoid Rhetorical Questions to Drive Material](#avoid_rhetorical_questions_to_drive_material)
 * Word Choice
+  * [Program Name versus Product Name](#programname_versus_productname)
   * [Terminal, console, etc.](#wc_terminal)
   * [Table of Word Choice Alternatives](#wc_subs)
   * [OO Conventions](#wc_oo)
@@ -680,6 +681,11 @@ to have material presented. Speaking with authority, especially in earlier
 courses, creates safety that allows them to learn comfortably.
 
 ## Specific Word Choice
+
+<a name="programname_versus_productname"></a>
+### `programname` versus Product Name
+
+We execute `git` which run Git.
 
 <a name="wc_terminal"></a>
 ### Terminal, console, etc.
