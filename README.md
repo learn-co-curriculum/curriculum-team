@@ -16,7 +16,7 @@ This is the canonical source of information about the Flatiron School Curriculum
 
 * [Team Members](./team_members.md)
 * [Weekly Cadence](./weekly_cadence.md)
-* [Weekly Staff Meeting Agenda](./weekly_staff_agenda.md)
+* [Weekly Staff Meeting Agenda](https://docs.google.com/document/d/1t7kO82w1K7CZSik42qromZxtNkAE25jS7htxNiHLpdA/edit?ts=5bd72401)
 
 #### Onboarding
 
