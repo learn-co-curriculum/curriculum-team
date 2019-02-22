@@ -35,5 +35,5 @@ them into student-engaging, empathetic, content.
 Since bad writing can be re-crafted, our bias, if we _have_ to have one, is for
 software developers who can write decently. Signs that they have this ability
 will be conference talks, blog posts, insightful Stack Overflow posts, etc. A
-busy code portfolio and a less-busy writing portfolio is preferable to a quite
+busy code portfolio and a less-busy writing portfolio is preferable to a quiet
 code portfolio and a robust writing portfolio.
