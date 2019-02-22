@@ -4,4 +4,3 @@
 * Maxwell Benton (maxwell@flatironschool.com)
 * Jen Myers (jen.myers@flatironschool.com)
 * Kellye Greene (kellye.greene@flatironschool.com)
-* Corinna Brock Moore (corinna@flatironschool.com)
