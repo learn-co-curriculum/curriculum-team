@@ -41,13 +41,13 @@ A junior-level writer has:
 3. Some teaching / empathetic education capacity
 
 In the demonstration of these qualities by means of cover letter, GitHub
-profile, writing sample, etc. the candidate will show how the desired _traits_
-manifest in their _experience_ and _artifacts_.
+profile, writing sample, etc. the candidate will show how the desired traits
+manifest in their experience and artifacts.
 
 Senior-level writers will be further distinguished by:
 
 * Duration, breadth of exposure to larger technical organizations
-* Breadth of familiar technologies (e.g. "C, Java, Ruby, and Python")
+* Breadth of familiar technologies (e.g. "Ruby, JavaScript, React, Redux")
 * Level of education
 * Work Experience
 * Demonstrable, shipped large-scale projects
@@ -97,10 +97,10 @@ In the event the candidate is granted an "Onsite Interview:"
 # On-Site Interview
 
 Congratulations, we're looking to learn more about you in person. Expect to be
-asked your opinions about Bootcamp Prep, to discuss some of you writing sample
+asked your opinions about Bootcamp Prep, to discuss some of your writing sample
 work, to discuss technical knowledge that is implicit in full-stack web
 development. We don't expect you to know every flag to Rails or every CSS
-selector however knowing quirks in JavaScript or to theorize a learning path
+selector, however knowing quirks in JavaScript or to theorize a learning path
 for 5 (given) topics in ES6 is the right neighborhood.
 
 # Evaluation
