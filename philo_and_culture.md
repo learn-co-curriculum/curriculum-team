@@ -15,8 +15,11 @@ We are on the critical-mass bubble bounded by speed of product delivery,
 market-relevance, **and** approachability.
 
 We _prefer_ concepts to _implementations_
+
 We will _shy away_ from the ragged edge
+
 We will _follow_ the ragged edge
+
 We will trade market-relevance for speed of delivery and approachability
 
 ### Irreverent
