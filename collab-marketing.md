@@ -3,6 +3,13 @@
 **CONTACT**: Nicole Kroese
 **STATUS**: 1 meeting to date
 
+#### February 2019 Update
+
+* Focus has shifted to the WeWork expansions and the Bootcamp Prep is not as big
+* of a focus at the present time. We're currently focusing on making the
+* onboarding experience for our incoming students the best it can possibly be
+* and that will eliminate a lot of their friction. 
+
 #### Meeting 1 Notes (Steven &amp; Nicole)
 
 * Positioning
