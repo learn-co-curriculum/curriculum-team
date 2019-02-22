@@ -17,7 +17,7 @@ Thank goodness it's Monday! We're glad you're here.
 
 _Supercedes Stand-Up_
 
-See [Weekly Staff Agenda](https://github.com/learn-co-curriculum/curriculum-team/blob/master/weekly_staff_agenda.md)
+See [Weekly Staff Agenda](https://docs.google.com/document/d/1t7kO82w1K7CZSik42qromZxtNkAE25jS7htxNiHLpdA/edit?ts=5bd72401)
 
 Assign Issues Manager
 
@@ -47,10 +47,6 @@ _Standard_
 ### Projects
 
 1. Have fun!
-
-### Organization
-
-1. Remember the round-up
 
 ----
 
