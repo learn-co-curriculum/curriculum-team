@@ -26,6 +26,7 @@ Contents:
   * [Non-Gendered Speech](#non-gendered_speech)
   * [Abbreviations](#abbreviations)
   * [Code Words](#code_words)
+  * [Naming Conventions](#naming_conventions)
   * [Capitalization](#capitalization)
   * [Asides](#asides)
   * [Numerology](#numerology)
@@ -129,6 +130,32 @@ Use: The `pwd` command means "print working directory".
 Also avoid beginning a new sentence with a code word whenever possible, though
 a semicolon `;` can be employed if altering the English syntax would make the
 paragraph awkward.
+
+### Writing Methods & Functions in Ruby and JavaScript
+
+* In Ruby, class methods are prefixed with `.` such as `.map`, while instance
+methods are prefixed with `#`, such as `#someMethod`. `User.find(id)` will look
+up a record by `id`. `Dog#bark()` will blow out the speakers on your computer.
+
+* In JavaScript, functions and methods are written as such `map()`/`somefunction()`.
+It should already be established within the lesson if we're referring to a specific
+JavaScript method or user-defined function to avoid confusion. In JavaScript, we do
+not need to prefix the method or function name with `.` (`.map()`).
+
+<a name="naming_conventions"></a>
+
+## Naming Conventions in Ruby and JavaScript
+
+We want to reinforce to students common code standards/patterns by reflecting
+consistent, standardized syntax in code. 
+
+* For Ruby classes and modules, we use `TitleCase`. We use `snake_case` for variables
+and methods.
+* For Ruby classes, we use also `TitleCase`. However, for variables and functions/
+methods we use `camelCase`.
+
+[The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
+[JavaScript Standard Style](https://standardjs.com/rules.html)
 
 <a name="capitalization"></a>
 
@@ -396,6 +423,43 @@ or
 ```bash
 $ ls -a
 ```
+
+<a name="block_quote"></a>
+### Code Block Contents
+
+When writing longer blocks of code, it is easier for the student to follow 
+what's happening by keeping all the code needed to run the example in the
+code sample. For example, breaking out variable declarations in one code
+block then continuing the same code sample in another code block after a
+few sentences disrupts the flow and may confuse a student. If notes are
+needed to break down what's happening in the code sample, apply comments
+in the code block where necessary usually prefixed by `#` in Ruby, and
+`//` in JavaScript (for single-line comments).
+
+```js
+var name = "Flatiron School" // Declares a variable
+```
+
+```ruby
+name = "Flatiron School" # Declares a variable
+```
+
+**Avoid** using or alluding to functions that have not been defined within the
+lesson. 
+
+```js
+let students = ["Harry", "Hermione", "Ron", "Draco"]
+let results = patronus(students)
+// => ["Mouse", "Pig", "Bird", "Lizard"]
+```
+
+In this code snippet, the student would not understand what `patronus` is doing
+if the output is completely different from the input.
+
+**Double-check** that all code in code blocks are functional. You can test by
+running `irb` in the terminal for Ruby, or `node` for JavaScript (Node should
+already be installed). Non class-based JavaScript examples can also be run from
+the Chrome developer tools planel.
 
 <a name="block_quote"></a>
 
