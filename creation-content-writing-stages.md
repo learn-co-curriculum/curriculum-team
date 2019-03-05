@@ -14,7 +14,7 @@ and other similar factors. The resulting estimation (in number of minutes) helps
 us schedule work and reviews efficiently.
 
 **Note:** Make sure to check Learn.co for existing lessons on the topic you're
-writing about. We can adapting relevant concepts to the new piece, but we'll build
+writing about. We can adapt relevant concepts to the new piece, but we'll build
 a new outline from scratch before porting over any content.
 
 ## Outlining
@@ -65,7 +65,7 @@ draft. When writing a lesson rough draft, keep the following guidelines in mind:
   - An educational gif may be something like a Terminal window that we see in TV and movies, or what a real terminal window looks like on a computer.
 - Write on a 6th to 8th grade level.
   - Do not to use overly complex words. 
-  - If technical terms need to be used, make sure they are being defined either in the narrative, or in parenthesis. ex: “the command line interface (also known as CLI)
+  - If technical terms need to be used, make sure they are being defined either in the narrative, or in parenthesis. ex: “the command line interface (also known as CLI)"
 - When writing narratives or metaphors, keep them as relatable as possible to the broadest audience. eg: References to common experiences like a list students in various classrooms, vs. Harry Potter and Harry Potter specific references that might involve different Harry Potter houses that not everyone will have context on.
 - Again - define, define, define! 
   - Make sure key words or phrases introduced in each Learning Goal is explained to the appropriate level of learner.
