@@ -1,16 +1,12 @@
 # Reviewing Content
 
-## Spike
-
+## Outline
 - Check Learn.co for potentially existing lessons on the topic
   - Consider adapting relevant concepts, but build a new outline from scratch before porting over any content.
-- Does the narrative example:
-  - Present a problem?
-  - Create a sense of urgency to solve that problem?
-  - Provide enough clear details for the scenario to be relable and understandable?
-
-## Outline
-
+  - Does the narrative example:
+    - Present a problem?
+    - Create a sense of urgency to solve that problem?
+    - Provide enough clear details for the scenario to be relable and understandable?
 - Define Learning Goals on focused topics
   - If necessary, do research on the topic at hand to see what others feel are important to know about it
   - Organize the learning goals in such a way they will flow well together
@@ -61,9 +57,6 @@
 - Are all examples provided with enough detail?
 - Is the reading level appropriate? 
 - Add any additional resources used.
-
-## Sizing
-
 
 
 
