@@ -8,21 +8,47 @@ following as a guide to each stage and what qualities a reviewer will check for.
 ## Sizing
 
 The first step in writing a new curriculum piece is determining how long it will
-take to write. This involves considering the topic's complexity, whether or not
+take to write. The goal of this phase is to help the management team make sure
+that the time required to deliver the product matches the time we _estimate_
+delivery will take.
+
+This process may happen days or even weeks ahead of writing!
+
+A good analogy is like software. If the user stories to deliver a feature
+wind up being larger than the time available for the team, then that features
+**does not get delivered**. Same thing here. Having an estimate allows management
+to "trade" and "shift around" objectives. Your estimation is a vital part of
+understanding the scope of the project.
+
+Additionally, it's a chance to do some early expectation alignment. If the
+planner of the "brick" or "module" thinks that a topic is a 2 hour thing and
+you think it's a 2 week thing, then there's clearly some misalignment. This
+is a good chance to calibrate our expectations.
+
+Estimation involves considering the topic's complexity, whether or not
 there is existing material on the same topic, the necessity of graphic assets
 and other similar factors. The resulting estimation (in number of minutes) helps
 us schedule work and reviews efficiently.
 
 **Note:** Make sure to check Learn.co for existing lessons on the topic you're
 writing about. We can adapt relevant concepts to the new piece, but we'll build
-a new outline from scratch before porting over any content.
+a new outline from scratch before porting over any content. If you notice that
+we have a particularly apt lesson in the Learn.co archives, don't fall into the
+trap of thinking "copy and paste and done!" and estimating low. Sometimes digging
+into legacy "copy and pasted" content requires more effort than focused from-scratch
+writing. 
 
 ## Outlining
 
-After sizing, we create a lessons's outline. This is where we determine the title,
-Learning Goals, headings that align with the Learning Goals, any necessary
-subheadings and a list of resources. We also write introduction and conclusion
-text at this point.
+After sizing, we create a lessons's outline. This is where we:
+
+* Determine the title
+* Determine Learning Goals
+* Ensure headings align with the Learning Goals
+* Identify any necessary subheadings
+* List of resources (where necessary)
+
+We also write introduction and conclusion text at this point.
 
 As we put together the outline, we want to consider the following guidelines:
 
@@ -55,7 +81,7 @@ draft. When writing a lesson rough draft, keep the following guidelines in mind:
 - Flesh out the details for each Learning Goal. 
   - No high-level abstraction
   - If the added bulk of the Learning Goals is making the lesson very long (1000 words or more), consider breaking out additional Learning Goals and topics into a new lesson.
-  - If a Learning Goal has many sub topics that are more than a couple of paragraphs, consider making them their own Learning Goals.
+  - If a Learning Goal has many sub-topics that are more than a couple of paragraphs, consider making them their own Learning Goals.
 - Be thoughtful about code examples and/or imagery. 
   - Add existing graphics where needed to illustrate points.
   - Accompany concepts with examples, or begin to make notes where specific graphics will be dropped.
