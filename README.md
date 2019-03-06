@@ -109,6 +109,7 @@ a rote play-book.
     * [Lab Template](./lab-template.md)
     * [Lab Checklist](./lab-checklist.md)
     * [JavaScript Lab Testing Stack](./javascript-lab-testing-stack.md)
+* [A Fine-Grain Edit of a README](https://github.com/learn-co-curriculum/js-async-fetch-readme/pull/3)
 * Follow the [GitHub Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [How to Add Images to Lessons](./adding-images-to-lessons.md)
 
