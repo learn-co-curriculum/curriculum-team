@@ -1,4 +1,4 @@
-## Writing Stages
+# Writing Stages
 
 When we write a new piece of curriculum, we take the piece through several
 stages. At each stage we request reviews from our peers to confirm that the
