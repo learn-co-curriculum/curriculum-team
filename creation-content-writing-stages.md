@@ -30,21 +30,22 @@ there is existing material on the same topic, the necessity of graphic assets
 and other similar factors. The resulting estimation (in number of minutes) helps
 us schedule work and reviews efficiently.
 
-**Note:** Make sure to check Learn.co for existing lessons on the topic you're
-writing about. We can adapt relevant concepts to the new piece, but we'll build
-a new outline from scratch before porting over any content. If you notice that
-we have a particularly apt lesson in the Learn.co archives, don't fall into the
-trap of thinking "copy and paste and done!" and estimating low. Sometimes digging
-into legacy "copy and pasted" content requires more effort than focused from-scratch
-writing. 
+**Note:** Make sure to check the [Learn curriculum
+tracks](https://learn.co/curriculum/) for existing lessons on the topic you're
+writing about. We can adapt relevant concepts to the new piece, but we'll
+build a new outline from scratch before porting over any content. If you
+notice that we have a particularly apt lesson in the Learn.co archives, don't
+fall into the trap of thinking "copy and paste and done!" and estimating low.
+Sometimes digging into legacy "copy and pasted" content requires more effort
+than focused from-scratch writing.
 
 ## Outlining
 
 After sizing, we create a lessons's outline. This is where we:
 
 * Determine the title
-* Determine Learning Goals
-* Ensure headings align with the Learning Goals
+* Determine **Learning Goals**
+* Ensure headings align with the **Learning Goals**
 * Identify any necessary subheadings
 * List of resources (where necessary)
 
@@ -56,15 +57,15 @@ As we put together the outline, we want to consider the following guidelines:
     - The narrative example should present a problem.
     - It should also create a sense of urgency to solve that problem.
     - It should provide enough clear details for the scenario to be relatable and understandable
-- Define Learning Goals on focused topics.
+- Define **Learning Goals** on focused topics.
   - If necessary, do research on the topic at hand to see what others feel are important to know about it.
   - Organize the learning goals in such a way they will flow well together.
   - When discussing intro or “beginner” topics, be sure to break down concepts into more granular learning goals. Don’t assume the student has a technical background and will automatically understand.
-- Write a strong Introduction.
+- Write a strong **Introduction**.
   - Be careful not to make too many really specific pop culture references that some students, especially international, may not understand.
   - This is where you might establish a handful of keywords, _emphasized_, that you will be defining and discussing throughout the lesson.
   - Define, define, define!
-- Write a rough Conclusion by summarizing what was discussed in the Learning Goals.
+- Write a rough **Conclusion** by summarizing what was discussed in the **Learning Goals**.
   - If there will be more lessons following this one in the same brick, we can preview what will come in the next lesson.
   - We can write a couple of sentences that reassure the student that they will be be able to understand the content with practice, or explain why everything they just read will be important in their learning journey and dev career.
 - List any resources or assets we know the lesson will need.
@@ -100,7 +101,7 @@ draft. When writing a lesson rough draft, keep the following guidelines in mind:
   - For example: the `-v` flag in `git remote -v` stands for "verbose"
 - Material does not simply assert something is true without showing why or describing a scenario where that knowledge is important
 - If possible, over-using vague and colloquial language like “stuff” and “things”, or “radical” or “gnarly” that is not to be translated literally.
-- Be aware of style guide usage. Tick off code words, capitalize where necessary, make sure formatting is correct, etc.
+- Be aware of [Curriculum style guide](https://github.com/learn-co-curriculum/curriculum-team/blob/master/style_guide.md) usage. Tick off code words, capitalize where necessary, make sure formatting is correct, etc.
 - Make adjustments as needed to the Conclusion now that the concepts have be covered more thoroughly.
 
 Our goal for the rough draft is to put all the essential material into place. It
