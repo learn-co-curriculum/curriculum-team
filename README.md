@@ -96,6 +96,9 @@ a rote play-book.
 
 * [Curriculum Creation: Mechanics and Systems](./creation-mechanics_and_systems.md)
 * [Curriculum Creation: Content and Writing](./creation-content_and_writing.md)
+  * [Writing Stages](./creation-content-writing-stages.md)
+    * [Rough Draft Checklist](./creation-content-rough-draft-checklist.md)
+    * [Final Draft Checklist](./creation-content-final-draft-checklist.md)
   * READMEs (i.e. "the textbook")
     * [README Creation: Writing Overviews](./creation-content-focus-overviews.md)
     * [README Creation: Writing Learning Objectives](./creation-content-focus-learning_objectives.md)
