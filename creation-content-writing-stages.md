@@ -39,6 +39,12 @@ fall into the trap of thinking "copy and paste and done!" and estimating low.
 Sometimes digging into legacy "copy and pasted" content requires more effort
 than focused from-scratch writing.
 
+> **Reviewing:** At the end of each stage, you, the writer, will submit your
+> work to a peer reviewer for feedback. You can push your work to the current
+> work-in-progress branch, select the reviewer in the Airtable record, change the
+> piece's status to reflect its current stage, and notify the reviewer via the
+> Airtable record's comment section that your work is ready for review.
+
 ## Outlining
 
 After sizing, we create a lessons's outline. This is where we:
@@ -54,9 +60,9 @@ We also write introduction and conclusion text at this point.
 As we put together the outline, we want to consider the following guidelines:
 
 - Create (or continue from earlier lessons in the same brick) a narrative example.
-    - The narrative example should present a problem.
-    - It should also create a sense of urgency to solve that problem.
-    - It should provide enough clear details for the scenario to be relatable and understandable
+  - The narrative example should present a problem.
+  - It should also create a sense of urgency to solve that problem.
+  - It should provide enough clear details for the scenario to be relatable and understandable
 - Define **Learning Goals** on focused topics.
   - If necessary, do research on the topic at hand to see what others feel are important to know about it.
   - Organize the learning goals in such a way they will flow well together.
