@@ -22,7 +22,7 @@ We call these "targeted fixes" (it's a small thing...) or "repository fixes"
 1. Read the [style guide](./style_guide.md)
 1. Create a pull request with your change **OR** Create an issue that reports the problem. These will be created in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`
 1. **ALSO** Please add a `#staff` at the end of your PR or Issue.
-1. Create an entry via the [form][]
+1. Submit a [JIRA issue][jira]
 
 We review the form at our weekly staff meeting on Mondays.
 
@@ -52,4 +52,4 @@ Bear in mind order and structure issues are far less easily integrated, but
 "point" fixes to repos should be implement-able quickly, once our "interrupt"
 is activated.
 
-[form]: https://docs.google.com/forms/d/e/1FAIpQLScRHNWEycL_dup5uX7IKrae6YGKARdG0ZekF80bJqT75GfGDg/viewform?usp=sf_link
+[jira]: https://flatiron.atlassian.net/projects/CO/board
