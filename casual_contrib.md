@@ -22,7 +22,7 @@ We call these "targeted fixes" ("it's a small thing...") or "repository fixes"
 ("the flow or explanation are off in this repo" or "this dependency is broken and the lab won't run").
 
 1. Read the [style guide](./style_guide.md)
-2. Document the problem in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`. You need only create one or the other. Choose one:
+2. Document the problem in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`. You only need to do one of the following:
   - Create a pull request with your change (if you can fix it) and include what problem is being fixed **OR**
   - Create an issue that reports the problem. 
 3. **ALSO** Please add a `#staff` at the end of your PR or Issue.
