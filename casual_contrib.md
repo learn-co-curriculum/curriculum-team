@@ -22,11 +22,11 @@ We call these "targeted fixes" ("it's a small thing...") or "repository fixes"
 ("the flow or explanation are off in this repo" or "this dependency is broken and the lab won't run").
 
 1. Read the [style guide](./style_guide.md)
-1. Document the problem in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`. You need only create one or the other. Choose one:
-  1. Create a pull request with your change (if you can fix it) and include what problem is being fixed **OR**
-  1. Create an issue that reports the problem. 
-1. **ALSO** Please add a `#staff` at the end of your PR or Issue.
-1. Submit a [JIRA issue][jira] with a link to your Issue / PR.
+2. Document the problem in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`. You need only create one or the other. Choose one:
+  - Create a pull request with your change (if you can fix it) and include what problem is being fixed **OR**
+  - Create an issue that reports the problem. 
+3. **ALSO** Please add a `#staff` at the end of your PR or Issue.
+4. Submit a [JIRA issue][jira] with a link to your Issue / PR.
 
 We review the JIRA board as the issues come in.
 
@@ -37,9 +37,7 @@ it won't) or what if another teacher disagrees with you? And how will whatever
 process we describe here work with more schools and more curricula?
 
 Write your perspective, point of view, recommendation, edits etc. Then use
-the [form][] to alert us to the presence of the issue and we'll be in contact.
-
-We review the form at our weekly staff meeting on Mondays.
+the [JIRA issue][jira] to alert us to the presence of the issue and we'll be in contact.
 
 ## My Students are Stymied, we have a PR, why won't you merge it!?!
 
