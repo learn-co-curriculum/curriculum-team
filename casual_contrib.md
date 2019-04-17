@@ -8,27 +8,32 @@ busy!
 
 Thanks for even considering giving a moment of your precious time.
 
+***The following applies to FSWD Program only***. For DS procedures visit their [wiki][dswiki]
+
 ## Baseline
 
 Many requests take the form of "Can I make a change?" or "Can I update
-something?" The answer is YES. How well and quickly we can integrate these
-challenges is a major question for the road ahead.
+something?" The answer is YES, although we ask you to **not** do so directly.
+
+## When Do You Review the JIRA Queue?
+
+We are monitoriing this daily.
+
+## I Found a Typo, Spelling Mistake, etc. AKA "Tiny Stuff." Can I Fix and Commit Directly?
+
+Please don't. Submit a [JIRA issue][jira].
 
 ## I Want To Update a Lesson Or Lab **in Full Stack Web Development ("Software Engineering" or "FSWD")
 
-***The following applies to FSWD Program only***. For DS procedures visit their [wiki][dswiki]
+**EXAMPLES**: Confusing wording, improperly formatted Markdown, inconsistent styling or wording between multiple lessons, a `solution` branch that use ridiculously advanced content to where the learner is, NPM or RubyGems dependencies breakage
 
-We call these "targeted fixes" ("it's a small thing...") or "repository fixes"
-("the flow or explanation are off in this repo" or "this dependency is broken and the lab won't run").
+We call these "repository fixes." We appreciate help in doing these types of updates. The best way to help us is to create a PR with the change and then notify us about it via a [JIRA issue][jira].
 
 1. Read the [style guide](./style_guide.md)
-2. Document the problem in the Learn.Co **Curriculum** respository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue`. You only need to do one of the following:
-  - Create a pull request with your change (if you can fix it) and include what problem is being fixed **OR**
-  - Create an issue that reports the problem. 
+2. If a code fix in a PR would be sufficient, create the PR in the Learn.Co **Curriculum** repository. Example: `http://github.com/learn-co-curriculum/lesson-with-issue` in which you describe the problem.
+3. If you are unable to create a PR that addresses your concern, you can, as an alternative, create an issue that describes the problem in the `http://github.com/learn-co-curriculum/lesson-with-issue`
 3. **ALSO** Please add a `#staff` at the end of your PR or Issue.
-4. Submit a [JIRA issue][jira] with a link to your Issue / PR.
-
-We review the JIRA board as the issues come in.
+4. Submit a [JIRA issue][jira] with a link to your Issue / PR so that we can benefit from your research.
 
 ## I Want To Change The Way We Teach a Topic (order)
 
