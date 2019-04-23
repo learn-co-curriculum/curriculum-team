@@ -10,6 +10,7 @@ Contents:
 * Flatiron Concerns
   * [American English Standard](#american_dictionary)
   * [Do Not Mention Dates](#do_not_mention_dates)
+  * [Solution Branch](#solution_branch)
 * Formatting Markdown
   * [Text Wrap at 80 Column](#text_wrap_at_80_column)
   * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
@@ -70,6 +71,21 @@ module" seems specific, obivious, and routine, but in the US Market, many
 holidays fall on Monday such that this won't be appropriate. As Flatiron has an
 ever wider presence we will run against cultures that work on Friday, don't
 work on Saturday, etc.
+
+<a name="solution_branch"></a>
+
+## Solution Branch
+
+The `solution` branch is a source for guidance and "stretching" for students.
+
+Your solution should be written around the level of the adjacent READMEs
+and labs. So if you're teaching beginners DOM-based event handling, it's
+inappropriate to include an immutable, functional library and show the
+solution as a result of curried functions.
+
+If the `solution` is inappropriately targeted, our stakeholders are 
+warranted in opening bugs.
+
 
 ## Formatting Markdown
 
