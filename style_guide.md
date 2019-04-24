@@ -11,6 +11,7 @@ Contents:
   * [American English Standard](#american_dictionary)
   * [Do Not Mention Dates](#do_not_mention_dates)
   * [Solution Branch](#solution_branch)
+  * [Learning Goals](#learning_goals)
 * Formatting Markdown
   * [Text Wrap at 80 Column](#text_wrap_at_80_column)
   * [Headings Get an Additional Blank Line](#headings_get_an_additional_blank_line)
@@ -85,6 +86,47 @@ solution as a result of curried functions.
 
 If the `solution` is inappropriately targeted, our stakeholders are 
 warranted in opening bugs.
+
+## Learning Goals
+
+All lessons (labs and READMES) should have their "Learning Goals" at the top.
+
+This section should be uniformly called "Learning Goals," never "Objectives" or "SWABATS." Those are legacy behaviors and should be updated. Learning goals should be derived from our planning tool (currently, AirTable). We should be able to look in AirTable and find out which assets present which Learning Goals.
+
+Learning Goals should drive the internal headings within the lesson. If you find that the content isn't working when atomically titled under a heading, then that's the suggestion you've not sufficeintly broken down the content. Try adding a new learning goal and slim up the overloaded section.
+
+Learning goals in the content of the lesson should be at the `<h2>`level. In the example below you'll see other style rules (AP titlecase, blank line after headings) but pay attention to the learning goals section.
+
+<a name="learning_goals"></a>
+
+<pre>
+
+# Lesson Name
+
+...
+
+## Learning Goals
+
+* This thing
+* That thing
+* The other thing
+
+## This Thing
+
+...
+
+## That Thing
+
+...
+
+## The Other Thing
+
+...
+
+...
+
+
+</pre>
 
 
 ## Formatting Markdown
