@@ -854,6 +854,7 @@ Table of Substitutions
 |interacting|working|
 |as presented by|shown|
 |erroneous|wrong|
+|codeAlong, codealong| code-along (n) a type of exercise|
 
 <a name="wc_oo"></a>
 
