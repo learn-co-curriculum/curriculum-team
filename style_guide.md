@@ -564,6 +564,14 @@ comment-rocket style (JavaScript)
 1 + 1 //=> 2
 ```
 
+A student should be able to copy and paste our code blocs into a REPL and the code would work.
+
+_However_
+
+We often show copy-and-pastes of REPL interaction sessions and the REPLs might use 
+`=>`. In this case, since we're "quoting" the REPL, we should ***not*** alter the 
+output.
+
 ## Style
 
 <a name="tone"></a>
