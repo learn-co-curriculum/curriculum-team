@@ -22,6 +22,7 @@ Contents:
   * [Code Blocks](#code_blocks)
   * [Block Quote](#block_quote)
   * [Lists](#lists)
+  * [Showing Return Values](#return_values)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
@@ -547,6 +548,21 @@ No: `”`
 
 They render unpredictably, you can't search for them from a standard keyboard.
 No. Also no: &raquo; &laquo;. Use American quotation formatting.
+
+<a name="return_values"></a>
+
+## Showing Return Values
+
+In code blocs, we should show the return value using the hash-rocket (Ruby) or
+comment-rocket style (JavaScript)
+
+```ruby
+1 + 1 #=> 2
+```
+
+```js
+1 + 1 //=> 2
+```
 
 ## Style
 
