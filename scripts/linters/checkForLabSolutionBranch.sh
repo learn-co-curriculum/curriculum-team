@@ -9,4 +9,5 @@ then
   then
     echo '- No solution branch found'
   fi
+  git co master > /dev/null
 fi
