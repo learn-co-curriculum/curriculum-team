@@ -22,6 +22,7 @@ Contents:
   * [Code Blocks](#code_blocks)
   * [Block Quote](#block_quote)
   * [Lists](#lists)
+  * [Showing Return Values](#return_values)
 * Style
   * [Tone](#tone)
   * [Personhood](#personhood)
@@ -548,6 +549,29 @@ No: `”`
 They render unpredictably, you can't search for them from a standard keyboard.
 No. Also no: &raquo; &laquo;. Use American quotation formatting.
 
+<a name="return_values"></a>
+
+## Showing Return Values
+
+In code blocs, we should show the return value using the hash-rocket (Ruby) or
+comment-rocket style (JavaScript)
+
+```ruby
+1 + 1 #=> 2
+```
+
+```js
+1 + 1 //=> 2
+```
+
+A student should be able to copy and paste our code blocs into a REPL and the code would work.
+
+_However_
+
+We often show copy-and-pastes of REPL interaction sessions and the REPLs might use 
+`=>`. In this case, since we're "quoting" the REPL, we should ***not*** alter the 
+output.
+
 ## Style
 
 <a name="tone"></a>
@@ -854,6 +878,7 @@ Table of Substitutions
 |interacting|working|
 |as presented by|shown|
 |erroneous|wrong|
+|codeAlong, codealong| code-along (n) a type of exercise|
 
 <a name="wc_oo"></a>
 
