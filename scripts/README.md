@@ -19,7 +19,7 @@ you would write:
 bash trackToCSV.sh 25054 mod1
 ```
 
-The `25054` is Module 2's track number. You can find this number in the URL of
+The `25054` is Module 1's track number. You can find this number in the URL of
 the track. Once run, a `mod1.csv` file will be generated. This contains all
 the track lessons in order, their names, topics and repository URLs.
 
@@ -32,3 +32,15 @@ clone the Module 2 track CSV, you would write:
 ```bash
 bash cloneCSVtrack.sh mod1
 ```
+
+### Linters
+
+To run linters on a track, use `runLinters.sh` followed by the name of the folder
+of repos you want to lint:
+
+```bash
+bash trackToCSV.sh mod1
+```
+
+The script will loop through each repo and each linter in the linter folder, producing
+warnings about specific lessons.
