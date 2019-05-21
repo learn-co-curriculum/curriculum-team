@@ -1,6 +1,7 @@
-if [ -a '.learn' ]
-
-then
+if [ -a '.learn' ]; then
+  if [ ! -s '.learn' ]; then
+    echo 'WARNING: .learn Must not be blank'
+  fi
   if ! grep -q 'tags:' '.learn'; then
     echo '- Missing tags - Recommended'
   fi
