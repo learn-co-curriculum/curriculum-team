@@ -13,8 +13,6 @@ cd $1
 for r in $REPOS
 do
 
-  echo ""
-  echo "$r:"
   cd $r
 
   for f in $FILES
