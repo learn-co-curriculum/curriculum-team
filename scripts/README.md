@@ -23,6 +23,31 @@ The `25054` is Module 1's track number. You can find this number in the URL of
 the track. Once run, a `mod1.csv` file will be generated. This contains all
 the track lessons in order, their names, topics and repository URLs.
 
+**Note:** In the event that this script doesn't work, you can also scrape URLs
+from learn.co/curriculum using the following JS code on the track in question:
+
+```
+let arrows = document.querySelectorAll('a.arrow-icon')
+for(let i = 0; i < arrows.length; i++) {
+	arrows[i].click()
+}
+
+let githubLinks = document.querySelectorAll('a.github-icon.icon-padded-right')
+let trackArray = []
+for(let i = 0; i < githubLinks.length; i++) {
+console.log(githubLinks[i].href)
+}
+```
+
+This logs each repository URL in order on a trackSave the console output and 
+modify the text so that each repo is on a line in the following structure:
+
+```
+"","","","","repository name"
+```
+
+This will allow the other scripts to continue to function.
+
 ### Cloning Entire Tracks Locally
 
 Once you have a CSV file of an entire track, use the `cloneCSVtrack.sh` create
