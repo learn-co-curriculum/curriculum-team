@@ -39,7 +39,8 @@ console.log(githubLinks[i].href)
 }
 ```
 
-This logs each repository URL in order on a track. Save the console output and 
+This logs each repository URL in order on a track. To save the output, clear the
+console, run the code above, right click and choos 'Save.' Then you can
 modify the text so that each repo is on a line in the following structure:
 
 ```
