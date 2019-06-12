@@ -1,0 +1,1 @@
+/home/sgharms/git_checkouts/curriculum_tools/ops_summary.sh: line 16: hub: command not found
