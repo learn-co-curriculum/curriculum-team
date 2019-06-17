@@ -1,0 +1,5 @@
+https://github.com/learn-co-curriculum/js-data-structures-objects-lab/issues/22
+https://github.com/learn-co-curriculum/traversing-nested-objects/issues/26
+https://github.com/learn-co-curriculum/fewpjs-build-the-example/issues/3
+https://github.com/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab/issues/6
+https://github.com/learn-co-curriculum/curriculum-team/issues/12
