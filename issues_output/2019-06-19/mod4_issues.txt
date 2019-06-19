@@ -119,8 +119,6 @@ https://github.com/learn-co-curriculum/react-components-events-actions-and-store
 https://github.com/learn-co-curriculum/redux-forms-codealong/issues/13
 https://github.com/learn-co-curriculum/redux-forms-codealong/issues/12
 https://github.com/learn-co-curriculum/redux-index-codealong/issues/7
-https://github.com/learn-co-curriculum/building-forms-lab/pull/17
-https://github.com/learn-co-curriculum/building-forms-lab/issues/16
 https://github.com/learn-co-curriculum/building-forms-lab/issues/15
 https://github.com/learn-co-curriculum/redux-delete-codealong/issues/11
 https://github.com/learn-co-curriculum/redux-delete-codealong/issues/10
@@ -137,4 +135,3 @@ https://github.com/learn-co-curriculum/redux-thunk-lab/issues/15
 https://github.com/learn-co-curriculum/redux-thunk-lab/issues/14
 https://github.com/learn-co-curriculum/redux-thunk-lab/issues/13
 https://github.com/learn-co-curriculum/redux-thunk-lab/issues/12
-https://github.com/learn-co-curriculum/curriculum-team/issues/12

@@ -3,6 +3,7 @@ https://github.com/learn-co-curriculum/deploy-on-day-1/issues/93
 https://github.com/learn-co-curriculum/deploy-on-day-1/issues/84
 https://github.com/learn-co-curriculum/clock-hand-angle/pull/2
 https://github.com/learn-co-curriculum/clock-hand-angle/pull/1
+https://github.com/learn-co-curriculum/programming-univbasics-boolean-expressions/issues/2
 https://github.com/learn-co-curriculum/simple-blackjack-cli/issues/71
 https://github.com/learn-co-curriculum/classes-and-instances-lab-ruby/pull/7
 https://github.com/learn-co-curriculum/instance-methods-lab-ruby/issues/7
@@ -186,4 +187,3 @@ https://github.com/learn-co-curriculum/oo-relationships-practice/issues/1
 https://github.com/learn-co-curriculum/OO-mini-project/pull/3
 https://github.com/learn-co-curriculum/immersive-module-one-mini-mock-challenge/pull/2
 https://github.com/learn-co-curriculum/sql-relations-assessment/pull/1
-https://github.com/learn-co-curriculum/curriculum-team/issues/12
