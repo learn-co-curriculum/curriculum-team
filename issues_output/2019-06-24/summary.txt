@@ -1,0 +1,8 @@
+   185 mod1_issues.txt
+   368 mod2_issues.txt
+     0 mod3_1_issues.txt
+   140 mod4_issues.txt
+     0 pfwtfp_issues.txt
+     0 prework_issues.txt
+   906 v7_issues.txt
+  1599 total
