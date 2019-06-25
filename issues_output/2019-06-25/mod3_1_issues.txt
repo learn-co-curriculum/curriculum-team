@@ -1,0 +1,2 @@
+https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along/issues/17
+https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/1
