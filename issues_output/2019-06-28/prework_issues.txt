@@ -1,2 +1,6 @@
-Error fetching issues: Bad Gateway (HTTP 502)
-Server Error
+https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/issues/2
+https://github.com/learn-co-curriculum/programming-univbasics-3-method-return-values/issues/2
+https://github.com/learn-co-curriculum/programming-univbasics-3-method-return-values/issues/1
+https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope/issues/1
+https://github.com/learn-co-curriculum/ruby-enumerables-introduction-to-map-and-reduce-lab/issues/4
+https://github.com/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable/issues/2
