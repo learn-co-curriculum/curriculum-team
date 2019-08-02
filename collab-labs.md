@@ -1,7 +1,7 @@
-### Labs Team
+### Product Team
 
 **STATUS**: Established; active engagement
-**CONTACT**: Lisa Jiang, Adam Jonas, Kaitlin Vignali
+**CONTACT**: Kaitlin Vignali, Cailee Adamson, Mike Russo
 
 Our main relationship with these teams can be described as a consumer of the
 infrastructure they provide for the delivery of curriculum.
