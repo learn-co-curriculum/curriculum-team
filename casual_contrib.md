@@ -23,7 +23,7 @@ We are monitoriing this daily.
 
 Please don't. Create a PR and open a [JIRA issue][jira].
 
-## I Want To Update a Lesson Or Lab **in Full Stack Web Development ("Software Engineering" or "FSWD")
+## I Want To Update a Lesson Or Lab ***in Full Stack Web Development*** ("Software Engineering," "SE," or "FSWD")
 
 **EXAMPLES**: Confusing wording, improperly formatted Markdown, inconsistent styling or wording between multiple lessons, a `solution` branch that use ridiculously advanced content to where the learner is, NPM or RubyGems dependencies breakage
 
