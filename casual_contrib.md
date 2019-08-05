@@ -25,18 +25,24 @@ Please don't. Create a PR and open a [JIRA issue][jira].
 
 ## I Want To Update a Lesson Or Lab ***in Full Stack Web Development*** ("Software Engineering," "SE," or "FSWD")
 
-**EXAMPLES**: Confusing wording, improperly formatted Markdown, inconsistent styling or wording between multiple lessons, a `solution` branch that use ridiculously advanced content to where the learner is, NPM or RubyGems dependencies breakage
+**EXAMPLES**:
+
+* Confusing wording
+* Improperly formatted Markdown
+* Inconsistent styling or wording between multiple lessons
+* A `solution` branch that use ridiculously advanced content to where the learner is
+* Broken NPM or RubyGems dependencies
 
 We call these "repository fixes." We appreciate help in doing these types of updates.
 
 ### Do You Know How to Fix It?
 
-Create a PR with the change and then notify us about it via a [JIRA issue][jira]. Please try to follow the [style guide](./style_guide.md)
+Create a PR with the change and then notify us about it via a [JIRA issue][jira]. Please try to follow the [style guide](./style_guide.md). We like to merge PRs!
 
 ### Sorry, I don't know how to Fix It
 
 1. If you are unable to create a PR that addresses your concern, you can, as an alternative, create an issue that describes the problem in the GitHub Issues Form **ALSO** Please add a `#staff` at the end of your PR or Issue.
-2. Submit a [JIRA issue][jira] with a link to your Issue so that we know to give you faster review. As of August 2019, Curriculum has burned down 3 years worth of issues to ~ 500 from 1000+. In theory, this additional "add to Jira" step won't be needed in order to get you priority attention, but it's still work in progress.
+2. Submit a [JIRA issue][jira] with a link to your Issue so that we know to give you faster review. As of August 2019, Curriculum has burned down 3 years worth of issues to ~500 from 1000+. In theory, this additional "add to Jira" step won't be needed in order to get you priority attention, but it's still work in progress.
 
 ## I Want To Change The Way We Teach a Topic (order) or I've Found a Systemic Flaw / Misconfiguration
 
