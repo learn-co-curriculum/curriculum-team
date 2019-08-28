@@ -9,6 +9,10 @@ require 'json'
 # Important #2 - Confirm with Engineering that they need 'name' instead of 'title' keys (as per discussion in EDM-457)
 # If title is needed, swap 'name' keys for 'title' on lines 35, 46, 51, 58, 66, 69, 79, 82 and 85
 
+
+# replace file name with your CSV and converts to an array of arrays
+csv = CSV.read('mod_1_real_order_test.csv')
+
 name_of_new_track = "pilot-seattle-new-mod-1"
 
 # column names we want
@@ -16,9 +20,6 @@ lesson_name = "Name"
 repositoryurl = "Repository URL"
 topic = "Topic"
 brick = "Bricks"
-
-# replace file name with your CSV and converts to an array of arrays
-csv = CSV.read('mod_1_real_order_test.csv')
 
 # shifts column names off CSV array
 titles = csv.shift 
