@@ -57,25 +57,23 @@ result = csv.inject({name: name_of_new_track, tier: 'Track', children: []}) do |
       children: [new_lesson]
     }
 
-    # if topic doesn't exist, creates it along with first unit (brick) and lesson
     existing_topic = memo[:children].find { |child| child[:name] == topic }
     if existing_topic
-      
-      # if unit/brick doesn't exist, creates it along with first lesson
-      # otherwise, adds lesson to existing unit
       existing_unit = existing_topic[:children].find { |child| child[:name] == unit }
       if existing_unit
+        # if topic and unit exist, adds lesson to existing unit
         existing_unit[:children].push(new_lesson)
       else
+        # if unit/brick doesn't exist, creates it along with first lesson
         existing_topic[:children].push(new_unit)
       end
     else
-      new_topic = {
+      # if topic doesn't exist, creates it along with first unit (brick) and lesson
+      memo[:children].push({
         name: topic,
         tier: 'Topic', 
         children: [new_unit]
-      }
-      memo[:children].push(new_topic)
+      })
     end
   end
   memo
