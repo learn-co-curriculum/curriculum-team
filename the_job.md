@@ -100,6 +100,10 @@ At the peak performance within this group you will be able to:
 * masterfully engage in stakeholer management, project delivery, etc.
 * masterfully run a team
 
+Obviously, to become a _master_ practitioner in each of these categories might well take 
+many years. But your decision to join this team likely feels some resonance with one of
+these categories. Let's discuss how this resonance is working for you in our early 1/1s.
+
 ## Software You Need
 
 Use whatever editor you like. The only additional software you need outside of the standard
