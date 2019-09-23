@@ -21,10 +21,10 @@ outcomes.
 
 The learners are enrolled in two programs:
 
-* The two primary adjectives are: **Intensive** _or_ **on-site** used to describe
+* The two primary adjectives are: **immersive** _or_ **on-site** used to describe
   the experience started in New York City under the "bootcamp" model. This has 
-  grown to encompass other sites (DC, London, etc)
-* **Online**, self-paced program ("the online program")
+  grown to encompass other sites (DC, London, etc.)
+* **Online**, self-paced and structured program ("the online program")
 
 ## Character Expectations
 
@@ -36,13 +36,13 @@ The learners are enrolled in two programs:
 ## Typical Daily Tasks
 
 * Review a piece of curricular writing. Is the human-oriented text inspired and
-  engaging? Is the computer-oriented text technically correct, clear, and
+  engaging? Is the computer-oriented code technically correct, clear, and
   appropriately formatted?
 * Write a shell script to emit template files
 * Catch up on changes in ActiveRecord 5.0 that will need to be propagated into
   a series of repositories.
-* Contribute to our book club!
 * Help "program" a new offering as Flatiron expands into a new market
+* Gather a series of lessons into some sort of macro-object with a uniting theme
 
 ## Required Skills
 
@@ -66,10 +66,8 @@ will immediately work on. Here are some skills and documents that will put you
 in position to be able to contribute.
 
 * [Review a typical review][review]
-* Look at currently open issues
-  * [All](http://instruction.learn.co/curriculum/github_issues_report/open)
-  * [Last 7 days](http://instruction.learn.co/curriculum/github_issues_report/last_week_issues)
-  * [Pretty Graphs!](http://instruction.learn.co/curriculum/github_issues_report)
+* Look at currently [open issues](https://github.com/learn-co-curriculum/curriculum-team/tree/master/issues_output) and / or [graph](https://docs.google.com/spreadsheets/d/1bou9Lgostb0jJYJ0Y2gb1m1iBfVSEv7P95ysO_0QanM/edit#gid=235662315)
+
 
 ## Tools
 
@@ -85,11 +83,28 @@ in position to be able to contribute.
   with blocking out time. You can publish the reason or not. You're a
   professional, you know when you need focus time.
 * **Slack**: A chat-room / virtual shared workspace app. You should be subscribed
-  to certain channels by default. Ask for an invitation to `#curriculum` for
+  to certain channels by default. Ask for an invitation to `#academics-se-discuss` for
   curricular discussion. Those reporting into curriculum are also invited to the
-  `#curriculum-internal` channel. The latter is "safe zone" for team discussion
+  `#academics-se-writers` channel. The latter is "safe zone" for team discussion
   (and private).
 
+## Getting Better
+
+Roles within this team have a defined skill / title [ladder](https://docs.google.com/spreadsheets/d/16FbZ2QbxsTsV7VohEKhtj6LOIMw8beHBFAHIRXs6iQk/edit#gid=0).
+
+At the peak performance within this group you will be able to:
+
+* masterfully edit and maintain Ruby and JavaScript code
+* masterfully edit text
+* masterfully write some Ruby code to transform a series of CSV exports from peer groups to turn them into a JSON artifact that can be used to do a rapid update of curriculum across the Learn platform
+* masterfully engage in stakeholer management, project delivery, etc.
+* masterfully run a team
+
+## Software You Need
+
+Use whatever editor you like. The only additional software you need outside of the standard
+corporate suite is Grammarly. We use the free tier. Use this on your final products before
+pushing them for pull reuqest review.
 
 [about-FI-school]: https://flatironschool.com/about-flatiron-school/
 [review]: ./review-example.md
