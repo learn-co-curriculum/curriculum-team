@@ -222,9 +222,6 @@
 * https://github.com/learn-co-curriculum/model-class-methods-reading/issues/12
 * https://github.com/learn-co-curriculum/model-class-methods-reading/issues/11
 * https://github.com/learn-co-curriculum/model-class-methods-reading/issues/10
-* https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/11
-* https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/10
-* https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/9
 * https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/8
 * https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/7
 * https://github.com/learn-co-curriculum/routing-nested-resources-lab/issues/6
