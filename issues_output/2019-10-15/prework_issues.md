@@ -1,0 +1,1 @@
+* https://github.com/learn-co-curriculum/ruby-enumerables-introduction-to-map-and-reduce-lab/issues/9 [andrew-lewell]: Did not realize we are not meant to use the map and reduce functions built in to Ruby
