@@ -1,0 +1,9 @@
+https://github.com/learn-co-curriculum/pfwtfp-breaking-down-large-problems-with-subroutines-hide/pull/2
+https://github.com/learn-co-curriculum/pfwtfp-breaking-down-large-problems-with-subroutines-hide/issues/1
+https://github.com/learn-co-curriculum/pfwtfp-debugging-multi-call-programs/issues/1
+https://github.com/learn-co-curriculum/pfwtfp-pseudocode-review-how-did-we-do/issues/1
+https://github.com/learn-co-curriculum/pfwtfp-practice-with-array-characters-lab/issues/1
+https://github.com/learn-co-curriculum/pfwtfp-enumerable-drills-lab/issues/3
+https://github.com/learn-co-curriculum/pfwtfp-enumerable-drills-lab/pull/2
+https://github.com/learn-co-curriculum/pfwtfp-oo-dice-thrower/issues/3
+https://github.com/learn-co-curriculum/pfwtfp-reading-object-oriented-code/pull/4

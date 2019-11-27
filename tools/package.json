@@ -1,0 +1,34 @@
+{
+  "name": "tooling",
+  "version": "0.0.1",
+  "description": "Miscellaneous tools for working with Curriculum",
+  "main": "recurse_track_skel.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/curriculum_tools.git"
+  },
+  "keywords": [
+    "tools",
+    "flatiron"
+  ],
+  "author": "Steven G. Harms",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/curriculum_tools/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/curriculum_tools#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.10.0"
+  },
+  "dependencies": {
+    "@octokit/rest": "^15.9.5",
+    "got": "^8.3.2"
+  }
+}
