@@ -1,9 +1,35 @@
 # Written for Bash, usable in Zsh
 # By Robert Cobb (robert.cobb@flatironschool.com)
 
+function github_link_from_https_to_ssh() {
+  temp="$(echo $1 | sed 's+https://github.com/+git@github.com:+g')"
+  echo "$temp.git"
+}
+
 function hub-gh-token() {
   local token=$(cat ~/.config/hub | grep token | cut -d ' ' -f 4)
   [ -n "$token" ] && echo "$token" || >&2 echo "No hub token found, need to configure hub's token"
+}
+
+function github_repo_links() {
+   cat $1 | while IFS="," read -r a b c d e; do temp="${e%\"}"; temp="${temp#\"}"; echo "$temp"; done
+}
+
+# Accepts name of CSV and a folder, creates folder, clones each repo in the CSV
+# usage: clone_csv_to_dir track-file-path track-dir-name
+# ex:
+# $ clone_csv_to_dir ~/curriculum/tmp/module-three-three-point-zero.csv mod-3
+function clone_csv_to_dir() {
+  mkdir $2
+  local PWD=$(pwd)
+  local links=$(github_repo_links $1)
+  cd $2
+  echo "$links" | while read -r repo; do
+    echo "$repo"
+    temp="$(github_link_from_https_to_ssh $repo)";
+    git clone "$temp";
+  done
+  cd PWD
 }
 
 function gh-rate-limit-check() {
