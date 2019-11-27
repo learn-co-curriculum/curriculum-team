@@ -11,25 +11,35 @@ function hub-gh-token() {
   [ -n "$token" ] && echo "$token" || >&2 echo "No hub token found, need to configure hub's token"
 }
 
-function github_repo_links() {
+function github_repo_links_from_track_csv() {
    cat $1 | while IFS="," read -r a b c d e; do temp="${e%\"}"; temp="${temp#\"}"; echo "$temp"; done
 }
 
-# Accepts name of CSV and a folder, creates folder, clones each repo in the CSV
-# usage: clone_csv_to_dir track-file-path track-dir-name
-# ex:
-# $ clone_csv_to_dir ~/curriculum/tmp/module-three-three-point-zero.csv mod-3
-function clone_csv_to_dir() {
+# accepts a track id, outputs a list of lessons
+function lesson_list() {
+  $PWD/tools/track_output.py $1 -g
+}
+
+function update_lesson_lists() {
+  while read line; do
+    local list_file="$(echo $line | sed 's/[0-9[:space:]]*\(.*\)/\1/'| tr 'A-Z :' 'a-z-').txt"
+    local track_id=$(echo $line | sed 's/\([0-9]*\).*/\1/' )
+    lesson_list $track_id > "$1/$list_file"
+    echo "track $track_id repos stored in $1/$list_file"
+  done < $1/names-and-ids.txt
+}
+
+# takes a file with a list of lessons as github repos and a directory
+# clones all the repos in the list to the directory
+function clone_lesson_list_to_dir() {
   mkdir $2
   local PWD=$(pwd)
-  local links=$(github_repo_links $1)
   cd $2
-  echo "$links" | while read -r repo; do
+  while read repo; do
     echo "$repo"
-    temp="$(github_link_from_https_to_ssh $repo)";
-    git clone "$temp";
-  done
-  cd PWD
+    git clone "$repo" 
+  done < $1
+  cd $PWD
 }
 
 function gh-rate-limit-check() {
