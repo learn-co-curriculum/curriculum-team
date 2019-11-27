@@ -32,14 +32,14 @@ function update_lesson_lists() {
 # takes a file with a list of lessons as github repos and a directory
 # clones all the repos in the list to the directory
 function clone_lesson_list_to_dir() {
-  mkdir $2
-  local PWD=$(pwd)
-  cd $2
+  mkdir "$2"
+  local back_home=$(pwd)
+  cd "$2"
   while read repo; do
     echo "$repo"
     git clone "$repo" 
   done < $1
-  cd $PWD
+  cd $back_home
 }
 
 function gh-rate-limit-check() {
