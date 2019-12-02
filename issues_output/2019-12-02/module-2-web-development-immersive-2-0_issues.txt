@@ -1,0 +1,133 @@
+* [1570454260][dannylee8]: Typo correction. https://github.com/learn-co-curriculum/terminal-reference/pull/2
+* [1505765521][Terry-Thompson]: Eliminated redundancy  https://github.com/learn-co-curriculum/rack-status-codes-readme/pull/1
+* [1572993360][dependabot[bot]]: Bump rack-protection from 1.5.3 to 1.5.5 https://github.com/learn-co-curriculum/sinatra-shotgun-server/pull/32
+* [1572993316][dependabot[bot]]: Bump rack from 1.6.4 to 1.6.11 https://github.com/learn-co-curriculum/sinatra-shotgun-server/pull/31
+* [1557778632][vibraniumforge]: Removed merge conflict markup https://github.com/learn-co-curriculum/sinatra-hello-world-basics/pull/8
+* [1571675283][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/sinatra-views/pull/12
+* [1571765424][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/sinatra-basic-views-lab/pull/6
+* [1571758247][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong/pull/28
+* [1571675292][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/basic-sinatra-forms-lab/pull/36
+* [1573240111][wifelette]: Missing a space https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough/issues/37
+* [1571758500][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/sinatra-basic-forms-lab/pull/35
+* [1572620530][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/sinatra-nested-forms/pull/28
+* [1482265574][talum]: New solution(?) https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros/pull/24
+* [1568754319][paulnicholsen27]: Fixed non-Restful delete request https://github.com/learn-co-curriculum/sinatra-restful-routes-readme/pull/43
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1574870747][dependabot[bot]]: Bump activerecord from 4.2.5 to 4.2.7.1 https://github.com/learn-co-curriculum/sinatra-activerecord-associations/pull/21
+* [1491249827][walwoodr]: Added note about videos appearing in curriculum. https://github.com/learn-co-curriculum/sinatra-multiple-controllers/pull/11
+* [1573683184][vibraniumforge]: added activerecord::migration version # https://github.com/learn-co-curriculum/sinatra-fwitter-5-sessions/pull/4
+* [1575241933][ChrstphGrnr]: rake db:migrate issues https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/65
+* [1574868232][rrcobb]: pin ar version in gemfile https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/pull/64
+* [1492632020][itzsaga]: updated years since release https://github.com/learn-co-curriculum/intro-to-rails/pull/7
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1573320109][dependabot[bot]]: Bump loofah from 2.3.0 to 2.3.1 https://github.com/learn-co-curriculum/rails-static-request-readme/pull/12
+* [1573593317][boom100100]: Rails Static Request https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/22
+* [1548281898][heavenlyboheme]: Add screenshot file https://github.com/learn-co-curriculum/rails-hello-world-lab/pull/13
+* [1553726521][meg-gutshall]: Edit erb code block comments https://github.com/learn-co-curriculum/rails-dynamic-request-readme/pull/23
+* [1573138419][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-restful-index-action-lab/pull/20
+* [1572620547][dependabot[bot]]: Bump nokogiri from 1.8.0 to 1.10.4 https://github.com/learn-co-curriculum/rails-restful-index-action-lab/pull/19
+* [1574626954][rhtaylor]: Done. https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/32
+* [1574450033][crayray]: I found a typo on this lab https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/31
+* [1574276457][DesterStorm]: Incorrect use of db:migrate in Rails URL Helpers readalong https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/30
+* [1573149505][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/29
+* [1573122822][Sdcrouse]: Suggested edits to the README https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/28
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1573183578][Sdcrouse]: Fix minor error in README https://github.com/learn-co-curriculum/rails-url-helpers-lab/pull/26
+* [1573181527][Sdcrouse]: A small edit to the README is needed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/25
+* [1573171152][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-form_tag-readme/pull/26
+* [1572620547][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/rails-form_tag-readme/pull/25
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573171464][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-form_tag-lab/pull/15
+* [1570471522][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/rails-form_tag-lab/pull/13
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1573171532][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/pull/19
+* [1572470013][dependabot[bot]]: Bump nokogiri from 1.10.2 to 1.10.4 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/pull/18
+* [1573165739][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/strong-params-basics/pull/18
+* [1571675291][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/strong-params-basics/pull/17
+* [1573138445][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme/pull/20
+* [1573142730][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-form_for-lab/pull/11
+* [1467827683][ghost]: Updated README.md https://github.com/learn-co-curriculum/rails-form_for-lab/pull/2
+* [1573158641][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-generators-readme/pull/39
+* [1571429486][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/rails-generators-readme/pull/38
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1573068152][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/11
+* [1571675290][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/10
+* [1573065424][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/validations-in-controller-actions-rails-lab/pull/11
+* [1569267612][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/validations-in-controller-actions-rails-lab/pull/10
+* [1485307889][pianistps]: Fix comment about location of code https://github.com/learn-co-curriculum/validations-with-form_for-rails/pull/11
+* [1479395573][bhabig]: in third code snippet, changed `.../new.html.erb` to `.../edit.html.erb` to stay consistent with the patch call and with the form_for example above it https://github.com/learn-co-curriculum/validations-with-form_for-rails/pull/10
+* [1573774589][DBuckley0126]: On the learn.co website, the 'buttons_to' section is not being displayed https://github.com/learn-co-curriculum/delete-forms-rails/issues/13
+* [1544747414][wingedmachine]: Solution to main problem in issue #15 (also mentioned in several other issues) https://github.com/learn-co-curriculum/crud-with-validations-lab/pull/16
+* [1477371090][lennhy]: You should give an example here when you say "now have access to some new instance methods, like `author`." It wasn't apparent to me the first time I read this that I could use the instance of author for example inside a method of the Post class without first calling post.author.  https://github.com/learn-co-curriculum/activerecord-associations-review/pull/13
+* [1571084517][ihollander]: Fix sass-rails version https://github.com/learn-co-curriculum/join-the-fun-rails/pull/8
+* [1573078035][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/activerecord-lifecycle-reading/pull/23
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1573172694][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/displaying-associations-rails/pull/18
+* [1573173528][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/17
+* [1572620544][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/16
+* [1541447392][LaneMiller]: Clarified features tests, added db and tmp to .gitignore https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/14
+* [1537216525][j-shilling]: New song bugs https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/13
+* [1573153812][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/has-many-through-forms-rails/pull/31
+* [1571082568][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/has-many-through-forms-rails/pull/30
+* [1573232925][HuydDo]: broken link https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/issues/19
+* [1573143123][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/pull/18
+* [1572620549][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/pull/17
+* [1574722366][vibraniumforge]: removed puts https://github.com/learn-co-curriculum/rails-blog-associations-validations/pull/20
+* [1474431099][miclp]: change specified layout to products for example 2 in overriding conventions https://github.com/learn-co-curriculum/rails-layouts-and-templates/pull/6
+* [1573166234][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/pull/15
+* [1571675292][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/pull/14
+* [1474769749][achasveachas]: Added route for authors/show https://github.com/learn-co-curriculum/simple-partials-reading/pull/16
+* [1574105785][vibraniumforge]: Solution https://github.com/learn-co-curriculum/flatiron-kitchen/pull/11
+* [1573160830][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rendering-collections-reading/pull/20
+* [1573056096][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rendering-collections-lab/pull/10
+* [1573160144][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/sessions_controller_lab/pull/15
+* [1571787242][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/sessions_controller_lab/pull/14
+* [1573146782][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/has_secure_password_lab/pull/17
+* [1572620544][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/has_secure_password_lab/pull/16
+* [1573153394][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/omniauth_readme/pull/51
+* [1572620548][dependabot[bot]]: Bump nokogiri from 1.10.3 to 1.10.5 https://github.com/learn-co-curriculum/omniauth_readme/pull/50
+* [1573165734][dependabot[bot]]: Bump loofah from 2.3.0 to 2.3.1 https://github.com/learn-co-curriculum/devise_lab/pull/45
+* [1573137460][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/cancan_lab/pull/16
+* [1573167558][dependabot[bot]]: build(deps): bump loofah from 2.3.0 to 2.3.1 https://github.com/learn-co-curriculum/devise_roles_lab/pull/29
+* [1574716804][vibraniumforge]: fixed typo https://github.com/learn-co-curriculum/rails-amusement-park-lab/pull/2
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1519935058][zacscodingclub]: update to factory bot.   https://github.com/learn-co-curriculum/flatiron-store-project/pull/26
+* [1514303025][kwebster2]: remove starter code related to order model https://github.com/learn-co-curriculum/flatiron-store-project/pull/22
+* [1573298553][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/2
+* [1572620587][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/1
+* [1573167370][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-reading/pull/19
+* [1572620549][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-reading/pull/18
+* [1573073108][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-lab/pull/16
+* [1572620552][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-lab/pull/15
+* [1573165943][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/model-class-methods-reading/pull/14
+* [1570829276][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/model-class-methods-reading/pull/13
+* [1573295434][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/model-class-methods-lab/pull/52
+* [1573167481][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/26
+* [1571787571][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/25
+* [1573077999][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/modification-nested-routes-reading/pull/19
+* [1573069779][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/modification-nested-routes-lab/pull/13
+* [1572896300][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.5 https://github.com/learn-co-curriculum/modification-nested-routes-lab/pull/12
+* [1573065482][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/namespaced-routes-lab/pull/38
+* [1572641706][dependabot[bot]]: Bump nokogiri from 1.10.3 to 1.10.5 https://github.com/learn-co-curriculum/namespaced-routes-lab/pull/37
+* [1573161100][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/39
+* [1572450862][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/38
+* [1573161100][dependabot[bot]]: Bump loofah from 2.2.3 to 2.3.1 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/39
+* [1572450862][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/38
+* [1573255858][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/13
+* [1569428623][dependabot[bot]]: Bump rack from 2.0.4 to 2.0.7 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/11
+* [1569428622][dependabot[bot]]: Bump rubyzip from 1.2.1 to 1.2.4 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/10
+* [1569428621][dependabot[bot]]: Bump ffi from 1.9.23 to 1.11.1 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/9
+* [1569428620][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/8
+* [1569428619][dependabot[bot]]: Bump sprockets from 3.7.1 to 3.7.2 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/7
+* [1573294924][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/5
+* [1572620576][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/4
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1561656266][MatthewP01]: good practice for code challenge https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/2
+* [1574294934][vibraniumforge]: added to seeds file https://github.com/learn-co-curriculum/rails-challenge-practice/pull/9
+* [1573252265][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/8
+* [1572620576][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/7
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
+* [1530802082][sbal13]: Updated README.md https://github.com/learn-co-curriculum/rails-challenge-practice/pull/3
+* [1574886656][rrcobb]: update lesson lists https://github.com/learn-co-curriculum/curriculum-team/pull/24
+* [1574878745][rrcobb]: Add tools from curriculum_tools https://github.com/learn-co-curriculum/curriculum-team/pull/23
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

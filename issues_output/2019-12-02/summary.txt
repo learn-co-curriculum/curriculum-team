@@ -1,0 +1,13 @@
+bootcamp-prep-v2 404
+career-prep 104
+computer-science 57
+full-stack-web-development-v8 92
+module-1-gap-web-development-immersive-3-0 95
+module-1-web-development-immersive-2-1 61
+module-2-web-development-immersive-2-0 133
+module-3-web-development-immersive-3-1 80
+module-4-web-development-immersive-2-1 149
+online-software-engineering-structured 101
+prework-software-engineering 60
+project-euler 4
+sec-development 57

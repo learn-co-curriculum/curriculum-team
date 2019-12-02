@@ -1,0 +1,149 @@
+* [1572620566][dependabot[bot]]: Bump tar from 2.2.1 to 2.2.2 https://github.com/learn-co-curriculum/M4-DQ3-Conditional-Rendering/pull/3
+* [1550157289][satyasinha94]: Done. https://github.com/learn-co-curriculum/prep-for-redux/pull/4
+* [1550154873][GavinMoore36]: Done https://github.com/learn-co-curriculum/prep-for-redux/pull/3
+* [1573761071][iamtash]: script src path correction in color-clock/index.html line 16 https://github.com/learn-co-curriculum/npm-lab/issues/11
+* [1565019242][ShujaatAzim]: done but still wont pass tests because this sucks https://github.com/learn-co-curriculum/npm-lab/pull/7
+* [1560868779][ChrstphGrnr]: add solution https://github.com/learn-co-curriculum/npm-lab/pull/5
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1568931026][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/a-react-app-example/pull/15
+* [1568931020][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/a-react-app-example/pull/14
+* [1568931019][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/a-react-app-example/pull/12
+* [1568931019][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.2.0 https://github.com/learn-co-curriculum/a-react-app-example/pull/13
+* [1568931017][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/a-react-app-example/pull/11
+* [1568931015][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/a-react-app-example/pull/9
+* [1568931015][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/a-react-app-example/pull/10
+* [1568931014][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/a-react-app-example/pull/8
+* [1568931006][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/a-react-app-example/pull/7
+* [1574094410][swdecker]: Solution is bugged and not an actual solution https://github.com/learn-co-curriculum/react-static-components-lab/issues/9
+* [1571675303][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-static-components-lab/pull/8
+* [1572540757][thuyanduong-flatiron]: Updated README.md https://github.com/learn-co-curriculum/react-modular-code/pull/15
+* [1572206292][kel29]: fixed typo "Max Max" -> "Mad Max" https://github.com/learn-co-curriculum/react-props-readme/pull/1
+* [1572013428][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/react-props-movie-lab/pull/7
+* [1572448936][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/20
+* [1572448901][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/19
+* [1572448876][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.1 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/18
+* [1572448873][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/17
+* [1572448870][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/16
+* [1574630696][dsstewa]: Syntax for GenRow and genMatrix https://github.com/learn-co-curriculum/react-simple-state-lab/issues/10
+* [1572446919][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/7
+* [1572446919][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/8
+* [1572446919][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/9
+* [1572446917][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.1 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/6
+* [1572446912][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/5
+* [1572446909][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/4
+* [1571675303][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-updating-state/pull/16
+* [1572466113][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/7
+* [1572466105][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.1 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/6
+* [1572466104][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/4
+* [1572466104][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/5
+* [1572466101][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/3
+* [1572466100][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/2
+* [1572490538][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/9
+* [1572490534][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/7
+* [1572490534][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/8
+* [1572490531][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.1 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/5
+* [1572490531][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/6
+* [1572620565][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-forms/pull/19
+* [1572536017][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/35
+* [1572536009][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/34
+* [1572536006][dependabot[bot]]: Bump stringstream from 0.0.5 to 0.0.6 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/33
+* [1572536004][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/31
+* [1572536004][dependabot[bot]]: Bump macaddress from 0.2.8 to 0.2.9 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/32
+* [1572536003][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.1 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/30
+* [1572896338][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/7
+* [1572896337][dependabot[bot]]: Bump handlebars from 4.0.12 to 4.5.1 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/6
+* [1572896335][dependabot[bot]]: Bump lodash from 4.17.11 to 4.17.15 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/5
+* [1571675305][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/4
+* [1562798551][vibraniumforge]: fixed linting warning, typo, and wrong name in package.json https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/3
+* [1571351733][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/23
+* [1571351731][dependabot[bot]]: Bump diff from 3.2.0 to 3.5.0 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/22
+* [1571351730][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/21
+* [1571351729][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/18
+* [1571351729][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/19
+* [1571351729][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.4.3 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/20
+* [1571351728][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/17
+* [1571351721][dependabot[bot]]: Bump webpack-dev-server from 2.11.2 to 3.1.11 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/15
+* [1571351721][dependabot[bot]]: Bump bootstrap from 3.3.7 to 3.4.1 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/16
+* [1572634198][nicklunn325]: Done. https://github.com/learn-co-curriculum/react-pokemon-searcher/pull/9
+* [1572634165][sv-s]: not done https://github.com/learn-co-curriculum/react-pokemon-searcher/pull/8
+* [1572620624][dependabot[bot]]: Bump eslint-utils from 1.3.1 to 1.4.3 in /lutrivia https://github.com/learn-co-curriculum/lutrivia-react/pull/1
+* [1574699981][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/14
+* [1574697681][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/13
+* [1574697664][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/12
+* [1574697663][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/11
+* [1574697656][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.3 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/10
+* [1574697655][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/9
+* [1572557561][dependabot[bot]]: Bump lodash from 4.17.11 to 4.17.15 https://github.com/learn-co-curriculum/React-Stocks/pull/9
+* [1572557513][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/React-Stocks/pull/8
+* [1572557512][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/React-Stocks/pull/7
+* [1572557507][dependabot[bot]]: Bump handlebars from 4.0.12 to 4.5.1 https://github.com/learn-co-curriculum/React-Stocks/pull/6
+* [1572557504][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/React-Stocks/pull/5
+* [1572620595][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/westworld-command-center-react/pull/2
+* [1570548940][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/26
+* [1570548940][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/27
+* [1570548940][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/28
+* [1570548939][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.4.2 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/25
+* [1570548938][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/24
+* [1570548937][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/23
+* [1570548935][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/21
+* [1570548935][dependabot[bot]]: Bump extend from 3.0.1 to 3.0.2 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/22
+* [1570548934][dependabot[bot]]: Bump webpack-dev-server from 2.11.2 to 3.1.11 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/20
+* [1570548926][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/19
+* [1570548924][dependabot[bot]]: Bump jquery from 3.3.1 to 3.4.0 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/18
+* [1571675320][dependabot[bot]]: Bump stringstream from 0.0.5 to 0.0.6 https://github.com/learn-co-curriculum/react-router-nested-routes-code-along/pull/12
+* [1536203713][ddhogan]: fixed some typos https://github.com/learn-co-curriculum/react-router-nested-routes-code-along/pull/7
+* [1573857665][dependabot[bot]]: Bump rack-cors from 1.0.2 to 1.0.5 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/7
+* [1573298589][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/6
+* [1572620577][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/5
+* [1543242176][kristopherbullinger]: Lab Complete https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/3
+* [1543201064][DDarrow123]: built and completed react-evernote-guided-project https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/2
+* [1543182652][bblair31]: Done https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/1
+* [1573857602][dependabot[bot]]: Bump rack-cors from 1.0.2 to 1.0.5 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/3
+* [1573298691][dependabot[bot]]: Bump loofah from 2.2.2 to 2.3.1 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/2
+* [1572620580][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/1
+* [1571766177][cbituin]: Done https://github.com/learn-co-curriculum/redux-create-store/pull/16
+* [1571350769][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-create-store-lab/pull/8
+* [1571675303][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/10
+* [1572620578][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/9
+* [1571675304][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/combine-reducers/pull/13
+* [1569282078][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/20
+* [1569282072][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/19
+* [1569282070][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/18
+* [1569282069][dependabot[bot]]: Bump lodash-es from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/16
+* [1569282069][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/17
+* [1569282068][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/15
+* [1569282066][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.2.1 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/14
+* [1569282060][dependabot[bot]]: Bump webpack-dev-server from 2.11.2 to 3.1.11 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/13
+* [1571675301][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/14
+* [1571152753][dependabot[bot]]: Bump lodash-es from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-index-codealong/pull/16
+* [1571152752][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/redux-index-codealong/pull/15
+* [1571152751][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/redux-index-codealong/pull/13
+* [1571152751][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.4.3 https://github.com/learn-co-curriculum/redux-index-codealong/pull/14
+* [1571152749][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/redux-index-codealong/pull/12
+* [1571152748][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/redux-index-codealong/pull/11
+* [1571152747][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-index-codealong/pull/10
+* [1571152745][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/redux-index-codealong/pull/9
+* [1571152740][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/redux-index-codealong/pull/8
+* [1571338907][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/building-forms-lab/pull/27
+* [1571338903][dependabot[bot]]: Bump lodash-es from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/building-forms-lab/pull/26
+* [1571338902][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/building-forms-lab/pull/25
+* [1571338901][dependabot[bot]]: Bump webpack-dev-server from 2.9.4 to 3.1.11 https://github.com/learn-co-curriculum/building-forms-lab/pull/23
+* [1571338901][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.4.3 https://github.com/learn-co-curriculum/building-forms-lab/pull/24
+* [1571338900][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/building-forms-lab/pull/22
+* [1571338899][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/building-forms-lab/pull/21
+* [1571338898][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/building-forms-lab/pull/20
+* [1571338897][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/building-forms-lab/pull/19
+* [1571338889][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/building-forms-lab/pull/18
+* [1569278072][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/22
+* [1569278067][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/21
+* [1569278064][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/20
+* [1569278063][dependabot[bot]]: Bump react-dev-utils from 5.0.1 to 5.0.3 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/19
+* [1569278062][dependabot[bot]]: Bump lodash-es from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/18
+* [1569278061][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.2.1 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/16
+* [1569278061][dependabot[bot]]: Bump merge from 1.2.0 to 1.2.1 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/17
+* [1569278058][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/15
+* [1569278053][dependabot[bot]]: Bump react-dom from 16.4.1 to 16.4.2 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/14
+* [1571675301][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/crud-lab/pull/13
+* [1574886656][rrcobb]: update lesson lists https://github.com/learn-co-curriculum/curriculum-team/pull/24
+* [1574878745][rrcobb]: Add tools from curriculum_tools https://github.com/learn-co-curriculum/curriculum-team/pull/23
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

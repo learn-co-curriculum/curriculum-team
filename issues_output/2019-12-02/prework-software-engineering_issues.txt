@@ -1,0 +1,60 @@
+* [1565979048][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-intro-to-programming-as-conversation/pull/2
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1564595529][sgharms]: Retargeting level of abstraction https://github.com/learn-co-curriculum/programming-univbasics-expression-and-evaluation-defined/pull/2
+* [1565801211][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-constant-expression/pull/2
+* [1565981953][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-assignment-expression/pull/2
+* [1565982590][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-variable-lookup-expression/pull/3
+* [1565982960][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-data-types/pull/5
+* [1566221645][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-arithmetic-expressions/pull/2
+* [1566222532][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-ternary-expression-and-logic/pull/2
+* [1566225443][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-boolean-expressions/pull/4
+* [1566226483][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-working-with-string/pull/4
+* [1566231678][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-program-with-expressions/pull/3
+* [1566489178][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/pull/2
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1566420495][jenmyers]: Edit for grammar and clarity https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/pull/3
+* [1566420388][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-defining-methods/pull/2
+* [1566421395][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-and-arguments-readme/pull/2
+* [1575143279][Ames1977]: learn.co - open IDE https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/issues/3
+* [1566422159][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/pull/2
+* [1566422422][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-ruby-method-arguments-lab/pull/6
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1566423171][jenmyers]: Edit for clarity https://github.com/learn-co-curriculum/programming-univbasics-3-method-return-values/pull/3
+* [1566504368][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope/pull/3
+* [1566504705][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope-lab/pull/1
+* [1566504957][jenmyers]: Edit for grammar https://github.com/learn-co-curriculum/programming-univbasics-3-build-a-calculator-lab/pull/1
+* [1566505106][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-conclusion/pull/2
+* [1574215130][AlteredArt]: will not submit! https://github.com/learn-co-curriculum/programming-univbasics-4-array-concept-review-lab/issues/8
+* [1570044603][robotspacefish]: fix typo https://github.com/learn-co-curriculum/programming-univbasics-4-creating-and-updating-hash-key-value-pairs/pull/3
+* [1574617389][Santosian]: Read Scalar Data From a Nested "Array" https://github.com/learn-co-curriculum/programming-univbasics-nds-hashes-of-hashes-lab/issues/4
+* [1574616812][Santosian]: little error https://github.com/learn-co-curriculum/programming-univbasics-nds-hashes-of-hashes-lab/issues/3
+* [1574620718][Santosian]: The labs name should be Hash of Arrays https://github.com/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab/issues/2
+* [1575265330][asengelhart]: Nested Data Structure Transformation Quiz - questions 7-9 need improvement https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/6
+* [1575053510][Santosian]: There is two timees the same question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/5
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1568662633][sgharms]: Wip be more intro y https://github.com/learn-co-curriculum/debugging-practice-introduction/pull/1
+* [1572620593][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/html-basics-first-html-tag-lab/pull/2
+* [1572620601][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/pull/4
+* [1572620603][dependabot[bot]]: Bump nokogiri from 1.10.3 to 1.10.4 https://github.com/learn-co-curriculum/html-basics-a-tag-with-href-attributes-lab/pull/3
+* [1572620596][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-document-structure-lab/pull/1
+* [1572620593][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-text-formatting-lab/pull/1
+* [1572620594][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-html-lists-lab/pull/1
+* [1572620594][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-html-tables-lab/pull/1
+* [1574712481][brookebachman00]: another typo https://github.com/learn-co-curriculum/html-fundamentals-html-links-lab/issues/2
+* [1572620594][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-html-links-lab/pull/1
+* [1572620601][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.4 https://github.com/learn-co-curriculum/html-fundamentals-html-album-cover/pull/3
+* [1572620595][dependabot[bot]]: Bump nokogiri from 1.10.3 to 1.10.4 https://github.com/learn-co-curriculum/css-essentials-introduction-to-css-lab/pull/3
+* [1572620594][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/css-essentials-css-fundamentals-lab/pull/3
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
+* [1572620594][dependabot[bot]]: Bump nokogiri from 1.8.2 to 1.10.4 https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/pull/2
+* [1569518292][meg-gutshall]: Fixes minor errors https://github.com/learn-co-curriculum/git-version-control-git-basics/pull/6
+* [1569525066][meg-gutshall]: Add minor fixes https://github.com/learn-co-curriculum/git-version-control-getting-code-with-git/pull/4
+* [1569642210][meg-gutshall]: Fix formatting, grammar, and punctuation https://github.com/learn-co-curriculum/git-version-control-pushing-code-with-git/pull/5
+* [1565007191][sgharms]: Address #2 https://github.com/learn-co-curriculum/git-basics-lab/pull/3
+* [1574870788][Dhuha9]: Wip marty and doc added https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/11
+* [1570207255][DannyBrito]: Wip marty and doc added https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/10
+* [1570136183][pjavadi84]: Wip marty and doc added https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/9
+* [1574886656][rrcobb]: update lesson lists https://github.com/learn-co-curriculum/curriculum-team/pull/24
+* [1574878745][rrcobb]: Add tools from curriculum_tools https://github.com/learn-co-curriculum/curriculum-team/pull/23
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12
