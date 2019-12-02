@@ -1,7 +1,5 @@
 # Usage: update the lists of lessons for the tracks
-# ./update_lesson_lists.sh
-# or
-# ./update_lesson_lists.sh path/to/names-and-ids path/to/lesson-lists-dir
+# ./update_lesson_lists.sh [path/to/names-and-ids] [path/to/lesson-lists-dir]
 
 if [ -z "$1" ]
 then
@@ -10,11 +8,11 @@ else
   NAMES_AND_IDS="$1"
 fi
 
-if [ -z "$1" ]
+if [ -z "$2" ]
 then
   LESSON_LISTS_DIR='lesson_lists'
 else
-  LESSON_LISTS_DIR="$1"
+  LESSON_LISTS_DIR="$2"
 fi
 
 if [ ! -d "$LESSON_LISTS_DIR" ]; then

@@ -20,19 +20,6 @@ function github_repo_links_from_track_csv() {
    cat $1 | while IFS="," read -r a b c d e; do temp="${e%\"}"; temp="${temp#\"}"; echo "$temp"; done
 }
 
-# takes a file with a list of lessons as github repos and a directory
-# clones all the repos in the list to the directory
-function clone_lesson_list_to_dir() {
-  mkdir "$2"
-  local back_home=$(pwd)
-  cd "$2"
-  while read repo; do
-    echo "$repo"
-    git clone $(github_link_from_https_to_ssh "$repo")
-  done < $1
-  cd $back_home
-}
-
 function gh-rate-limit-check() {
   command -v jq
   if [ $? -ne 0 ]
