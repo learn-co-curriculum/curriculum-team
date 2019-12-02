@@ -9,6 +9,7 @@ $ source track-health-tools.sh
 $ brew install go
 $ git clone https://github.com/flatiron-school/hub
 $ cd hub
+$ git checkout fis
 $ make
 $ echo 'export PATH="$(pwd)/bin:$PATH"' >> ~/.bash_profile
 $ hub --version # should should something like 
