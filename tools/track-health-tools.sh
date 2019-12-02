@@ -6,6 +6,11 @@ function github_link_from_https_to_ssh() {
   echo "$temp.git"
 }
 
+function github_link_from_ssh_to_https() {
+  temp="$(echo $1 | sed 's+git@github.com:+https://github.com/+g')"
+  echo "${temp%.git}"
+}
+
 function hub-gh-token() {
   local token=$(cat ~/.config/hub | grep token | cut -d ' ' -f 4)
   [ -n "$token" ] && echo "$token" || >&2 echo "No hub token found, need to configure hub's token"
@@ -17,7 +22,7 @@ function github_repo_links_from_track_csv() {
 
 # accepts a track id, outputs a list of lessons
 function lesson_list() {
-  $PWD/tools/track_output.py $1 -g
+  $PWD/tools/track_output.py $1 -u
 }
 
 function update_lesson_lists() {
@@ -26,7 +31,7 @@ function update_lesson_lists() {
     local track_id=$(echo $line | sed 's/\([0-9]*\).*/\1/' )
     lesson_list $track_id > "$1/$list_file"
     echo "track $track_id repos stored in $1/$list_file"
-  done < $1/names-and-ids.txt
+  done < tools/names-and-ids.txt
 }
 
 # takes a file with a list of lessons as github repos and a directory
@@ -37,7 +42,7 @@ function clone_lesson_list_to_dir() {
   cd "$2"
   while read repo; do
     echo "$repo"
-    git clone "$repo" 
+    git clone $(github_link_from_https_to_ssh "$repo")
   done < $1
   cd $back_home
 }
