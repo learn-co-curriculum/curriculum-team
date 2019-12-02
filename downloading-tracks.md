@@ -20,7 +20,7 @@ $ # hub version 2.13.0-27-gee3ff9d3 # note the `-27-gee3ff9d3` stuff after the v
 
 ```
 # check that tools/names-and-ids.txt is updated (ping someone in slack, probably)
-$ ./tools/update_lesson_lists/sh
+$ ./tools/update_lesson_lists.sh
 ```
 
 ## run the summary script
