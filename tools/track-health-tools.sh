@@ -20,20 +20,6 @@ function github_repo_links_from_track_csv() {
    cat $1 | while IFS="," read -r a b c d e; do temp="${e%\"}"; temp="${temp#\"}"; echo "$temp"; done
 }
 
-# accepts a track id, outputs a list of lessons
-function lesson_list() {
-  $PWD/tools/track_output.py $1 -u
-}
-
-function update_lesson_lists() {
-  while read line; do
-    local list_file="$(echo $line | sed 's/[0-9[:space:]]*\(.*\)/\1/'| tr 'A-Z :' 'a-z-').txt"
-    local track_id=$(echo $line | sed 's/\([0-9]*\).*/\1/' )
-    lesson_list $track_id > "$1/$list_file"
-    echo "track $track_id repos stored in $1/$list_file"
-  done < tools/names-and-ids.txt
-}
-
 # takes a file with a list of lessons as github repos and a directory
 # clones all the repos in the list to the directory
 function clone_lesson_list_to_dir() {
