@@ -16,20 +16,26 @@ $ # git version 2.23.0
 $ # hub version 2.13.0-27-gee3ff9d3 # note the `-27-gee3ff9d3` stuff after the version
 ```
 
-## Update all the lesson lists that we support
+## Update the `lesson_lists` with what is currently on learn
 
 ```
 # check that tools/names-and-ids.txt is updated (ping someone in slack, probably)
 $ ./tools/update_lesson_lists.sh
 ```
 
-## run the summary script
+## Get the Github Issues for all the tracks in `lesson_lists`
+
+```
+$ ./tools/issues.sh
+```
+
+## Summarize the data in a day of issues
 
 ```
 $ ./tools/summary.sh
 ```
 
-## clone all the tracks to local
+## Clone all tracks in `lesson_lists` to local
 
 ```
 # (use sparingly - clones lots of repos!)
