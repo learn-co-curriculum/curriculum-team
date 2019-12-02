@@ -128,6 +128,3 @@
 * [1572620576][dependabot[bot]]: Bump nokogiri from 1.8.4 to 1.10.5 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/7
 * [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
 * [1530802082][sbal13]: Updated README.md https://github.com/learn-co-curriculum/rails-challenge-practice/pull/3
-* [1574886656][rrcobb]: update lesson lists https://github.com/learn-co-curriculum/curriculum-team/pull/24
-* [1574878745][rrcobb]: Add tools from curriculum_tools https://github.com/learn-co-curriculum/curriculum-team/pull/23
-* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

@@ -399,6 +399,3 @@
 * [1573504516][ryanwevans]: Fix grammatical error https://github.com/learn-co-curriculum/careers-prep-for-the-interview/pull/3
 * [1550279688][ValerieHMoore]: Take the word "done" out of this sentence https://github.com/learn-co-curriculum/careers-prep-for-the-interview/issues/2
 * [1487868500][Sidhe-is-me]: Removed - Conceal cleavage - no need to body shame .. Women know this .. https://github.com/learn-co-curriculum/careers-prep-for-the-interview/pull/1
-* [1574886656][rrcobb]: update lesson lists https://github.com/learn-co-curriculum/curriculum-team/pull/24
-* [1574878745][rrcobb]: Add tools from curriculum_tools https://github.com/learn-co-curriculum/curriculum-team/pull/23
-* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12
