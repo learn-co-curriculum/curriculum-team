@@ -1,46 +1,37 @@
 # Getting the curriculum onto your local machine
 
-## Basic setup
-
-Get this repo, install dependencies, source the track health tools
+## Basic Setup
 
 ```
-git clone git@github.com:learn-co-curriculum/curriculum-team.git
-pip install pyyaml
-source track-health-tools.sh
-```
-
-Install the `hub` fork
-
-```
-brew install go
-git clone https://github.com/flatiron-school/hub
-cd hub
-make
-echo 'export PATH="$(pwd)/bin:$PATH"' >> ~/.bash_profile
-```
-
-## Clone a whole track
-
-```
-lesson_list [track-id] > lesson_lists/[name-of-track].txt
-clone_lesson_list_to_dir lesson_lists/[name-of-track].txt [tracks-path]/[name-of-track]
+$ git clone git@github.com:learn-co-curriculum/curriculum-team.git
+$ pip install pyyaml
+$ source track-health-tools.sh
+$ brew install go
+$ git clone https://github.com/flatiron-school/hub
+$ cd hub
+$ make
+$ echo 'export PATH="$(pwd)/bin:$PATH"' >> ~/.bash_profile
+$ hub --version # should should something like 
+$ # git version 2.23.0
+$ # hub version 2.13.0-27-gee3ff9d3 # note the `-27-gee3ff9d3` stuff after the version
 ```
 
 ## Update all the lesson lists that we support
 
 ```
-# check that tools/lesson_lists/names-and-ids.txt is updated
-update_lesson_lists tools/lesson_lists/names-and-ids.txt
+# check that tools/names-and-ids.txt is updated (ping someone in slack, probably)
+$ ./tools/update_lesson_lists/sh
 ```
 
-## Clone all the tracks...
+## run the summary script
 
 ```
-mkdir ~/curriculum/tracks
-cd tools/lesson_lists
-for list in *.txt; do
-  echo "cloning $list to ~/curriculum/tracks/${list%.*}";
-  clone_lesson_list_to_dir $PWD/$list ~/curriculum/tracks/${list%.*};
-done
+$ ./tools/summary.sh
+```
+
+## clone all the tracks to local
+
+```
+# (use sparingly - clones lots of repos!)
+$ ./tools/clone_all_tracks.sh
 ```
