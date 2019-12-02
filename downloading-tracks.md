@@ -10,6 +10,16 @@ pip install pyyaml
 source track-health-tools.sh
 ```
 
+Install the `hub` fork
+
+```
+brew install go
+git clone https://github.com/flatiron-school/hub
+cd hub
+make
+echo 'export PATH="$(pwd)/bin:$PATH"' >> ~/.bash_profile
+```
+
 ## Clone a whole track
 
 ```
