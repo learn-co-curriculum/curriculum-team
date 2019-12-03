@@ -1,0 +1,3348 @@
+-
+  tier: "Track"
+  title: "Full Stack Web Development V8"
+  children:
+  -
+    tier: "Topic"
+    title: "Module 1: Welcome"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Welcome"
+        children:
+          -
+            tier: "Lesson"
+            title: "Welcome To Learn"
+            repositoryurl: "https://github.com/learn-co-curriculum/welcome-to-learn-verified"
+  -
+    tier: "Topic"
+    title: "Module 2: Git and GitHub"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Using Git and GitHub"
+        children:
+          -
+            tier: "Lesson"
+            title: "Introduction To Version Control"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-version-control-introduction-to-version-control"
+          -
+            tier: "Lesson"
+            title: "Git Version Control Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-version-control-git-basics"
+          -
+            tier: "Lesson"
+            title: "Getting Code With Git"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-version-control-getting-code-with-git"
+          -
+            tier: "Lesson"
+            title: "Pushing Code with Git"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-version-control-pushing-code-with-git"
+          -
+            tier: "Lesson"
+            title: "Git Basics Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-basics-lab"
+          -
+            tier: "Lesson"
+            title: "Thinking Ahead: GitHub as Career Differentiator"
+            repositoryurl: "https://github.com/learn-co-curriculum/careers-online-presence-github"
+      -
+        tier: "Unit"
+        title: "Section 2: Making Pull Requests"
+        children:
+          -
+            tier: "Lesson"
+            title: "GitHub Pull Request Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/github-pull-request-basics"
+          -
+            tier: "Lesson"
+            title: "Git Collaboration"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-collaboration-readme"
+          -
+            tier: "Lesson"
+            title: "Git Collaboration Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-collaboration-quiz"
+          -
+            tier: "Lesson"
+            title: "Git Basics Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/git-github-learn-quiz"
+      -
+        tier: "Unit"
+        title: "Section 3: Using Gems"
+        children:
+          -
+            tier: "Lesson"
+            title: "TDD Rspec And Learn"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn"
+  -
+    tier: "Topic"
+    title: "Module 3: Intro to Ruby Development"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Intro to Programming"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Tic Tac Toe"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-tic-tac-toe-rb"
+          -
+            tier: "Lesson"
+            title: "MINSWAN- Yukihuro Matsumoto"
+            repositoryurl: "https://github.com/learn-co-curriculum/matz-readme"
+          -
+            tier: "Lesson"
+            title: "What is a Program?"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program"
+          -
+            tier: "Lesson"
+            title: "Hello World"
+            repositoryurl: "https://github.com/learn-co-curriculum/hello-world-ruby"
+          -
+            tier: "Lesson"
+            title: "Welcome to Tic Tac Toe"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-1-welcome-rb"
+      -
+        tier: "Unit"
+        title: "Section 2: Debugging"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to IRB"
+            repositoryurl: "https://github.com/learn-co-curriculum/irb-readme"
+          -
+            tier: "Lesson"
+            title: "Reading Error Messages"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-lecture-reading-error-messages"
+      -
+        tier: "Unit"
+        title: "Section 3: Variables"
+        children:
+          -
+            tier: "Lesson"
+            title: "About Variable Assignment"
+            repositoryurl: "https://github.com/learn-co-curriculum/variable-readme"
+          -
+            tier: "Lesson"
+            title: "Variable Assignment Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-variable-assignment"
+          -
+            tier: "Lesson"
+            title: "Ruby Data Types"
+            repositoryurl: "https://github.com/learn-co-curriculum/data-types-readme"
+          -
+            tier: "Lesson"
+            title: "Array Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-readme-qualifying"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Board"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-2-board-rb"
+      -
+        tier: "Unit"
+        title: "Section 4: Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "TDD, Rspec and Learn"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn"
+          -
+            tier: "Lesson"
+            title: "Intro to Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-methods-readme"
+          -
+            tier: "Lesson"
+            title: "String Interpolation"
+            repositoryurl: "https://github.com/learn-co-curriculum/interpolation-readme"
+          -
+            tier: "Lesson"
+            title: "Puts and Return"
+            repositoryurl: "https://github.com/learn-co-curriculum/puts-print-and-return-readme"
+          -
+            tier: "Lesson"
+            title: "Display Tic Tac Toe Board Example"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-3-display_board-example"
+          -
+            tier: "Lesson"
+            title: "Methods and Arguments"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-arguments-readme"
+          -
+            tier: "Lesson"
+            title: "Default Arguments"
+            repositoryurl: "https://github.com/learn-co-curriculum/methods-default-arguments"
+          -
+            tier: "Lesson"
+            title: "Say Hello"
+            repositoryurl: "https://github.com/learn-co-curriculum/say-hello-ruby"
+          -
+            tier: "Lesson"
+            title: "Interpolation Super Power"
+            repositoryurl: "https://github.com/learn-co-curriculum/interpolation-super-power"
+          -
+            tier: "Lesson"
+            title: "Display Tic Tac Toe Board"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-4-display-board-rb"
+      -
+        tier: "Unit"
+        title: "Section 5: Command Line Applications"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to CLI Applications"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-cli-applications"
+          -
+            tier: "Lesson"
+            title: "CLI Applications in Ruby"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-cli-applications-readme"
+          -
+            tier: "Lesson"
+            title: "gets CLI Input"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-gets-input"
+          -
+            tier: "Lesson"
+            title: "Greeting CLI Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/greeting-cli"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Move"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-5-move-rb"
+      -
+        tier: "Unit"
+        title: "Section 6: Logic and Conditions"
+        children:
+          -
+            tier: "Lesson"
+            title: "Truthiness"
+            repositoryurl: "https://github.com/learn-co-curriculum/truthiness-in-ruby-readme"
+          -
+            tier: "Lesson"
+            title: "Booleans"
+            repositoryurl: "https://github.com/learn-co-curriculum/booleans-ruby-readme"
+          -
+            tier: "Lesson"
+            title: "About Ruby Conditionals"
+            repositoryurl: "https://github.com/learn-co-curriculum/conditional-readme"
+          -
+            tier: "Lesson"
+            title: "Rspec Fizzbuzz"
+            repositoryurl: "https://github.com/learn-co-curriculum/rspec-fizzbuzz"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Position Taken"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-6-position-taken-rb"
+          -
+            tier: "Lesson"
+            title: "Valid Tic Tac Toe Move"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-7-valid-move"
+      -
+        tier: "Unit"
+        title: "Section 7: Loops"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Loops"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-introduction"
+          -
+            tier: "Lesson"
+            title: "Loops"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-readme"
+          -
+            tier: "Lesson"
+            title: "While and Until Loops"
+            repositoryurl: "https://github.com/learn-co-curriculum/while-and-until-looping-readme"
+          -
+            tier: "Lesson"
+            title: "While and Until Loops Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-while-until"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Turn"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-8-turn"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Play Loop"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-9-play-loop"
+      -
+        tier: "Unit"
+        title: "Section 8: Iteration"
+        children:
+          -
+            tier: "Lesson"
+            title: "Iteration and Abstraction"
+            repositoryurl: "https://github.com/learn-co-curriculum/iterators-and-abstraction-ruby"
+          -
+            tier: "Lesson"
+            title: "Intro to Ruby Iterators"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-ruby-iterators"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Current Player"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-10-current-player"
+      -
+        tier: "Unit"
+        title: "Section 9: Ruby Tic Tac Toe"
+        children:
+          -
+            tier: "Lesson"
+            title: "Nested Arrays"
+            repositoryurl: "https://github.com/learn-co-curriculum/nested-arrays-ruby"
+          -
+            tier: "Lesson"
+            title: "Boolean Enumerables"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-boolean-enumerables"
+          -
+            tier: "Lesson"
+            title: "Search Enumerables"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-search-enumerators"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe Game Status"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-game-status"
+          -
+            tier: "Lesson"
+            title: "Tic Tac Toe in Ruby"
+            repositoryurl: "https://github.com/learn-co-curriculum/tic-tac-toe-rb"
+  -
+    tier: "Topic"
+    title: "Module 4: Introduction to HTML and CSS"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: The Web and HTML"
+        children:
+          -
+            tier: "Lesson"
+            title: "Transitioning from Ruby to HTML"
+            repositoryurl: "https://github.com/learn-co-curriculum/transitioning-from-ruby-to-html"
+          -
+            tier: "Lesson"
+            title: "A Quick Tour of the Web"
+            repositoryurl: "https://github.com/learn-co-curriculum/a-quick-tour-of-the-web"
+          -
+            tier: "Lesson"
+            title: "Welcome To HTML"
+            repositoryurl: "https://github.com/learn-co-curriculum/welcome-to-html-readme"
+          -
+            tier: "Lesson"
+            title: "Files And Filetypes"
+            repositoryurl: "https://github.com/learn-co-curriculum/files-and-filetypes-readme"
+          -
+            tier: "Lesson"
+            title: "Experiencing HTML Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/experiencing-html-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: HTML Basics"
+        children:
+          -
+            tier: "Lesson"
+            title: "Crafting HTML Documents"
+            repositoryurl: "https://github.com/learn-co-curriculum/crafting-html-docs-readme"
+          -
+            tier: "Lesson"
+            title: "HTML Introduction"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-introduction-novideo"
+          -
+            tier: "Lesson"
+            title: "First HTML Tag Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/first-html-tag-lab"
+          -
+            tier: "Lesson"
+            title: "Well Formed HTML Document Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/well-formed-html-document-lab"
+          -
+            tier: "Lesson"
+            title: "Nested Tags And Attributes"
+            repositoryurl: "https://github.com/learn-co-curriculum/nested-tags-and-attributes"
+          -
+            tier: "Lesson"
+            title: "Anchor Tag with HREF Attribute Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/a-tag-with-href-attributes-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Elements Types Overview"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-elements"
+          -
+            tier: "Lesson"
+            title: "Researching HTML Elements"
+            repositoryurl: "https://github.com/learn-co-curriculum/researching-HTML-elements"
+      -
+        tier: "Unit"
+        title: "Section 3: CSS Basics"
+        children:
+          -
+            tier: "Lesson"
+            title: "Separation Of Content And Presentation"
+            repositoryurl: "https://github.com/learn-co-curriculum/separation-of-content-and-presentation"
+          -
+            tier: "Lesson"
+            title: "Introduction to CSS"
+            repositoryurl: "https://github.com/learn-co-curriculum/introduction-to-css"
+          -
+            tier: "Lesson"
+            title: "Introduction to CSS Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/introduction-to-css-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Transitioning Back to Ruby"
+        children:
+          -
+            tier: "Lesson"
+            title: "Transitioning Back to Ruby"
+            repositoryurl: "https://github.com/learn-co-curriculum/transitioning-back-to-ruby"
+  -
+    tier: "Topic"
+    title: "Module 5: Procedural Ruby"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: [BONUS] Regex"
+        children:
+          -
+            tier: "Lesson"
+            title: "What's a Pattern"
+            repositoryurl: "https://github.com/learn-co-curriculum/regex-what-is-a-pattern"
+          -
+            tier: "Lesson"
+            title: "Regex Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/regex-basics-readme"
+          -
+            tier: "Lesson"
+            title: "Ruby Methods with Regex"
+            repositoryurl: "https://github.com/learn-co-curriculum/regex-match-scan-grep-methods-readme"
+          -
+            tier: "Lesson"
+            title: "Regex Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/regex-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: Variables and Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "About Variable Assignment"
+            repositoryurl: "https://github.com/learn-co-curriculum/variable-readme"
+          -
+            tier: "Lesson"
+            title: "Variable Assignment Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-variable-assignment"
+          -
+            tier: "Lesson"
+            title: "String Interpolation"
+            repositoryurl: "https://github.com/learn-co-curriculum/interpolation-readme"
+          -
+            tier: "Lesson"
+            title: "Defining Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-methods-readme"
+          -
+            tier: "Lesson"
+            title: "Methods and Arguments"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-arguments-readme"
+          -
+            tier: "Lesson"
+            title: "Methods and Arguments Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/method-arguments-lab"
+          -
+            tier: "Lesson"
+            title: "Methods and Default Arguments"
+            repositoryurl: "https://github.com/learn-co-curriculum/methods-default-arguments"
+          -
+            tier: "Lesson"
+            title: "Methods and Default Arguments Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/say-hello-ruby"
+          -
+            tier: "Lesson"
+            title: "Return Values"
+            repositoryurl: "https://github.com/learn-co-curriculum/puts-print-and-return-readme"
+          -
+            tier: "Lesson"
+            title: "Return Values Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/parrot-ruby"
+          -
+            tier: "Lesson"
+            title: "Debugging with Pry"
+            repositoryurl: "https://github.com/learn-co-curriculum/debugging-with-pry"
+          -
+            tier: "Lesson"
+            title: "Method Scope"
+            repositoryurl: "https://github.com/learn-co-curriculum/method-scope"
+          -
+            tier: "Lesson"
+            title: "Method Scope Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/method-scope-lab"
+      -
+        tier: "Unit"
+        title: "Section 3: Booleans"
+        children:
+          -
+            tier: "Lesson"
+            title: "Booleans and Truthiness in Ruby"
+            repositoryurl: "https://github.com/learn-co-curriculum/truthiness-in-ruby-readme"
+          -
+            tier: "Lesson"
+            title: "Boolean Operators"
+            repositoryurl: "https://github.com/learn-co-curriculum/booleans-ruby-readme"
+          -
+            tier: "Lesson"
+            title: "Truthiness Code Challenge"
+            repositoryurl: "https://github.com/learn-co-curriculum/truthiness-code-challenge"
+      -
+        tier: "Unit"
+        title: "Section 4: Logic and Conditionals"
+        children:
+          -
+            tier: "Lesson"
+            title: "If Statements"
+            repositoryurl: "https://github.com/learn-co-curriculum/conditional-readme"
+          -
+            tier: "Lesson"
+            title: "If Statements Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/speaking-grandma"
+          -
+            tier: "Lesson"
+            title: "Ternary Operators and Statement Modifiers"
+            repositoryurl: "https://github.com/learn-co-curriculum/operators"
+          -
+            tier: "Lesson"
+            title: "If Statements Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/conditional-operators-quiz"
+          -
+            tier: "Lesson"
+            title: "Case Statements"
+            repositoryurl: "https://github.com/learn-co-curriculum/case-statements-readme"
+          -
+            tier: "Lesson"
+            title: "Case Statements Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/case-statements-quiz"
+          -
+            tier: "Lesson"
+            title: "Logic and Conditionals Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/conditional-quiz-vowels"
+      -
+        tier: "Unit"
+        title: "Section 5: Looping"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Loops"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-introduction"
+          -
+            tier: "Lesson"
+            title: "Looping"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-readme"
+          -
+            tier: "Lesson"
+            title: "Looping Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-loop"
+          -
+            tier: "Lesson"
+            title: "Times"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-times"
+          -
+            tier: "Lesson"
+            title: "Looping Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-quiz"
+          -
+            tier: "Lesson"
+            title: "While and Until Loops"
+            repositoryurl: "https://github.com/learn-co-curriculum/while-and-until-looping-readme"
+          -
+            tier: "Lesson"
+            title: "While and Until Loops Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/looping-while-until"
+          -
+            tier: "Lesson"
+            title: "Countdown to Midnight Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/countdown-to-midnight"
+      -
+        tier: "Unit"
+        title: "Section 6: Arrays"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Arrays"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-introduction"
+          -
+            tier: "Lesson"
+            title: "Using Arrays"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-readme"
+          -
+            tier: "Lesson"
+            title: "Using Arrays Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-CRUD-lab"
+          -
+            tier: "Lesson"
+            title: "Arrays and Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-methods-readme"
+          -
+            tier: "Lesson"
+            title: "Arrays and Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/array-methods-lab"
+      -
+        tier: "Unit"
+        title: "Section 7: Iteration"
+        children:
+          -
+            tier: "Lesson"
+            title: "Iteration and Abstraction"
+            repositoryurl: "https://github.com/learn-co-curriculum/iterators-and-abstraction-ruby"
+          -
+            tier: "Lesson"
+            title: "Intro to Ruby Iterators"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-ruby-iterators"
+          -
+            tier: "Lesson"
+            title: "Square Array Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/square_array"
+          -
+            tier: "Lesson"
+            title: "Badges and Schedules Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/badges-and-schedules"
+          -
+            tier: "Lesson"
+            title: "Oxford Comma Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/oxford-comma"
+          -
+            tier: "Lesson"
+            title: "Deli Counter Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/deli-counter"
+          -
+            tier: "Lesson"
+            title: "Collect and Return Values"
+            repositoryurl: "https://github.com/learn-co-curriculum/each-vs-collect-readme"
+          -
+            tier: "Lesson"
+            title: "Reverse Each Word Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/reverse-each-word"
+          -
+            tier: "Lesson"
+            title: "Yield and Blocks"
+            repositoryurl: "https://github.com/learn-co-curriculum/yield-and-blocks"
+          -
+            tier: "Lesson"
+            title: "Each Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/my-each"
+          -
+            tier: "Lesson"
+            title: "Return from Yield Statements"
+            repositoryurl: "https://github.com/learn-co-curriculum/yield-and-return-values"
+          -
+            tier: "Lesson"
+            title: "Collect Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/my-collect"
+          -
+            tier: "Lesson"
+            title: "Boolean Enumerators"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-boolean-enumerables"
+          -
+            tier: "Lesson"
+            title: "Search Enumerators"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-search-enumerators"
+          -
+            tier: "Lesson"
+            title: "My All? Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/my_all"
+          -
+            tier: "Lesson"
+            title: "My Find Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/my_find_code_along"
+          -
+            tier: "Lesson"
+            title: "Cartoon Collections Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/cartoon-collections"
+          -
+            tier: "Lesson"
+            title: "Enumerators Code Challenge"
+            repositoryurl: "https://github.com/learn-co-curriculum/enumerator-coding-challenge"
+          -
+            tier: "Lesson"
+            title: "Prime? Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/prime-ruby"
+          -
+            tier: "Lesson"
+            title: "Sorting"
+            repositoryurl: "https://github.com/learn-co-curriculum/sorting-readme"
+          -
+            tier: "Lesson"
+            title: "Sorting Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/collections_practice"
+      -
+        tier: "Unit"
+        title: "Section 8: Hashes"
+        children:
+          -
+            tier: "Lesson"
+            title: "Introduction to Hashes"
+            repositoryurl: "https://github.com/learn-co-curriculum/hash-overview-readme"
+          -
+            tier: "Lesson"
+            title: "Using Hashes"
+            repositoryurl: "https://github.com/learn-co-curriculum/my-first-hash"
+          -
+            tier: "Lesson"
+            title: "Symbols"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-symbols"
+          -
+            tier: "Lesson"
+            title: "Hash Iteration with Each"
+            repositoryurl: "https://github.com/learn-co-curriculum/hash-iteration"
+          -
+            tier: "Lesson"
+            title: "Hash Iteration with Collect"
+            repositoryurl: "https://github.com/learn-co-curriculum/hash-iteration-collect"
+          -
+            tier: "Lesson"
+            title: "Hash Iteration Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/key-for-min-value"
+      -
+        tier: "Unit"
+        title: "Section 9: Data Structures"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Nested Hashes"
+            repositoryurl: "https://github.com/learn-co-curriculum/nested-hashes-intro"
+          -
+            tier: "Lesson"
+            title: "Building Nested Hashes"
+            repositoryurl: "https://github.com/learn-co-curriculum/building-nested-hash-readme"
+          -
+            tier: "Lesson"
+            title: "Building Nested Hashes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/building-nested-hashes"
+          -
+            tier: "Lesson"
+            title: "Nested Hashes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-intro-to-hashes-lab"
+          -
+            tier: "Lesson"
+            title: "Multitype Collections Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/simple-nesting"
+          -
+            tier: "Lesson"
+            title: "Nested Hash Iteration"
+            repositoryurl: "https://github.com/learn-co-curriculum/nested-hash-iteration"
+          -
+            tier: "Lesson"
+            title: "Iterating over Nested Hashes Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/nested-hash-iteration-code-along"
+          -
+            tier: "Lesson"
+            title: "Other Hashes Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/other-hash-methods-code-along"
+          -
+            tier: "Lesson"
+            title: "Hashes Manipulation Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/apples-and-holidays"
+  -
+    tier: "Topic"
+    title: "Module 6: Object Oriented Ruby"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Intro to Object Orientation"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Object Orientation"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-intro-to-oo"
+          -
+            tier: "Lesson"
+            title: "OO Ruby Video: Object Orientation Overview"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-video-object-orientation-overview"
+      -
+        tier: "Unit"
+        title: "Section 2: Classes and Instances"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Classes and Instances"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-intro-to-classes-and-instances"
+          -
+            tier: "Lesson"
+            title: "Classes and Instances Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/classes-and-instances-lab-ruby"
+      -
+        tier: "Unit"
+        title: "Section 3: Instance Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "Instance Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/instance-methods-readme-ruby"
+          -
+            tier: "Lesson"
+            title: "Instance Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/instance-methods-lab-ruby"
+      -
+        tier: "Unit"
+        title: "Section 4: Object Properties"
+        children:
+          -
+            tier: "Lesson"
+            title: "Instance Variables"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-instance-variables-lab"
+          -
+            tier: "Lesson"
+            title: "Barking Dog Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-barking-dog"
+          -
+            tier: "Lesson"
+            title: "Object Attributes"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-object-attrs-readme"
+          -
+            tier: "Lesson"
+            title: "Object Attributes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-object-attributes-lab"
+          -
+            tier: "Lesson"
+            title: "Object Accessors"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-oo-macros-readme"
+          -
+            tier: "Lesson"
+            title: "Meowing Cat"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-meowing-cat"
+          -
+            tier: "Lesson"
+            title: "Video Review: Object Properties"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-video-review-object-properties"
+      -
+        tier: "Unit"
+        title: "Section 5: Object Lifecycle"
+        children:
+          -
+            tier: "Lesson"
+            title: "Object Initialization"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-initialization"
+          -
+            tier: "Lesson"
+            title: "Object Initialization Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-object-initialize-lab"
+          -
+            tier: "Lesson"
+            title: "OO Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-basics"
+          -
+            tier: "Lesson"
+            title: "OO Basics with Class Constants"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-basics-with-class-constants"
+          -
+            tier: "Lesson"
+            title: "OO School Domain"
+            repositoryurl: "https://github.com/learn-co-curriculum/school-domain"
+      -
+        tier: "Unit"
+        title: "Section 6: Object Orientation Review"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Object OrientationRuby"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-object-orientation-ruby"
+      -
+        tier: "Unit"
+        title: "Section 7: Object's Self"
+        children:
+          -
+            tier: "Lesson"
+            title: "Self"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-self-readme"
+          -
+            tier: "Lesson"
+            title: "OO Counting Sentences"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-counting-sentences"
+      -
+        tier: "Unit"
+        title: "Section 8: Class Variables and Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "Class Variables and Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-class-variables-and-class-methods-readme"
+          -
+            tier: "Lesson"
+            title: "Class Variables and Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-class-variables-and-class-methods-lab"
+          -
+            tier: "Lesson"
+            title: "Private Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-public-private-methods-readme"
+      -
+        tier: "Unit"
+        title: "Section 9: Object Models"
+        children:
+          -
+            tier: "Lesson"
+            title: "Remembering Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-remembering-objects-readme"
+          -
+            tier: "Lesson"
+            title: "Puppy Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-puppy"
+          -
+            tier: "Lesson"
+            title: "Advanced Class Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-advanced-class-methods-readme"
+          -
+            tier: "Lesson"
+            title: "Advanced Class Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-advanced-class-methods-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Object Models"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-video-review-object-models"
+      -
+        tier: "Unit"
+        title: "Section 10: OO Tic Tac Toe"
+        children:
+          -
+            tier: "Lesson"
+            title: "Procedural vs Object Oriented Ruby"
+            repositoryurl: "https://github.com/learn-co-curriculum/procedural-vs-oo-ruby"
+          -
+            tier: "Lesson"
+            title: "OO Tic Tac Toe"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-tic-tac-toe"
+      -
+        tier: "Unit"
+        title: "Section 11: Object Labs"
+        children:
+          -
+            tier: "Lesson"
+            title: "OO Email Parser"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-email-parser"
+          -
+            tier: "Lesson"
+            title: "OO Anagram Detector"
+            repositoryurl: "https://github.com/learn-co-curriculum/anagram-detector"
+          -
+            tier: "Lesson"
+            title: "OO Cash Register"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-cash-register"
+      -
+        tier: "Unit"
+        title: "Section 12: Object Relationships"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Object Relationships"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-intro-to-object-relationships-with-belongs-to"
+          -
+            tier: "Lesson"
+            title: "Belongs to Object Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-objects-belong-to-lab"
+          -
+            tier: "Lesson"
+            title: "Has Many Object"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-objects-has-many-readme"
+          -
+            tier: "Lesson"
+            title: "Has Many Object Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-objects-has-many-lab"
+          -
+            tier: "Lesson"
+            title: "Collaborating Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-collaborating-objects-readme"
+          -
+            tier: "Lesson"
+            title: "Collaborating Objects Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-collaborating-objects-lab"
+          -
+            tier: "Lesson"
+            title: "Collaborating Objects Review"
+            repositoryurl: "https://github.com/learn-co-curriculum/collaborating-objects-review"
+          -
+            tier: "Lesson"
+            title: "OO My Pets"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-my-pets"
+          -
+            tier: "Lesson"
+            title: "OO Kickstarter"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-kickstarter"
+          -
+            tier: "Lesson"
+            title: "OO Banking"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-banking"
+          -
+            tier: "Lesson"
+            title: "Has Many Objects Through"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-objects-has-many-through-readme"
+          -
+            tier: "Lesson"
+            title: "Has Many Objects Through Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-objects-has-many-through-lab"
+      -
+        tier: "Unit"
+        title: "Section 13: Object Architecture"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-inheritance-code-along"
+          -
+            tier: "Lesson"
+            title: "Intro to Inheritance Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-inheritance-lab"
+          -
+            tier: "Lesson"
+            title: "Super"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-super-inheritance-"
+          -
+            tier: "Lesson"
+            title: "Super Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-super-inheritance-lab"
+          -
+            tier: "Lesson"
+            title: "Intro to Modules"
+            repositoryurl: "https://github.com/learn-co-curriculum/modules-reading"
+          -
+            tier: "Lesson"
+            title: "Intro to Modules Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/artist-song-modules"
+      -
+        tier: "Unit"
+        title: "Section 14: Metaprogramming"
+        children:
+          -
+            tier: "Lesson"
+            title: "Mass Assignment"
+            repositoryurl: "https://github.com/learn-co-curriculum/keyword-args-mass-assignment"
+          -
+            tier: "Lesson"
+            title: "Mass Assignment and Metaprogramming"
+            repositoryurl: "https://github.com/learn-co-curriculum/mass-assignment-metaprogramming"
+          -
+            tier: "Lesson"
+            title: "Mass Assignment Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/mass-assignment"
+          -
+            tier: "Lesson"
+            title: "Custom Errors"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-custom-errors"
+          -
+            tier: "Lesson"
+            title: "OO Triangle"
+            repositoryurl: "https://github.com/learn-co-curriculum/triangle-classification"
+      -
+        tier: "Unit"
+        title: "Section 15: Scraping"
+        children:
+          -
+            tier: "Lesson"
+            title: "Gems and Bundler"
+            repositoryurl: "https://github.com/learn-co-curriculum/using-bundler"
+          -
+            tier: "Lesson"
+            title: "Scraping"
+            repositoryurl: "https://github.com/learn-co-curriculum/scraping-reading"
+          -
+            tier: "Lesson"
+            title: "Scraping Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/scraping-flatiron-code-along"
+          -
+            tier: "Lesson"
+            title: "Kickstarter Scraping Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/scraping-kickstarter"
+          -
+            tier: "Lesson"
+            title: "Video Review: Object Orientation and Scraping"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-video-review-object-orientation-and-scraping"
+      -
+        tier: "Unit"
+        title: "Section 16: Video Reviews of OO Ruby"
+        children:
+          -
+            tier: "Lesson"
+            title: "OO Ruby Object Orientation Video Review"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-object-orientation-video-review"
+      -
+        tier: "Unit"
+        title: "Section 17: Final Projects"
+        children:
+          -
+            tier: "Lesson"
+            title: "Music Library CLI"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-music-library-cli"
+          -
+            tier: "Lesson"
+            title: "[BONUS] Video Review: Music Library CLI"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-video-review-music-library-cli"
+          -
+            tier: "Lesson"
+            title: "Tic-Tac-Toe with AI"
+            repositoryurl: "https://github.com/learn-co-curriculum/ttt-with-ai-project"
+          -
+            tier: "Lesson"
+            title: "Student Scraper"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-student-scraper"
+          -
+            tier: "Lesson"
+            title: "CLI Data Gem Portfolio Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/cli-data-gem-assessment"
+          -
+            tier: "Lesson"
+            title: "CLI Data Gem Walkthrough"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-cli-data-gem-walkthrough"
+          -
+            tier: "Lesson"
+            title: "CLI Data Gem Walkthrough: Creating a CLI Scraper Gem"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-cli-data-gem-walkthrough-creating-a-cli-scraper-gem"
+          -
+            tier: "Lesson"
+            title: "[BONUS] Common Anti-Patterns in CLI Data Gem"
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem"
+          -
+            tier: "Lesson"
+            title: "[BONUS] Student Example 1: Refactoring CLI Gem"
+            repositoryurl: "https://github.com/learn-co-curriculum/refactoring-cli-gem"
+          -
+            tier: "Lesson"
+            title: "[BONUS] Student Example 2: Refactoring CLI Gem "
+            repositoryurl: "https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem-2"
+  -
+    tier: "Topic"
+    title: "Module 7: SQL (Structured Query Language)"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Topic Introduction"
+        children:
+          -
+            tier: "Lesson"
+            title: "What is SQL"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-topic-introduction"
+      -
+        tier: "Unit"
+        title: "Section 2: Getting Started"
+        children:
+          -
+            tier: "Lesson"
+            title: "SQL Intro and Installation"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-intro-and-installation-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Database Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-database-basics-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Databases and Text Editors"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-databases-and-text-editors-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Data Types"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-sqlite-data-types-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Inserting, Updating, and Selecting"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-insert-select-update-code-along"
+          -
+            tier: "Lesson"
+            title: "Basic SQL Queries"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-queries-basic-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Aggregate Functions"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-aggregate-functions-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Aggregate Functions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-aggregate-functions-lab"
+          -
+            tier: "Lesson"
+            title: "SQL Bear Organizer Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/SQL-bear-organizer-lab"
+      -
+        tier: "Unit"
+        title: "Section 3: Table Relations"
+        children:
+          -
+            tier: "Lesson"
+            title: "Edgar Codd and Table Relations"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-relational-databases-readme"
+          -
+            tier: "Lesson"
+            title: "Table Relations"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-table-relations-readme"
+          -
+            tier: "Lesson"
+            title: "SQL JOINS"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-joins-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Complex Joins"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-complex-joins-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Join Tables"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-join-tables-readme"
+          -
+            tier: "Lesson"
+            title: "Grouping and Sorting Data"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-grouping-and-sorting-readme"
+          -
+            tier: "Lesson"
+            title: "SQL Joins Review Lectures"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-joins-review-lectures"
+          -
+            tier: "Lesson"
+            title: "SQL Crowdfunding Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-crowdfunding-lab"
+          -
+            tier: "Lesson"
+            title: "SQL Library Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sql-library-lab"
+  -
+    tier: "Topic"
+    title: "Module 8: ORMs and ActiveRecord"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: ORMs"
+        children:
+          -
+            tier: "Lesson"
+            title: "Why an ORM is Useful"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-orm"
+          -
+            tier: "Lesson"
+            title: "Mapping Ruby Classes to Database Tables"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-mapping-to-tables"
+          -
+            tier: "Lesson"
+            title: "Mapping Classes to Tables Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-mapping-to-table-lab"
+          -
+            tier: "Lesson"
+            title: "Mapping Database Tables to Ruby Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object"
+          -
+            tier: "Lesson"
+            title: "Mapping Database Rows to Objects Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object-lab"
+          -
+            tier: "Lesson"
+            title: "Updating Records in an ORM"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-updating-records"
+          -
+            tier: "Lesson"
+            title: "Updating Records in an ORM Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-update-lab"
+          -
+            tier: "Lesson"
+            title: "Pokemon Scraper Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/pokemon-scraper"
+          -
+            tier: "Lesson"
+            title: "Preventing Record Duplication"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-find-or-create-by"
+          -
+            tier: "Lesson"
+            title: "ORMs Lab: Bringing It All Together"
+            repositoryurl: "https://github.com/learn-co-curriculum/bringing-it-all-together"
+          -
+            tier: "Lesson"
+            title: "Dynamic ORMs"
+            repositoryurl: "https://github.com/learn-co-curriculum/dynamic-orms-readme"
+          -
+            tier: "Lesson"
+            title: "Dynamic ORMs with Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/dynamic-orm-inheritance"
+          -
+            tier: "Lesson"
+            title: "Video Review: ORMs and SQL Joins"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-video-review-orms-and-sql-joins"
+          -
+            tier: "Lesson"
+            title: "Dynamic ORM Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/dynamic-orm-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Building a Metaprogrammed Abstract ORM"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-video-review-building-a-metaprogrammed-abstract-orm"
+          -
+            tier: "Lesson"
+            title: "Video Review: Codealong Building a Room Scraper and ORM"
+            repositoryurl: "https://github.com/learn-co-curriculum/orm-video-review-codealong-building-a-room-scraper-and-orm"
+      -
+        tier: "Unit"
+        title: "Section 2: ActiveRecord"
+        children:
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Mechanics"
+            repositoryurl: "https://github.com/learn-co-curriculum/active-record-mechanics-crud"
+          -
+            tier: "Lesson"
+            title: "Translating from ORM to ActiveRecord"
+            repositoryurl: "https://github.com/learn-co-curriculum/translating-orm-to-ar"
+          -
+            tier: "Lesson"
+            title: "Intro to Rake"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-rake"
+          -
+            tier: "Lesson"
+            title: "Mechanics of Migrations"
+            repositoryurl: "https://github.com/learn-co-curriculum/mechanics-of-migrations"
+          -
+            tier: "Lesson"
+            title: "Writing Our Own Migrations"
+            repositoryurl: "https://github.com/learn-co-curriculum/writing-migrations"
+          -
+            tier: "Lesson"
+            title: "Migrations and Active Record Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-costume-store-todo"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord CRUD Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-crud"
+          -
+            tier: "Lesson"
+            title: "Advanced Finding Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-tvshow"
+      -
+        tier: "Unit"
+        title: "Section 3: Associations"
+        children:
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-associations-intro"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/Active-Record-Association-Methods"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations Lab II"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-tvland"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations Video Review"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-associations-video-review"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations Video Review II"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-associations-video-review-ii"
+          -
+            tier: "Lesson"
+            title: "Video Review: Aliasing ActiveRecord Associations"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-associations-video-review-aliasing-activerecord-associations"
+          -
+            tier: "Lesson"
+            title: "Video Review: Blog CLI With Activerecord and Associations"
+            repositoryurl: "https://github.com/learn-co-curriculum/video-review-blog-cli-with-activerecord-and-associations"
+  -
+    tier: "Topic"
+    title: "Module 9: Rack"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Rack and the Internet"
+        children:
+          -
+            tier: "Lesson"
+            title: "How the Internet Works"
+            repositoryurl: "https://github.com/learn-co-curriculum/how-the-web-works-readme"
+          -
+            tier: "Lesson"
+            title: "Increasing Layers of Abstraction"
+            repositoryurl: "https://github.com/learn-co-curriculum/why-layers-of-abstraction"
+          -
+            tier: "Lesson"
+            title: "Inspecting the Web with Rack"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-intro"
+          -
+            tier: "Lesson"
+            title: "Dynamic Web Apps with Rack"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-dynamic-web-apps"
+          -
+            tier: "Lesson"
+            title: "Rack Responses Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-responses-lab"
+          -
+            tier: "Lesson"
+            title: "The HTTP Request"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-http-request-readme"
+          -
+            tier: "Lesson"
+            title: "Rack Routes and GET Params Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-get-params-lab"
+          -
+            tier: "Lesson"
+            title: "Dynamic URL Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-dynamic-paths-readme"
+          -
+            tier: "Lesson"
+            title: "HTTP Status Codes"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-status-codes-readme"
+          -
+            tier: "Lesson"
+            title: "Dynamic URLs and Status Codes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-dynamic-routes-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: How The Web Works"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-video-review-how-the-web-works-pt-1"
+          -
+            tier: "Lesson"
+            title: "Video Review: How the Web Works"
+            repositoryurl: "https://github.com/learn-co-curriculum/rack-video-review-how-the-web-works-pt-2"
+  -
+    tier: "Topic"
+    title: "Module 10: HTML Continued"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Document Structure and Lists"
+        children:
+          -
+            tier: "Lesson"
+            title: "HTML Fundamentals"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-fundamentals"
+          -
+            tier: "Lesson"
+            title: "Document Structure Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/document-structure-lab"
+          -
+            tier: "Lesson"
+            title: "Text Formatting Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/text-formatting-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Lists Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-lists-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: HTML Fundamentals"
+        children:
+          -
+            tier: "Lesson"
+            title: "HTML Tables Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-tables-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Images Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-images-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Links Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-links-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Validation"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-validation"
+          -
+            tier: "Lesson"
+            title: "HTML Fundamentals Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/quiz-html-fundamentals"
+          -
+            tier: "Lesson"
+            title: "HTML Issue Bot 9000 Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-issue-bot-9000-lab"
+          -
+            tier: "Lesson"
+            title: "Dev Tools Super Power"
+            repositoryurl: "https://github.com/learn-co-curriculum/dev-tools-super-power"
+          -
+            tier: "Lesson"
+            title: "HTML Album Cover"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-album-cover"
+          -
+            tier: "Lesson"
+            title: "Riyadh Blog"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-riyadh-blog"
+      -
+        tier: "Unit"
+        title: "Section 3: HTML Forms"
+        children:
+          -
+            tier: "Lesson"
+            title: "HTML Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-forms"
+          -
+            tier: "Lesson"
+            title: "HTML Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-forms-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Embedding Content with the Inline Frame Element"
+        children:
+          -
+            tier: "Lesson"
+            title: "Inline Frames"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-iframes"
+          -
+            tier: "Lesson"
+            title: "Inline Frames Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html-iframes-lab"
+      -
+        tier: "Unit"
+        title: "Section 5: HTML5 Media"
+        children:
+          -
+            tier: "Lesson"
+            title: "HTML5 Media"
+            repositoryurl: "https://github.com/learn-co-curriculum/HTML5-Media"
+          -
+            tier: "Lesson"
+            title: "HTML5 Video Embed Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html5-video-embed-lab"
+      -
+        tier: "Unit"
+        title: "Section 6: HTML5 Semantic Elements"
+        children:
+          -
+            tier: "Lesson"
+            title: "HTML5 Semantic Elements"
+            repositoryurl: "https://github.com/learn-co-curriculum/HTML5-Semantic-Elements"
+          -
+            tier: "Lesson"
+            title: "HTML5 Semantic Containers Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/html5-semantic-containers-lab"
+  -
+    tier: "Topic"
+    title: "Module 11: CSS Continued"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: CSS Fundamentals"
+        children:
+          -
+            tier: "Lesson"
+            title: "CSS Fundamentals"
+            repositoryurl: "https://github.com/learn-co-curriculum/CSS-Fundamentals"
+          -
+            tier: "Lesson"
+            title: "CSS Fundamentals Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/CSS-Fundamentals-Lab"
+          -
+            tier: "Lesson"
+            title: "My Little Rainbow Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/my-little-rainbow-lab"
+          -
+            tier: "Lesson"
+            title: "CSS Kitten Wheelbarrow Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-kitten-wheelbarrow-lab"
+          -
+            tier: "Lesson"
+            title: "CSS Graffiti Override Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-graffiti-override-lab"
+          -
+            tier: "Lesson"
+            title: "CSS Issue Bot 9000"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-issue-bot-9000"
+      -
+        tier: "Unit"
+        title: "Section 2: Page Layout and Box Styles"
+        children:
+          -
+            tier: "Lesson"
+            title: "Box Model"
+            repositoryurl: "https://github.com/learn-co-curriculum/Box-Model"
+          -
+            tier: "Lesson"
+            title: "Positioning Elements with CSS"
+            repositoryurl: "https://github.com/learn-co-curriculum/positioning-elements-with-css"
+          -
+            tier: "Lesson"
+            title: "Creating Column Based Layouts In CSS"
+            repositoryurl: "https://github.com/learn-co-curriculum/creating-column-based-layouts-in-css"
+          -
+            tier: "Lesson"
+            title: "Creating Columns Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/creating-columns-lab"
+          -
+            tier: "Lesson"
+            title: "CSS Layout Quiz"
+            repositoryurl: "https://github.com/learn-co-curriculum/quiz-css-layout"
+          -
+            tier: "Lesson"
+            title: "Zetsy"
+            repositoryurl: "https://github.com/learn-co-curriculum/fe-zetsy"
+          -
+            tier: "Lesson"
+            title: "Box Style Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/box-style-lab"
+      -
+        tier: "Unit"
+        title: "Section 3: Responsive Design"
+        children:
+          -
+            tier: "Lesson"
+            title: "Building Responsive Sites"
+            repositoryurl: "https://github.com/learn-co-curriculum/building-responsive-sites"
+          -
+            tier: "Lesson"
+            title: "Media Queries"
+            repositoryurl: "https://github.com/learn-co-curriculum/media-queries"
+          -
+            tier: "Lesson"
+            title: "Responsive Media"
+            repositoryurl: "https://github.com/learn-co-curriculum/responsive-media"
+          -
+            tier: "Lesson"
+            title: "Responsive Type"
+            repositoryurl: "https://github.com/learn-co-curriculum/responsive-type"
+          -
+            tier: "Lesson"
+            title: "Responsive Layout"
+            repositoryurl: "https://github.com/learn-co-curriculum/responsive-layout"
+          -
+            tier: "Lesson"
+            title: "Viewport"
+            repositoryurl: "https://github.com/learn-co-curriculum/viewport"
+          -
+            tier: "Lesson"
+            title: "Adding Responsive Features Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-adding-responsive-features"
+          -
+            tier: "Lesson"
+            title: "Animal Save Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/animal-save-lab"
+          -
+            tier: "Lesson"
+            title: "CSS Flexbox Code Along"
+            repositoryurl: "https://github.com/learn-co-curriculum/CSS-Flexbox-Code-Along"
+          -
+            tier: "Lesson"
+            title: "CSS Grid Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-grid-lab"
+  -
+    tier: "Topic"
+    title: "Module 12: Sinatra"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Sinatra Basics"
+        children:
+          -
+            tier: "Lesson"
+            title: "What is Sinatra?"
+            repositoryurl: "https://github.com/learn-co-curriculum/what-is-sinatra"
+          -
+            tier: "Lesson"
+            title: "Sinatra from Scratch"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-from-scratch-readme"
+          -
+            tier: "Lesson"
+            title: "Sinatra Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-basics"
+          -
+            tier: "Lesson"
+            title: "Using the Shotgun Development Server"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-shotgun-server"
+          -
+            tier: "Lesson"
+            title: "Sinatra Hello World Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-hello-world-basics"
+          -
+            tier: "Lesson"
+            title: "Sinatra Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-routes-readme"
+          -
+            tier: "Lesson"
+            title: "Sinatra Basic Routes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-basic-routes-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: MVC and Forms"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to MVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-intro-to-mvc"
+          -
+            tier: "Lesson"
+            title: "Sinatra MVC File Structure"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-mvc-file-structure"
+          -
+            tier: "Lesson"
+            title: "Sinatra Views"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-views"
+          -
+            tier: "Lesson"
+            title: "Sinatra Basic Views Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-basic-views-lab"
+          -
+            tier: "Lesson"
+            title: "Using ERB"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-using-erb"
+          -
+            tier: "Lesson"
+            title: "Sinatra Views Lab II"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-views-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-video-review-forms"
+      -
+        tier: "Unit"
+        title: "Section 3: Forms"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Capybara Tests"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-capybara"
+          -
+            tier: "Lesson"
+            title: "Dynamic Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong"
+          -
+            tier: "Lesson"
+            title: "Dynamic Routes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-dynamic-routes-lab"
+          -
+            tier: "Lesson"
+            title: "HTML Forms and Params"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-forms-params-readme-walkthrough"
+          -
+            tier: "Lesson"
+            title: "Passing Data Between Views and Controllers"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-view-and-controller-readme-walkthrough"
+          -
+            tier: "Lesson"
+            title: "Basic Sinatra Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/basic-sinatra-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Layouts and Yield"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-yield-readme"
+          -
+            tier: "Lesson"
+            title: "Integrating Models for a Full MVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough"
+          -
+            tier: "Lesson"
+            title: "Sinatra MVC Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-mvc-lab"
+          -
+            tier: "Lesson"
+            title: "Sinatra Basic Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-basic-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Sinatra Nested Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-nested-forms-readme"
+          -
+            tier: "Lesson"
+            title: "Sinatra Nested Forms Lab: Pirates!"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-nested-forms"
+          -
+            tier: "Lesson"
+            title: "Lab Review-- Sinatra Nested Forms Lab: Pirates"
+            repositoryurl: "https://github.com/learn-co-curriculum/lab-review-sinatra-nested-forms-lab-pirates"
+          -
+            tier: "Lesson"
+            title: "Sinatra Nested Forms Lab: Superheros!"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros"
+      -
+        tier: "Unit"
+        title: "Section 4: Sessions"
+        children:
+          -
+            tier: "Lesson"
+            title: "Sessions and Cookies"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-cookies-readme"
+          -
+            tier: "Lesson"
+            title: "Mechanics of Sessions"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme"
+          -
+            tier: "Lesson"
+            title: "Sinatra Sessions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-basic-sessions-lab"
+          -
+            tier: "Lesson"
+            title: "Sinatra Sessions Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-sessions"
+      -
+        tier: "Unit"
+        title: "Section 5: ActiveRecord"
+        children:
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Setup in Sinatra"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-activerecord-setup"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord in Sinatra"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-activerecord-reading"
+          -
+            tier: "Lesson"
+            title: "Sinatra ActiveRecord CRUD"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-ar-crud-lab"
+          -
+            tier: "Lesson"
+            title: "User Authentication in Sinatra"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-user-auth"
+          -
+            tier: "Lesson"
+            title: "Sinatra Sessions Lab- User Logins"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-logging-in-and-out"
+          -
+            tier: "Lesson"
+            title: "Securing Passwords in Sinatra"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-password-security"
+          -
+            tier: "Lesson"
+            title: "Secure Password Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-secure-password-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Authentication"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-video-review-authentication"
+          -
+            tier: "Lesson"
+            title: "Sinatra RESTful Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-restful-routes-readme"
+          -
+            tier: "Lesson"
+            title: "Sinatra RESTful Routes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-restful-routes-lab"
+          -
+            tier: "Lesson"
+            title: "Using Tux in Sinatra with ActiveRecord"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations in Sinatra"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-activerecord-associations"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Associations: Join Tables"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-activerecord-associations-join-tables"
+          -
+            tier: "Lesson"
+            title: "Sinatra Multiple Controllers"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-multiple-controllers"
+          -
+            tier: "Lesson"
+            title: "Sinatra Complex Forms Associations"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-complex-forms-associations"
+          -
+            tier: "Lesson"
+            title: "Sinatra Playlister"
+            repositoryurl: "https://github.com/learn-co-curriculum/playlister-sinatra"
+          -
+            tier: "Lesson"
+            title: "Sinatra NYC"
+            repositoryurl: "https://github.com/learn-co-curriculum/nyc-sinatra"
+      -
+        tier: "Unit"
+        title: "Section 6: ERB Outside of Sinatra"
+        children:
+          -
+            tier: "Lesson"
+            title: "Video Review: Building a Site Generator"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-video-review-building-a-site-generator-part-1"
+          -
+            tier: "Lesson"
+            title: "Video Review: Building a Site Generator"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-video-review-building-a-site-generator-part-2"
+      -
+        tier: "Unit"
+        title: "Section 7: Sinatra Project Mode"
+        children:
+          -
+            tier: "Lesson"
+            title: "Fwitter"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-fwitter-group-project"
+          -
+            tier: "Lesson"
+            title: "Sinatra Portfolio Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/sinatra-cms-app-assessment"
+  -
+    tier: "Topic"
+    title: "Module 13: Rails"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Introduction to Rails"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-rails"
+          -
+            tier: "Lesson"
+            title: "Rails Application Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-application-basics-readme"
+          -
+            tier: "Lesson"
+            title: "Rails MVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-model-view-controller-readme"
+          -
+            tier: "Lesson"
+            title: "Rails Static Request"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-static-request-readme"
+          -
+            tier: "Lesson"
+            title: "Rails Hello World"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-hello-world-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Intro to Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-video-review-intro-to-rails"
+      -
+        tier: "Unit"
+        title: "Section 2: Rails Models Basics"
+        children:
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Models and Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-activerecord-models-and-rails-readme"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Models and Rails Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-activerecord-model-rails-lab"
+      -
+        tier: "Unit"
+        title: "Section 3: Intro to REST"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro to Rest"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-intro-to-rest"
+          -
+            tier: "Lesson"
+            title: "RESTful Action Index Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-restful-index-action-lab"
+          -
+            tier: "Lesson"
+            title: "Rails Dynamic Request"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-dynamic-request-readme"
+          -
+            tier: "Lesson"
+            title: "Rails Dynamic Request Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-dynamic-request-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Intro to ActionView"
+        children:
+          -
+            tier: "Lesson"
+            title: "Rails URL Helpers"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-url-helpers-readme"
+          -
+            tier: "Lesson"
+            title: "Rails URL Helpers Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-url-helpers-lab"
+          -
+            tier: "Lesson"
+            title: "Rails form_tag"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-form_tag-readme"
+          -
+            tier: "Lesson"
+            title: "Rails form_tag lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-form_tag-lab"
+      -
+        tier: "Unit"
+        title: "Section 5: CRUD with Rails"
+        children:
+          -
+            tier: "Lesson"
+            title: "Create Action"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-create-action-readme"
+          -
+            tier: "Lesson"
+            title: "Create Action Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-create-action-lab"
+          -
+            tier: "Lesson"
+            title:  "Index, Show, New, Create Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-index-show-new-create-lab"
+          -
+            tier: "Lesson"
+            title: "Edit/Update Action"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-edit-update-action-readme"
+          -
+            tier: "Lesson"
+            title: "form_for on Edit"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme"
+          -
+            tier: "Lesson"
+            title: "Strong Params Basics"
+            repositoryurl: "https://github.com/learn-co-curriculum/strong-params-basics"
+          -
+            tier: "Lesson"
+            title: "Rails Forms Overview"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-forms-readme"
+          -
+            tier: "Lesson"
+            title: "form_for lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-form_for-lab"
+          -
+            tier: "Lesson"
+            title: "TodoMVC 1: Assets and Managing Lists"
+            repositoryurl: "https://github.com/learn-co-curriculum/todomvc-1-assets-and-managing-lists"
+          -
+            tier: "Lesson"
+            title: "Rails Generators"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-generators-readme"
+          -
+            tier: "Lesson"
+            title: "CRU Rails Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-cru-form_for-lab"
+          -
+            tier: "Lesson"
+            title: "Resource Generator/ Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-resource-and-scaffold-generator"
+          -
+            tier: "Lesson"
+            title: "Rails Blog Scaffold"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-blog-scaffold"
+      -
+        tier: "Unit"
+        title: "Section 6: Validations and Forms"
+        children:
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Validations"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-validations-readme"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Validations Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-validations-lab"
+          -
+            tier: "Lesson"
+            title: "Validations in Controller Actions"
+            repositoryurl: "https://github.com/learn-co-curriculum/validations-in-controller-actions-rails"
+          -
+            tier: "Lesson"
+            title: "Validations in Controller Actions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/validations-in-controller-actions-rails-lab"
+          -
+            tier: "Lesson"
+            title: "Validations with form_tag"
+            repositoryurl: "https://github.com/learn-co-curriculum/validations-with-form_tag-rails"
+          -
+            tier: "Lesson"
+            title: "Validations with form_tag lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/validations-with-form_tag-rails-lab"
+          -
+            tier: "Lesson"
+            title: "Validations with form_for"
+            repositoryurl: "https://github.com/learn-co-curriculum/validations-with-form_for-rails"
+          -
+            tier: "Lesson"
+            title: "Delete forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/delete-forms-rails"
+          -
+            tier: "Lesson"
+            title: "Rails Testing"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-rails-testing"
+          -
+            tier: "Lesson"
+            title: "CRUD with Validations"
+            repositoryurl: "https://github.com/learn-co-curriculum/crud-with-validations-lab"
+      -
+        tier: "Unit"
+        title: "Section 7: Associations and Rails"
+        children:
+          -
+            tier: "Lesson"
+            title: "Activerecord Associations Review"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-associations-review"
+          -
+            tier: "Lesson"
+            title: "Join The Fun Rails Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/join-the-fun-rails"
+          -
+            tier: "Lesson"
+            title: "ActiveRecord Lifecycle Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/activerecord-lifecycle-reading"
+          -
+            tier: "Lesson"
+            title: "Displaying Associations Data"
+            repositoryurl: "https://github.com/learn-co-curriculum/displaying-associations-rails"
+          -
+            tier: "Lesson"
+            title: "Displaying Associations Data Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/displaying-associations-rails-lab"
+          -
+            tier: "Lesson"
+            title: "Forms and Basic Association"
+            repositoryurl: "https://github.com/learn-co-curriculum/forms-and-basic-associations-rails"
+          -
+            tier: "Lesson"
+            title: "Forms and Basic Associations Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/forms-and-basic-associations-rails-lab"
+          -
+            tier: "Lesson"
+            title: "Basic Nested Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/basic-nested-forms"
+          -
+            tier: "Lesson"
+            title: "Basic Nested Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/basic-nested-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Displaying Has Many Through"
+            repositoryurl: "https://github.com/learn-co-curriculum/displaying-has-many-through-rails"
+          -
+            tier: "Lesson"
+            title: "Displaying Has Many Through Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/displaying-has-many-through-rails-lab"
+          -
+            tier: "Lesson"
+            title: "Has Many Through in Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/has-many-through-forms-rails"
+          -
+            tier: "Lesson"
+            title: "Has Many Through in Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs"
+          -
+            tier: "Lesson"
+            title: "Video Review: Has Many Through in Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Deep Dive into Nested Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-video-review-deep-dive-into-nested-forms"
+      -
+        tier: "Unit"
+        title: "Section 8: Layouts and Partials"
+        children:
+          -
+            tier: "Lesson"
+            title: "Layouts And Templates in Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-layouts-and-templates"
+          -
+            tier: "Lesson"
+            title: "Layouts And Templates in Rails Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab"
+          -
+            tier: "Lesson"
+            title: "Simple Partials"
+            repositoryurl: "https://github.com/learn-co-curriculum/simple-partials-reading"
+          -
+            tier: "Lesson"
+            title: "Simple Partials Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/simple-partials-lab"
+          -
+            tier: "Lesson"
+            title: "Partial with Locals"
+            repositoryurl: "https://github.com/learn-co-curriculum/partial-locals-reading"
+          -
+            tier: "Lesson"
+            title: "Partial with Locals Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/partial-locals-lab"
+      -
+        tier: "Unit"
+        title: "Section 9: Refactoring with Helpers and Model Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "Refresher On MVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/refresher-on-mvc"
+          -
+            tier: "Lesson"
+            title: "Refactoring Views With Helpers"
+            repositoryurl: "https://github.com/learn-co-curriculum/refactoring-views-with-helpers-reading"
+          -
+            tier: "Lesson"
+            title: "Refactoring Views With Helpers Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/refactoring-views-with-helpers-lab"
+          -
+            tier: "Lesson"
+            title: "Model Class Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/model-class-methods-reading"
+          -
+            tier: "Lesson"
+            title: "Model Class Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/model-class-methods-lab"
+      -
+        tier: "Unit"
+        title: "Section 10: Routes and Resources"
+        children:
+          -
+            tier: "Lesson"
+            title: "Routing and Nested Resources"
+            repositoryurl: "https://github.com/learn-co-curriculum/routing-nested-resources-reading"
+          -
+            tier: "Lesson"
+            title: "Routing and Nested Resources Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/routing-nested-resources-lab"
+          -
+            tier: "Lesson"
+            title: "Modifying Nested Resources"
+            repositoryurl: "https://github.com/learn-co-curriculum/modification-nested-routes-reading"
+          -
+            tier: "Lesson"
+            title: "Modifying Nested Resources Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/modification-nested-routes-lab"
+          -
+            tier: "Lesson"
+            title: "Namespaced Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/namespaced-routes-reading"
+          -
+            tier: "Lesson"
+            title: "Namespaced Routes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/namespaced-routes-lab"
+      -
+        tier: "Unit"
+        title: "Section 11: Rails Review: TodoMVC 2"
+        children:
+          -
+            tier: "Lesson"
+            title: "TodoMVC 2:  Lists have Items"
+            repositoryurl: "https://github.com/learn-co-curriculum/todomvc-2-lists-have-items"
+          -
+            tier: "Lesson"
+            title: "TodoMVC 3: Mark Items Complete"
+            repositoryurl: "https://github.com/learn-co-curriculum/todomvc-3-mark-items-complete"
+          -
+            tier: "Lesson"
+            title: "TodoMVC 4: Refactoring with Partials and Helpers"
+            repositoryurl: "https://github.com/learn-co-curriculum/todomvc-4-refactoring-with-partials-and-helpers"
+          -
+            tier: "Lesson"
+            title: "TodoMVC 5: Deleting Items"
+            repositoryurl: "https://github.com/learn-co-curriculum/todomvc-5-deleting-items"
+      -
+        tier: "Unit"
+        title: "Section 12: Authentication"
+        children:
+          -
+            tier: "Lesson"
+            title: "Introduction to Authentication and Authorization"
+            repositoryurl: "https://github.com/learn-co-curriculum/introduction-to-authentication-and-authorization"
+          -
+            tier: "Lesson"
+            title: "Cookies And Sessions"
+            repositoryurl: "https://github.com/learn-co-curriculum/cookies_and_sessions_readme"
+          -
+            tier: "Lesson"
+            title: "Cookies And Sessions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/cookies_and_sessions_lab"
+          -
+            tier: "Lesson"
+            title: "Sessions Controller"
+            repositoryurl: "https://github.com/learn-co-curriculum/sessions_controller_readme"
+          -
+            tier: "Lesson"
+            title: "Sessions Controller Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/sessions_controller_lab"
+          -
+            tier: "Lesson"
+            title: "Login Required"
+            repositoryurl: "https://github.com/learn-co-curriculum/login_required_readme"
+          -
+            tier: "Lesson"
+            title: "Login Required Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/login_required_lab"
+          -
+            tier: "Lesson"
+            title: "Using has_secure Password"
+            repositoryurl: "https://github.com/learn-co-curriculum/has_secure_password_readme"
+          -
+            tier: "Lesson"
+            title: "Using has_secure Password Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/has_secure_password_lab"
+          -
+            tier: "Lesson"
+            title: "Video Review: Authentication"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-video-review-authentication"
+          -
+            tier: "Lesson"
+            title: "Omniauth"
+            repositoryurl: "https://github.com/learn-co-curriculum/omniauth_readme"
+          -
+            tier: "Lesson"
+            title: "Omniauth Review Lecture in TodoMVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/omniauth-review-lecture-in-todomvc"
+          -
+            tier: "Lesson"
+            title: "Omniauth Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/omniauth_lab"
+          -
+            tier: "Lesson"
+            title: "Authentication And Authorization Recap And Common Gems"
+            repositoryurl: "https://github.com/learn-co-curriculum/authentication-and-authorization-recap-and-gems"
+          -
+            tier: "Lesson"
+            title: "Rails Amusement Park"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-amusement-park"
+      -
+        tier: "Unit"
+        title: "Section 13: Popular Gems"
+        children:
+          -
+            tier: "Lesson"
+            title: "How To Find Gems"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-how-to-find-gems-readme"
+      -
+        tier: "Unit"
+        title: "Section 14: Rails Project Mode"
+        children:
+          -
+            tier: "Lesson"
+            title: "Rails Portfolio Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-assessment"
+  -
+    tier: "Topic"
+    title: "Module 14: Front-End Web Programming in JavaScript"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Defining Front-End Web Programming"
+        children:
+          -
+            tier: "Lesson"
+            title: "Demonstrate Front-End Web Programming Example"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-fewp-example"
+          -
+            tier: "Lesson"
+            title: "Stitching Together the Three Pillars"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars"
+      -
+        tier: "Unit"
+        title: "Section 2: Manipulating the DOM"
+        children:
+          -
+            tier: "Lesson"
+            title: "Introducing the DOM and Just Enough JavaScript"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-introducing-the-dom-and-just-enough-javascript"
+          -
+            tier: "Lesson"
+            title: "Introduction to the DOM To Get Started"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started"
+          -
+            tier: "Lesson"
+            title: "DOM Editing Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab"
+          -
+            tier: "Lesson"
+            title: "Changing the DOM with Dev Tools and JavaScript"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-changing-the-dom-with-dev-tools-and-javascript"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Variables"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Variables Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Calling Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-calling-methods"
+          -
+            tier: "Lesson"
+            title: "The DOM Tree"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-the-dom-tree"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Arrays"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-collections"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Arrays Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arrays-lab"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Looping And Iteration Code Along"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along"
+          -
+            tier: "Lesson"
+            title: "querySelector Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-queryselector-methods"
+          -
+            tier: "Lesson"
+            title: "Removing, Altering, and Inserting HTML Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab"
+          -
+            tier: "Lesson"
+            title: "You're a DOM Manipulation Master"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_youre_a_dom_manipulation_master"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing DOM Manipulation"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-reviewing-dom-manipulation-quiz"
+      -
+        tier: "Unit"
+        title: "Section 3: Recognizing JavaScript Events"
+        children:
+          -
+            tier: "Lesson"
+            title: "JavaScript Eventing"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-javascript-eventing"
+          -
+            tier: "Lesson"
+            title: "JavaScript Event Listening"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-event-listening"
+          -
+            tier: "Lesson"
+            title: "Events and Functions Intro"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-events-functions-intro"
+          -
+            tier: "Lesson"
+            title: "Functions in JavaScript"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript"
+          -
+            tier: "Lesson"
+            title: "Fns as First Class Data: Do Behavior"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+          -
+            tier: "Lesson"
+            title: "Fns As First Class Data: Array O' Functions"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-array-o-functions"
+          -
+            tier: "Lesson"
+            title: "Acting on Events"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-acting-on-events"
+          -
+            tier: "Lesson"
+            title: "JavaScript Document Onload"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-document-onload"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Scope"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-jsf-scope"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Scope Chain"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-jsf-scope-chain"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Scope Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-scope-lab"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Lexical Scoping"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-lexical-scoping"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Hoisting"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-jsf-hoisting"
+          -
+            tier: "Lesson"
+            title: "Task Lister Lite"
+            repositoryurl: "https://github.com/learn-co-curriculum/jsdom-task-lister-lite"
+          -
+            tier: "Lesson"
+            title: "DOM Challenge"
+            repositoryurl: "https://github.com/learn-co-curriculum/jsdom-dom-challenge"
+          -
+            tier: "Lesson"
+            title: "You're an Eventing Master"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-eventing-master"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing Javascript Events"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-reviewing-javascript-events-quiz"
+      -
+        tier: "Unit"
+        title: "Section 4: Communication with the Server"
+        children:
+          -
+            tier: "Lesson"
+            title: "Communicating with the Server"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-communicating-with-the-server"
+          -
+            tier: "Lesson"
+            title: "Use Fetch"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-use-fetch"
+          -
+            tier: "Lesson"
+            title: "Fetch Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-fetch-lab"
+          -
+            tier: "Lesson"
+            title: "Objects And Fetch Intro"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-objects-and-fetch-intro"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-data-structures-objects-readme"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Objects Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-data-structures-objects-lab"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Object Iteration"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-looping-and-iteration-object-iteration-readme"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Traversing Nested Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/traversing-nested-objects"
+          -
+            tier: "Lesson"
+            title: "Dog CEO Fetch Practice"
+            repositoryurl: "https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+          -
+            tier: "Lesson"
+            title: "Asynchrony"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-asynchrony"
+          -
+            tier: "Lesson"
+            title: "Sending Data with Fetch Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch"
+          -
+            tier: "Lesson"
+            title: "Toy Tale Challenge"
+            repositoryurl: "https://github.com/learn-co-curriculum/jsdom-toy-tale"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing Server Communication"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz"
+      -
+        tier: "Unit"
+        title: "Section 5: Pulling It All Together"
+        children:
+          -
+            tier: "Lesson"
+            title: "Pulling It All Together"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-pulling-it-all-together"
+          -
+            tier: "Lesson"
+            title: "Build the Example"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-build-the-example"
+      -
+        tier: "Unit"
+        title: "Section 6: Rails as an API"
+        children:
+          -
+            tier: "Lesson"
+            title: "Rails as an API Introduction"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-intro"
+          -
+            tier: "Lesson"
+            title: "Review Of Rails MVC"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc"
+          -
+            tier: "Lesson"
+            title: "Rendering Different Content Types Using Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails"
+          -
+            tier: "Lesson"
+            title: "Custom JSON Rendering Using Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-custom-json-rendering-using-rails"
+          -
+            tier: "Lesson"
+            title: "Rendering Related Object Data In JSON"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-rendering-related-object-data-in-json"
+          -
+            tier: "Lesson"
+            title: "Creating a Rails API from Scratch"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-creating-a-rails-api-from-scratch"
+          -
+            tier: "Lesson"
+            title: "Extracting a Service Class"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-class"
+          -
+            tier: "Lesson"
+            title: "Using the Fast JSON API Gem"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api"
+          -
+            tier: "Lesson"
+            title: "Pokemon Teams Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project"
+      -
+        tier: "Unit"
+        title: "Section 7: Formalizing JS: Data Types, Comparisons, Conditionals"
+        children:
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Data Types"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-basics-data-types-readme"
+          -
+            tier: "Lesson"
+            title: "Quiz: Javascript Data Types"
+            repositoryurl: "https://github.com/learn-co-curriculum/javascript-data-types-quiz"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Arithmetic Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arithmetic-lab"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Comparisons"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-comparisons"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Conditionals"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-conditionals"
+          -
+            tier: "Lesson"
+            title: "JS Fundamentals: Logical Operators"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-logical-operators"
+          -
+            tier: "Lesson"
+            title: "Iterators Drill: Map Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-map-lab"
+          -
+            tier: "Lesson"
+            title: "Iterators Drill: Find Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-find-lab"
+          -
+            tier: "Lesson"
+            title: "Iterators Drill: Filter Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-filter-lab"
+          -
+            tier: "Lesson"
+            title: "Iterators Drill: Reduce Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-reduce-lab"
+      -
+        tier: "Unit"
+        title: "Section 8: ES6 Syntax Sugar"
+        children:
+          -
+            tier: "Lesson"
+            title: "Destructuring Assignment"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_destructuring_assignment"
+          -
+            tier: "Lesson"
+            title: "Default / Rest / Spread as Function Arguments"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started"
+          -
+            tier: "Lesson"
+            title: "Object Assign"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_object_assign"
+      -
+        tier: "Unit"
+        title: "Section 9: Advanced Function Usage"
+        children:
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Introduction"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-introduction"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Basic Functions Review Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: First Class Functions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Collection Processing Methods"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-collection-processing-methods"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Introduction To Map And Reduce Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-introduction-to-map-and-reduce-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Generalized Map And Reduce Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Collection Processing Methods Family Tree"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree"
+          -
+            tier: "Lesson"
+            title: "Array Element Finding"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_array_element_finding"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: forEach The Unexpressive Enumerable"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-foreach-the-unexpressive-enumerable"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Introduction To Context Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-introduction-to-context-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Context And Implicit Setting"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-context-and-implicit-setting"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Context And Explicit Setting"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-context-and-explicit-setting"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Context Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-context-lab"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: The Lost Context Bug"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-the-lost-context-bug"
+          -
+            tier: "Lesson"
+            title: "Arrow Function Shorthand"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs_arrow_function_shorthand"
+          -
+            tier: "Lesson"
+            title: "JS Advanced Functions: Functional Library Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project"
+      -
+        tier: "Unit"
+        title: "Section 10: Object Orientation in JavaScript"
+        children:
+          -
+            tier: "Lesson"
+            title: "Object Orientation in JavaScript"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-object-orientation-in-javascript"
+          -
+            tier: "Lesson"
+            title: "OOJS: Classes And Instances"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-classes-and-instances"
+          -
+            tier: "Lesson"
+            title: "OOJS: Initializing Instances Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-initializing-instances"
+          -
+            tier: "Lesson"
+            title: "OOJS: Adding Behavior With Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods"
+          -
+            tier: "Lesson"
+            title: "OOJS: Method Types"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-method-types"
+          -
+            tier: "Lesson"
+            title: "OOJS: Getter and Setter Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods"
+          -
+            tier: "Lesson"
+            title: "OOJS: Static Methods Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-static-methods-lab"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing JavaScript Object Orientation"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz"
+          -
+            tier: "Lesson"
+            title: "Quiz: Predicting Constructor Effects"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-predicting-constructor-effects-instrumental"
+      -
+        tier: "Unit"
+        title: "Section 11: OO JavaScript: Inheritance"
+        children:
+          -
+            tier: "Lesson"
+            title: "OOJS: Class Extension and Inheritance Extends"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-class-extension-and-inheritance-extends"
+          -
+            tier: "Lesson"
+            title: "OOJS: Class Extensions Extends Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-class-extensions-extends-lab"
+          -
+            tier: "Lesson"
+            title: "OOJS: Class Extension and Inheritance Super"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-class-extension-and-inheritance-super"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing Javascript Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz"
+          -
+            tier: "Lesson"
+            title: "OOJS: Class Extensions Super Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-class-extensions-super-lab"
+          -
+            tier: "Lesson"
+            title: "OOJS: Liskovs Substitution Principle"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-liskovs-substitution-principle"
+          -
+            tier: "Lesson"
+            title: "Quiz: Reviewing Javascript Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz"
+      -
+        tier: "Unit"
+        title: "Section 12: OO JavaScript: Prototypal Inheritance"
+        children:
+          -
+            tier: "Lesson"
+            title: "OOJS: Intro to Prototypal Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-intro-to-prototypal-inheritance"
+          -
+            tier: "Lesson"
+            title: "OOJS: Constructor Functions"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-constructor-functions-readme"
+          -
+            tier: "Lesson"
+            title: "OOJS: Constructor Functions Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-object-oriented-constructor-functions-lab"
+          -
+            tier: "Lesson"
+            title: "OOJS: Using Prototypes"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-using-prototypes"
+          -
+            tier: "Lesson"
+            title: "OOJS: Using Prototypes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-object-oriented-object-methods-lab"
+          -
+            tier: "Lesson"
+            title: "OOJS: Prototypal Inheritance Summary"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-js-summary"
+          -
+            tier: "Lesson"
+            title: "Quiz:  Reviewing Javascript Prototypal Inheritance"
+            repositoryurl: "https://github.com/learn-co-curriculum/prototypal-oo-reviewing-javascript-prototypal-inheritance-quiz"
+      -
+        tier: "Unit"
+        title: "Section 13: Project Mode"
+        children:
+          -
+            tier: "Lesson"
+            title: "Project Mode Guidelines"
+            repositoryurl: "https://github.com/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  -
+    tier: "Topic"
+    title: "Module 15: Rails and Javascript"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Asset Pipeline"
+        children:
+          -
+            tier: "Lesson"
+            title: "What Is The Asset Pipeline"
+            repositoryurl: "https://github.com/learn-co-curriculum/what-is-the-asset-pipeline"
+          -
+            tier: "Lesson"
+            title: "Javascript Manifests"
+            repositoryurl: "https://github.com/learn-co-curriculum/javascript-manifests"
+          -
+            tier: "Lesson"
+            title: "Javascript Manifests Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/javascript-manifests-lab"
+          -
+            tier: "Lesson"
+            title: "Page Specific Javascript"
+            repositoryurl: "https://github.com/learn-co-curriculum/page-specific-javascript-rails"
+          -
+            tier: "Lesson"
+            title: "External Javascript Libraries"
+            repositoryurl: "https://github.com/learn-co-curriculum/external-javascript-libraries-in-rails"
+          -
+            tier: "Lesson"
+            title: "CSS Manifests"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-manifests"
+          -
+            tier: "Lesson"
+            title: "CSS Manifests Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/css-manifests-lab"
+          -
+            tier: "Lesson"
+            title: "External CSS Frameworks In Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/external-css-frameworks-in-rails"
+          -
+            tier: "Lesson"
+            title: "Asset Preprocessors In Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/asset-preprocessors-in-rails"
+          -
+            tier: "Lesson"
+            title: "Images And The Asset Pipeline"
+            repositoryurl: "https://github.com/learn-co-curriculum/images-and-the-asset-pipeline"
+          -
+            tier: "Lesson"
+            title: "Your Own JS And CSS In Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/your-own-js-and-css-in-rails"
+      -
+        tier: "Unit"
+        title: "Section 2: Popular Gems"
+        children:
+          -
+            tier: "Lesson"
+            title: "Rails How To Find Gems Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-how-to-find-gems-readme"
+      -
+        tier: "Unit"
+        title: "Section 3: Workers"
+        children:
+          -
+            tier: "Lesson"
+            title: "Long Running Tasks in Rails"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-long-running-tasks-readme"
+          -
+            tier: "Lesson"
+            title: "Long Running Tasks in Rails Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-long-running-tasks-lab"
+          -
+            tier: "Lesson"
+            title: "Sidekiq"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-sidekiq-readme"
+          -
+            tier: "Lesson"
+            title: "Sidekiq Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-sidekiq-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Consuming APIs"
+        children:
+          -
+            tier: "Lesson"
+            title: "What Is An API?"
+            repositoryurl: "https://github.com/learn-co-curriculum/what-is-an-api-reading"
+          -
+            tier: "Lesson"
+            title: "APIs And Postman"
+            repositoryurl: "https://github.com/learn-co-curriculum/apis-and-postman"
+          -
+            tier: "Lesson"
+            title: "Hitting APIs with Faraday"
+            repositoryurl: "https://github.com/learn-co-curriculum/apis-and-faraday-reading"
+          -
+            tier: "Lesson"
+            title: "Basic APIs Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/basic-apis-lab"
+          -
+            tier: "Lesson"
+            title: "Using OAuth With APIs"
+            repositoryurl: "https://github.com/learn-co-curriculum/web-auth-readme"
+          -
+            tier: "Lesson"
+            title: "Posting to APIs"
+            repositoryurl: "https://github.com/learn-co-curriculum/ruby-posting-requests"
+          -
+            tier: "Lesson"
+            title: "Working with APIs"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-github-api"
+          -
+            tier: "Lesson"
+            title: "Web Service Objects"
+            repositoryurl: "https://github.com/learn-co-curriculum/web-service-objects-readme"
+          -
+            tier: "Lesson"
+            title: "Refactoring APIs Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-refactoring-apis"
+      -
+        tier: "Unit"
+        title: "Section 5: Building APIs"
+        children:
+          -
+            tier: "Lesson"
+            title: "Why Build an API?"
+            repositoryurl: "https://github.com/learn-co-curriculum/why-building-apis-reading"
+          -
+            tier: "Lesson"
+            title: "Returning String Data"
+            repositoryurl: "https://github.com/learn-co-curriculum/returning-string-data"
+          -
+            tier: "Lesson"
+            title: "Returning Strings Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/return-string-data-lab"
+          -
+            tier: "Lesson"
+            title: "DIY JSON Serializer"
+            repositoryurl: "https://github.com/learn-co-curriculum/diy-json-serializer-ruby"
+          -
+            tier: "Lesson"
+            title: "DIY JSON Serializer Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/diy-json-serializer-lab"
+          -
+            tier: "Lesson"
+            title: "Using to_json"
+            repositoryurl: "https://github.com/learn-co-curriculum/using-to-json-ruby"
+          -
+            tier: "Lesson"
+            title: "Using to_json Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/using-to-json-lab"
+          -
+            tier: "Lesson"
+            title: "Using Active Model Serializer"
+            repositoryurl: "https://github.com/learn-co-curriculum/using-active-model-serializer"
+          -
+            tier: "Lesson"
+            title: "Using Active Model Serializer Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/using-active-model-serializer-lab"
+          -
+            tier: "Lesson"
+            title: "Receiving API POSTs"
+            repositoryurl: "https://github.com/learn-co-curriculum/receiving-api-posts"
+          -
+            tier: "Lesson"
+            title: "Receiving API POSTs Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/receiving-api-posts-lab"
+      -
+        tier: "Unit"
+        title: "Section 6: Project Mode"
+        children:
+          -
+            tier: "Lesson"
+            title: "jQuery Tic-Tac-Toe with a Rails API — Part 1"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-tictactoe-rails-api-backend"
+          -
+            tier: "Lesson"
+            title: "jQuery Tic-Tac-Toe with a Rails API — Part 2"
+            repositoryurl: "https://github.com/learn-co-curriculum/js-tictactoe-rails-api"
+          -
+            tier: "Lesson"
+            title: "Rails with JavaScript Portfolio Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/rails-js-assessment"
+  -
+    tier: "Topic"
+    title: "Module 16: React"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Node Package Manager"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro To Npm Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-npm-readme"
+          -
+            tier: "Lesson"
+            title: "Npm Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/npm-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: Introduction to React"
+        children:
+          -
+            tier: "Lesson"
+            title: "This Is React Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/this-is-react-readme"
+          -
+            tier: "Lesson"
+            title: "A React App Example"
+            repositoryurl: "https://github.com/learn-co-curriculum/a-react-app-example"
+          -
+            tier: "Lesson"
+            title: "Some Useful Tools For Writing React"
+            repositoryurl: "https://github.com/learn-co-curriculum/some-useful-tools-for-writing-react"
+      -
+        tier: "Unit"
+        title: "Section 3: Introduction to Components"
+        children:
+          -
+            tier: "Lesson"
+            title: "React Components"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-components"
+          -
+            tier: "Lesson"
+            title: "Static Components Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-static-components-lab"
+          -
+            tier: "Lesson"
+            title: "Dynamic Components"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-dynamic-components"
+          -
+            tier: "Lesson"
+            title: "Dynamic Components Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-dynamic-components-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Props and State"
+        children:
+          -
+            tier: "Lesson"
+            title: "Props"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-props-readme"
+          -
+            tier: "Lesson"
+            title: "Props Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-props-movie-lab"
+          -
+            tier: "Lesson"
+            title: "Modular Code"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-modular-code"
+          -
+            tier: "Lesson"
+            title: "Events Crash Course Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-events-crash-course-readme"
+          -
+            tier: "Lesson"
+            title: "Events Crash Course Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-events-crash-course-lab"
+          -
+            tier: "Lesson"
+            title: "State"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-state-readme"
+          -
+            tier: "Lesson"
+            title: "Simple State Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-simple-state-lab"
+          -
+            tier: "Lesson"
+            title: "Slider State Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-initial-state-lab"
+          -
+            tier: "Lesson"
+            title: "Using Callbacks To Pass Information Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab"
+      -
+        tier: "Unit"
+        title: "Section 5: Events"
+        children:
+          -
+            tier: "Lesson"
+            title: "React Event System"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-event-system"
+          -
+            tier: "Lesson"
+            title: "Event System Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-event-system-lab"
+          -
+            tier: "Lesson"
+            title: "Events In Detail"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-events-in-detail"
+          -
+            tier: "Lesson"
+            title: "Events In Detail Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-events-in-detail-lab"
+          -
+            tier: "Lesson"
+            title: "Updating State"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-updating-state"
+          -
+            tier: "Lesson"
+            title: "Updating State Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-updating-state-lab"
+      -
+        tier: "Unit"
+        title: "Section 6: Forms"
+        children:
+          -
+            tier: "Lesson"
+            title: "Forms"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-forms"
+          -
+            tier: "Lesson"
+            title: "Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Props, State, and Events Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-props-and-state-lab"
+      -
+        tier: "Unit"
+        title: "Section 7: Lifecycle Methods"
+        children:
+          -
+            tier: "Lesson"
+            title: "React Component Lifecycle Overview"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-component-lifecycle-overview"
+          -
+            tier: "Lesson"
+            title: "Component Mounting and Unmounting Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-component-mounting-lifecycle-readme"
+          -
+            tier: "Lesson"
+            title: "Component Mounting LabMultiTimer App"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-component-mounting-lab"
+          -
+            tier: "Lesson"
+            title: "Component Mounting LabPancake Flipper"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-component-mounting-and-unmounting-lab"
+          -
+            tier: "Lesson"
+            title: "Update Lifecycle Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-update-lifecycle-readme"
+          -
+            tier: "Lesson"
+            title: "Component Updating Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-component-updating-lab"
+      -
+        tier: "Unit"
+        title: "Section 8: Async React"
+        children:
+          -
+            tier: "Lesson"
+            title: "Async React"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-async-readme"
+          -
+            tier: "Lesson"
+            title: "Async Fetch Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-async-fetch-lab"
+          -
+            tier: "Lesson"
+            title: "Async React Mini Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-async-gif-search-lab"
+      -
+        tier: "Unit"
+        title: "Section 9: Advanced Components"
+        children:
+          -
+            tier: "Lesson"
+            title: "Types Of Components"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-types-of-components"
+          -
+            tier: "Lesson"
+            title: "Presentational Components"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-presentation-components"
+          -
+            tier: "Lesson"
+            title: "Presentational Components Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-presentation-components-lab"
+          -
+            tier: "Lesson"
+            title: "Container Components"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-container-components"
+          -
+            tier: "Lesson"
+            title: "Container Components Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-container-components-lab"
+          -
+            tier: "Lesson"
+            title: "Fragments"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-fragments"
+      -
+        tier: "Unit"
+        title: "Section 10: React: Under the Hood"
+        children:
+          -
+            tier: "Lesson"
+            title: "Create React App"
+            repositoryurl: "https://github.com/learn-co-curriculum/create-react-app"
+          -
+            tier: "Lesson"
+            title: "Babel And React"
+            repositoryurl: "https://github.com/learn-co-curriculum/babel-and-react"
+          -
+            tier: "Lesson"
+            title: "Webpack And React"
+            repositoryurl: "https://github.com/learn-co-curriculum/webpack-and-react"
+          -
+            tier: "Lesson"
+            title: "Declarative Programming in React"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-declarative-programming"
+          -
+            tier: "Lesson"
+            title: "The Virtual Dom"
+            repositoryurl: "https://github.com/learn-co-curriculum/javascript-virtual-dom"
+      -
+        tier: "Unit"
+        title: "Section 11: Client-Side Routing"
+        children:
+          -
+            tier: "Lesson"
+            title: "Introduction To React Router"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-introduction-to-react-router"
+          -
+            tier: "Lesson"
+            title: "Components As Routes"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-components-as-routes"
+          -
+            tier: "Lesson"
+            title: "Components As Routes Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-components-as-routes-lab"
+          -
+            tier: "Lesson"
+            title: "Nested Routes Code Along"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-router-nested-routes-code-along"
+  -
+    tier: "Topic"
+    title: "Module 17: Redux"
+    children:
+      -
+        tier: "Unit"
+        title: "Section 1: Building Redux"
+        children:
+          -
+            tier: "Lesson"
+            title: "Why Redux"
+            repositoryurl: "https://github.com/learn-co-curriculum/why-redux"
+          -
+            tier: "Lesson"
+            title: "Redux Flow"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-flow"
+          -
+            tier: "Lesson"
+            title: "Redux Reducer"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-reducer"
+          -
+            tier: "Lesson"
+            title: "Redux Dispatch"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-dispatch"
+          -
+            tier: "Lesson"
+            title: "Redux Initial Dispatch"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-initial-dispatch"
+          -
+            tier: "Lesson"
+            title: "Redux Dispatch With Event Listeners"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-dispatch-with-event-listeners"
+          -
+            tier: "Lesson"
+            title: "Redux Create Store"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-create-store"
+          -
+            tier: "Lesson"
+            title: "Redux Create Store Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-create-store-lab"
+      -
+        tier: "Unit"
+        title: "Section 2: Redux Library"
+        children:
+          -
+            tier: "Lesson"
+            title: "Intro To Redux Library Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/intro-to-redux-library-codealong"
+          -
+            tier: "Lesson"
+            title: "Map State To Props"
+            repositoryurl: "https://github.com/learn-co-curriculum/map-state-to-props-readme"
+          -
+            tier: "Lesson"
+            title: "Review Map State To Props Readme"
+            repositoryurl: "https://github.com/learn-co-curriculum/review-map-state-to-props-readme"
+          -
+            tier: "Lesson"
+            title: "Map State To Props Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/map-state-to-props-lab"
+          -
+            tier: "Lesson"
+            title: "Redux Action Creators"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-action-creators"
+          -
+            tier: "Lesson"
+            title: "Map Dispatch To Props"
+            repositoryurl: "https://github.com/learn-co-curriculum/map-dispatch-to-props-readme"
+          -
+            tier: "Lesson"
+            title: "Map Dispatch To Props Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/map-dispatch-to-props-lab"
+          -
+            tier: "Lesson"
+            title: "Combine Reducers Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/combine-reducers"
+      -
+        tier: "Unit"
+        title: "Section 3: React Redux Continued"
+        children:
+          -
+            tier: "Lesson"
+            title: "When To Connect React and Redux"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-components-events-actions-and-stores"
+          -
+            tier: "Lesson"
+            title: "Redux Forms Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-forms-codealong"
+          -
+            tier: "Lesson"
+            title: "Redux Index Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-index-codealong"
+          -
+            tier: "Lesson"
+            title: "Cooking with Redux"
+            repositoryurl: "https://github.com/learn-co-curriculum/quote-maker-react-lab"
+          -
+            tier: "Lesson"
+            title: "Building Forms Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/building-forms-lab"
+          -
+            tier: "Lesson"
+            title: "Redux Delete Codealong"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-delete-codealong"
+          -
+            tier: "Lesson"
+            title: "Redux Delete Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-delete-lab"
+          -
+            tier: "Lesson"
+            title: "CRUD Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/crud-lab"
+      -
+        tier: "Unit"
+        title: "Section 4: Async Redux"
+        children:
+          -
+            tier: "Lesson"
+            title: "Redux Thunk"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-thunk-readme"
+          -
+            tier: "Lesson"
+            title: "Redux Thunk Lab"
+            repositoryurl: "https://github.com/learn-co-curriculum/redux-thunk-lab"
+      -
+        tier: "Unit"
+        title: "Section 5: Redux Final Project"
+        children:
+          -
+            tier: "Lesson"
+            title: "React Redux Portfolio Project"
+            repositoryurl: "https://github.com/learn-co-curriculum/react-redux-assessment"
