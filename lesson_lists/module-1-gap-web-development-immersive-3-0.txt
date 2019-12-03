@@ -13,7 +13,6 @@ https://github.com/learn-co-curriculum/pfwtfp-breaking-down-large-problems-with-
 https://github.com/learn-co-curriculum/pfwtfp-breaking-down-large-problems-with-subroutines-dry
 https://github.com/learn-co-curriculum/pfwtfp-wrapping-up-subroutines
 https://github.com/learn-co-curriculum/pfwtfp-stats-with-subroutines
-https://github.com/learn-co-curriculum/pfwtfp-debugging-multi-call-programs
 https://github.com/learn-co-curriculum/pfwtfp-how-to-ask-questions
 https://github.com/learn-co-curriculum/pfwtfp-seeking-help-like-a-responsible-programmer
 https://github.com/learn-co-curriculum/pfwtfp-rating-requests-for-help
@@ -70,7 +69,7 @@ https://github.com/learn-co-curriculum/why-layers-of-abstraction
 https://github.com/learn-co-curriculum/rack-intro
 https://github.com/learn-co-curriculum/rack-dynamic-web-apps
 https://github.com/learn-co-curriculum/rack-responses-lab
-http-request-readme
+https://github.com/learn-co-curriculum/rack-http-request-readme
 https://github.com/learn-co-curriculum/rack-get-params-lab
 https://github.com/learn-co-curriculum/rack-dynamic-paths-readme
 https://github.com/learn-co-curriculum/rack-status-codes-readme

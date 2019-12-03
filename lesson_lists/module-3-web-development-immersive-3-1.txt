@@ -1,5 +1,4 @@
 https://github.com/learn-co-curriculum/What-To-Expect-In-Mod-3
-https://github.com/learn-co-curriculum/flatiron-students-present
 https://github.com/learn-co-curriculum/fewpjs-discussion-questions-intro-to-dom-js
 https://github.com/learn-co-curriculum/fewpjs-discussion-questions-events
 https://github.com/learn-co-curriculum/ajax-discussion-question
@@ -9,12 +8,14 @@ https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-t
 https://github.com/learn-co-curriculum/fewpjs-discussion-questions-es6-features
 https://github.com/learn-co-curriculum/js-advanced-functions-discussion-question-execution-context
 https://github.com/learn-co-curriculum/arrow-functions-discussion-questions
+https://github.com/learn-co-curriculum/the-dom-challenge
+https://github.com/learn-co-curriculum/debugging-workshop
 https://github.com/learn-co-curriculum/js-github-project
-https://github.com/learn-co-curriculum/mod-3-calorie-counter-js-practice
-https://github.com/learn-co-curriculum/js-quotes-practice
+https://github.com/learn-co-curriculum/js-fetch-monster-practice-challenge
 https://github.com/learn-co-curriculum/woof-woof-js-practice
 https://github.com/learn-co-curriculum/bookliker-practice-challenge
-https://github.com/learn-co-curriculum/monsters-practice-challenge
+https://github.com/learn-co-curriculum/js-quotes-practice
+https://github.com/learn-co-curriculum/mod-3-calorie-counter-js-practice
 https://github.com/learn-co-curriculum/fewpjs-reviewing-dom-manipulation-quiz
 https://github.com/learn-co-curriculum/fewpjs-reviewing-javascript-events-quiz
 https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz
@@ -44,6 +45,7 @@ https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-alo
 https://github.com/learn-co-curriculum/fewpjs-queryselector-methods
 https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab
 https://github.com/learn-co-curriculum/fewpjs_youre_a_dom_manipulation_master
+https://github.com/learn-co-curriculum/fewpjs-reviewing-dom-manipulation-quiz
 https://github.com/learn-co-curriculum/fewpjs-javascript-eventing
 https://github.com/learn-co-curriculum/fewpjs-event-listening
 https://github.com/learn-co-curriculum/fewpjs-events-functions-intro
@@ -131,3 +133,4 @@ https://github.com/learn-co-curriculum/prototypal-oo-js-object-oriented-construc
 https://github.com/learn-co-curriculum/prototypal-oo-js-using-prototypes
 https://github.com/learn-co-curriculum/prototypal-oo-js-object-oriented-object-methods-lab
 https://github.com/learn-co-curriculum/prototypal-oo-js-summary
+https://github.com/learn-co-curriculum/prototypal-oo-reviewing-javascript-prototypal-inheritance-quiz

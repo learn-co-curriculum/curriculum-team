@@ -1,0 +1,12 @@
+https://github.com/learn-co-curriculum/project-euler-about
+https://github.com/learn-co-curriculum/what-is-a-fork-test
+https://github.com/learn-co-curriculum/project-euler-multiples-3-5
+https://github.com/learn-co-curriculum/project-euler-even-fibonacci
+https://github.com/learn-co-curriculum/project-euler-largest-prime-factor
+https://github.com/learn-co-curriculum/project-euler-largest-palindrome-product
+https://github.com/learn-co-curriculum/project-euler-smallest-multiple
+https://github.com/learn-co-curriculum/project-euler-sum-square-difference
+https://github.com/learn-co-curriculum/project-euler-10001st-prime
+https://github.com/learn-co-curriculum/project-euler-collatz
+https://github.com/learn-co-curriculum/project-euler-power-digit-sum
+https://github.com/learn-co-curriculum/project-euler-factorial-digit-sum
