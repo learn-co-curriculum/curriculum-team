@@ -45,4 +45,3 @@ For email you will want email
 Past this the UI is pretty clear. Once you're done editing your message you
 will be able to send test messages and review things. Once you're happy, ship
 it!
-
