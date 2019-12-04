@@ -1,0 +1,54 @@
+* [1572297751][aryaziai]: Joseph https://github.com/learn-co-curriculum/deploy-on-day-1/pull/100
+* [1572289600][aryaziai]: Joseph https://github.com/learn-co-curriculum/deploy-on-day-1/pull/99
+* [1568683411][dannylee8]: Correct typo. https://github.com/learn-co-curriculum/code-challenge-tips/pull/1
+* [1570795775][Liko]: Done - Gee-Wey Yue & Li Xie https://github.com/learn-co-curriculum/week-1-group-review/pull/6
+* [1570794717][Ned-el-ch]: done with this kickass lab https://github.com/learn-co-curriculum/week-1-group-review/pull/5
+* [1568990802][HTCicek]: Went through DQ with Connor https://github.com/learn-co-curriculum/week-1-group-review/pull/4
+* [1565979048][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-intro-to-programming-as-conversation/pull/2
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1564595529][sgharms]: Retargeting level of abstraction https://github.com/learn-co-curriculum/programming-univbasics-expression-and-evaluation-defined/pull/2
+* [1565801211][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-constant-expression/pull/2
+* [1575413385][mrarthurwhite]: A Ruby Text or hardcopy Recommendation? https://github.com/learn-co-curriculum/programming-univbasics-the-variable-lookup-expression/issues/4
+* [1565982590][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-variable-lookup-expression/pull/3
+* [1565982960][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-data-types/pull/5
+* [1566221645][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-arithmetic-expressions/pull/2
+* [1566222532][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-the-ternary-expression-and-logic/pull/2
+* [1566225443][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-boolean-expressions/pull/4
+* [1566226483][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-working-with-string/pull/4
+* [1566231678][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-program-with-expressions/pull/3
+* [1566489178][sgharms]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/pull/2
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1566420495][jenmyers]: Edit for grammar and clarity https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/pull/3
+* [1566420388][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-defining-methods/pull/2
+* [1566421395][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-and-arguments-readme/pull/2
+* [1575143279][Ames1977]: learn.co - open IDE https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/issues/3
+* [1566422159][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/pull/2
+* [1566422422][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-ruby-method-arguments-lab/pull/6
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1566423171][jenmyers]: Edit for clarity https://github.com/learn-co-curriculum/programming-univbasics-3-method-return-values/pull/3
+* [1566504368][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope/pull/3
+* [1566504705][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope-lab/pull/1
+* [1566504957][jenmyers]: Edit for grammar https://github.com/learn-co-curriculum/programming-univbasics-3-build-a-calculator-lab/pull/1
+* [1566505106][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-conclusion/pull/2
+* [1574215130][AlteredArt]: will not submit! https://github.com/learn-co-curriculum/programming-univbasics-4-array-concept-review-lab/issues/8
+* [1570044603][robotspacefish]: fix typo https://github.com/learn-co-curriculum/programming-univbasics-4-creating-and-updating-hash-key-value-pairs/pull/3
+* [1574617389][Santosian]: Read Scalar Data From a Nested "Array" https://github.com/learn-co-curriculum/programming-univbasics-nds-hashes-of-hashes-lab/issues/4
+* [1574616812][Santosian]: little error https://github.com/learn-co-curriculum/programming-univbasics-nds-hashes-of-hashes-lab/issues/3
+* [1574620718][Santosian]: The labs name should be Hash of Arrays https://github.com/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab/issues/2
+* [1575265330][asengelhart]: Nested Data Structure Transformation Quiz - questions 7-9 need improvement https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/6
+* [1575053510][Santosian]: There is two timees the same question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/5
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1568662633][sgharms]: Wip be more intro y https://github.com/learn-co-curriculum/debugging-practice-introduction/pull/1
+* [1567124232][ScarlettUtopia]: Done. https://github.com/learn-co-curriculum/oo-banking/pull/5
+* [1567121961][brianly27]: collaborated with Megan https://github.com/learn-co-curriculum/oo-banking/pull/4
+* [1569467662][dannylee8]: Move the hint below section with Lil' Bub https://github.com/learn-co-curriculum/sql-insert-select-update-code-along/pull/23
+* [1573123702][AdamWeissman]: Can't Fork. Same ISSUE as past two commenters. https://github.com/learn-co-curriculum/SQL-bear-organizer-lab/issues/41
+* [1565879560][sgharms]: Issue #24 https://github.com/learn-co-curriculum/sql-grouping-and-sorting-readme/pull/25
+* [1564814900][Sdcrouse]: Typo fix and adjust appearance of outputted SQL https://github.com/learn-co-curriculum/sql-complex-joins-readme/pull/28
+* [1574550064][aschonely83]: Lab Complete  https://github.com/learn-co-curriculum/activerecord-tvshow/pull/39
+* [1567997248][akannan747]: complete lab https://github.com/learn-co-curriculum/active-record-project/pull/1
+* [1574550064][aschonely83]: Lab Complete  https://github.com/learn-co-curriculum/activerecord-tvshow/pull/39
+* [1573526905][remiodufuye]: Development https://github.com/learn-co-curriculum/module-one-final-project-guidelines/pull/11
+* [1573526905][remiodufuye]: Development https://github.com/learn-co-curriculum/module-one-final-project-guidelines/pull/11
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

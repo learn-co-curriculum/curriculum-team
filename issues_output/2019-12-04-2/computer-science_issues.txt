@@ -1,0 +1,59 @@
+* [1575409917][ryanwevans]: Fix typo https://github.com/learn-co-curriculum/why-algorithms/pull/2
+* [1496530654][nathaniel-miller]: Inserted missing word https://github.com/learn-co-curriculum/why-algorithms/pull/1
+* [1575425045][ryanwevans]: Fix typos https://github.com/learn-co-curriculum/time-complexity/pull/5
+* [1554747844][ValerieHMoore]: Its not it's https://github.com/learn-co-curriculum/time-complexity/issues/4
+* [1554747109][ValerieHMoore]: Extra letter a https://github.com/learn-co-curriculum/time-complexity/issues/3
+* [1498436220][bhabig]: few minor word additions or comma additions for slight increase in readability https://github.com/learn-co-curriculum/time-complexity/pull/2
+* [1498434549][bhabig]: removed 'a' before 'inputs' in - 'Calculate the time it takes a function for inputs of different lengths' https://github.com/learn-co-curriculum/time-complexity/pull/1
+* [1575425807][ryanwevans]: Fixed typo https://github.com/learn-co-curriculum/worst-case-complexity/pull/7
+* [1575428655][ryanwevans]: Fixed typos https://github.com/learn-co-curriculum/big-o-approximation/pull/5
+* [1554749988][ValerieHMoore]: the size of the input https://github.com/learn-co-curriculum/big-o-approximation/issues/4
+* [1554749829][ValerieHMoore]: Too high https://github.com/learn-co-curriculum/big-o-approximation/issues/3
+* [1527021381][micahshute]: Equation in "Simplifying Time Complexity" Paragraph https://github.com/learn-co-curriculum/big-o-approximation/issues/2
+* [1573437195][yomi413]: Modification of this README to add return and to correct minor typos https://github.com/learn-co-curriculum/recursion-readme/pull/3
+* [1535045798][breadoliveoilsalt]: `return` missing? https://github.com/learn-co-curriculum/recursion-readme/issues/2
+* [1506292543][peacestone]: Added return statement to code snippet examples https://github.com/learn-co-curriculum/recursion-readme/pull/1
+* [1564412264][gbs4ever]: Update README.md https://github.com/learn-co-curriculum/recursion-lab/pull/12
+* [1520694185][scirocco21]: Assignment, not equality? https://github.com/learn-co-curriculum/recursion-lab/issues/11
+* [1573404083][yomi413]: Slight modification to fix issue #6 https://github.com/learn-co-curriculum/sorting-algorithms-introduction/pull/7
+* [1572401325][yomi413]: Minor corrections https://github.com/learn-co-curriculum/sorting-algorithms-introduction/issues/6
+* [1558535470][stomg7969]: Typo https://github.com/learn-co-curriculum/sorting-algorithms-introduction/issues/5
+* [1504707844][qtotuan]: Isn't this selection sort rather than insertion sort? https://github.com/learn-co-curriculum/sorting-algorithms-introduction/issues/4
+* [1496627122][achasveachas]: Another missing word https://github.com/learn-co-curriculum/sorting-algorithms-introduction/pull/3
+* [1496625754][achasveachas]: Removed extra word https://github.com/learn-co-curriculum/sorting-algorithms-introduction/pull/2
+* [1494241504][RachelSa]: Update README.md https://github.com/learn-co-curriculum/sorting-algorithms-introduction/pull/1
+* [1573430710][yomi413]: Slight modification to fix issue #4 https://github.com/learn-co-curriculum/insertion-sort/pull/5
+* [1572407554][yomi413]: Minor correct of variable https://github.com/learn-co-curriculum/insertion-sort/issues/4
+* [1535045409][breadoliveoilsalt]: Unused variable... https://github.com/learn-co-curriculum/insertion-sort/issues/3
+* [1531943362][micahshute]: Selection sort vs insertion sort https://github.com/learn-co-curriculum/insertion-sort/issues/2
+* [1494330937][RachelSa]: removed variable that wasn't used https://github.com/learn-co-curriculum/insertion-sort/pull/1
+* [1531944446][micahshute]: Selection sort vs insertion sort https://github.com/learn-co-curriculum/insertion-sort-lab/issues/1
+* [1542526113][atxrenegade]: Line 1 incorrectly refers to selection sort as insertion sort as it does in the previous two lessons. https://github.com/learn-co-curriculum/merging/issues/5
+* [1522818999][gnappo1]: Double Variable Declaration https://github.com/learn-co-curriculum/merging/issues/4
+* [1504318674][smendoza787]: Removed redundant function declaration in merge function example https://github.com/learn-co-curriculum/merging/pull/3
+* [1551634484][micahshute]: Incorrect code https://github.com/learn-co-curriculum/merge-sort-codealong/issues/3
+* [1496711792][achasveachas]: Added missing return statement to one of the functions https://github.com/learn-co-curriculum/merge-sort-codealong/pull/1
+* [1551636598][micahshute]: Definition of log https://github.com/learn-co-curriculum/merge-sort-big-o/issues/5
+* [1551635005][micahshute]: Same code error as last lesson https://github.com/learn-co-curriculum/merge-sort-big-o/issues/4
+* [1513629025][bperl]: Update README.md https://github.com/learn-co-curriculum/merge-sort-big-o/pull/3
+* [1496714862][achasveachas]: Added return statement https://github.com/learn-co-curriculum/merge-sort-big-o/pull/2
+* [1496685436][szrharrison]: Added subscript 2 to all instances of log(n) https://github.com/learn-co-curriculum/merge-sort-big-o/pull/1
+* [1551640697][micahshute]: Tests require bad function habits https://github.com/learn-co-curriculum/merge-sort-lab/issues/5
+* [1535140403][breadoliveoilsalt]: Summary paragraph of lesson https://github.com/learn-co-curriculum/arrays-underneath/issues/3
+* [1513629275][bperl]: Update README.md https://github.com/learn-co-curriculum/arrays-underneath/pull/2
+* [1558417431][kriti-rai]: The return value of next(firstNode) https://github.com/learn-co-curriculum/linked-lists-reading/issues/3
+* [1551896261][micahshute]: Implementation https://github.com/learn-co-curriculum/linked-list-lab/issues/3
+* [1497974525][SammySteiner]: name switches in test https://github.com/learn-co-curriculum/linked-list-lab/issues/1
+* [1556835067][geluso]: replacing tree built out of plain objects with using ListNode class https://github.com/learn-co-curriculum/binary-search-trees/pull/6
+* [1556833896][geluso]: improve sample implementation using classes https://github.com/learn-co-curriculum/binary-search-trees/issues/5
+* [1556837063][geluso]: replacing plain objects with classes https://github.com/learn-co-curriculum/find-or-add-trees/pull/5
+* [1556839809][geluso]: replacing plain JS objects with classes https://github.com/learn-co-curriculum/tree-methods-lab/pull/6
+* [1551032044][jennyjean8675309]: inOrder code snippet incorrect https://github.com/learn-co-curriculum/tree-methods-lab/issues/5
+* [1574129803][agdavid]: fix(typo): change to "28th & Broadway" https://github.com/learn-co-curriculum/bfs/pull/1
+* [1548790196][mkim4247]: findAdjacent function misnamed https://github.com/learn-co-curriculum/bfs-lab/issues/2
+* [1501719239][mikeries]: predecessors https://github.com/learn-co-curriculum/bfs-lab/issues/1
+* [1530225211][hambrice]: Order of visited vertices https://github.com/learn-co-curriculum/depth-first-search-lab/issues/2
+* [1496689343][lair001]: Faulty expectation value https://github.com/learn-co-curriculum/depth-first-search-lab/issues/1
+* [1539280207][breadoliveoilsalt]: Suggestion for Test https://github.com/learn-co-curriculum/ransom-note/issues/2
+* [1497458604][zacscodingclub]: change structure of test result https://github.com/learn-co-curriculum/ransom-note/pull/1
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12
