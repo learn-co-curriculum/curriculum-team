@@ -1,27 +1,6 @@
-# How Can I Help
-
-Hi!
-
-First of all, thanks for taking a look here. In Curriculum we have a ton of
-work and a ton of stakeholders (students, teachers, coaches, employers). We're
-busy!
-
-Thanks for even considering giving a moment of your precious time.
-
-***The following applies to FSWD Program only***. For DS procedures visit their [wiki][dswiki]
-
-## Baseline
-
-Many requests take the form of "Can I make a change?" or "Can I update
-something?" The answer is YES, although we ask you to **not** do so directly.
-
-## When Do You Review the JIRA Queue?
-
-We are monitoriing this daily.
-
 ## I Found a Typo, Spelling Mistake, etc. AKA "Tiny Stuff." Can I Fix and Commit Directly?
 
-Please don't. Create a PR and open a [JIRA issue][jira].
+Please don't. Create a PR and mention it in the #se-curriculum-questions slack channel.
 
 ## I Want To Update a Lesson Or Lab ***in Full Stack Web Development*** ("Software Engineering," "SE," or "FSWD")
 

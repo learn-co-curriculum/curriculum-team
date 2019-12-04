@@ -2,8 +2,6 @@
 
 The Software Engineering Curriculum squad is part of the Central Education team.
 
-Right now, it's only
-
 * Rob Cobb (rob.cobb@flatironschool.com)
 * Maxwell Benton (maxwell@flatironschool.com)
 
