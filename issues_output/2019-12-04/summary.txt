@@ -1,0 +1,13 @@
+bootcamp-prep-v2_issues 405
+career-prep_issues 105
+computer-science_issues 60
+full-stack-web-development-v8_issues 90
+module-1-gap-web-development-immersive-3-0_issues 84
+module-1-web-development-immersive-2-1_issues 53
+module-2-web-development-immersive-2-0_issues 70
+module-3-web-development-immersive-3-1_issues 83
+module-4-web-development-immersive-2-1_issues 148
+online-software-engineering-structured_issues 94
+prework-software-engineering_issues 59
+project-euler_issues 3
+sec-development_issues 60
