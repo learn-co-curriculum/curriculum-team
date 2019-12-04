@@ -2,16 +2,17 @@
 
 Flatiron has a unique use of Git: we keep parallel branches (master and solution) that have no intention of ever being merged. Ideally, the `solution` branch is a perfect superset of `master`, which may have a commit history that looks like this:
 
-
-
 ```
         sC  (solution)
        /
 mA---mB  (master)
 ```
+
 There are two common ways we update repositories when the existing commit history is sound:
+
 1. Make a change that should _only_ be present in the `solution` branch, (i.e. updating an absent/outdated solution function in a solution file)
 2. Make a change that should be present in both the `master` and `solution` branch, (i.e. updating a ReadMe.md, dependency version, etc.)
+
 ------
 
 ### 1. Make a change that should _only_ be present in `solution`:
@@ -27,10 +28,10 @@ There are two common ways we update repositories when the existing commit histor
        /
 mA---mB  
 ```
+
 After asserting that everything is working locally, we would PR on our remote:
+
 * `[solution] <-- [wip-solution]`
-
-
 
 -------
 
@@ -110,7 +111,6 @@ Now we are free to resume out normal merge git flow described at the beginning o
 ---
 
 Understanding that our Git flow is non-traditional (two parallel branches with no intent to consolidate), and that our flow has not been heavily controlled, we will experience legacy issues with our repositories.
-
 
 [cherry-pick]: https://git-scm.com/docs/git-cherry-pick
 [rebase]: https://git-scm.com/docs/git-rebase

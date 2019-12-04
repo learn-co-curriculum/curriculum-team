@@ -1,4 +1,4 @@
-# Your Course Outline 
+# Your Course Outline
 
 ## Introduction
 
@@ -36,10 +36,10 @@ seeking a junior position using that topic / technique / or technology.  It
 should take between 10-20 hours for a student to complete. If you believe the
 assignment will exceed those bounds, we can adjust that pacing by adjusting the
 starter code.  As an example, when students complete our Sinatra course, they
-should be able to build a Twitter clone. 
+should be able to build a Twitter clone.
 
 Map out your final project. List the objectives and what students should be
-expected to do to build it. 
+expected to do to build it.
 
 In this final project, students will demonstrate:
 1.
@@ -55,11 +55,11 @@ _units_.
 
 What are the main milestones (both skills and knowledge areas) that students
 need to pass to be able to complete this project? You don’t need to get too
-specific and there is no set number of milestones. 
+specific and there is no set number of milestones.
 
 Oftentimes when you’re figuring out the milestones, you’ll find yourself
 working backwards from the end. That’s fine, but once you’re done, list the
-milestones in the sequential order in which you think they should be covered. 
+milestones in the sequential order in which you think they should be covered.
 
 Now change milestones to units. Congratulations! You’ve just broken your large
 topic into much more manageable units.
@@ -86,7 +86,7 @@ Section    | Topic
 
 Units can vary in length. We don’t have a standard for how many lessons belong
 in a unit since we understand that some units take less time to cover while
-others might be more difficult and need more lessons devoted to them. 
+others might be more difficult and need more lessons devoted to them.
 
 ## Breaking Your Units Down into Lessons
 
@@ -109,7 +109,6 @@ a wall of text in students' faces so that they have enough short "wins" such
 that they want to keep going. On the other hand having lessons be 2 sentences
 with a wall of white space surrounding it is not the right feeling either.
 
-
 Also remember that when we talk about lessons, we mean both [Readmes][] and
 [Labs][].  Our typical flow is that **every Readme should immediately be
 followed by a Coding Lab** so that a student can immediately apply the skills
@@ -121,7 +120,6 @@ Rework your list of lessons from above to include the breakdown of Readmes and
 Labs in your unit.
 
 Sample Rails Unit Breakdown for Association in Rails:
-
 
 Content    | Topic
 -----------|-------------------------------------------

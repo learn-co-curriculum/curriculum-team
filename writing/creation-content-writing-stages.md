@@ -85,22 +85,22 @@ note of assets or resources the piece will need to be complete.
 Once the outline has been approved by the reviewer, we move on to the full first
 draft. When writing a lesson rough draft, keep the following guidelines in mind:
 
-- Flesh out the details for each Learning Goal. 
+- Flesh out the details for each Learning Goal.
   - No high-level abstraction
   - If the added bulk of the Learning Goals is making the lesson very long (1000 words or more), consider breaking out additional Learning Goals and topics into a new lesson.
   - If a Learning Goal has many sub-topics that are more than a couple of paragraphs, consider making them their own Learning Goals.
-- Be thoughtful about code examples and/or imagery. 
+- Be thoughtful about code examples and/or imagery.
   - Add existing graphics where needed to illustrate points.
   - Accompany concepts with examples, or begin to make notes where specific graphics will be dropped.
-  - Provide examples with enough detail. 
+  - Provide examples with enough detail.
     - Make sure all variables, functions, or other relevant parts of code samples are defined in the code block.
   - Preference is given to images/gifs that illustrate a concept over media that are “reactions” (like a celebratory thumbs up), and other extraneous media content that isn’t furthering a student’s understanding of a concept.
   - An educational gif may be something like a Terminal window that we see in TV and movies, or what a real terminal window looks like on a computer.
 - Write on a 6th to 8th grade level.
-  - Do not to use overly complex words. 
+  - Do not to use overly complex words.
   - If technical terms need to be used, make sure they are being defined either in the narrative, or in parenthesis. ex: “the command line interface (also known as CLI)"
 - When writing narratives or metaphors, keep them as relatable as possible to the broadest audience. eg: References to common experiences like a list students in various classrooms, vs. Harry Potter and Harry Potter specific references that might involve different Harry Potter houses that not everyone will have context on.
-- Again - define, define, define! 
+- Again - define, define, define!
   - Make sure key words or phrases introduced in each Learning Goal is explained to the appropriate level of learner.
   - For example, when discussing file structure and navigation, is the concept of a "directory tree" explained before referring to movement "up and down?"
 - Are all shortcuts, acronyms or commands defined or explained?
@@ -121,7 +121,7 @@ reviewer. We can then incorporate that feedback into the next draft. As you're
 moving through this stage of writing, here are some questions to ask yourself:
 
 - Are sentences too long?
-  - Break them up into shorter, succinct sentences that are easier to understand. 
+  - Break them up into shorter, succinct sentences that are easier to understand.
   - Whitespace is easier on the eyes for reading. Paragraphs can be short and less dense than we may be used to seeing in literature.
 - Are there any remaining grammatical errors and typos?
   - This is especially likely to happen if changes were made since the rough draft.
@@ -129,7 +129,7 @@ moving through this stage of writing, here are some questions to ask yourself:
 - Are there existing graphics where needed to illustrate points?
 - Are all concepts accompanied with examples?
 - Are all examples provided with enough detail?
-- Is the reading level appropriate? 
+- Is the reading level appropriate?
 - Are there any additional resources that need to be added?
 
 We now have a perfectly polished new piece of curriculum—we think, at least. One
