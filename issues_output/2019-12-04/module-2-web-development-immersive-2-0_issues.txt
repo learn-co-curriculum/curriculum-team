@@ -1,0 +1,70 @@
+* [1570454260][dannylee8]: Typo correction. https://github.com/learn-co-curriculum/terminal-reference/pull/2
+* [1505765521][Terry-Thompson]: Eliminated redundancy  https://github.com/learn-co-curriculum/rack-status-codes-readme/pull/1
+* [1557778632][vibraniumforge]: Removed merge conflict markup https://github.com/learn-co-curriculum/sinatra-hello-world-basics/pull/8
+* [1573240111][wifelette]: Missing a space https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough/issues/37
+* [1482265574][talum]: New solution(?) https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros/pull/24
+* [1568754319][paulnicholsen27]: Fixed non-Restful delete request https://github.com/learn-co-curriculum/sinatra-restful-routes-readme/pull/43
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1491249827][walwoodr]: Added note about videos appearing in curriculum. https://github.com/learn-co-curriculum/sinatra-multiple-controllers/pull/11
+* [1573683184][vibraniumforge]: added activerecord::migration version # https://github.com/learn-co-curriculum/sinatra-fwitter-5-sessions/pull/4
+* [1575241933][ChrstphGrnr]: rake db:migrate issues https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/65
+* [1574868232][rrcobb]: pin ar version in gemfile https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/pull/64
+* [1492632020][itzsaga]: updated years since release https://github.com/learn-co-curriculum/intro-to-rails/pull/7
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1573593317][boom100100]: Rails Static Request https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/22
+* [1548281898][heavenlyboheme]: Add screenshot file https://github.com/learn-co-curriculum/rails-hello-world-lab/pull/13
+* [1553726521][meg-gutshall]: Edit erb code block comments https://github.com/learn-co-curriculum/rails-dynamic-request-readme/pull/23
+* [1575413460][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/rails-restful-index-action-lab/pull/21
+* [1575407487][lizbur10]: Patch 1 https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/33
+* [1574626954][rhtaylor]: Done. https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/32
+* [1574450033][crayray]: I found a typo on this lab https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/31
+* [1574276457][DesterStorm]: Incorrect use of db:migrate in Rails URL Helpers readalong https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/30
+* [1573122822][Sdcrouse]: Suggested edits to the README https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/28
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1573183578][Sdcrouse]: Fix minor error in README https://github.com/learn-co-curriculum/rails-url-helpers-lab/pull/26
+* [1573181527][Sdcrouse]: A small edit to the README is needed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/25
+* [1575413419][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/rails-form_tag-lab/pull/17
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1575413807][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/pull/20
+* [1467827683][ghost]: Updated README.md https://github.com/learn-co-curriculum/rails-form_for-lab/pull/2
+* [1575413426][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/rails-generators-readme/pull/40
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1485307889][pianistps]: Fix comment about location of code https://github.com/learn-co-curriculum/validations-with-form_for-rails/pull/11
+* [1479395573][bhabig]: in third code snippet, changed `.../new.html.erb` to `.../edit.html.erb` to stay consistent with the patch call and with the form_for example above it https://github.com/learn-co-curriculum/validations-with-form_for-rails/pull/10
+* [1573774589][DBuckley0126]: On the learn.co website, the 'buttons_to' section is not being displayed https://github.com/learn-co-curriculum/delete-forms-rails/issues/13
+* [1544747414][wingedmachine]: Solution to main problem in issue #15 (also mentioned in several other issues) https://github.com/learn-co-curriculum/crud-with-validations-lab/pull/16
+* [1477371090][lennhy]: You should give an example here when you say "now have access to some new instance methods, like `author`." It wasn't apparent to me the first time I read this that I could use the instance of author for example inside a method of the Post class without first calling post.author.  https://github.com/learn-co-curriculum/activerecord-associations-review/pull/13
+* [1571084517][ihollander]: Fix sass-rails version https://github.com/learn-co-curriculum/join-the-fun-rails/pull/8
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1541447392][LaneMiller]: Clarified features tests, added db and tmp to .gitignore https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/14
+* [1537216525][j-shilling]: New song bugs https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/13
+* [1575413352][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/has-many-through-forms-rails/pull/32
+* [1573232925][HuydDo]: broken link https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/issues/19
+* [1574722366][vibraniumforge]: removed puts https://github.com/learn-co-curriculum/rails-blog-associations-validations/pull/20
+* [1474431099][miclp]: change specified layout to products for example 2 in overriding conventions https://github.com/learn-co-curriculum/rails-layouts-and-templates/pull/6
+* [1575413566][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/pull/16
+* [1474769749][achasveachas]: Added route for authors/show https://github.com/learn-co-curriculum/simple-partials-reading/pull/16
+* [1574105785][vibraniumforge]: Solution https://github.com/learn-co-curriculum/flatiron-kitchen/pull/11
+* [1575413498][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/sessions_controller_lab/pull/16
+* [1574716804][vibraniumforge]: fixed typo https://github.com/learn-co-curriculum/rails-amusement-park-lab/pull/2
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1519935058][zacscodingclub]: update to factory bot.   https://github.com/learn-co-curriculum/flatiron-store-project/pull/26
+* [1514303025][kwebster2]: remove starter code related to order model https://github.com/learn-co-curriculum/flatiron-store-project/pull/22
+* [1575424224][dependabot[bot]]: Bump rubyzip from 1.2.1 to 1.3.0 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/4
+* [1575424212][dependabot[bot]]: Bump rack from 2.0.5 to 2.0.7 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/3
+* [1575413496][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/model-class-methods-reading/pull/15
+* [1575413493][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/27
+* [1575424886][dependabot[bot]]: Bump rubyzip from 1.2.4 to 1.3.0 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/14
+* [1569428621][dependabot[bot]]: Bump ffi from 1.9.23 to 1.11.1 https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/pull/9
+* [1575424195][dependabot[bot]]: Bump rubyzip from 1.2.1 to 1.3.0 https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/7
+* [1575424182][dependabot[bot]]: Bump rack from 2.0.5 to 2.0.7 https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/6
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1561656266][MatthewP01]: good practice for code challenge https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/2
+* [1575424901][dependabot[bot]]: Bump rack from 2.0.5 to 2.0.7 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/11
+* [1575424887][dependabot[bot]]: Bump rubyzip from 1.2.1 to 1.3.0 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/10
+* [1574294934][vibraniumforge]: added to seeds file https://github.com/learn-co-curriculum/rails-challenge-practice/pull/9
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
+* [1530802082][sbal13]: Updated README.md https://github.com/learn-co-curriculum/rails-challenge-practice/pull/3
+* [1575413210][rrcobb]: Add script for merging one or many prs from the command line https://github.com/learn-co-curriculum/curriculum-team/pull/25
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12
