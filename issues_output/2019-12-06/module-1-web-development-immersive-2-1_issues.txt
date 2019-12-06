@@ -1,0 +1,24 @@
+* [1572297751][aryaziai]: Joseph https://github.com/learn-co-curriculum/deploy-on-day-1/pull/100
+* [1572289600][aryaziai]: Joseph https://github.com/learn-co-curriculum/deploy-on-day-1/pull/99
+* [1568683411][dannylee8]: Correct typo. https://github.com/learn-co-curriculum/code-challenge-tips/pull/1
+* [1568990802][HTCicek]: Went through DQ with Connor https://github.com/learn-co-curriculum/week-1-group-review/pull/4
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1566420388][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-defining-methods/pull/2
+* [1575143279][Ames1977]: learn.co - open IDE https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/issues/3
+* [1566422159][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/pull/2
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1574215130][AlteredArt]: will not submit! https://github.com/learn-co-curriculum/programming-univbasics-4-array-concept-review-lab/issues/8
+* [1575573291][theoluyi]: Same question different answers https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/7
+* [1575265330][asengelhart]: Nested Data Structure Transformation Quiz - questions 7-9 need improvement https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/6
+* [1575053510][Santosian]: There is two timees the same question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/5
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1567121961][brianly27]: collaborated with Megan https://github.com/learn-co-curriculum/oo-banking/pull/4
+* [1569467662][dannylee8]: Move the hint below section with Lil' Bub https://github.com/learn-co-curriculum/sql-insert-select-update-code-along/pull/23
+* [1573123702][AdamWeissman]: Can't Fork. Same ISSUE as past two commenters. https://github.com/learn-co-curriculum/SQL-bear-organizer-lab/issues/41
+* [1565879560][sgharms]: Issue #24 https://github.com/learn-co-curriculum/sql-grouping-and-sorting-readme/pull/25
+* [1564814900][Sdcrouse]: Typo fix and adjust appearance of outputted SQL https://github.com/learn-co-curriculum/sql-complex-joins-readme/pull/28
+* [1574550064][aschonely83]: Lab Complete  https://github.com/learn-co-curriculum/activerecord-tvshow/pull/39
+* [1567997248][akannan747]: complete lab https://github.com/learn-co-curriculum/active-record-project/pull/1
+* [1574550064][aschonely83]: Lab Complete  https://github.com/learn-co-curriculum/activerecord-tvshow/pull/39
