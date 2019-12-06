@@ -44,15 +44,15 @@ You can always reach out in #se-curriculum-questions if you aren't sure.
 
 ### Feedback or questions about the software engineering curriculum
 
-Slack #se-curriculum-questions
+Slack #se-curriculum-questions - we want to hear everything. If you've got a longer note, feel free to share via email, write a doc, or reach out to set up a time to chat.
 
 Old curriculum feedback tools:
 
-* https://flatiron.atlassian.net/projects/CO/board
-* https://airtable.com/tblQBfFlNucWjWkOC/viwSC5JhL7OJRbSUD?blocks=hide
-* https://docs.google.com/spreadsheets/d/1sJJex1FsnRUoCmYDpT1HxXPjDD5skQZATHN6jPCw4Tk/edit#gid=685356823
-* https://docs.google.com/spreadsheets/d/1Kfmmi4rOLu7n159tSPzLftjQ8JDvuSJJXSUHIasFbv0/edit#gid=0
-* https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit#gid=1916189230
+* [JIRA](https://flatiron.atlassian.net/projects/CO/board)
+* [Airtable](https://airtable.com/tblQBfFlNucWjWkOC/viwSC5JhL7OJRbSUD?blocks=hide)
+* [Sheets](https://docs.google.com/spreadsheets/d/1sJJex1FsnRUoCmYDpT1HxXPjDD5skQZATHN6jPCw4Tk/edit#gid=685356823)
+* [Sheets](https://docs.google.com/spreadsheets/d/1Kfmmi4rOLu7n159tSPzLftjQ8JDvuSJJXSUHIasFbv0/edit#gid=0)
+* [Sheets](https://docs.google.com/spreadsheets/d/167mln1rx3AQxLzegsposGaBuTAq0dNYN7QS653NXSE4/edit#gid=1916189230)
 
 If it helps you to write a doc, sheet, or use some other tool to organize your thoughts, feel free.
 
@@ -72,41 +72,36 @@ Nice to have:
 * Steps to reproduce the bug
 * Who is impacted, and how
 
-## What everyone needs to know about how curriculum team works
+## What everyone needs to know about curriculum team
 
-github issues (we pay attention, we will review your issues and prs)
-looker dashboard
-slack
-we are few, and the work is mighty
+* Github issues: we track these, and we will review your issues and PRs
+* Looker dashboard: we track overall health and see feedback in [this dashboard](https://flatiron.looker.com/dashboards/150)
+* We are few, and the work is mighty. There are 1000+ software engineering lessons and labs to maintain, and only two people maintaining them full-time. We try to be as good and as quick as we can, but we have limits!
 
 ### Communicating with us
 
-* Slack for open discussion, raising issues, letting us know that there are prs or issues you've opened
-* Github issues and prs for particular labs
-* Curriculum tools for tracking github issues
-* Looker dashboard for work priorization / raw input for insight generation
+* Slack: open discussion, raising issues, letting us know that there are prs or issues you've opened
+* Github issues and prs: when there is a bug, feedback, or a fix for a particular lesson or lab
 
 ### Meetings
 
-* regular meetings for feedback (about biweekly or so)
-* ad hoc meetings for digging into particular issues
-* a monthly introduction / training meeting to tell whoever wants to know who we are, how our workflows work, and how to work with us
+* **Introduction / Training**: every month, we'll introduce ourselves, teach you about our tools and processes, and give you a chance to ask any questions you have about the curriculum and how it is maintained.
+* **Open Discussion and Feedback**: We meet every 3 weeks with the online software engineering team and in person software engineering team to have open discussion and feedback meetings. Look in our slack channel for the times, and if you find that you'd like to participate but can't make it, let us know, and we can try to open up more time.
+* **Ad-hoc meetings**: When we want to get feedback on a particular issue, we'll schedule ad-hoc meetings to get feedback from teachers.
 
 ### Curriculum Style and Philosophy
 
-* [Curriculum Style Guide](./style_guide.md)
-* [Curriculum Philosophy and Flatiron School Culture](./philo_and_culture.md)
+* [Curriculum Style Guide](./writing/style_guide.md)
+* [Curriculum Philosophy and Flatiron School Culture](./team/philosophy.md)
 
-### Github issue tracking tools
+### What everyone needs to know about Learn and curriculum
 
-### What everyone needs to know about the curriculum system
+_Batches_ of students get access to _tracks_ which are composed of _lessons_.
 
-git and github
-batches, tracks, lessons
-learn-co-curriculum and learn-co-students
-readmes, labs, and quizzes
-linters and checkers
+Teachers or administrators then deploy individual lessons to the batches.
 
-names and ids of tracks supported by the SE curriculum team
+We maintain the lessons, which live in the learn-co-curriculum org on github - one repo for each lesson. We also maintain the tracks - the order the lessons appear in learn.
+
+**What curriculum is supported?** [Names and ids of tracks](./tools/names-and-ids.txt) supported by the SE curriculum team.
 
 If you'd like to know more about how the curriculum system works, check out the [learn folder](./learn/)
