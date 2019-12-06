@@ -4,7 +4,6 @@ Hiring for Curriculum development is very difficult. Hires generally fall
 somewhere on this spectrum:
 
 Technical Writer -------------------------------------------- Software engineer
-                                                             
 
 ## Recruiting from Technical Writers
 

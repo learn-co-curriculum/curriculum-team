@@ -777,11 +777,11 @@ does "power" even mean in this context?).
 Versus:
 
 > `vim will let you accomplish many changes in a programmatic interface. To see
-> this in action type `:%s/dog/poodle/g|%s/Dog/Poodle/g|44,50m0|w`. In this
+> this in action type`:%s/dog/poodle/g|%s/Dog/Poodle/g|44,50m0|w`. In this
 > one line you changed all mentions of dogs to Poodle and took your
 > lede-bearing paragraph and moved it to the top of the document _and_ saved the
 > file to disk _all without leaving the home-row_. It's this capability to
-> programmatically "queue" and move text efficiently that earns `vim` the
+> programmatically "queue" and move text efficiently that earns`vim` the
 > adjective of being "powerful."
 
 This, however, makes one ask, is that argument _even useful_? Did I just break
@@ -842,11 +842,13 @@ courses, creates safety that allows them to learn comfortably.
 ## Specific Word Choice
 
 <a name="programname_versus_productname"></a>
+
 ### `programname` versus Product Name
 
 We execute `git` which run Git.
 
 <a name="wc_terminal"></a>
+
 ### Terminal, console, etc.
 
 Given our subject matter we have to be careful not to conflate `bash`, `shell`,
@@ -886,7 +888,6 @@ Table of Substitutions
 
 * We call them "getter methods" and "setter methods."
 * Methods are written as `aMethod()` while getter methods (i.e. act as properties) are "a getter called `perimeter`" (note, lack of parentheses
-
 
 [80col]: https://www.emacswiki.org/emacs/EightyColumnRule
 [GHMD]: https://help.github.com/categories/writing-on-github/
