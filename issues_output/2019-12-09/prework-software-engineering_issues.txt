@@ -1,0 +1,18 @@
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1575678834][Cwill220]: Learn.co does not have questions highlighted.  I cannot ask questions. https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/4
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1566420388][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-defining-methods/pull/2
+* [1575143279][Ames1977]: learn.co - open IDE https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/issues/3
+* [1566422159][jenmyers]: Wip v2.01 https://github.com/learn-co-curriculum/programming-univbasics-3-labs-with-tdd/pull/2
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1574215130][AlteredArt]: will not submit! https://github.com/learn-co-curriculum/programming-univbasics-4-array-concept-review-lab/issues/8
+* [1575646844][fishcereal]: Questions Title/Answer Issue https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/8
+* [1575573291][theoluyi]: Same question different answers https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/7
+* [1575265330][asengelhart]: Nested Data Structure Transformation Quiz - questions 7-9 need improvement https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/6
+* [1575053510][Santosian]: There is two timees the same question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/5
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
+* [1575831865][RogeredBacon]: Wip marty and doc added https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/15
+* [1575671497][yspekotr78]: Wip marty and doc added https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/14
+* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

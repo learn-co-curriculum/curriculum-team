@@ -1,0 +1,6 @@
+* [1574287495][dukegreene]: fix misapplied discussion questions in m1w1d3 https://github.com/learn-co-curriculum/mod-1-discussion-questions-object-orientation-in-ruby/pull/1
+* [1568651229][vibraniumforge]: Solution https://github.com/learn-co-curriculum/mod-1-whiteboard-challenge-clock-hand-angle/pull/3
+* [1568657456][vibraniumforge]: added solution branch https://github.com/learn-co-curriculum/ruby-oo-fundamentals-instance-variables-lab/pull/1
+* [1570575864][mattgahrns]: Last question is bugged https://github.com/learn-co-curriculum/ruby-oo-introduction-quiz/issues/2
+* [1565879560][sgharms]: Issue #24 https://github.com/learn-co-curriculum/sql-grouping-and-sorting-readme/pull/25
+* [1571934178][vibraniumforge]: Solution https://github.com/learn-co-curriculum/ruby-variables-and-methods-using-random-lab/pull/1
