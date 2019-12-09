@@ -49,6 +49,7 @@ do
     printf "%s " "${source_file%.txt}"
     process_sourcefile "${SRC}" "${DEST}"
     printf "%s\n" "$(wc -l "${DEST}" |awk '{print $1}')"
+    sleep 2
   else
     echo "Could not find $SRC"
   fi
