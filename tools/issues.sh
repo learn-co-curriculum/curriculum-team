@@ -31,7 +31,12 @@ fi
 
 DEST_DIR_PREFIX="$DEST_DIR/$(date "+%Y-%m-%d")"
 
-mkdir "$DEST_DIR_PREFIX"
+if [ -d $DEST_DIR_PREFIX ]
+then
+  echo "Folder exists at ${DEST_DIR_PREFIX}"
+else
+  mkdir "$DEST_DIR_PREFIX"
+fi
 
 if [ $? != 0 ]; then
   echo "Unable to create ${DEST_DIR_PREFIX}. Exiting"
@@ -46,6 +51,17 @@ do
 
   if [ -f "${SRC}" ]
   then
+    if [ -f "${DEST}" ]
+    then
+      read -r -p "${source_file%.txt} exists. Overwrite? [y/N]" response
+      if [[ ! "$response" =~ ^([yY][eE][sS]|[yY])$ ]]
+      then
+        continue
+      else
+        echo -n > "${DEST}"
+      fi
+    fi
+
     printf "%s " "${source_file%.txt}"
     process_sourcefile "${SRC}" "${DEST}"
     printf "%s\n" "$(wc -l "${DEST}" |awk '{print $1}')"
