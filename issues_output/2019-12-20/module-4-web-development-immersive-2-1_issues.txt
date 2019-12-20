@@ -1,0 +1,15 @@
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1574094410][swdecker]: Solution is bugged and not an actual solution https://github.com/learn-co-curriculum/react-static-components-lab/issues/9
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1574630696][dsstewa]: Syntax for GenRow and genMatrix https://github.com/learn-co-curriculum/react-simple-state-lab/issues/10
+* [1576073435][Ned-el-ch]: Deprecated material https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/5
+* [1576091545][jhcheung]: Mounting lifecycle methods subheader repeated twice https://github.com/learn-co-curriculum/react-component-mounting-lifecycle-readme/issues/4
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1576518393][helloamandamurphy]: Wait, is that a `var` in the Flatiron curriculum? https://github.com/learn-co-curriculum/react-introduction-to-react-router/issues/12
+* [1576535754][helloamandamurphy]: Can't get `npm start` to run due to issues with package.json https://github.com/learn-co-curriculum/react-components-as-routes/issues/21
+* [1576795818][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/17
+* [1576795973][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/6
+* [1576679289][maxwellbenton]: Update module-1-web-development-immersive-2-1.txt https://github.com/learn-co-curriculum/curriculum-team/pull/32

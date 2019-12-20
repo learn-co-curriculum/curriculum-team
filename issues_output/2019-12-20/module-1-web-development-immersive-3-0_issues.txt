@@ -1,0 +1,10 @@
+* [1576805543][dependabot[bot]]: Bump rack from 2.0.6 to 2.0.8 https://github.com/learn-co-curriculum/active-record-intro-to-rake/pull/1
+* [1576805500][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-migrations/pull/2
+* [1576819929][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-costume-store-lab/pull/2
+* [1576805529][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-querying-methods-lab/pull/4
+* [1576804034][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-associations-and-migrations/pull/2
+* [1576804030][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-associations-methods/pull/2
+* [1576819962][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-associations-tvland-lab/pull/2
+* [1576698736][ihollander]: use activerecord 5.2 https://github.com/learn-co-curriculum/ruby-project-alt-guidelines/pull/1
+* [1576805380][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/ruby-project-guidelines/pull/2
+
