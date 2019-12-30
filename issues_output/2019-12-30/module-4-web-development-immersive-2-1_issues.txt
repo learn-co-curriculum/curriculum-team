@@ -1,0 +1,25 @@
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1574094410][swdecker]: Solution is bugged and not an actual solution https://github.com/learn-co-curriculum/react-static-components-lab/issues/9
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1574630696][dsstewa]: Syntax for GenRow and genMatrix https://github.com/learn-co-curriculum/react-simple-state-lab/issues/10
+* [1577679404][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.3 https://github.com/learn-co-curriculum/react-information-flow-code-along/pull/1
+* [1576073435][Ned-el-ch]: Deprecated material https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/5
+* [1576091545][jhcheung]: Mounting lifecycle methods subheader repeated twice https://github.com/learn-co-curriculum/react-component-mounting-lifecycle-readme/issues/4
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1577553834][dependabot[bot]]: Bump handlebars from 4.1.2 to 4.5.3 in /lutrivia https://github.com/learn-co-curriculum/lutrivia-react/pull/4
+* [1576518393][helloamandamurphy]: Wait, is that a `var` in the Flatiron curriculum? https://github.com/learn-co-curriculum/react-introduction-to-react-router/issues/12
+* [1577402950][dependabot[bot]]: Bump handlebars from 4.0.11 to 4.5.3 https://github.com/learn-co-curriculum/react-components-as-routes/pull/22
+* [1576535754][helloamandamurphy]: Can't get `npm start` to run due to issues with package.json https://github.com/learn-co-curriculum/react-components-as-routes/issues/21
+* [1577436027][dependabot[bot]]: Bump handlebars from 4.0.6 to 4.5.3 https://github.com/learn-co-curriculum/react-router-nested-routes-code-along/pull/20
+* [1577437640][dependabot[bot]]: Bump handlebars from 4.2.1 to 4.5.3 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/23
+* [1577719504][dependabot[bot]]: Bump lodash-es from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-delete-lab/pull/22
+* [1577719503][dependabot[bot]]: Bump lodash.template from 4.4.0 to 4.5.0 https://github.com/learn-co-curriculum/redux-delete-lab/pull/21
+* [1577719502][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.15 https://github.com/learn-co-curriculum/redux-delete-lab/pull/20
+* [1577719502][dependabot[bot]]: Bump url-parse from 1.4.1 to 1.4.7 https://github.com/learn-co-curriculum/redux-delete-lab/pull/19
+* [1577719501][dependabot[bot]]: Bump mixin-deep from 1.3.1 to 1.3.2 https://github.com/learn-co-curriculum/redux-delete-lab/pull/18
+* [1577592078][Sillhouette]: ReadMe no longer instructs students to create a Bands component to render multiple Bands from https://github.com/learn-co-curriculum/redux-delete-lab/issues/17
+* [1576862549][maxwellbenton]: add handling for re-running on the same day https://github.com/learn-co-curriculum/curriculum-team/pull/34
+* [1576679289][maxwellbenton]: Update module-1-web-development-immersive-2-1.txt https://github.com/learn-co-curriculum/curriculum-team/pull/32

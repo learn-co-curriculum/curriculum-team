@@ -1,0 +1,4 @@
+* [1576877083][spike0161]: Migration not working https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/4
+* [1576876975][seanb113]: Cannot get 'rake db:create_migrations' command to work in terminal https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/3
+* [1576876966][jmr-1]: Migration problems  https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/2
+* [1576875849][adybas]: Lab does not work https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/1

@@ -1,0 +1,30 @@
+* [1527021381][micahshute]: Equation in "Simplifying Time Complexity" Paragraph https://github.com/learn-co-curriculum/big-o-approximation/issues/2
+* [1520694185][scirocco21]: Assignment, not equality? https://github.com/learn-co-curriculum/recursion-lab/issues/11
+* [1504707844][qtotuan]: Isn't this selection sort rather than insertion sort? https://github.com/learn-co-curriculum/sorting-algorithms-introduction/issues/4
+* [1575782392][micahshute]: change insertion sort to selection sort https://github.com/learn-co-curriculum/insertion-sort/pull/6
+* [1535045409][breadoliveoilsalt]: Unused variable... https://github.com/learn-co-curriculum/insertion-sort/issues/3
+* [1531943362][micahshute]: Selection sort vs insertion sort https://github.com/learn-co-curriculum/insertion-sort/issues/2
+* [1575791171][micahshute]: Change insertion sort to selection sort https://github.com/learn-co-curriculum/insertion-sort-lab/pull/2
+* [1531944446][micahshute]: Selection sort vs insertion sort https://github.com/learn-co-curriculum/insertion-sort-lab/issues/1
+* [1542526113][atxrenegade]: Line 1 incorrectly refers to selection sort as insertion sort as it does in the previous two lessons. https://github.com/learn-co-curriculum/merging/issues/5
+* [1551634484][micahshute]: Incorrect code https://github.com/learn-co-curriculum/merge-sort-codealong/issues/3
+* [1551636598][micahshute]: Definition of log https://github.com/learn-co-curriculum/merge-sort-big-o/issues/5
+* [1551635005][micahshute]: Same code error as last lesson https://github.com/learn-co-curriculum/merge-sort-big-o/issues/4
+* [1551640697][micahshute]: Tests require bad function habits https://github.com/learn-co-curriculum/merge-sort-lab/issues/5
+* [1576694378][ryanwevans]: Fix typos https://github.com/learn-co-curriculum/arrays-underneath/pull/4
+* [1535140403][breadoliveoilsalt]: Summary paragraph of lesson https://github.com/learn-co-curriculum/arrays-underneath/issues/3
+* [1576723584][ryanwevans]: Fix typo https://github.com/learn-co-curriculum/linked-lists-reading/pull/4
+* [1558417431][kriti-rai]: The return value of next(firstNode) https://github.com/learn-co-curriculum/linked-lists-reading/issues/3
+* [1551896261][micahshute]: Implementation https://github.com/learn-co-curriculum/linked-list-lab/issues/3
+* [1497974525][SammySteiner]: name switches in test https://github.com/learn-co-curriculum/linked-list-lab/issues/1
+* [1556835067][geluso]: replacing tree built out of plain objects with using ListNode class https://github.com/learn-co-curriculum/binary-search-trees/pull/6
+* [1556833896][geluso]: improve sample implementation using classes https://github.com/learn-co-curriculum/binary-search-trees/issues/5
+* [1556837063][geluso]: replacing plain objects with classes https://github.com/learn-co-curriculum/find-or-add-trees/pull/5
+* [1556839809][geluso]: replacing plain JS objects with classes https://github.com/learn-co-curriculum/tree-methods-lab/pull/6
+* [1551032044][jennyjean8675309]: inOrder code snippet incorrect https://github.com/learn-co-curriculum/tree-methods-lab/issues/5
+* [1548790196][mkim4247]: findAdjacent function misnamed https://github.com/learn-co-curriculum/bfs-lab/issues/2
+* [1501719239][mikeries]: predecessors https://github.com/learn-co-curriculum/bfs-lab/issues/1
+* [1530225211][hambrice]: Order of visited vertices https://github.com/learn-co-curriculum/depth-first-search-lab/issues/2
+* [1496689343][lair001]: Faulty expectation value https://github.com/learn-co-curriculum/depth-first-search-lab/issues/1
+* [1576862549][maxwellbenton]: add handling for re-running on the same day https://github.com/learn-co-curriculum/curriculum-team/pull/34
+* [1576679289][maxwellbenton]: Update module-1-web-development-immersive-2-1.txt https://github.com/learn-co-curriculum/curriculum-team/pull/32
