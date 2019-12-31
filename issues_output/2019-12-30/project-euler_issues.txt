@@ -1,0 +1,2 @@
+* [1576862549][maxwellbenton]: add handling for re-running on the same day https://github.com/learn-co-curriculum/curriculum-team/pull/34
+* [1576679289][maxwellbenton]: Update module-1-web-development-immersive-2-1.txt https://github.com/learn-co-curriculum/curriculum-team/pull/32
