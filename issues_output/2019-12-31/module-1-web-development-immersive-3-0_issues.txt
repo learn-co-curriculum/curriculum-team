@@ -1,0 +1,9 @@
+* [1576877083][spike0161]: Migration not working https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/4
+* [1576876975][seanb113]: Cannot get 'rake db:create_migrations' command to work in terminal https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/3
+* [1576876966][jmr-1]: Migration problems  https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/2
+* [1576875849][adybas]: Lab does not work https://github.com/learn-co-curriculum/active-record-practice-flatiron-bnb-lab/issues/1
+* [1576194562][ekim86]: not really a fixnum https://github.com/learn-co-curriculum/ruby-oo-relationships-practice-blood-oath-exercise/issues/1
+* [1576804036][dependabot[bot]]: Bump rack from 2.0.7 to 2.0.8 https://github.com/learn-co-curriculum/active-record-practice-model-class-methods-lab/pull/3
+* [1576804042][dependabot[bot]]: Bump rack from 2.0.6 to 2.0.8 https://github.com/learn-co-curriculum/active-record-practice-playlister-lab/pull/1
+* [1577141617][theoluyi]: IDE Keeps crashing https://github.com/learn-co-curriculum/debugging-practice-debugging-with-pry-lab/issues/2
+* [1576679289][maxwellbenton]: Update module-1-web-development-immersive-2-1.txt https://github.com/learn-co-curriculum/curriculum-team/pull/32
