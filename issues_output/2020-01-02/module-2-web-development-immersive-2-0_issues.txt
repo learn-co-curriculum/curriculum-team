@@ -1,0 +1,25 @@
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1576034089][jermain119]:  not passing test  somethings wrong with lesson  https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/24
+* [1573593317][boom100100]: Rails Static Request https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/22
+* [1574276457][DesterStorm]: Incorrect use of db:migrate in Rails URL Helpers readalong https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/30
+* [1573122822][Sdcrouse]: Suggested edits to the README https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/28
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1573774589][DBuckley0126]: On the learn.co website, the 'buttons_to' section is not being displayed https://github.com/learn-co-curriculum/delete-forms-rails/issues/13
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1577502869][Sillhouette]: Tests and solution no longer fit the original intent of the lab https://github.com/learn-co-curriculum/forms-and-basic-associations-rails-lab/issues/23
+* [1577009743][Sdcrouse]: Update README and specs https://github.com/learn-co-curriculum/simple-partials-reading/pull/20
+* [1577066033][Sdcrouse]: Removes controller action and refactors test specs https://github.com/learn-co-curriculum/simple-partials-lab/pull/19
+* [1577139251][Sdcrouse]: Lesson will not submit, and the code in the README is inaccurate https://github.com/learn-co-curriculum/partial-locals-reading/issues/25
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1577515503][Sdcrouse]: Update README https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/31
+* [1577514931][Sdcrouse]: Out of date information in the "Dynamic Route Segments" section https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/30
+* [1577493347][Sdcrouse]: Instructions for resetting the database don't work. https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/29
+* [1577746138][Sdcrouse]: Fixes error in views/songs/edit.html.erb and corrects a bug in the Song model https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/12
+* [1577769566][Sdcrouse]: Fix error in README and add minor edits https://github.com/learn-co-curriculum/modification-nested-routes-reading/pull/22
+* [1577401141][FigueroaR]: Does not update  https://github.com/learn-co-curriculum/modification-nested-routes-reading/issues/21
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
