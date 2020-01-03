@@ -1,0 +1,79 @@
+* [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
+* [1547933190][ValerieHMoore]: Stress hyperlink doesn't work https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/2
+* [1547948883][ValerieHMoore]: More grammar/spelling issues https://github.com/learn-co-curriculum/careers-managing-your-job-search/issues/4
+* [1547948617][ValerieHMoore]: Grammar/spelling issues https://github.com/learn-co-curriculum/careers-managing-your-job-search/issues/3
+* [1536326967][kreopelle]: Web Development Curriculum Reverts to V5 https://github.com/learn-co-curriculum/careers-personal-brand-building/issues/3
+* [1478536980][kaileeagray]: Updated README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/1
+* [1547953944][ValerieHMoore]: Need an adverb here https://github.com/learn-co-curriculum/careers-twitter/issues/3
+* [1572124695][Nerajno]: The blogging link on the Learn platform doesn't work. https://github.com/learn-co-curriculum/careers-blogging/issues/4
+* [1460502986][Lukeghenco]: Resume link https://github.com/learn-co-curriculum/careers-building-your-resume/issues/1
+* [1574878250][dgrilly]: Dead link in Career Prep Track - Technical Experience https://github.com/learn-co-curriculum/careers-resume-technical-experience/issues/4
+* [1550261840][ValerieHMoore]: Suggested rewrite for this sentence https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/7
+* [1549900290][aulorbe]: It would be nice to have some data science-specific advice in here. https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/6
+* [1485725767][michaelsimon]: former link to action verbs broken (found a new list) https://github.com/learn-co-curriculum/careers-resume-work-experience/pull/5
+* [1485703059][bedle88]: Broken Link https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/4
+* [1550262320][ValerieHMoore]: Duplicate bullet point https://github.com/learn-co-curriculum/careers-30-second-elevator-pitch/issues/5
+* [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
+* [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
+* [1550264299][ValerieHMoore]: Duplicate bullet point https://github.com/learn-co-curriculum/linkedin-for-research-and-networking/issues/3
+* [1547061620][mccoleman75225]: Typo https://github.com/learn-co-curriculum/careers-building-an-in-person-network/issues/1
+* [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
+* [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
+* [1485871267][bedle88]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
+* [1547608660][JCesana]: broken link https://github.com/learn-co-curriculum/careers-cover-letters/issues/3
+* [1570324739][ryanwevans]: Improve headings related to text; Fix italicized text and content flow https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/pull/3
+* [1550277146][ValerieHMoore]: Need a capital letter at the beginning of this sentence https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/issues/2
+* [1550279364][ValerieHMoore]: First letter of this sentence is missing https://github.com/learn-co-curriculum/careers-phone-and-video-virtual-interviews/issues/2
+* [1550282875][ValerieHMoore]: No access to Google Drive link https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/6
+* [1550281349][ValerieHMoore]: glassdoor link gives me an error https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/5
+* [1520447004][bmcilhenny]: Grammar mistake https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/4
+* [1486404196][bedle88]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
+* [1570045324][AudreyJones]: Error for Link at end of Salary Question Lesson https://github.com/learn-co-curriculum/the-salary-question/issues/5
+* [1557353526][emikojima]: Negotiating Your Startup Job Offer - link broken https://github.com/learn-co-curriculum/the-salary-question/issues/4
+* [1550282170][ValerieHMoore]: Bad link https://github.com/learn-co-curriculum/the-salary-question/issues/3
+* [1550282071][ValerieHMoore]: Change quote to apostrophe https://github.com/learn-co-curriculum/the-salary-question/issues/2
+* [1550282422][ValerieHMoore]: fine-grained not fine-grain https://github.com/learn-co-curriculum/careers-interviewing-apps-you-built/issues/1
+* [1550283088][ValerieHMoore]: the instead of them https://github.com/learn-co-curriculum/sending-thank-yous-after-interview/issues/1
+* [1577557382][Nerajno]: Simple edits = grammar Nazi https://github.com/learn-co-curriculum/careers-technical-interview-formats/pull/4
+* [1546727538][BarbaraPruz]: Technical Interviewing lesson - broken link? https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/3
+* [1537277745][codingkasia]: broken link https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/2
+* [1575435168][95north]:  Broken Link! https://github.com/learn-co-curriculum/careers-technical-interview-tips/issues/1
+* [1550342580][ValerieHMoore]: Bad link https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/2
+* [1550342470][ValerieHMoore]: Extra R in or https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/1
+* [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
+* [1547933190][ValerieHMoore]: Stress hyperlink doesn't work https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/2
+* [1547948883][ValerieHMoore]: More grammar/spelling issues https://github.com/learn-co-curriculum/careers-managing-your-job-search/issues/4
+* [1547948617][ValerieHMoore]: Grammar/spelling issues https://github.com/learn-co-curriculum/careers-managing-your-job-search/issues/3
+* [1536326967][kreopelle]: Web Development Curriculum Reverts to V5 https://github.com/learn-co-curriculum/careers-personal-brand-building/issues/3
+* [1478536980][kaileeagray]: Updated README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/1
+* [1547953944][ValerieHMoore]: Need an adverb here https://github.com/learn-co-curriculum/careers-twitter/issues/3
+* [1572124695][Nerajno]: The blogging link on the Learn platform doesn't work. https://github.com/learn-co-curriculum/careers-blogging/issues/4
+* [1550262320][ValerieHMoore]: Duplicate bullet point https://github.com/learn-co-curriculum/careers-30-second-elevator-pitch/issues/5
+* [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
+* [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
+* [1550264299][ValerieHMoore]: Duplicate bullet point https://github.com/learn-co-curriculum/linkedin-for-research-and-networking/issues/3
+* [1547061620][mccoleman75225]: Typo https://github.com/learn-co-curriculum/careers-building-an-in-person-network/issues/1
+* [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
+* [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
+* [1485871267][bedle88]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
+* [1547608660][JCesana]: broken link https://github.com/learn-co-curriculum/careers-cover-letters/issues/3
+* [1570324739][ryanwevans]: Improve headings related to text; Fix italicized text and content flow https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/pull/3
+* [1550277146][ValerieHMoore]: Need a capital letter at the beginning of this sentence https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/issues/2
+* [1550279364][ValerieHMoore]: First letter of this sentence is missing https://github.com/learn-co-curriculum/careers-phone-and-video-virtual-interviews/issues/2
+* [1550282875][ValerieHMoore]: No access to Google Drive link https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/6
+* [1550281349][ValerieHMoore]: glassdoor link gives me an error https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/5
+* [1520447004][bmcilhenny]: Grammar mistake https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/issues/4
+* [1486404196][bedle88]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
+* [1570045324][AudreyJones]: Error for Link at end of Salary Question Lesson https://github.com/learn-co-curriculum/the-salary-question/issues/5
+* [1557353526][emikojima]: Negotiating Your Startup Job Offer - link broken https://github.com/learn-co-curriculum/the-salary-question/issues/4
+* [1550282170][ValerieHMoore]: Bad link https://github.com/learn-co-curriculum/the-salary-question/issues/3
+* [1550282071][ValerieHMoore]: Change quote to apostrophe https://github.com/learn-co-curriculum/the-salary-question/issues/2
+* [1550283088][ValerieHMoore]: the instead of them https://github.com/learn-co-curriculum/sending-thank-yous-after-interview/issues/1
+* [1550342580][ValerieHMoore]: Bad link https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/2
+* [1550342470][ValerieHMoore]: Extra R in or https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/1
+* [1570045324][AudreyJones]: Error for Link at end of Salary Question Lesson https://github.com/learn-co-curriculum/the-salary-question/issues/5
+* [1557353526][emikojima]: Negotiating Your Startup Job Offer - link broken https://github.com/learn-co-curriculum/the-salary-question/issues/4
+* [1550282170][ValerieHMoore]: Bad link https://github.com/learn-co-curriculum/the-salary-question/issues/3
+* [1550282071][ValerieHMoore]: Change quote to apostrophe https://github.com/learn-co-curriculum/the-salary-question/issues/2
