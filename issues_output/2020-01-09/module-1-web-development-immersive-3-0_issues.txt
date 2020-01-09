@@ -1,0 +1,2 @@
+* [1578489356][tylergreason]: Question 6 Correct Answer Not Available https://github.com/learn-co-curriculum/ruby-oo-introduction-quiz/issues/6
+* [1577141617][theoluyi]: IDE Keeps crashing https://github.com/learn-co-curriculum/debugging-practice-debugging-with-pry-lab/issues/2
