@@ -1,0 +1,312 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-100719"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-neural-networks"
+  },
+  {
+    "name": "ChrstphGrnr",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-dom-challenge"
+  },
+  {
+    "name": "Jgarnes",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-understand-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ID3-trees-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cookies_and_sessions_readme"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/todomvc-4-refactoring-with-partials-and-helpers"
+  },
+  {
+    "name": "azharshahstl",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "benjamin-jacobson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-intro-to-sets"
+  },
+  {
+    "name": "daveajstearns",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "daveajstearns",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "eclectic-coding",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-creating-a-rails-api-from-scratch"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-decision-trees"
+  },
+  {
+    "name": "ipc103",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/yale-web-development-bootcamp-2020-technical-submission"
+  },
+  {
+    "name": "ipc103",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/yale-web-development-bootcamp-2020-technical-submission"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "junymc",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "kyawsawhtoon",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-derivatives"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/houston-ds-111819"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-ajax-advanced-ajax-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/flatiron-manual-setup-validator"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-ajax-advanced-ajax-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-ajax-advanced-ajax-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-intro-navigating-curriculum-on-learn-ide"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-intro-the-learn-philosophy"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/structured-intro-the-learn-philosophy"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/structured-intro-the-learn-philosophy"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "meg-gutshall",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-basics-data-types-readme"
+  },
+  {
+    "name": "meg-gutshall",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-basics-data-types-readme"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-building-a-cnn-from-scratch-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-building-deep-autoencoder-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-building-simple-autoencoder-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-convolutional-autoencoders"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-convolutional-autoencoders-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-convolutional-neural-networks"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-convolutional-neural-networks-codealong"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-denoising-autoencoders"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-denoising-autoencoders-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-image-classification-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-introduction-to-autoencoders"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-transfer-learning"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-transfer-learning-codealong"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-visualizing-intermediate-activations"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-visualizing-intermediate-activations-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-spa-project-instructions"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-spa-project-instructions"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-spa-project-instructions"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-arma-models"
+  },
+  {
+    "name": "sumedh10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-arma-models-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-arma-models-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-basic-time-series-models"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-basic-time-series-models-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-corr-autocorr-in-time-series"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-corr-autocorr-in-time-series-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-exponential-distribution"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-time-series-models-introduction"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-time-series-section-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-time-series-section-recap"
+  },
+  {
+    "name": "tylergreason",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-introduction-quiz"
+  }
+]
