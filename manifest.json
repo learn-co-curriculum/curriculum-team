@@ -1,0 +1,8 @@
+{
+  "short_name": "Curriculum Health Monitor",
+  "name": "Curriculum Health Monitor",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
