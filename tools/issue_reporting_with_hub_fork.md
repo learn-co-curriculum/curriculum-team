@@ -17,7 +17,9 @@ The `-f` flag takes a format string for awesome output
 **JSON** (wih some massaging)
 
 ```
+{% raw %}
 -f '{%n  "issueId": %I,%n  "issueTitle": "%t",%n  "issueURL": "%U",%n  "reporterId": "%au",%n  "createDate": "%uI"%n}%n%'
+{% endraw %}
 ```
 
 **Simple List of Issue URLs**
