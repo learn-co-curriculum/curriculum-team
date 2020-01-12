@@ -16,11 +16,15 @@ The `-f` flag takes a format string for awesome output
 
 **JSON** (wih some massaging)
 
-`-f '{%n  "issueId": %I,%n  "issueTitle": "%t",%n  "issueURL": "%U",%n  "reporterId": "%au",%n  "createDate": "%uI"%n}%n%'`
+```
+-f '{%n  "issueId": %I,%n  "issueTitle": "%t",%n  "issueURL": "%U",%n  "reporterId": "%au",%n  "createDate": "%uI"%n}%n%'
+```
 
 **Simple List of Issue URLs**
 
-`-f %U%n'`
+```
+-f %U%n'
+```
 
 ## Data Sources
 
@@ -30,7 +34,9 @@ the issues.
 
 ## Example Use
 
-`cat $HOME/git_checkouts/curriculum_tools/lesson_lists/v7_repos.txt | /home/sgharms/git_checkouts/hub-sgh/bin/hub  issue -r STDIN -f '* %U%n'`
+```
+cat $HOME/git_checkouts/curriculum_tools/lesson_lists/v7_repos.txt | /home/sgharms/git_checkouts/hub-sgh/bin/hub  issue -r STDIN -f '* %U%n'
+```
 
 "Take the list of v7 repos (a file of Github URLs). Pipe that output into Steven's `hub` fork using the `-r STDIN` flag which means "read a list of URLs from STDIN." The last flag specifies to emit a list of issue \[U\]RLS."
 
