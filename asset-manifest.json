@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/curriculum-team/static/css/main.21ebbb27.chunk.css",
+    "main.css": "/curriculum-team/static/css/main.d528ce9d.chunk.css",
     "main.js": "/curriculum-team/static/js/main.f8e5e4af.chunk.js",
     "main.js.map": "/curriculum-team/static/js/main.f8e5e4af.chunk.js.map",
     "runtime-main.js": "/curriculum-team/static/js/runtime-main.dd085345.js",
@@ -9,17 +9,17 @@
     "static/js/2.2fada5fa.chunk.js": "/curriculum-team/static/js/2.2fada5fa.chunk.js",
     "static/js/2.2fada5fa.chunk.js.map": "/curriculum-team/static/js/2.2fada5fa.chunk.js.map",
     "index.html": "/curriculum-team/index.html",
-    "precache-manifest.a903850a50db130d114ca91fabfa857f.js": "/curriculum-team/precache-manifest.a903850a50db130d114ca91fabfa857f.js",
+    "precache-manifest.c1dac272e30ab92a9b50b4b973c59475.js": "/curriculum-team/precache-manifest.c1dac272e30ab92a9b50b4b973c59475.js",
     "service-worker.js": "/curriculum-team/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/curriculum-team/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.21ebbb27.chunk.css.map": "/curriculum-team/static/css/main.21ebbb27.chunk.css.map",
+    "static/css/main.d528ce9d.chunk.css.map": "/curriculum-team/static/css/main.d528ce9d.chunk.css.map",
     "static/js/2.2fada5fa.chunk.js.LICENSE": "/curriculum-team/static/js/2.2fada5fa.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.dd085345.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2fada5fa.chunk.js",
-    "static/css/main.21ebbb27.chunk.css",
+    "static/css/main.d528ce9d.chunk.css",
     "static/js/main.f8e5e4af.chunk.js"
   ]
 }
