@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/curriculum-team/index.html/static/css/main.21ebbb27.chunk.css",
-    "main.js": "/curriculum-team/index.html/static/js/main.f742dc33.chunk.js",
-    "main.js.map": "/curriculum-team/index.html/static/js/main.f742dc33.chunk.js.map",
-    "runtime-main.js": "/curriculum-team/index.html/static/js/runtime-main.48213438.js",
-    "runtime-main.js.map": "/curriculum-team/index.html/static/js/runtime-main.48213438.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/curriculum-team/index.html/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.2fada5fa.chunk.js": "/curriculum-team/index.html/static/js/2.2fada5fa.chunk.js",
-    "static/js/2.2fada5fa.chunk.js.map": "/curriculum-team/index.html/static/js/2.2fada5fa.chunk.js.map",
-    "index.html": "/curriculum-team/index.html/index.html",
-    "precache-manifest.4524410da4150b297ff69b7bd8777a42.js": "/curriculum-team/index.html/precache-manifest.4524410da4150b297ff69b7bd8777a42.js",
-    "service-worker.js": "/curriculum-team/index.html/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/curriculum-team/index.html/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.21ebbb27.chunk.css.map": "/curriculum-team/index.html/static/css/main.21ebbb27.chunk.css.map",
-    "static/js/2.2fada5fa.chunk.js.LICENSE": "/curriculum-team/index.html/static/js/2.2fada5fa.chunk.js.LICENSE"
+    "main.css": "/curriculum-team/static/css/main.21ebbb27.chunk.css",
+    "main.js": "/curriculum-team/static/js/main.0b432f8f.chunk.js",
+    "main.js.map": "/curriculum-team/static/js/main.0b432f8f.chunk.js.map",
+    "runtime-main.js": "/curriculum-team/static/js/runtime-main.dd085345.js",
+    "runtime-main.js.map": "/curriculum-team/static/js/runtime-main.dd085345.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/curriculum-team/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.2fada5fa.chunk.js": "/curriculum-team/static/js/2.2fada5fa.chunk.js",
+    "static/js/2.2fada5fa.chunk.js.map": "/curriculum-team/static/js/2.2fada5fa.chunk.js.map",
+    "index.html": "/curriculum-team/index.html",
+    "precache-manifest.71acb59f90439aaf65e3aac714ab6a07.js": "/curriculum-team/precache-manifest.71acb59f90439aaf65e3aac714ab6a07.js",
+    "service-worker.js": "/curriculum-team/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/curriculum-team/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.21ebbb27.chunk.css.map": "/curriculum-team/static/css/main.21ebbb27.chunk.css.map",
+    "static/js/2.2fada5fa.chunk.js.LICENSE": "/curriculum-team/static/js/2.2fada5fa.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.48213438.js",
+    "static/js/runtime-main.dd085345.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.2fada5fa.chunk.js",
     "static/css/main.21ebbb27.chunk.css",
-    "static/js/main.f742dc33.chunk.js"
+    "static/js/main.0b432f8f.chunk.js"
   ]
 }
