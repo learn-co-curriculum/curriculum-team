@@ -1,0 +1,228 @@
+* [1574809092][m-gamao]: AAQ is not showing what you type https://github.com/learn-co-curriculum/welcome-to-learn-verified/issues/12
+* [1569953570][Anthonyntilelli]: Dead link for 1:1 https://github.com/learn-co-curriculum/welcome-to-learn-verified/issues/11
+* [1570550438][bettyeyob17]: Anyone can help with how to do the lab? I am confused!! https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/85
+* [1564023954][criscros-garcia]: IDE is not Opening in ubuntu https://github.com/learn-co-curriculum/ttt-2-board-rb/issues/30
+* [1578698180][lisaluvkode]: Not appearing green check marks after completed the lab https://github.com/learn-co-curriculum/ruby-methods-readme/issues/35
+* [1569199837][antimonysayz]: Intro to Methods (Ruby Module) Showing as incomplete https://github.com/learn-co-curriculum/ruby-methods-readme/issues/31
+* [1566921629][Tigaron27]: completed mark won't show https://github.com/learn-co-curriculum/ruby-methods-readme/issues/29
+* [1566159427][Andrew-J-Williams]: Lesson Marked Incomplete After Completing https://github.com/learn-co-curriculum/ruby-methods-readme/issues/28
+* [1572980993][Shinelior]:  def display_board        puts ["   |   |   ","_________","   |   |   "]    puts ["   |   |   ","---------","   |   |   "]                    end   display_board https://github.com/learn-co-curriculum/ttt-3-display_board-example/issues/29
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1577114406][Revilo12]: Doesn't mark as opened https://github.com/learn-co-curriculum/greeting-cli/issues/30
+* [1568683238][alexstolznut]: An issue with your test https://github.com/learn-co-curriculum/ttt-10-current-player/issues/24
+* [1570376032][paulnicholsen27]: Code coverage? https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/78
+* [1566682283][dana0522]: "Sorry, something went wrong. Please try again" error  https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/77
+* [1572284538][Emanao]: The expected output before adding markup in this lab differs across browsers https://github.com/learn-co-curriculum/experiencing-html-lab/issues/7
+* [1562030675][morganpstanley]: Spelling Error. https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/6
+* [1564076552][rohanphillips]: Multiple in-browser IDE file tabs https://github.com/learn-co-curriculum/introduction-to-css-lab/issues/14
+* [1568476164][Rpascar1]: regex example code allows for character excluded by rules of lesson https://github.com/learn-co-curriculum/regex-what-is-a-pattern/issues/7
+* [1570550438][bettyeyob17]: Anyone can help with how to do the lab? I am confused!! https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/85
+* [1578698180][lisaluvkode]: Not appearing green check marks after completed the lab https://github.com/learn-co-curriculum/ruby-methods-readme/issues/35
+* [1569199837][antimonysayz]: Intro to Methods (Ruby Module) Showing as incomplete https://github.com/learn-co-curriculum/ruby-methods-readme/issues/31
+* [1566921629][Tigaron27]: completed mark won't show https://github.com/learn-co-curriculum/ruby-methods-readme/issues/29
+* [1566159427][Andrew-J-Williams]: Lesson Marked Incomplete After Completing https://github.com/learn-co-curriculum/ruby-methods-readme/issues/28
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1568171737][Edaly9392]: Fork the Lab https://github.com/learn-co-curriculum/method-arguments-lab/issues/13
+* [1563291689][ddeleon267]: Line numbers in instructions do not match code.  https://github.com/learn-co-curriculum/method-scope-lab/issues/25
+* [1568146597][ivalentine]: Question 4 incorrectly says 7 is an incorrect answer https://github.com/learn-co-curriculum/truthiness-code-challenge/issues/35
+* [1576070468][8ceg6]: IDE ISSUE https://github.com/learn-co-curriculum/operators/issues/33
+* [1571758709][NoEMP33]: Times Lab Syntax issue https://github.com/learn-co-curriculum/looping-times/issues/9
+* [1572994986][isaiahvelez611]:  answering test one with if else states manets? https://github.com/learn-co-curriculum/array-CRUD-lab/issues/25
+* [1572903100][cjilbert504]: IDE says it cannot find this lab https://github.com/learn-co-curriculum/array-CRUD-lab/issues/24
+* [1572709009][natey37]: Lab repo cannot be found  https://github.com/learn-co-curriculum/array-CRUD-lab/issues/23
+* [1572211333][TomCon3]: "open this lab" does not turn green. lab doesnt open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/22
+* [1572145205][jdeshaise]: does not  open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/21
+* [1571438825][paztoya]: Cannot find lesson with repo: array-crud-lab-cb-000. Please check your input https://github.com/learn-co-curriculum/array-CRUD-lab/issues/19
+* [1576209225][mrarthurwhite]: OPEN IDE button in Chrome Stopped working https://github.com/learn-co-curriculum/my-each/issues/33
+* [1577208506][maharvey2]: Video unavailable  https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/1
+* [1570032409][8ceg6]: sorting lab errors when trying to open IDE https://github.com/learn-co-curriculum/collections_practice/issues/42
+* [1567087922][kierrakay]: Help please... https://github.com/learn-co-curriculum/key-for-min-value/issues/19
+* [1564334681][alouiscious]:  My name is not among the list of names on the pair partners form. please help https://github.com/learn-co-curriculum/nested-hashes-intro/issues/4
+* [1562628601][morganpstanley]: the binding.pry should return "Freddy", not "Jon". https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/28
+* [1567295906][CGonzalez0115]: Learn IDE issues https://github.com/learn-co-curriculum/apples-and-holidays/issues/49
+* [1554097183][merecka]: Suggestion for Improvement https://github.com/learn-co-curriculum/oo-ruby-video-object-orientation-overview/issues/8
+* [1552257622][Btate712]: Audio Quality / Video Length https://github.com/learn-co-curriculum/oo-ruby-video-object-orientation-overview/issues/7
+* [1550344277][marysue]: Recording request https://github.com/learn-co-curriculum/oo-ruby-video-object-orientation-overview/issues/6
+* [1567805081][jhharwood88]: Hit an issue with pry, running inside pry gem https://github.com/learn-co-curriculum/oo-tic-tac-toe/issues/45
+* [1444112745][matbalez]: Opportunity to do more? https://github.com/learn-co-curriculum/oo-tic-tac-toe/issues/5
+* [1578890480][mrarthurwhite]: Module Findable in ruby music library is not getting Loaded https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/57
+* [1576611493][pleugemors]: wont load lab https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/56
+* [1555710459][merecka]: Suggestions for improvement - Music Library CLI Lab https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/55
+* [1554825833][m-gamao]: The folders in the Music CLI lab cannot be opened - so I cannot do this lab at all.  Thanks https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/54
+* [1554656522][m-gamao]: Terminal keeps restarting https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/53
+* [1554656438][m-gamao]: Cannot open files in the folders in IRB https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/52
+* [1550795978][MaxBrooks114]: Song.find_by_name method spec seems broken https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/51
+* [1556238028][LeeyaD]: Video is no longer available https://github.com/learn-co-curriculum/oo-ruby-video-review-music-library-cli/issues/2
+* [1553202071][marysue]: checklist disabled - working solo https://github.com/learn-co-curriculum/ttt-with-ai-project/issues/54
+* [1539021648][drakeltheryuujin]: KNOWN ISSUES https://github.com/learn-co-curriculum/ttt-with-ai-project/issues/51
+* [1577732090][theouternet]: Tic-Tac-Toe with AI lab: Mystery red bar https://github.com/learn-co-curriculum/oo-student-scraper/issues/80
+* [1554423809][marysue]: Singleton Antipattern? https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem/issues/10
+* [1554423551][marysue]: Add note on windows open in browser https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem/issues/9
+* [1554669858][marysue]: Wishlist:  OO Design exercises https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem-2/issues/1
+* [1576957953][Anthonyntilelli]: dead link on installing homebrew https://github.com/learn-co-curriculum/sql-intro-and-installation-readme/issues/11
+* [1573123702][AdamWeissman]: Can't Fork. Same ISSUE as past two commenters. https://github.com/learn-co-curriculum/SQL-bear-organizer-lab/issues/41
+* [1482778878][maxgrok]: Video Tutorial is very pixelated https://github.com/learn-co-curriculum/sql-joins-review-lectures/issues/1
+* [1578683417][Emanao]: .find_by_name - code optimization suggestion. https://github.com/learn-co-curriculum/orm-mapping-db-to-ruby-object/issues/11
+* [1519659658][curiositypaths]: Known Issues https://github.com/learn-co-curriculum/orm-video-review-orms-and-sql-joins/issues/7
+* [1577581407][ChrstphGrnr]: Previously fixed issue still happening https://github.com/learn-co-curriculum/dynamic-orm-lab/issues/24
+* [1519662754][curiositypaths]: Known Issues https://github.com/learn-co-curriculum/orm-video-review-building-a-metaprogrammed-abstract-orm/issues/14
+* [1519662999][curiositypaths]: Known Issues https://github.com/learn-co-curriculum/orm-video-review-codealong-building-a-room-scraper-and-orm/issues/17
+* [1519753966][curiositypaths]: Known Issues https://github.com/learn-co-curriculum/activerecord-associations-video-review-ii/issues/3
+* [1534443651][drakeltheryuujin]: Known issues https://github.com/learn-co-curriculum/rack-video-review-how-the-web-works-pt-1/issues/7
+* [1556575761][ccklight]: 2 Quickies:  Add  "of" and Delete "a" https://github.com/learn-co-curriculum/text-formatting-lab/issues/4
+* [1574458522][pauloramazza]: IDE do not work on Chrome 78.0.3904.97 - Macboox https://github.com/learn-co-curriculum/html-links-lab/issues/4
+* [1556641506][ccklight]: Quick Fix: Change "an" to "a" in lesson https://github.com/learn-co-curriculum/html-links-lab/issues/3
+* [1561670888][wilsonEl]: Unknown Failure https://github.com/learn-co-curriculum/html-album-cover/issues/29
+* [1560461368][katreesedarcene]: httpserver https://github.com/learn-co-curriculum/html-riyadh-blog/issues/1
+* [1574791692][TrueC-D]: Spec not complete? https://github.com/learn-co-curriculum/CSS-Fundamentals-Lab/issues/5
+* [1574204095][lauratravin]: There is an error in one example using an Id element twice. https://github.com/learn-co-curriculum/CSS-Fundamentals-Lab/issues/4
+* [1532116153][jenmyers]: Add objectives, adjust headings https://github.com/learn-co-curriculum/my-little-rainbow-lab/pull/2
+* [1558379121][eyaltoledano]: Test "css/cleanup.css has overrides added" is looking for a cleanup.css at least 300b large https://github.com/learn-co-curriculum/css-graffiti-override-lab/issues/1
+* [1542475376][BenitolSantos]: Page layout video format learning issues https://github.com/learn-co-curriculum/Box-Model/issues/5
+* [1575486729][ode-to-the-code]: typo? https://github.com/learn-co-curriculum/positioning-elements-with-css/issues/3
+* [1563450800][eponsonby]: Issues with this lab https://github.com/learn-co-curriculum/positioning-elements-with-css/issues/1
+* [1554507248][Sdcrouse]: The wording for Question 12 should be changed. https://github.com/learn-co-curriculum/quiz-css-layout/issues/4
+* [1570818919][boom100100]: All Module 11 Section 2 labs - tests never fail https://github.com/learn-co-curriculum/fe-zetsy/issues/25
+* [1540440145][cfernando415]: The nmai-logo.png file is missing https://github.com/learn-co-curriculum/fe-zetsy/issues/23
+* [1535127329][trevor-jameson]: Lab requires missing local tests to pass https://github.com/learn-co-curriculum/fe-zetsy/issues/21
+* [1529795057][FreeBreadsticks]: Tests missing https://github.com/learn-co-curriculum/fe-zetsy/issues/19
+* [1559944837][helloamandamurphy]: All tests are passing at start https://github.com/learn-co-curriculum/box-style-lab/issues/1
+* [1565033539][LmLutec]: Animal Save Lab number 5 https://github.com/learn-co-curriculum/animal-save-lab/issues/2
+* [1534356416][drakeltheryuujin]: Known Issues https://github.com/learn-co-curriculum/sinatra-video-review-forms/issues/13
+* [1577987270][aellonk]: "Video Unavailable" https://github.com/learn-co-curriculum/sinatra-videos-sinatra-mvc/issues/1
+* [1550110984][DakotaLMartinez]: unclear reference to server side sessions  https://github.com/learn-co-curriculum/sinatra-cookies-readme/issues/17
+* [1562916806][Sdcrouse]: A few of these sections need to be updated. https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/16
+* [1558645491][atxrenegade]: [Using Sessions][secsin]  -  cryptic reference https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/15
+* [1558644774][atxrenegade]: Vague and misleading generalization https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/14
+* [1558646881][atxrenegade]: Unfinished sentence in codealong directions https://github.com/learn-co-curriculum/sinatra-sessions/issues/24
+* [1578325729][oglesbyanthony88]: BigDecimal.new issue https://github.com/learn-co-curriculum/sinatra-user-auth/issues/48
+* [1563607076][Sdcrouse]: The part of the README that discusses the Controller, needs to be re-written. https://github.com/learn-co-curriculum/sinatra-user-auth/issues/47
+* [1553541766][ccklight]: db/migrate: Update File Name Required to Pass 1st Test https://github.com/learn-co-curriculum/sinatra-user-auth/issues/46
+* [1549759834][brennanmrose]: README Incorrect - session[:id] to session[:user_id] https://github.com/learn-co-curriculum/sinatra-user-auth/issues/43
+* [1565328781][Crankums]: Continually getting a "could not find table 'users'" https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/40
+* [1564508121][aparkening]: Default ActiveRecord Migration Test Broken https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/39
+* [1563856512][Sdcrouse]: The bottom bullet point of the README need to be re-written https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/38
+* [1564106454][Sdcrouse]: One of the tests for the "/login" route can return a false positive https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/30
+* [1560977800][thistonyb]: To Do https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/29
+* [1553878757][helloamandamurphy]: Gems Outdated / Gemfile.lock deleted https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/27
+* [1572109524][DesterStorm]: ActiveRecord method has been changed https://github.com/learn-co-curriculum/sinatra-video-review-authentication/issues/4
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1553967863][helloamandamurphy]: Several issues before Tux would run https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux/issues/26
+* [1522414014][maxwellbenton]: removed video link, added video.yaml https://github.com/learn-co-curriculum/sinatra-video-review-building-a-site-generator-part-1/pull/5
+* [1522413968][maxwellbenton]: removed video link, added video.yaml https://github.com/learn-co-curriculum/sinatra-video-review-building-a-site-generator-part-2/pull/7
+* [1564014377][eponsonby]: Linked Example not working https://github.com/learn-co-curriculum/sinatra-cms-app-assessment/issues/30
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1576034089][jermain119]:  not passing test  somethings wrong with lesson  https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/24
+* [1573593317][boom100100]: Rails Static Request https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/22
+* [1535483591][cjbrock]: Known issue: remove 5 minutes of dead air in video https://github.com/learn-co-curriculum/rails-video-review-intro-to-rails/issues/8
+* [1577046250][bluemorpho-blip]: Thank you for spotting this issue and providing feedback. https://github.com/learn-co-curriculum/rails-activerecord-models-and-rails-readme/issues/25
+* [1558560510][mackenzie-km]: Issue with monkey patching  https://github.com/learn-co-curriculum/rails-activerecord-model-rails-lab/issues/10
+* [1540230159][LonghornRach]: JSON 1.8.3 incompatible https://github.com/learn-co-curriculum/rails-activerecord-model-rails-lab/issues/9
+* [1574276457][DesterStorm]: Incorrect use of db:migrate in Rails URL Helpers readalong https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/30
+* [1573122822][Sdcrouse]: Suggested edits to the README https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/28
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1578876110][Enemy-Stand]: Be more specific with the page inspector https://github.com/learn-co-curriculum/strong-params-basics/issues/20
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1549554253][JoeQuattrone]: Error when genreating scaffold https://github.com/learn-co-curriculum/rails-resource-and-scaffold-generator/issues/9
+* [1566006339][jrodden1]: Lab Tests Do not pass with one line run as stated in the lesson https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/15
+* [1562078007][Poliarddjimmy]: Rails Blog Scaffold https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/14
+* [1559137616][PrincessLaurora]: The lab still need to be updated https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/13
+* [1558022433][daschne8]: Rails generator is slightly off https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/12
+* [1556906376][helloamandamurphy]: Took Longer Than 5 Minutes https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/11
+* [1555808691][joanrig]: rails has been updated since lab was written - 2 tweaks needed to pass https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/10
+* [1553280663][lizbur10]: Code created by rails g scaffold command not passing tests https://github.com/learn-co-curriculum/rails-blog-scaffold/issues/9
+* [1573774589][DBuckley0126]: On the learn.co website, the 'buttons_to' section is not being displayed https://github.com/learn-co-curriculum/delete-forms-rails/issues/13
+* [1578864050][wifelette]: Typo https://github.com/learn-co-curriculum/activerecord-lifecycle-reading/issues/25
+* [1577502869][Sillhouette]: Tests and solution no longer fit the original intent of the lab https://github.com/learn-co-curriculum/forms-and-basic-associations-rails-lab/issues/23
+* [1568729238][eponsonby]: Sound https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/9
+* [1538672164][emilywelsch]: +1 for this format https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/8
+* [1533310265][coryjbergquist]: Suggested placement of video https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/7
+* [1532970435][Awilmerding1]: Suggested Objectives  https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/6
+* [1531594904][kriti-rai]: Suggested summary and learning objectives https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/5
+* [1519851980][byojelly]: Video Freezing https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/4
+* [1512070545][kyleblee]: Suggested Summary and Objectives https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/3
+* [1487466161][jonbf]: Feedback on video https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/2
+* [1486070710][survivingknowledge]: My Eyes!! 480p video https://github.com/learn-co-curriculum/rails-video-review-has-many-through-in-forms-lab/issues/1
+* [1557106537][anihakutin]: Video Placement https://github.com/learn-co-curriculum/rails-video-review-deep-dive-into-nested-forms/issues/5
+* [1577009743][Sdcrouse]: Update README and specs https://github.com/learn-co-curriculum/simple-partials-reading/pull/20
+* [1577066033][Sdcrouse]: Removes controller action and refactors test specs https://github.com/learn-co-curriculum/simple-partials-lab/pull/19
+* [1577139251][Sdcrouse]: Lesson will not submit, and the code in the README is inaccurate https://github.com/learn-co-curriculum/partial-locals-reading/issues/25
+* [1577515503][Sdcrouse]: Update README https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/31
+* [1577514931][Sdcrouse]: Out of date information in the "Dynamic Route Segments" section https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/30
+* [1577493347][Sdcrouse]: Instructions for resetting the database don't work. https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/29
+* [1577746138][Sdcrouse]: Fixes error in views/songs/edit.html.erb and corrects a bug in the Song model https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/12
+* [1578447227][azharshahstl]: line 3 of #update in lesson should be updated. https://github.com/learn-co-curriculum/modification-nested-routes-reading/issues/23
+* [1577769566][Sdcrouse]: Fix error in README and add minor edits https://github.com/learn-co-curriculum/modification-nested-routes-reading/pull/22
+* [1577401141][FigueroaR]: Does not update  https://github.com/learn-co-curriculum/modification-nested-routes-reading/issues/21
+* [1578715136][Sdcrouse]: Minor typo fixes to README and tests https://github.com/learn-co-curriculum/modification-nested-routes-lab/pull/15
+* [1578024864][Sdcrouse]: Suggested Edit: Add git command for moving a file into another folder https://github.com/learn-co-curriculum/namespaced-routes-reading/pull/14
+* [1578039815][Sdcrouse]: Instructions and tests unclear about how Preferences are associated with Artists and Songs https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/42
+* [1578038726][Sdcrouse]: `rake preferences:load` command unclear https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/41
+* [1521403651][lizbur10]: vidoes => videos https://github.com/learn-co-curriculum/todomvc-3-mark-items-complete/pull/2
+* [1540915812][ValerieHMoore]: Videos not vidoes https://github.com/learn-co-curriculum/todomvc-4-refactoring-with-partials-and-helpers/issues/2
+* [1521403505][lizbur10]: Corrected links to code on github; fixed one typo https://github.com/learn-co-curriculum/todomvc-4-refactoring-with-partials-and-helpers/pull/1
+* [1521403704][lizbur10]: vidoes => videos https://github.com/learn-co-curriculum/todomvc-5-deleting-items/pull/1
+* [1578123631][Sdcrouse]: Fixes issue and adds minor edits to the README https://github.com/learn-co-curriculum/introduction-to-authentication-and-authorization/pull/5
+* [1571276930][PineappleGuy]: The 'p.s.' at the bottom https://github.com/learn-co-curriculum/introduction-to-authentication-and-authorization/issues/4
+* [1559622005][veloblank]: Fix typos in README https://github.com/learn-co-curriculum/introduction-to-authentication-and-authorization/pull/3
+* [1578638894][Sdcrouse]: Undo previous commit and add minor edits to README https://github.com/learn-co-curriculum/cookies_and_sessions_readme/pull/12
+* [1578355278][thecodepixi]: Index view is tested without utilizing controller https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/26
+* [1578886952][Sdcrouse]: Update note in README about using generators https://github.com/learn-co-curriculum/sessions_controller_lab/pull/19
+* [1578885043][Sdcrouse]: Missing tests for the homepage https://github.com/learn-co-curriculum/sessions_controller_lab/issues/18
+* [1578891362][Sdcrouse]: Edits to README https://github.com/learn-co-curriculum/login_required_readme/pull/7
+* [1549121135][mattlance99]: Minor correction in video title: Authentication in "rials".  https://github.com/learn-co-curriculum/rails-video-review-authentication/issues/4
+* [1536603134][theresamorelli]: Suggested Objectives https://github.com/learn-co-curriculum/rails-video-review-authentication/issues/3
+* [1548270236][kodyclemens]: Email comparison can be exploited https://github.com/learn-co-curriculum/omniauth-review-lecture-in-todomvc/issues/1
+* [1555105876][ICanDoAllThingThroughChrist]: .atom file exists https://github.com/learn-co-curriculum/rails-how-to-find-gems-readme/issues/5
+* [1573253229][PineappleGuy]: Second bullet point in section 'Working Through the Problems' https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab/issues/8
+* [1576021399][aminamos]: Hackernoon article images mostly replaced with author's avatar https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-array-o-functions/issues/10
+* [1578601683][ChrstphGrnr]: 500 error for students on Learn.co https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/11
+* [1575327176][sjwakeman]: Objects in javascript : object.assign/deep copy - Link does not work! https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/15
+* [1574379524][shanisebarona]: Lesson reordering https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/14
+* [1575210450][stroughk]: This lessons does not open right https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/4
+* [1574284675][jhcheung]: Unable to learn open https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/3
+* [1573038012][carl1984r]: Error when opening lab.  https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/2
+* [1573124597][carl1984r]: Lesson will not open.  https://github.com/learn-co-curriculum/jsdom-toy-tale/issues/3
+* [1574341449][blackwellsmith]: not happy https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project/issues/10
+* [1573208499][veloblank]: Broken Project example link/gif/img https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project/issues/9
+* [1578623626][meg-gutshall]: README Fixes https://github.com/learn-co-curriculum/js-basics-data-types-readme/pull/7
+* [1578623467][meg-gutshall]: Formatting fixes needed https://github.com/learn-co-curriculum/js-basics-data-types-readme/issues/6
+* [1574986695][micahshute]: Weak Tests https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arithmetic-lab/issues/1
+* [1575001362][micahshute]: Backticks not displayed https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-conditionals/issues/3
+* [1574811678][reneenordholm]: Material already covered https://github.com/learn-co-curriculum/fewpjs_object_assign/issues/5
+* [1575657087][Nanton83]: Return https://github.com/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab/issues/11
+* [1573157204][thistonyb]: Logic error in test... https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab/issues/4
+* [1574201531][aparkening]: Bottom example errors because of too many parenthesis https://github.com/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree/issues/2
+* [1571270955][MiriamPeskowitz]: Solution code doesn't use .map, which is fine except that the lab is about map.... https://github.com/learn-co-curriculum/fewpjs-iterators-map-lab/issues/7
+* [1578317295][skmcloughlin]: Math Error? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/6
+* [1578057302][skmcloughlin]: Improper math in assertion? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/5
+* [1575783108][khongcodes2]: Possible test bug - describe 'uniq' https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/4
+* [1574169571][EmanAlzariey]: fi.giveMeMore function  https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/3
+* [1574033310][merecka]: The sortBy() tests are very confusing in this lab. https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/2
+* [1578750123][stroughk]: Unable to submit lessons https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/issues/12
+* [1574521194][AimanAlmureish]: Not cloning in IDE browser https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/issues/11
+* [1575317758][eponsonby]: No tests for the Area setter method https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/5
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1574094410][swdecker]: Solution is bugged and not an actual solution https://github.com/learn-co-curriculum/react-static-components-lab/issues/9
+* [1578679270][kkterai]: Remove comments from ColorBox Component https://github.com/learn-co-curriculum/react-dynamic-components-lab/pull/12
+* [1578522375][junymc]: type error https://github.com/learn-co-curriculum/react-dynamic-components-lab/issues/11
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1574630696][dsstewa]: Syntax for GenRow and genMatrix https://github.com/learn-co-curriculum/react-simple-state-lab/issues/10
+* [1577887568][fbohz]: Repetitive  https://github.com/learn-co-curriculum/react-event-system/issues/9
+* [1577921175][fbohz]: formData as global variable https://github.com/learn-co-curriculum/react-forms/issues/29
+* [1576073435][Ned-el-ch]: Deprecated material https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/5
+* [1576091545][jhcheung]: Mounting lifecycle methods subheader repeated twice https://github.com/learn-co-curriculum/react-component-mounting-lifecycle-readme/issues/4
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1578688681][jasurabdullin]: Older webpack version conflicting with new webpack https://github.com/learn-co-curriculum/react-presentation-components-lab/issues/22
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1576518393][helloamandamurphy]: Wait, is that a `var` in the Flatiron curriculum? https://github.com/learn-co-curriculum/react-introduction-to-react-router/issues/12
+* [1578406548][jhcheung]: Main code file referenced incorrectly. https://github.com/learn-co-curriculum/redux-create-store/issues/17
+* [1559673110][SilverBright]: Checklist Link Broken https://github.com/learn-co-curriculum/react-redux-assessment/issues/12
+* [1552583662][ipc103]: add DB requirement to README https://github.com/learn-co-curriculum/react-redux-assessment/pull/10
+* [1540506371][AspenJames]: clarify requirements https://github.com/learn-co-curriculum/react-redux-assessment/pull/9
+* [1539231397][AspenJames]: Requirements should be updated to reflect checklist https://github.com/learn-co-curriculum/react-redux-assessment/issues/8
