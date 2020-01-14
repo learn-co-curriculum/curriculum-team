@@ -49,11 +49,18 @@ cd hub
 git checkout fis
 make
 # add your version of hub to your $PATH, wherever you put your hub repo
-echo 'export PATH="~/hub/bin:$PATH"' >> ~/.zshrc
+echo 'export PATH="$HOME/hub/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 hub --version # should should something like
 # git version 2.24.0
 # hub version 2.11.2-252-gee3ff9d3 # note the `-gee3ff9d3` stuff after the version
+```
+
+Then follow hub's prompts to configure a token
+
+```sh
+hub browse
+# will prompt you for github credentials
 ```
 
 ### 4. Update the `lesson_lists` with what is currently on learn
@@ -62,6 +69,61 @@ hub --version # should should something like
 # check that tools/names-and-ids.txt is updated (ping someone in slack, probably)
 cd ~/dev/curriculum-team  # or wherever you put this
 ./tools/update_lesson_lists.sh
+```
+
+
+### 5. Optional - add additional command line tools
+
+There are lots of helpful tools for working on the command line - you can install any or all of these. Check out the docs on each one to learn more.
+
+```sh
+# get the latest versions of git and zsh
+brew install git
+brew install zsh
+# install useful command line tools
+brew install jq
+brew install ripgrep
+brew install bat
+brew install htop
+brew install fzf
+# install fzf completions (follow the prompts)
+/usr/local/opt/fzf/install
+# Source the track health tools on shell startup
+echo "source $HOME/dev/curriculum-team/tools/track-health-tools.sh" >> ~/.zshrc
+```
+
+### 6. Optional - set up helpful aliases
+
+Add the following to your `~/.zshrc`. It's a function to add an alias.
+
+```sh
+# Aliases
+# add an alias
+# usage: `$ add_alias gb git branch`
+add_alias() {
+  local cmd=$1
+  shift
+  local rest="$@"
+  echo "alias $cmd=\"$rest\"" >> ~/.zsh_aliases
+  source ~/.zsh_aliases
+}
+
+source ~/.zsh_aliases
+```
+
+Try it out:
+
+```sh
+add_alias co git checkout
+```
+
+That adds the aliases `co` for `git checkout`.
+
+It's pretty common to swap your default `cat` for `bat`, and `git` for `hub`, since they are intended as drop-in replacements.
+
+```sh
+add_alias cat bat
+add_alias git hub
 ```
 
 ### 5. Clone all tracks in `lesson_lists` to local
