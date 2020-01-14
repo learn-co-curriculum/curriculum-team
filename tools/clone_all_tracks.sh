@@ -2,19 +2,27 @@
 # BEWARE: takes a while, may download several thousand repos 
 
 # Usage: ./clone_all_tracks.sh [target_dir] [lesson_list_dir]
+# Note: use full paths, not relative paths
+
 if [ -z "$1" ]
 then
-  TARGET_DIR="$HOME/curriculum/tracks"
+  echo "need a target directory"
 else
   TARGET_DIR="$1"
 fi
 
 if [ -z "$2" ]
 then
-  LESSON_LISTS_DIR='lesson_lists'
+  echo "need a lesson list directory"
+  exit 1
 else
-  LESSON_LISTS_DIR="$2"
+  LESSON_LISTS_DIR="$2"  
 fi
+
+github_link_from_https_to_ssh() {
+  temp="$(echo $1 | sed 's+https://github.com/+git@github.com:+g')"
+  echo "$temp.git"
+}
 
 # takes a file with a list of lessons as github repos and a directory
 # clones all the repos in the list to the directory
@@ -30,6 +38,7 @@ clone_lesson_list_to_dir() {
 }
 
 for list in "$LESSON_LISTS_DIR"/*.txt; do
-  echo "cloning $list to $TARGET_DIR/${list%.*}"
-  clone_lesson_list_to_dir "$list" "$TARGET_DIR/${list%.*}"
+  target="$TARGET_DIR/$(basename ${list%.*})"
+  echo "cloning $list to $target"
+  clone_lesson_list_to_dir "$list" "$target"
 done

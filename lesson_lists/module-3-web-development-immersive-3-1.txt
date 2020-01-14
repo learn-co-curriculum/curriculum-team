@@ -8,7 +8,6 @@ https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-t
 https://github.com/learn-co-curriculum/fewpjs-discussion-questions-es6-features
 https://github.com/learn-co-curriculum/js-advanced-functions-discussion-question-execution-context
 https://github.com/learn-co-curriculum/arrow-functions-discussion-questions
-https://github.com/learn-co-curriculum/the-dom-challenge
 https://github.com/learn-co-curriculum/debugging-workshop
 https://github.com/learn-co-curriculum/js-github-project
 https://github.com/learn-co-curriculum/js-fetch-monster-practice-challenge
@@ -16,6 +15,7 @@ https://github.com/learn-co-curriculum/woof-woof-js-practice
 https://github.com/learn-co-curriculum/bookliker-practice-challenge
 https://github.com/learn-co-curriculum/js-quotes-practice
 https://github.com/learn-co-curriculum/mod-3-calorie-counter-js-practice
+https://github.com/learn-co-curriculum/the-dom-challenge
 https://github.com/learn-co-curriculum/fewpjs-reviewing-dom-manipulation-quiz
 https://github.com/learn-co-curriculum/fewpjs-reviewing-javascript-events-quiz
 https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz

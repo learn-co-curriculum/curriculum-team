@@ -48,7 +48,8 @@ git clone git@github.com:flatiron-school/hub.git
 cd hub
 git checkout fis
 make
-echo 'export PATH="$(pwd)/bin:$PATH"' >> ~/.zshrc
+# add your version of hub to your $PATH, wherever you put your hub repo
+echo 'export PATH="~/hub/bin:$PATH"' >> ~/.zshrc
 source ~/.zshrc
 hub --version # should should something like
 # git version 2.24.0

@@ -49,7 +49,7 @@ https://github.com/learn-co-curriculum/truthiness-in-ruby-readme
 https://github.com/learn-co-curriculum/booleans-ruby-readme
 https://github.com/learn-co-curriculum/conditional-readme
 https://github.com/learn-co-curriculum/rspec-fizzbuzz
-https://gh.learn.co/learn-co-curriculum/ttt-6-position-taken-rb
+https://github.com/learn-co-curriculum/ttt-6-position-taken-rb
 https://github.com/learn-co-curriculum/prework-videos-statements-writing-dynamic-programs
 https://github.com/learn-co-curriculum/ttt-7-valid-move
 https://github.com/learn-co-curriculum/looping-introduction
