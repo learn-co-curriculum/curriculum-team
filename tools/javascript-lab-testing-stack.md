@@ -1,19 +1,24 @@
 # Writing an in-browser test suite
 
 ## Introduction
+
 Going forward, all (pre-React) JavaScript labs should be written with the following testing stack in mind:
-- `browser-sync` — for a hot-reloading test server.
-- `mocha` — as the test runner.
-- `chai` — as the library for matchers.
-- `sinon` — as the library for spies, stubs, mocks, etc.
+
+* `browser-sync` — for a hot-reloading test server.
+* `mocha` — as the test runner.
+* `chai` — as the library for matchers.
+* `sinon` — as the library for spies, stubs, mocks, etc.
 
 We want to normalize this so that students have a chance to familiarize themselves with a perfectly acceptable, standard JS testing stack.
 
 ## `learn-browser`
+
 You do **not** need to add any of those packages to `package.json`. When creating the `package.json` file for a new lab, the only thing you need to do is `npm i --save-dev learn-browser`. That command installs the `learn-browser` package and saves it as a development dependency in `package.json`. If you accidentally `npm i --save learn-browser`, that works fine, too — there's just no reason for the package to be loaded in any non-development context.
 
 ## [Starter repository](https://github.com/learn-co-curriculum/template-js-lab-with-browser-based-mocha-tests)
+
 There are 15 TODOs in this repository:
+
 * `test/indexTest.js`: 1
 * `.learn`: 2
 * `index.html`: 2
@@ -25,6 +30,7 @@ To create a new JavaScript lab, clone [this repository](https://github.com/learn
 ## Sample files
 
 ### `package.json`
+
 ```json
 {
   "name": "js-basics-arithmetic-lab",
@@ -63,9 +69,11 @@ To create a new JavaScript lab, clone [this repository](https://github.com/learn
 Current version of `learn-browser`: [![npm version](https://badge.fury.io/js/learn-browser.svg)](https://www.npmjs.com/package/learn-browser)
 
 #### Notes
+
 ```json
 "main": "index.js"
 ```
+
 The JavaScript file in which students should code their solution.
 
 ```json
@@ -74,11 +82,13 @@ The JavaScript file in which students should code their solution.
   "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
 }
 ```
+
 The `postinstall` script installs and/or updates the student's `learn-co` gem to the latest version. We need this because students with older versions of the gem won't have the version of the `learn-test` gem that supports this new testing setup.
 
 The `test` script starts a Browsersync server with the custom config file located in the `learn-browser` package.
 
 ### `index.html`
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -120,9 +130,11 @@ The `test` script starts a Browsersync server with the custom config file locate
 ```
 
 #### Notes
+
 You can play around with the ordering of the student's JS file (`index.js`), the test suite (`test/indexTest.js`), and any fixtures (e.g., `test/fixtures.js`) to suite your needs. Generally, load Mocha first, then Chai, then Sinon (only if you need it for the test suite), then the student's code and the test suite, and finally `learnBrowser.min.js`.
 
 ### `test/indexTest.js`
+
 ```js
 const expect = chai.expect;
 
@@ -146,9 +158,11 @@ describe('index.js', () => {
 ```
 
 #### Notes
+
 The test file should be named according to the student's JS file. If students are coding in `strings.js`, the test file should be `stringsTest.js`.
 
 The whole test suite should be encapsulated within a top-level `describe` block that references the student's JS file (yet another hint to them about which file to write their code in):
+
 ```js
 describe('index.js', () => {
   ...
@@ -156,6 +170,7 @@ describe('index.js', () => {
 ```
 
 ## Resources
+
 - [Mocha documentation](http://mochajs.org/)
 - [Chai BDD-style matchers](http://chaijs.com/api/bdd/)
 - [Sinon v2.3.8 documentation](http://sinonjs.org/releases/v2.3.8/)

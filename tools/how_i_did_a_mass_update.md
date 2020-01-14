@@ -1,4 +1,6 @@
-# How I Did a Mass Update to Many Repos
+# How to do a Mass Update to Many Repos
+
+(sgharms)
 
 Here's a view on some tooling and shell-fu that might help think about how to
 expand / improve scripting and tooling. It also shows (I think) the Unix
