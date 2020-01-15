@@ -1,0 +1,1 @@
+* [1577141617][theoluyi]: IDE Keeps crashing https://github.com/learn-co-curriculum/debugging-practice-debugging-with-pry-lab/issues/2
