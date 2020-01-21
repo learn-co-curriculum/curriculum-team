@@ -5,6 +5,9 @@ software engineering curriculum.
 
 You can reach us in slack at #se-curriculum-questions - we're always interested in hearing from you!
 
+For info on the current state of the Software Engineering Curriculum, check
+out [the GitHub page of this site](https://learn-co-curriculum.github.io/curriculum-team/).
+
 ## Empowerment
 
 We want to empower the team to
@@ -26,9 +29,11 @@ Slack #product-questions.
 
 ### There's a non-urgent issue with a particular lab or lesson
 
-Open a github issue on the canonical (learn-co-curriculum) version of the lab. If you know how to fix the issue, feel free to make a pr.
+Open a github issue on the canonical (learn-co-curriculum) version of the lab. If
+you know how to fix the issue, feel free to make a pr.
 
-We have tools to pull all the github issues from our active tracks daily, and we will eventually get to your issue.
+We have tools to pull all the github issues from our active tracks daily, and we
+will eventually get to your issue.
 
 You can always reach out in #se-curriculum-questions if you aren't sure.
 
