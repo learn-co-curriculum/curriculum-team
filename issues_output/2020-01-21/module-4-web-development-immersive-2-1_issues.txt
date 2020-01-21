@@ -1,0 +1,22 @@
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1574094410][swdecker]: Solution is bugged and not an actual solution https://github.com/learn-co-curriculum/react-static-components-lab/issues/9
+* [1579137601][earthctzn]: Broken gif https://github.com/learn-co-curriculum/react-dynamic-components/issues/1
+* [1579560047][saranderson13]: Note to add conditional code in the wrong spot. https://github.com/learn-co-curriculum/react-dynamic-components-lab/issues/13
+* [1578679270][kkterai]: Remove comments from ColorBox Component https://github.com/learn-co-curriculum/react-dynamic-components-lab/pull/12
+* [1578522375][junymc]: type error https://github.com/learn-co-curriculum/react-dynamic-components-lab/issues/11
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1574630696][dsstewa]: Syntax for GenRow and genMatrix https://github.com/learn-co-curriculum/react-simple-state-lab/issues/10
+* [1577887568][fbohz]: Repetitive  https://github.com/learn-co-curriculum/react-event-system/issues/9
+* [1579166691][A-Glazer]: Video link at the bottom doesn't work https://github.com/learn-co-curriculum/react-forms/issues/30
+* [1577921175][fbohz]: formData as global variable https://github.com/learn-co-curriculum/react-forms/issues/29
+* [1576073435][Ned-el-ch]: Deprecated material https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/5
+* [1576091545][jhcheung]: Mounting lifecycle methods subheader repeated twice https://github.com/learn-co-curriculum/react-component-mounting-lifecycle-readme/issues/4
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1578688681][jasurabdullin]: Older webpack version conflicting with new webpack https://github.com/learn-co-curriculum/react-presentation-components-lab/issues/22
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1576518393][helloamandamurphy]: Wait, is that a `var` in the Flatiron curriculum? https://github.com/learn-co-curriculum/react-introduction-to-react-router/issues/12
+* [1577797335][stephenkeating]: talks about editing users_controller but it was never created https://github.com/learn-co-curriculum/jwt-auth-rails/issues/8
+* [1577796527][stephenkeating]: need to add rails db:create before rails db:migrate https://github.com/learn-co-curriculum/jwt-auth-rails/issues/7
+* [1578406548][jhcheung]: Main code file referenced incorrectly. https://github.com/learn-co-curriculum/redux-create-store/issues/17

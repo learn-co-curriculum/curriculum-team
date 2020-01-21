@@ -1,0 +1,342 @@
+* [1560127815][mahithapenmetsa]: Bootcamp https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/20
+* [1551910054][battweil]: We don't explain how to ask a question on the first page. https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/19
+* [1550856867][SimToor]: HTML Fundamentals > HTML >Basics of HTML > Opening and Closing Tags https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/18
+* [1527936182][george19857]: I can't open Sandbox! It says : Ooops!!! Something went wrong. It looks like i can't conect. But i am conected at the internet. https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/16
+* [1518600133][onoriodeunu]: Learn.co https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/14
+* [1509377223][Phanindrapolina]: this like this when i'm trying to pull out header from a web page using console https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/9
+* [1508592561][kwebster2]: Unclear what banner it is referring to https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/8
+* [1506633782][rdso1984]: Patch 1 https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/pull/5
+* [1491012717][darksheer]: [Feature Request] Reset a learning module from command line.  https://github.com/learn-co-curriculum/welcome-to-bootcamp-prep/issues/4
+* [1542308355][Problem-Turns-To-Solved]: Jump to Javascript https://github.com/learn-co-curriculum/web-is-html/issues/8
+* [1564383924][abinayaasri]: a issue https://github.com/learn-co-curriculum/html-syntax-overview/issues/7
+* [1532695118][ghost]: </p>? https://github.com/learn-co-curriculum/html-syntax-overview/issues/6
+* [1508788826][Enoch2k2]: No closing p tag in the example (second codepen from bottom) https://github.com/learn-co-curriculum/html-syntax-overview/issues/2
+* [1536165161][rajakesava]: code-pen https://github.com/learn-co-curriculum/html-link/issues/7
+* [1579275055][maxwellbenton]: formatting pass https://github.com/learn-co-curriculum/styling-with-css-intro/pull/53
+* [1579205292][maxwellbenton]: formatting pass https://github.com/learn-co-curriculum/styling-with-css-intro/pull/52
+* [1579188220][maxwellbenton]: formatting pass https://github.com/learn-co-curriculum/styling-with-css-intro/pull/51
+* [1575702845][pandaqueen4799]: No back button https://github.com/learn-co-curriculum/css-syntax-overview/issues/3
+* [1518385446][tygamerforce]: where can I go to use the basic code to see what my results are  https://github.com/learn-co-curriculum/css-syntax-overview/issues/2
+* [1539429665][txk2178]: Printing entire pages https://github.com/learn-co-curriculum/css-selectors/issues/20
+* [1519142268][AdamFrame83]: CSS Selectors content https://github.com/learn-co-curriculum/css-selectors/issues/16
+* [1515637060][mgdonnelly]: I see nothing on my screen for Alice other than the text name Alice.  When I click, nothing happens https://github.com/learn-co-curriculum/css-selectors/issues/15
+* [1515448907][jonathanallsup]: Completion issues with "accelerated-prep" https://github.com/learn-co-curriculum/css-selectors/issues/14
+* [1522779187][ValerieHMoore]: Inconsistent spelling of JavaScript https://github.com/learn-co-curriculum/javascript-fundamentals-overview/issues/4
+* [1534193359][knighttod8]: Reporting an issue https://github.com/learn-co-curriculum/js-and-the-web/issues/6
+* [1562707184][wifelette]: jQuery shouldn't have a capital letter J https://github.com/learn-co-curriculum/js-and-the-world/issues/4
+* [1554399440][mawil583]: Could not attend Study Group https://github.com/learn-co-curriculum/introduction-to-the-dom/issues/32
+* [1548310252][chai-ito]: Opening Developer Tools instruction no longer correct in Intro to DOM https://github.com/learn-co-curriculum/introduction-to-the-dom/issues/31
+* [1557946487][catherine-o]: Marylebone https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/31
+* [1543955125][jrodden1]: Typo - "We" and Missing Content https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/29
+* [1538188629][DrXyclo]: Selecting Single Elements Readme https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/28
+* [1536519387][dverdin83]: missing semicolo in example? Or quirk of my chrome version? https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/27
+* [1524593610][d14a248]: maryleboneAnchor.constructor https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/26
+* [1523104299][bethanyfuller]: Ada Lovelace Page https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/25
+* [1518221392][DakotaLMartinez]: Stylesheet link broken, page doesn't look as described in readme https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/24
+* [1516945384][Riz3nPho3nix]: Console issue? https://github.com/learn-co-curriculum/selecting-single-elements-readme/issues/23
+* [1571874638][tnhubbar]: Looking for some guidance https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/54
+* [1569011912][ivalentine]: Typo: innerHMTL https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/53
+* [1561503576][jrwillis86]: Lost is an understatement... https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/51
+* [1561334701][adamcbassett]: Having trouble understanding the question https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/50
+* [1553856871][alexodiah]: This website is under heavy load (queue full) We're sorry, too many people are accessing this website at the same time. We're working on this problem. Please try again later. https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/49
+* [1548313964][moseskalungi]: how do you find the text attribute selector? https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/48
+* [1540392851][latvrdy]: Can't get results to return https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/47
+* [1537413546][wfragoso02]: Lab problem https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/46
+* [1535101076][Shadow073180]: lab 1 https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/45
+* [1533743535][sivanadler]: querySelector for href attribute https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/44
+* [1531166274][SuprPurpl]: Error Messages https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/43
+* [1530045711][Aaul17]: Trouble selecting the href attribute https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/42
+* [1528673351][myzenea]: Fork issue https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/41
+* [1528320019][amievdj]: Lost https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/40
+* [1528143924][swarbrick85]: numbered directions https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/39
+* [1528048550][kwebster2]: This lesson should not have a lab format https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/38
+* [1527974526][nickgrafanz]: Finished First Lab...How to submit?? https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/37
+* [1527910854][PChengEducation]: Keep showing null https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/36
+* [1526400512][FreeBreadsticks]: Image included to show students how to use the Console https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/35
+* [1522372063][Danman143]: Question about linkText https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/34
+* [1519526164][DeedaG]: I do not understand how to use document.querySelector and text to set up the second question.  Please give a hint. https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/32
+* [1518406015][smcurrey528]: It is very hard to figure out how to submit and complete this page https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/31
+* [1517264342][sgharms]: Known Issues https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/28
+* [1576643212][CoderSami85]: Strings and Numbers lesson not working properly https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/15
+* [1562376276][quintontodd]: Following the Instructions( Need Help) https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/12
+* [1556376818][zachgordon25]: CodePen Preview https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/11
+* [1553023133][jazzmerk]: GitHub pop up interferes with moving around screen https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/10
+* [1536763477][FreeBreadsticks]: CodePen unnecessarily confusing students https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/9
+* [1518790862][marcusp619]: Why teach InnerHTML? https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/8
+* [1501838383][omikolaj]: heightSelector defaults to original variable type https://github.com/learn-co-curriculum/js-strings-and-numbers-readme/issues/5
+* [1554476044][ozkr8a]: codepen.io refused to connect https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/12
+* [1531933419][vedika6]: Quotes in commands https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/10
+* [1528426091][swarbrick85]: file not present https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/9
+* [1528401300][swarbrick85]: practicing conditional statements lab https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/8
+* [1521402400][christianavdm]: Extra Credit: Adding an additional employer Instructions Clarification https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/5
+* [1515819156][worldwidetoursllc]: strings and numbers https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/4
+* [1509481863][olegchursin]: Typos in README.md https://github.com/learn-co-curriculum/js-strings-and-numbers-lab/issues/3
+* [1575776611][thedannysoto]: "Cannot clone this lesson right now" https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/71
+* [1571687163][camilabeatriz13]: Cannot find Lesson https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/68
+* [1566982340][vjosey]: IDE Error https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/64
+* [1566830948][zarialevi]: lesson not found https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/63
+* [1553740505][besartaliju]: Learn IDE not offering any option to save  https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/59
+* [1544864783][AlexandreSilvaZ]: Unable to move onto next lesson https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/57
+* [1542309307][maxwellbenton]: Known Issue https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/55
+* [1577500627][bumpouce]: Repeated text / typo https://github.com/learn-co-curriculum/first-ide-lab-ghe-compat/issues/8
+* [1541590285][MrGametop1]: Learn IDE not working properly with the package. https://github.com/learn-co-curriculum/first-ide-lab-ghe-compat/issues/1
+* [1541700109][renaefae]: sandbox does not work correctly  https://github.com/learn-co-curriculum/js-if-else-files-readme/issues/4
+* [1515909208][TheBrockstar]: Missing Period from Lesson Example Output https://github.com/learn-co-curriculum/js-if-else-files-readme/issues/3
+* [1497904236][Stagedlink]: Getting a different error than that in the lesson. https://github.com/learn-co-curriculum/js-if-else-files-readme/issues/2
+* [1579118887][jblair87]: Definition of Height in Tests.js causing Error https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/52
+* [1578802007][junioraz]: conditionals https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/51
+* [1566597128][Cav3manComputers]: Load Issue https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/50
+* [1564935924][SquidBishop]: The lesson isn't forking correctly https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/48
+* [1563924213][wdrougas]: Practicing Conditional Statements index.js https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/47
+* [1562794923][jonathanharris101]: Practicing Conditional Statement Not Submitting/ Missing button https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/46
+* [1555089798][kangm9]: What do I need to do to make the "Fork this lab" tab go green? https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/45
+* [1553612972][rajakesava]: Mr https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/44
+* [1549056163][sheriefCloud]: IDE Opened with no files https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/43
+* [1545850269][James-Mellow]: if else files lab https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/42
+* [1545234159][omo2nde]: OPEN IDE FILES https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/41
+* [1536284777][LimestoneRiley]: I think there is an error in the instructions, Or is this intentional? https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/40
+* [1535902151][m-gamao]: what does it mean when it says "Redefinition of 'name'"  ... after i changed the name to Susan... is that ok? https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/39
+* [1529957432][imanj12]: no tests.js https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/37
+* [1529939248][TylerNodell]: Lesson should open a IDE but it does not https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/36
+* [1529665445][algakovic]: Had to manually grab files from github https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/35
+* [1529612380][tristangerardbrown]: Open IDE https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/34
+* [1529609925][pmknyc]: Sandbox not IDE appears on button in this lab/lesson https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/33
+* [1529070962][BadAssDeadpool276]: There is no IDE in this lesson available to open https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/32
+* [1529030240][chanfe]: Welp this lab does not work in in web sandbox. https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/31
+* [1529007793][Mmcray]: No IDE https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/30
+* [1529007392][hansenjl]: Misleading directions since this lab doesn't have an open IDE option https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/29
+* [1529006520][emauldin84]: Not seeing IDE...Missing Files https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/28
+* [1528811140][orlandowatson1]: Not showing "Open IDE"  https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/27
+* [1528413735][brschneider]: No IDE button to open the IDE (instead, "SANDBOX") https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/26
+* [1528407203][marcbielas]: Lesson refers to a non existent lab https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/24
+* [1527950363][justinddaniel]: There is no Open IDE button: change lab directions https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/23
+* [1526696239][aebenw]: height number in tests.js is not in quotations https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/22
+* [1526357673][Rodolfoguzman25]: Name="Susan" https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/21
+* [1510709860][rituccijo86]: Completed Lesson Not Recognized  https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/15
+* [1509916205][natlie3]: Having trouble passing this lab https://github.com/learn-co-curriculum/js-if-else-files-lab/issues/14
+* [1571248034][pahoffart25]: Node practice not working. https://github.com/learn-co-curriculum/js-node-practice-lab/issues/20
+* [1543178179][NahomX]: Node JS practice IDE problem  https://github.com/learn-co-curriculum/js-node-practice-lab/issues/19
+* [1542150085][tedsazon]: Open IDE Button not there https://github.com/learn-co-curriculum/js-node-practice-lab/issues/18
+* [1541919420][alexkapone]: Open IDE button not available https://github.com/learn-co-curriculum/js-node-practice-lab/issues/17
+* [1541620489][MassiveXeffectN9]: ANOTHER LESSON PLAN  https://github.com/learn-co-curriculum/js-node-practice-lab/issues/16
+* [1539360526][FreeBreadsticks]: Lab References OPEN IDE but there is No IDE Button https://github.com/learn-co-curriculum/js-node-practice-lab/issues/15
+* [1539155176][pwilfong01]: Missing IDE button https://github.com/learn-co-curriculum/js-node-practice-lab/issues/14
+* [1534589066][brindab50]: IDE problem  https://github.com/learn-co-curriculum/js-node-practice-lab/issues/13
+* [1525283274][ThelastEconPoet]: help https://github.com/learn-co-curriculum/js-node-practice-lab/issues/12
+* [1525275546][ThelastEconPoet]: it says to follow along in the console.  What console? https://github.com/learn-co-curriculum/js-node-practice-lab/issues/11
+* [1568040925][martyjones06]: Suggestion, INCLUDE HOW TO VIDEOS! Screen Shares! https://github.com/learn-co-curriculum/js-what-is-a-test/issues/27
+* [1565724292][andreabarr87]: suggested curriculum edit: nodejs https://github.com/learn-co-curriculum/js-what-is-a-test/issues/25
+* [1561571277][jesusnunezxoco]: Cannot Find Repo https://github.com/learn-co-curriculum/js-what-is-a-test/issues/24
+* [1546633791][dana0522]: Problem with directory  https://github.com/learn-co-curriculum/js-what-is-a-test/issues/22
+* [1543920522][onoriodeunu]: Flatironschoolcorp https://github.com/learn-co-curriculum/js-what-is-a-test/issues/21
+* [1534903729][Chovin]: Cannot find module 'jsdom/lib/old-api' https://github.com/learn-co-curriculum/js-what-is-a-test/issues/20
+* [1519339956][wontgobeli]: Suggested Grammar Revision https://github.com/learn-co-curriculum/js-what-is-a-test/issues/18
+* [1510769476][markbello]: Error: 'Your code looks the same as the lesson's. Please make changes and then try submitting again.' https://github.com/learn-co-curriculum/js-what-is-a-test/issues/16
+* [1506983071][PeterCiavarella]: Issue with console.log(message) https://github.com/learn-co-curriculum/js-what-is-a-test/issues/15
+* [1505151491][sleepypioneer]: Java Script >fucntions & scope > What Is A Test https://github.com/learn-co-curriculum/js-what-is-a-test/issues/14
+* [1504631601][deathheart14]: A change to the files are needed befor submitting https://github.com/learn-co-curriculum/js-what-is-a-test/issues/13
+* [1498767524][courtneymorgan]: This section should be set up as a lesson, not a lab https://github.com/learn-co-curriculum/js-what-is-a-test/issues/11
+* [1497718283][stevenchu]: No open button for this lesson https://github.com/learn-co-curriculum/js-what-is-a-test/issues/10
+* [1497198780][dcraig11221]: Issue with "What is a Test" https://github.com/learn-co-curriculum/js-what-is-a-test/issues/9
+* [1496013482][Aftershock06]: Manual Download to get files into Learn-IDE  https://github.com/learn-co-curriculum/js-what-is-a-test/issues/6
+* [1494271247][Tokuhisa1]: Missing File https://github.com/learn-co-curriculum/js-what-is-a-test/issues/4
+* [1544293907][nicholasstano]: Anyway to reset the tests in OPEN IDE https://github.com/learn-co-curriculum/js-what-is-a-test-lab/issues/14
+* [1519594903][nicholasstano]: Unsure how to Submit on the What is a test lab https://github.com/learn-co-curriculum/js-what-is-a-test-lab/issues/10
+* [1518218981][ConradWill]: application not doing anything when typing in Learn https://github.com/learn-co-curriculum/js-what-is-a-test-lab/issues/9
+* [1504889387][ball00ns]: argument problems in test lab https://github.com/learn-co-curriculum/js-what-is-a-test-lab/issues/8
+* [1539051560][finerflower]: Sandbox https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/22
+* [1525974255][jmulloy]: Directions for following along are vague and unclear https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/21
+* [1525974121][d-d-d-dalia]: Directions a bit unclear https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/20
+* [1515994577][AidenFoxPearce]: Javascript Variable assignment and declaration https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/19
+* [1509726423][olegchursin]: Missing semicolon https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/18
+* [1504545926][Ptrebat]: Intro to functions lab  https://github.com/learn-co-curriculum/javascript-intro-to-variable-assignment-and-declaration/issues/16
+* [1567263519][devfromthebronx]: function not working https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/42
+* [1543266867][vyklimavicius]: This lesson needs a review https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/41
+* [1538587148][ShawandaMD]: Writing functions but where? https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/40
+* [1534789703][annieeby]: Typo https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/39
+* [1532529669][cmahoney10]: Confusing lesson phrasing https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/38
+* [1532528465][SimonAble]: Rephrasing needed https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/37
+* [1532224773][dshen0529]: when i entered the x+y code into the console, nothing happened? https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/36
+* [1524696145][Ohmniscient]: Test Spy Function.. https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/35
+* [1515882844][G----MO52]: given code Learn.co Js Prep course wont run? code:  https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/34
+* [1515625925][stimsong]: Need clarification of difference between ' and ` https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/33
+* [1514579313][ghost]: functions https://github.com/learn-co-curriculum/skills-based-js-intro-to-functions/issues/32
+* [1571631837][joshycsm]: Does someone have working code for this lab D: I am new to coding so this is my first github issue submission... D; https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/103
+* [1565452882][clayinu]: Can't seem to return is string is lower case or upper case https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/101
+* [1562716270][konomissira]: JavaScript Intro to Functions Lab https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/100
+* [1561849342][SamLaSota]: Solution Provided does not work as stated https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/99
+* [1558394580][buildafriend]: can not open ask a question https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/96
+* [1551536520][alouiseme]: Function Description https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/93
+* [1550183922][arl480]: Trouble with Intro to Functions Lab https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/92
+* [1549915758][joshuamsmith413]: grammar issue https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/91
+* [1547698210][tealoui3]: Results not outputting properly on IDE  https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/90
+* [1539001813][Gradius93]: sayHiToGrandma https://github.com/learn-co-curriculum/javascript-intro-to-functions-lab/issues/88
+* [1577652731][Cashman1396]: Updating Package https://github.com/learn-co-curriculum/js-functions-lab/pull/47
+* [1567276319][devfromthebronx]: question 3 answer stating happyHolidaysTo is define https://github.com/learn-co-curriculum/js-functions-lab/issues/46
+* [1566326568][javonesm89]: JS Functions Lab https://github.com/learn-co-curriculum/js-functions-lab/issues/45
+* [1559408379][dmoniques]: Functions Lab https://github.com/learn-co-curriculum/js-functions-lab/issues/43
+* [1540210494][Stephinxs]: Js-functions (holidayCountdown) I need some help https://github.com/learn-co-curriculum/js-functions-lab/issues/41
+* [1531260088][braj011]: js-functions-lab https://github.com/learn-co-curriculum/js-functions-lab/issues/39
+* [1523411577][brandong1]: Issue w/Functions Lab https://github.com/learn-co-curriculum/js-functions-lab/issues/36
+* [1520831857][rajanpatel1011]: what do I write in function and return  https://github.com/learn-co-curriculum/js-functions-lab/issues/35
+* [1518296236][ghost]: Question 4 Parameter word order. https://github.com/learn-co-curriculum/js-functions-lab/issues/34
+* [1511754380][tommy78savage]: unable to respond to my question in chat windows for question. https://github.com/learn-co-curriculum/js-functions-lab/issues/31
+* [1510127087][PlatypusBiscuit]: Backtick Information Missing https://github.com/learn-co-curriculum/js-functions-lab/issues/30
+* [1508544469][david-dest01]: Task 4 Test - Potential Confusion For Students https://github.com/learn-co-curriculum/js-functions-lab/issues/29
+* [1507855093][nxtezzz]: How to make functions https://github.com/learn-co-curriculum/js-functions-lab/issues/28
+* [1506829346][VictorLuo920]: Why is my code failing the local tests?  https://github.com/learn-co-curriculum/js-functions-lab/issues/27
+* [1505347409][jonexume]: Issue with this project https://github.com/learn-co-curriculum/js-functions-lab/issues/26
+* [1571640779][joshycsm]: You Don't Know JS - Function vs. Block Scope link dead D; https://github.com/learn-co-curriculum/skills-based-js-intro-to-variables/issues/19
+* [1553183378][jajosheni]: keeping stuff updated https://github.com/learn-co-curriculum/skills-based-js-intro-to-variables/issues/18
+* [1529879225][KhayaDillon]: Local Variable is Global https://github.com/learn-co-curriculum/skills-based-js-intro-to-variables/issues/16
+* [1575065647][HuDaMan0621]: Link no longer works https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/39
+* [1573536550][austinoso]: Clicking "here" doesn't direct to the proper site https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/37
+* [1571641391][joshycsm]: "here" link seems malicious D; https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/36
+* [1571616114][Swishyfishie]: Pre increment and post increment info link does not work https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/35
+* [1569420927][mprizzuto]: security issue https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/34
+* [1564585245][Rpascar1]: hyperlink no longer valid for incremenetor / decrementor jsforallof.us https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/31
+* [1564202301][gillianedulsa]: Confused https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/30
+* [1562536781][edenbenbow]: JavaScript Arithmetic Lab - missing test questions https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/29
+* [1555691812][kishore28m]: JavaScript Arithmetic Lab - misleading statement https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/28
+* [1544380715][lerenah]: IDE Keeps Dropping https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/27
+* [1533869412][shoaryon]: The IDE Lesson Broke https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/26
+* [1520568367][andrefedd18]: Fork https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/24
+* [1512330169][sanober15]: problem with MakeInt function https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/22
+* [1505460659][rhogotargaryen]: Fix the Scope Lab https://github.com/learn-co-curriculum/javascript-arithmetic-lab/issues/21
+* [1515183611][ghost]: question 3 https://github.com/learn-co-curriculum/functions-and-variables-quiz/issues/10
+* [1505689167][gasganno]: Question #3 https://github.com/learn-co-curriculum/functions-and-variables-quiz/issues/9
+* [1504985339][humblescuba]: Incorrect quiz answer? https://github.com/learn-co-curriculum/functions-and-variables-quiz/issues/8
+* [1522727432][mrahman1]: where is 'lexical scope' & 'block-level' explained? https://github.com/learn-co-curriculum/skills-based-js-scope/issues/24
+* [1509503319][rahman20867]: Learning Module https://github.com/learn-co-curriculum/skills-based-js-scope/issues/22
+* [1505751712][gasganno]: The Key to Scope->Let's take another example https://github.com/learn-co-curriculum/skills-based-js-scope/issues/21
+* [1577548222][Cashman1396]: updating package https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/pull/33
+* [1556854248][te68]: Feeback https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/32
+* [1538342157][ciccada]: The "Fix the Scope" Lab is missing https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/30
+* [1528166545][SJeannie]: Beatles Loops lab error message  https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/29
+* [1522955042][amelad21]: I am stuck passing the FUNKY test in this lab https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/28
+* [1515728470][DavidDoes]: Test will not accept other solutions https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/26
+* [1514681991][tundeiness]: Not making headway https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/25
+* [1509473921][anto10801]: learn.co, IDE conflict https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/24
+* [1505777543][gasganno]: Passed Local Tests! . . . but I Haven't https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/23
+* [1491411915][jtxd4792]: Hint is Not Helpful, Double ()() Needs Clarification In This Section or Previous Section. https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/19
+* [1475861801][thomashines]: Hint about () https://github.com/learn-co-curriculum/javascript-fix-the-scope-lab/issues/12
+* [1560852841][misshwr]: the 'Submit Pull Request' button dos not active https://github.com/learn-co-curriculum/javascript-arrays/issues/67
+* [1555694718][daniemart5]: IDE Issues https://github.com/learn-co-curriculum/javascript-arrays/issues/66
+* [1544389215][lerenah]: Happened again...totally erased my saved work https://github.com/learn-co-curriculum/javascript-arrays/issues/65
+* [1538577782][tuzmusic]: Suggestion: Slice with negative index as 2nd argument https://github.com/learn-co-curriculum/javascript-arrays/issues/64
+* [1558545518][jmoglesby]: `$ learn submit` not syncing https://github.com/learn-co-curriculum/javascript-arrays-lab/issues/25
+* [1555119993][seddonnguyen]: Testing errors https://github.com/learn-co-curriculum/javascript-arrays-lab/issues/24
+* [1556585817][BaronLip]: Cannot "Submit Pull Request" after completing tests https://github.com/learn-co-curriculum/javascript-objects/issues/44
+* [1540323806][hamstercat007]: There is no spec in this exercise - therefore tests do not pass https://github.com/learn-co-curriculum/javascript-objects/issues/42
+* [1534094532][ctrlaltpat]: I think there is a module missing... not entirely sure  https://github.com/learn-co-curriculum/javascript-objects/issues/40
+* [1525919109][Sdcrouse]: Tests for updatePlaylist and removeFromPlaylist functions https://github.com/learn-co-curriculum/javascript-objects/issues/34
+* [1525736818][hamstercat007]: This directory doesn't appear to have any specs in it https://github.com/learn-co-curriculum/javascript-objects/issues/33
+* [1516483125][hankinyb]: Test for removeFromPlaylist function https://github.com/learn-co-curriculum/javascript-objects/issues/32
+* [1515981137][brillianteden]: Lack of Consistency https://github.com/learn-co-curriculum/javascript-objects/issues/31
+* [1511640398][mikkel250]: syntax required to pass this lab is not explained in the tutorial https://github.com/learn-co-curriculum/javascript-objects/issues/30
+* [1502227768][pawelmisiak]: the delete  https://github.com/learn-co-curriculum/javascript-objects/issues/29
+* [1497278365][gj]: Should probably make a separate lab for object iteration https://github.com/learn-co-curriculum/javascript-objects/issues/26
+* [1487721720][MeghanDunn]: Why include "(a string)" in "an artist name (a string),"? https://github.com/learn-co-curriculum/javascript-objects/issues/21
+* [1487718681][MeghanDunn]: writing Object keys in lower camel case https://github.com/learn-co-curriculum/javascript-objects/issues/20
+* [1556599635][BaronLip]: Submit Pull Request not available after completing tests https://github.com/learn-co-curriculum/javascript-objects-lab/issues/25
+* [1526235905][luwo1701]: number nine might have the wrong answer https://github.com/learn-co-curriculum/javascript-objects-and-arrays-quiz/issues/21
+* [1524848156][corypavitt1]: Is this quiz question wrong? https://github.com/learn-co-curriculum/javascript-objects-and-arrays-quiz/issues/20
+* [1518894363][david-dest01]: Question Answer https://github.com/learn-co-curriculum/javascript-objects-and-arrays-quiz/issues/18
+* [1577547645][Cashman1396]: Solution https://github.com/learn-co-curriculum/javascript-intro-to-looping/pull/69
+* [1574724867][musta7188]: do while loop  https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/68
+* [1566157070][taneymail]: learn test results in gobbledygook error https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/67
+* [1560374895][aneme1038]: My first test has error with test-loops.js despite working function https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/66
+* [1559127757][LightbulbMG]: IDE Console Issue https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/65
+* [1556692151][BaronLip]: Missing "s" from gift https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/64
+* [1553754673][Joshua-R-Carr]: the third test includes false instructions https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/63
+* [1550450335][tommaclean]: "Learn test" faulty https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/62
+* [1549581708][justinddaniel]: doWhileLoop instructions need revision https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/61
+* [1537656312][kwebster2]: Updated directions need revision  https://github.com/learn-co-curriculum/javascript-intro-to-looping/issues/55
+* [1533660352][drakeltheryuujin]: Wip solution update with forof https://github.com/learn-co-curriculum/javascript-intro-to-looping/pull/52
+* [1533649515][drakeltheryuujin]: Rewrites first half of lesson, PR changes merged https://github.com/learn-co-curriculum/javascript-intro-to-looping/pull/50
+* [1578975502][zabrivera]: Github not receiving updates from completed/submitted prep work https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/40
+* [1576100281][varsil123]: unable to fork the lesson https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/39
+* [1562197184][alinamalvin]: Fatal Error Message https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/38
+* [1556869896][Meganimation]: Confused with the 'Foo' 'Bar' on Beatles lab https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/37
+* [1554772723][ariccio]: Friggin' warnings https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/35
+* [1554772398][ariccio]: Ruby crash https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/34
+* [1550054840][bjones782]: Fatal error - the tests aren't working, can't continue https://github.com/learn-co-curriculum/js-beatles-loops-lab/issues/33
+* [1578777526][KirillSaprykin]: Deli Counter https://github.com/learn-co-curriculum/js-deli-counter/issues/59
+* [1554773680][ariccio]: Missing/incorrect instruction for nowServing https://github.com/learn-co-curriculum/js-deli-counter/issues/55
+* [1547477114][opoon00]: Not a serious issue, just a spelling error https://github.com/learn-co-curriculum/js-deli-counter/issues/54
+* [1545162774][jyang81]: Can't connect to Learn.co in IDE.  https://github.com/learn-co-curriculum/js-deli-counter/issues/52
+* [1544550014][LuigiLegion]: Errors in Hint section of Deli Counter Lab Instructions https://github.com/learn-co-curriculum/js-deli-counter/issues/51
+* [1533966819][nvstiers]: JavaScript Array join() Method not taught prior to lab https://github.com/learn-co-curriculum/js-deli-counter/issues/50
+* [1571974328][Swishyfishie]: Local tests come through as "Passed" when getting a "SyntaxError: Unexpected Token". https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/86
+* [1562621036][nwdunlap17]: Test script not working on "Javascripts Objects" page https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/84
+* [1553353352][cherns]: Online Shopping Lab - removeFromCart function  https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/83
+* [1552867858][Trev-Robertson]: cannot submit online shopping https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/82
+* [1542843140][Kristinbarr]: instructions update: placeOrder function - if no items in cart https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/81
+* [1538595207][tuzmusic]: Misleading/confusion expectation https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/80
+* [1535567065][mikkel250]: The tests do not match the format given in the instructions https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/79
+* [1534470390][justinddaniel]: Consider editing tests for AddToCart() https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/78
+* [1521466560][NickisKnowledge]: Extra comma in README for viewCart() example of 2 item return message https://github.com/learn-co-curriculum/js-basics-online-shopping-lab/issues/70
+* [1551302960][itwebdeveloper]: Ruby error when executing "learn test" command https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/27
+* [1549657513][AmariEllington]: Unable to complete. https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/26
+* [1549576873][playto]:  Lesson Needs to be Set as a Readme https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/25
+* [1548213110][Saturn226]: Lesson Needs to be Set as a Readme https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/24
+* [1546488846][Kngo93]: What am I supposed to do? https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/23
+* [1545254827][d-d-d-dalia]: This shouldn't be set up as a lab https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/22
+* [1519656507][telegraham]: element.remove() isn't well-supported https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/20
+* [1549396420][RylanBauermeister]: js should be wrapped in an onload function https://github.com/learn-co-curriculum/listening-to-dom-nodes/issues/28
+* [1549396321][RylanBauermeister]: index.html file does not link to index.js https://github.com/learn-co-curriculum/listening-to-dom-nodes/issues/27
+* [1538769221][drakeltheryuujin]: KNOWN ISSUES https://github.com/learn-co-curriculum/listening-to-dom-nodes/issues/24
+* [1574174950][clarkj99]: I couldn't get the test to pass; alert wouldn't fire. https://github.com/learn-co-curriculum/konami-code-lab/issues/34
+* [1539609241][justinddaniel]: Github icon missing on page https://github.com/learn-co-curriculum/js-jquery-modify-html-readme/issues/10
+* [1506989779][gasganno]: Paste before </body> or </head>? https://github.com/learn-co-curriculum/js-jquery-modify-html-readme/issues/9
+* [1529597740][vksri16]: Link to "Ask a Question" and "Questions Need Help" not working https://github.com/learn-co-curriculum/js-jquery-modify-html-lab/issues/5
+* [1566175144][Anthonyntilelli]: `async` and` defer` are not mentioned in this section. https://github.com/learn-co-curriculum/js-jquery-document-ready-readme/issues/22
+* [1495910365][itzsaga]: Lab Partially Done On Fork https://github.com/learn-co-curriculum/jquery-selectors-readme/issues/10
+* [1564702030][altafmquadri]: jQuery Event Listeners Lab https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/27
+* [1539134488][NathanB09]: pressIt() tests only work if you use ASCII values  https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/26
+* [1530205844][junglerhino37]: addClass https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/25
+* [1524499827][developerjigr]: Relies on use of deprecatted variable e.which https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/24
+* [1509752754][itzsaga]: Document ready unneeded https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/23
+* [1504895398][ryanSherry]: Was only able to pass tests when all functions were made global (var removed) https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/22
+* [1503536693][wassi12495]: "frameIt()" instructions https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/20
+* [1489116824][RaneWallin]: Adding red border to image https://github.com/learn-co-curriculum/js-jquery-event-listeners-readme/issues/18
+* [1564785567][altafmquadri]: Can't move my dodger to the right https://github.com/learn-co-curriculum/moving-things-with-javascript/issues/23
+* [1527873568][jmoypace]: KNOWN ISSUES: Something not right for the right side https://github.com/learn-co-curriculum/moving-things-with-javascript/issues/15
+* [1497449145][pablitod123]: KNOWN ISSUES: Dodger.style.right always returns "" https://github.com/learn-co-curriculum/moving-things-with-javascript/issues/13
+* [1493388663][joelhoelting]: KNOWN ISSUES: Lab in Wrong Place https://github.com/learn-co-curriculum/moving-things-with-javascript/issues/11
+* [1561736636][AudTheCodeWitch]: Game works in browser, tests won't pass. Spy not called. https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/33
+* [1547957305][joanrig]: IDE test passes || game works in browser https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/31
+* [1546907607][AspenJames]: e.which deprecated https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/30
+* [1533659116][nsfphd]: Warning when opened locally https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/29
+* [1529530259][GoldenLion07]: Issue with the test file on this lab https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/28
+* [1528742588][wchabs]: Move Dodger function test script for right arrow: stopPropagation missing () https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/27
+* [1527790881][Sillhouette]: Ghost Rocks after endGame https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/26
+* [1527732562][Sdcrouse]: There is a bug in the tests for the endGame function. https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/25
+* [1523074584][ecssiah]: GAME.removeChild(rock) VS rock.remove() https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/24
+* [1518393703][arye-dov-eidelman]: 'checkCollision's comments and tests overcomplicate its function https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/23
+* [1516247573][vnsn]: `learn test` doesn't accurately test checkCollision(rock) for the case of the rock centered over the dodger. https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/21
+* [1507321920][kwebster2]: Directions should be more explicit that jQuery will not be used https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/20
+* [1503693389][bhollan]: For next testing evaluation https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/19
+* [1477698151][mimosa767]: rock dodger - the last lab https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/11
+* [1476841154][bhollan]: Tests pass, but no dodgers visible https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/10
+* [1475568266][alexboring]: Tests for rock-dodger stop not working properly. https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/9
+* [1474653880][NStephenson]: In the solution, first ten tests will run and then test suite gets stuck https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/7
+* [1474652648][BrunoBoehm]: Mocha blocks at test n°11 https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/6
+* [1474268380][WilliamBarela]: Rock Dodger contains test bug https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/5
+* [1473181080][aturkewi]: Test to remove keydown does not work with Node v 6.5.0 https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/3
+* [1469632500][drewprice]: "You lose!" alert is duplicated https://github.com/learn-co-curriculum/javascript-rock-dodger/issues/1
+* [1527171233][ValerieHMoore]: Why isn't the Ruby section first? That's where you teach the basics. https://github.com/learn-co-curriculum/ruby-fundamentals-overview/issues/2
+* [1578838547][edgeyptian0077]: Fixing Errors Lab in Ruby https://github.com/learn-co-curriculum/ttt-1-welcome-rb/issues/28
+* [1570550438][bettyeyob17]: Anyone can help with how to do the lab? I am confused!! https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/85
+* [1564023954][criscros-garcia]: IDE is not Opening in ubuntu https://github.com/learn-co-curriculum/ttt-2-board-rb/issues/30
+* [1569199837][antimonysayz]: Intro to Methods (Ruby Module) Showing as incomplete https://github.com/learn-co-curriculum/ruby-methods-readme/issues/31
+* [1566921629][Tigaron27]: completed mark won't show https://github.com/learn-co-curriculum/ruby-methods-readme/issues/29
+* [1566159427][Andrew-J-Williams]: Lesson Marked Incomplete After Completing https://github.com/learn-co-curriculum/ruby-methods-readme/issues/28
+* [1572980993][Shinelior]:  def display_board        puts ["   |   |   ","_________","   |   |   "]    puts ["   |   |   ","---------","   |   |   "]                    end   display_board https://github.com/learn-co-curriculum/ttt-3-display_board-example/issues/29
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1577114406][Revilo12]: Doesn't mark as opened https://github.com/learn-co-curriculum/greeting-cli/issues/30
+* [1568683238][alexstolznut]: An issue with your test https://github.com/learn-co-curriculum/ttt-10-current-player/issues/24
+* [1570376032][paulnicholsen27]: Code coverage? https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/78
+* [1566682283][dana0522]: "Sorry, something went wrong. Please try again" error  https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/77
+* [1567805081][jhharwood88]: Hit an issue with pry, running inside pry gem https://github.com/learn-co-curriculum/oo-tic-tac-toe/issues/45
+* [1444112745][matbalez]: Opportunity to do more? https://github.com/learn-co-curriculum/oo-tic-tac-toe/issues/5
