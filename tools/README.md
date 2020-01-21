@@ -126,6 +126,15 @@ add_alias cat bat
 add_alias git hub
 ```
 
+Since the folders in `issues_output` are named for each day, it's handy to have
+
+```sh
+add_alias today date "+%Y-%m-%d"
+add_alias yesterday date -v -1d "+%Y-%m-%d"
+```
+
+Then, from the root of this repo, you can use `cd issues_output/\`today\`` to navigate to today's issues.
+
 ### 5. Clone all tracks in `lesson_lists` to local
 
 Potentially skip this step, unless you want to have all the tracks downloaded locally.
