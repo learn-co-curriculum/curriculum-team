@@ -1,0 +1,26 @@
+* [1579290477][jjhiggz]: The sandbox environment will not load for me https://github.com/learn-co-curriculum/cli-essentials-bash-programming/issues/6
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1579013828][Socjon]: Contradiction in terms https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/issues/3
+* [1576016566][rrcobb]: Not clear how to run code in the sandbox https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/5
+* [1575678834][Cwill220]: Learn.co does not have questions highlighted.  I cannot ask questions. https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/4
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1576879546][Tenacious-Q]: Method typo https://github.com/learn-co-curriculum/programming-univbasics-3-build-a-calculator-lab/issues/3
+* [1576081511][dwinniford]: IDE error https://github.com/learn-co-curriculum/programming-univbasics-4-square-array/issues/5
+* [1576115891][dwinniford]: IDE learn command error https://github.com/learn-co-curriculum/programming-univbasics-4-intro-to-hashes-lab/issues/5
+* [1578450270][Jgarnes]: Understanding a provided NDS lab  https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-understand-lab/issues/6
+* [1578936256][elzbyfar]: Duplicate Question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/12
+* [1578757462][DHarrisonG]: Test is super wonky  https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/11
+* [1577221974][aaronburmeister]: Questions not rendering completely https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/10
+* [1576273270][d-otis]: Duplicate Quiz Questions https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/9
+* [1575646844][fishcereal]: Questions Title/Answer Issue https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/8
+* [1575573291][theoluyi]: Same question different answers https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/7
+* [1575265330][asengelhart]: Nested Data Structure Transformation Quiz - questions 7-9 need improvement https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/6
+* [1575053510][Santosian]: There is two timees the same question https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/5
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1576174297][rrcobb]: tests check nth order method before first order method https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab/issues/2
+* [1576174399][rrcobb]: Example for consolidate_cart method return value is not correct https://github.com/learn-co-curriculum/programming-univbasics-nds-green-grocer/issues/5
+* [1575931807][ivalentine]: Test is unable to detect my_list.html file + test using deprecated method https://github.com/learn-co-curriculum/html-basics-experiencing-html-lab/issues/2
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
+* [1579109930][laarchambault]: Typo https://github.com/learn-co-curriculum/git-version-control-git-basics/issues/8

@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/simple-partials-reading"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/simple-partials-reading"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/simple-partials-reading"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "EvansJWang",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-decision-trees"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_readme"
+  },
+  {
+    "name": "aisayo",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "bal360",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-collaboration-readme"
+  },
+  {
+    "name": "belsonrj",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "camrhosyn",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "camrhosyn",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "cernanb",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "cernanb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "cernanb",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "cernanb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "dannylee8",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-following-up"
+  },
+  {
+    "name": "dannylee8",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-following-up"
+  },
+  {
+    "name": "ddeleon267",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fundamentals-overview"
+  },
+  {
+    "name": "ddeleon267",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fundamentals-overview"
+  },
+  {
+    "name": "ddeleon267",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fundamentals-overview"
+  },
+  {
+    "name": "eddyluv",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "emilia-m26",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-dom-editing-lab"
+  },
+  {
+    "name": "emilia-m26",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab"
+  },
+  {
+    "name": "emilia-m26",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-logging-lab"
+  },
+  {
+    "name": "ferasalsaabrecoded",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "kglenn10",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python-practice-with-datatypes"
+  },
+  {
+    "name": "knbrlo",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/excel-to-python"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-collections"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-looping-and-iteration-looping-code-along"
+  },
+  {
+    "name": "mav-code",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-final-quiz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "mrarthurwhite",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-topic-introduction"
+  },
+  {
+    "name": "racheladaw",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/merge-sort-codealong"
+  },
+  {
+    "name": "rinaiosad",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-5-move-rb"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-collections"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-collections"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-collaboration-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-collaboration-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-collaboration-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "rrcobb",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/styling-with-css-intro"
+  },
+  {
+    "name": "saramccombs",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "saramccombs",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "saranderson13",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-cnn-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-convolutional-neural-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-convolutional-neural-networks-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-deeper-neural-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-deeper-neural-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-deeper-neural-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-graph-theory-shortest-path"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-graph-theory-shortest-path-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-intro-graph-theory"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-clustering"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-clustering-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-community-detection-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-introduction"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-recomendation-systems-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-network-recommendation-systems"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-networkX-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-networkX-intro-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-networks-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-node-centrality"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-node-centrality-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-neural-networks-from-start-to-finish-lab-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization-lab-v2-1"
+  },
+  {
+    "name": "thecodepixi",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fewp-example"
+  },
+  {
+    "name": "twwright",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-queries-basic-readme"
+  },
+  {
+    "name": "twwright",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-queries-basic-readme"
+  }
+]
