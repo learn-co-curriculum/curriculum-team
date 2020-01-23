@@ -1,0 +1,712 @@
+[
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/simple-partials-reading"
+  },
+  {
+    "name": "Socjon",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/simple-linear-regression-mpg"
+  },
+  {
+    "name": "aminamos",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-events-crash-course-lab"
+  },
+  {
+    "name": "andrecunningham",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "cbramsey",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-derivatives-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-api-frontend"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-api-frontend"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-students-api"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-students-api"
+  },
+  {
+    "name": "dicchyant84",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/conditionals-python-readme"
+  },
+  {
+    "name": "dwyn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/emoticon-translator"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pipelines-intro"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pipelines-lab-v2-1"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pipelines-v2-1"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/learn-tool"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/truthiness-code-challenge"
+  },
+  {
+    "name": "mike-kane",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-4-48-03-introduction-to-variational-auto-encoders"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-bidirectional-sequence-models"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-bidirectional-sequence-models-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-building-a-gan-in-keras-codealong"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-classification-with-word-embeddings"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-classification-with-word-embeddings-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-corpus-statistics-labv"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-deep-convolutional-vaes-codealong"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-deep-generative-models"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-feature-engineering-for-text-data"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-generating-word-embeddings-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-intro-to-vaes"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-intro-to-variational-autoencoders"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-introduction-to-generative-adversarial-networks"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-introduction-to-nltk"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-lstms-and-grus"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-lstms-and-grus-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-nlp-and-word-vectorization"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-sequence-model-use-cases"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-text-classification"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-text-classification-lab"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-understanding-recurrent-neural-networks"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-using-word2vec"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-word-embeddings"
+  },
+  {
+    "name": "mike-kane",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-dl-word-vectorization-lab"
+  },
+  {
+    "name": "mrarthurwhite",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-aggregate-functions-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/bonus-setup-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/duplicate-hash"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/enumerator-coding-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/enumerator-coding-challenge-new-repl-syntax"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-guide-to-labs"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-adding-behavior-with-methods"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-adding-behavior-with-methods"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-adding-behavior-with-methods"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-eventing-master"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-javascript-eventing"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-resources-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/immersive-course-logistics-maintaining-a-blog"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/immersive-mod-1-introduction-manual-setup"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/immersive-module-one-mini-mock-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/immersive-week-1-discussion-questions"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/intro-to-ruby-programming-basics-variables"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-github-project"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-dom-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-toy-tale"
+  },
+  {
+    "name": "rrcobb",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-toy-tale"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-toy-tale"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/manual-setup"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-domain-modeling"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-object-orientation-in-ruby"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-ruby-fundamentals-review"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-sql"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-using-self-in-ruby"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-whiteboard-challenge-duplicate-hash"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-whiteboard-challenge-move-zeroes-and-two-sum"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mutability-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/online-structured-introduction-manual-setup"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-enumerator-coding-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-truthiness-code-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-variable-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-html-css-objectives-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-conclusion"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-program-with-expressions"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-working-with-string"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-api-frontend"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-students-api"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-array-exercises"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-array-practice-array-exercises"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-closures-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-prework-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-iteration-practice-enumerators-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-repl-testing"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-types-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variables-and-methods-mutability-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variables-and-methods-variables-review"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-yield-practice-blocks-procs-and-lambdas"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/structured-course-logistics-maintaining-a-blog"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/tcg-intro"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/tcg-what-do-i-know"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/test-old-quiz"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/truthiness-code-challenge"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/truthiness-code-challenge-new-repl-syntax"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/web-immersive-blogging"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/web-week-2-cs-problem"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/week-1-day-3-discussion"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/week-1-day-5-discussion"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/week-1-group-review"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/week-2-day-3-discussion"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/week-2-day-4-discussion"
+  },
+  {
+    "name": "rrcobb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/why-we-blog"
+  },
+  {
+    "name": "saramccombs",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/delete-forms-rails"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-building-a-cnn-from-scratch"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-classification-with-word-embeddings"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-cnn-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-deep-nlp-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-deep-nlp-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-generating-word-embeddings-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-image-classification-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-lstms-and-grus"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sequence-model-use-cases"
+  },
+  {
+    "name": "sumedh10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-transfer-learning-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-transfer-learning-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-transfer-learning-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-transfer-learning-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-understanding-recurrent-neural-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-pretrained-networks"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-word2vec"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-visualizing-activation-functions-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-visualizing-intermediate-activations"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-word-embeddings"
+  }
+]
