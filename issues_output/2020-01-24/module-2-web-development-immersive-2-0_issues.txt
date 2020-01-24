@@ -1,0 +1,35 @@
+* [1579068947][pjavadi84]: gem install sinatra stops half way through installation https://github.com/learn-co-curriculum/sinatra-from-scratch-readme/issues/14
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1576034089][jermain119]:  not passing test  somethings wrong with lesson  https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/24
+* [1573593317][boom100100]: Rails Static Request https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/22
+* [1574276457][DesterStorm]: Incorrect use of db:migrate in Rails URL Helpers readalong https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/30
+* [1573122822][Sdcrouse]: Suggested edits to the README https://github.com/learn-co-curriculum/rails-url-helpers-readme/issues/28
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1578876110][Enemy-Stand]: Be more specific with the page inspector https://github.com/learn-co-curriculum/strong-params-basics/issues/20
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1577502869][Sillhouette]: Tests and solution no longer fit the original intent of the lab https://github.com/learn-co-curriculum/forms-and-basic-associations-rails-lab/issues/23
+* [1577066033][Sdcrouse]: Removes controller action and refactors test specs https://github.com/learn-co-curriculum/simple-partials-lab/pull/19
+* [1577139251][Sdcrouse]: Lesson will not submit, and the code in the README is inaccurate https://github.com/learn-co-curriculum/partial-locals-reading/issues/25
+* [1578355278][thecodepixi]: Index view is tested without utilizing controller https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/26
+* [1578886952][Sdcrouse]: Update note in README about using generators https://github.com/learn-co-curriculum/sessions_controller_lab/pull/19
+* [1578885043][Sdcrouse]: Missing tests for the homepage https://github.com/learn-co-curriculum/sessions_controller_lab/issues/18
+* [1578891362][Sdcrouse]: Edits to README https://github.com/learn-co-curriculum/login_required_readme/pull/7
+* [1579569966][Sdcrouse]: Instruct students to delete session cookie before visiting root route https://github.com/learn-co-curriculum/omniauth_lab/pull/19
+* [1579569252][Sdcrouse]: Mistake in Readme instructions for registering an OAuth app on Github https://github.com/learn-co-curriculum/omniauth_lab/issues/18
+* [1579496187][Sdcrouse]: Please update the Gemfile.lock file, and use the Thin gem instead of Puma https://github.com/learn-co-curriculum/omniauth_lab/issues/17
+* [1579788670][hamcodes]: Lab complete https://github.com/learn-co-curriculum/rails-amusement-park/pull/22
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1577515503][Sdcrouse]: Update README https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/31
+* [1577514931][Sdcrouse]: Out of date information in the "Dynamic Route Segments" section https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/30
+* [1577493347][Sdcrouse]: Instructions for resetting the database don't work. https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/29
+* [1577746138][Sdcrouse]: Fixes error in views/songs/edit.html.erb and corrects a bug in the Song model https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/12
+* [1578447227][azharshahstl]: line 3 of #update in lesson should be updated. https://github.com/learn-co-curriculum/modification-nested-routes-reading/issues/23
+* [1577401141][FigueroaR]: Does not update  https://github.com/learn-co-curriculum/modification-nested-routes-reading/issues/21
+* [1578039815][Sdcrouse]: Instructions and tests unclear about how Preferences are associated with Artists and Songs https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/42
+* [1578038726][Sdcrouse]: `rake preferences:load` command unclear https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/41
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
