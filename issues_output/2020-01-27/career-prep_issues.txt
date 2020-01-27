@@ -1,0 +1,43 @@
+* [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
+* [1547933190][ValerieHMoore]: Stress hyperlink doesn't work https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/2
+* [1536326967][kreopelle]: Web Development Curriculum Reverts to V5 https://github.com/learn-co-curriculum/careers-personal-brand-building/issues/3
+* [1478536980][kaileeagray]: Updated README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/1
+* [1572124695][Nerajno]: The blogging link on the Learn platform doesn't work. https://github.com/learn-co-curriculum/careers-blogging/issues/4
+* [1460502986][Lukeghenco]: Resume link https://github.com/learn-co-curriculum/careers-building-your-resume/issues/1
+* [1574878250][dgrilly]: Dead link in Career Prep Track - Technical Experience https://github.com/learn-co-curriculum/careers-resume-technical-experience/issues/4
+* [1549900290][aulorbe]: It would be nice to have some data science-specific advice in here. https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/6
+* [1485725767][michaelsimon]: former link to action verbs broken (found a new list) https://github.com/learn-co-curriculum/careers-resume-work-experience/pull/5
+* [1485703059][bedle88]: Broken Link https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/4
+* [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
+* [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
+* [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
+* [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
+* [1485871267][bedle88]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
+* [1547608660][JCesana]: broken link https://github.com/learn-co-curriculum/careers-cover-letters/issues/3
+* [1570324739][ryanwevans]: Improve headings related to text; Fix italicized text and content flow https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/pull/3
+* [1486404196][bedle88]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
+* [1550282422][ValerieHMoore]: fine-grained not fine-grain https://github.com/learn-co-curriculum/careers-interviewing-apps-you-built/issues/1
+* [1550283088][ValerieHMoore]: the instead of them https://github.com/learn-co-curriculum/sending-thank-yous-after-interview/issues/1
+* [1577557382][Nerajno]: Simple edits = grammar Nazi https://github.com/learn-co-curriculum/careers-technical-interview-formats/pull/4
+* [1546727538][BarbaraPruz]: Technical Interviewing lesson - broken link? https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/3
+* [1537277745][codingkasia]: broken link https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/2
+* [1575435168][95north]:  Broken Link! https://github.com/learn-co-curriculum/careers-technical-interview-tips/issues/1
+* [1579102017][dannylee8]: URL changes from university to personal https://github.com/learn-co-curriculum/careers-technical-interviewing-resources/pull/2
+* [1579542772][dannylee8]: Blockquotes adding an extra '>' on new line https://github.com/learn-co-curriculum/careers-following-up/issues/6
+* [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
+* [1547933190][ValerieHMoore]: Stress hyperlink doesn't work https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/2
+* [1536326967][kreopelle]: Web Development Curriculum Reverts to V5 https://github.com/learn-co-curriculum/careers-personal-brand-building/issues/3
+* [1478536980][kaileeagray]: Updated README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/1
+* [1572124695][Nerajno]: The blogging link on the Learn platform doesn't work. https://github.com/learn-co-curriculum/careers-blogging/issues/4
+* [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
+* [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
+* [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
+* [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
+* [1485871267][bedle88]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
+* [1547608660][JCesana]: broken link https://github.com/learn-co-curriculum/careers-cover-letters/issues/3
+* [1570324739][ryanwevans]: Improve headings related to text; Fix italicized text and content flow https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/pull/3
+* [1486404196][bedle88]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
+* [1550283088][ValerieHMoore]: the instead of them https://github.com/learn-co-curriculum/sending-thank-yous-after-interview/issues/1
+* [1579542772][dannylee8]: Blockquotes adding an extra '>' on new line https://github.com/learn-co-curriculum/careers-following-up/issues/6

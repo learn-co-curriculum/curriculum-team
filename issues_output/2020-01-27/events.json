@@ -1,0 +1,217 @@
+[
+  {
+    "name": "A-Glazer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "Anthonyntilelli",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-responsive-sites"
+  },
+  {
+    "name": "Anthonyntilelli",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/media-queries"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-lab"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-lab"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-strings-and-numbers-lab"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-strings-and-numbers-lab"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-strings-and-numbers-readme"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-strings-and-numbers-readme"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-sessions"
+  },
+  {
+    "name": "alinan-vn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "andrew-lewell",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/combine-reducers"
+  },
+  {
+    "name": "benjamin-jacobson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-strings-lab"
+  },
+  {
+    "name": "bmauss",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python-practice-with-datatypes"
+  },
+  {
+    "name": "erocknine",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-green-grocer"
+  },
+  {
+    "name": "erocknine",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-green-grocer"
+  },
+  {
+    "name": "gwhitlock8",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started"
+  },
+  {
+    "name": "gwhitlock8",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "jd2rogers2",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fetch-lab"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "kyawsawhtoon",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-analyzing-macbeth-project"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-the-dom"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-the-dom"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-the-dom"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-the-dom"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-readme"
+  },
+  {
+    "name": "meg-gutshall",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree"
+  },
+  {
+    "name": "meg-gutshall",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree"
+  },
+  {
+    "name": "meg-gutshall",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab"
+  },
+  {
+    "name": "ozkr8a",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-strings-and-numbers-lab"
+  },
+  {
+    "name": "sarisgar28",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/conditional-quiz-vowels"
+  },
+  {
+    "name": "sarisgar28",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/operators"
+  },
+  {
+    "name": "sbal13",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-complex-joins-readme"
+  }
+]
