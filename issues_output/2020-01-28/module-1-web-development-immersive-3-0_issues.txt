@@ -1,0 +1,1 @@
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17

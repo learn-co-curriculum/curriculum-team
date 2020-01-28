@@ -1,0 +1,26 @@
+* [1579749363][andrecunningham]: defining method https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/87
+* [1570550438][bettyeyob17]: Anyone can help with how to do the lab? I am confused!! https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/85
+* [1579671075][belsonrj]: Completing labs, yet unable to submit work for completion https://github.com/learn-co-curriculum/ruby-methods-readme/issues/36
+* [1569199837][antimonysayz]: Intro to Methods (Ruby Module) Showing as incomplete https://github.com/learn-co-curriculum/ruby-methods-readme/issues/31
+* [1566921629][Tigaron27]: completed mark won't show https://github.com/learn-co-curriculum/ruby-methods-readme/issues/29
+* [1566159427][Andrew-J-Williams]: Lesson Marked Incomplete After Completing https://github.com/learn-co-curriculum/ruby-methods-readme/issues/28
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1568171737][Edaly9392]: Fork the Lab https://github.com/learn-co-curriculum/method-arguments-lab/issues/13
+* [1563291689][ddeleon267]: Line numbers in instructions do not match code.  https://github.com/learn-co-curriculum/method-scope-lab/issues/25
+* [1568146597][ivalentine]: Question 4 incorrectly says 7 is an incorrect answer https://github.com/learn-co-curriculum/truthiness-code-challenge/issues/35
+* [1579985202][sarisgar28]: I WOULD LIKE TO REVIEW THIS  https://github.com/learn-co-curriculum/operators/issues/34
+* [1576070468][8ceg6]: IDE ISSUE https://github.com/learn-co-curriculum/operators/issues/33
+* [1571758709][NoEMP33]: Times Lab Syntax issue https://github.com/learn-co-curriculum/looping-times/issues/9
+* [1572994986][isaiahvelez611]:  answering test one with if else states manets? https://github.com/learn-co-curriculum/array-CRUD-lab/issues/25
+* [1572903100][cjilbert504]: IDE says it cannot find this lab https://github.com/learn-co-curriculum/array-CRUD-lab/issues/24
+* [1572709009][natey37]: Lab repo cannot be found  https://github.com/learn-co-curriculum/array-CRUD-lab/issues/23
+* [1572211333][TomCon3]: "open this lab" does not turn green. lab doesnt open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/22
+* [1572145205][jdeshaise]: does not  open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/21
+* [1571438825][paztoya]: Cannot find lesson with repo: array-crud-lab-cb-000. Please check your input https://github.com/learn-co-curriculum/array-CRUD-lab/issues/19
+* [1576209225][mrarthurwhite]: OPEN IDE button in Chrome Stopped working https://github.com/learn-co-curriculum/my-each/issues/33
+* [1570032409][8ceg6]: sorting lab errors when trying to open IDE https://github.com/learn-co-curriculum/collections_practice/issues/42
+* [1567087922][kierrakay]: Help please... https://github.com/learn-co-curriculum/key-for-min-value/issues/19
+* [1564334681][alouiscious]:  My name is not among the list of names on the pair partners form. please help https://github.com/learn-co-curriculum/nested-hashes-intro/issues/4
+* [1562628601][morganpstanley]: the binding.pry should return "Freddy", not "Jon". https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/28
+* [1567295906][CGonzalez0115]: Learn IDE issues https://github.com/learn-co-curriculum/apples-and-holidays/issues/49
+* [1568476164][Rpascar1]: regex example code allows for character excluded by rules of lesson https://github.com/learn-co-curriculum/regex-what-is-a-pattern/issues/7
