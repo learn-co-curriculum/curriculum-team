@@ -1,0 +1,327 @@
+[
+  {
+    "name": "PianoFF",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod3-project-week-setup-example"
+  },
+  {
+    "name": "amelieoller",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "cjbrock",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-hogs-practice-challenge"
+  },
+  {
+    "name": "fbohz",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-with-ai-project"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-curse-of-dimensionality"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-introduction"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-unsupervised-learning"
+  },
+  {
+    "name": "hock478",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-beatles-loops-lab"
+  },
+  {
+    "name": "hoffm386",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/daily_challenges_seattle-ds-102819"
+  },
+  {
+    "name": "hoffm386",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/daily_challenges_seattle-ds-102819"
+  },
+  {
+    "name": "hoffm386",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/greeting-cli"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/greeting-cli"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/key-for-min-value"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/key-for-min-value"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-to-learn-verified"
+  },
+  {
+    "name": "jo-hooton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-to-learn-verified"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "MemberEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-filter-lab-v-000"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "MemberEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-reduce-lab-v-000"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/houston-ds-111819"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-banking"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-banking"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-banking"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-final-quiz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-final-quiz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-final-quiz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/selecting-single-elements-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/selecting-single-elements-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/selecting-single-elements-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/writing-migrations"
+  },
+  {
+    "name": "replacem3nts",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-strings-lab"
+  },
+  {
+    "name": "sbal13",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "sevans924",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "sevans924",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-the-dom-tree"
+  },
+  {
+    "name": "sheriefCloud",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/using-bundler"
+  },
+  {
+    "name": "stlanier",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-mathematical-notation"
+  },
+  {
+    "name": "sumedh10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods-section-intro"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods-section-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-boosting-and-weak-learners"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-boosting-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gridsearchcv"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gridsearchcv-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-mod-4-project-v2-1"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-random-forests"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-cart-trees-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-regression-trees-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-xgboost"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-xgboost-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-resources"
+  }
+]
