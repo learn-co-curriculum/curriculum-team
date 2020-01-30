@@ -1,0 +1,18 @@
+* [1579290477][jjhiggz]: The sandbox environment will not load for me https://github.com/learn-co-curriculum/cli-essentials-bash-programming/issues/6
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1579013828][Socjon]: Contradiction in terms https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/issues/3
+* [1576016566][rrcobb]: Not clear how to run code in the sandbox https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/5
+* [1575678834][Cwill220]: Learn.co does not have questions highlighted.  I cannot ask questions. https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/4
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1576081511][dwinniford]: IDE error https://github.com/learn-co-curriculum/programming-univbasics-4-square-array/issues/5
+* [1576115891][dwinniford]: IDE learn command error https://github.com/learn-co-curriculum/programming-univbasics-4-intro-to-hashes-lab/issues/5
+* [1578450270][Jgarnes]: Understanding a provided NDS lab  https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-understand-lab/issues/6
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1576174297][rrcobb]: tests check nth order method before first order method https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab/issues/2
+* [1580362806][Yahyagok]: instructions request  https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-flexibility-lab/issues/3
+* [1580053364][erocknine]: Green Grocer Lab tests are not running https://github.com/learn-co-curriculum/programming-univbasics-nds-green-grocer/issues/7
+* [1576174399][rrcobb]: Example for consolidate_cart method return value is not correct https://github.com/learn-co-curriculum/programming-univbasics-nds-green-grocer/issues/5
+* [1575931807][ivalentine]: Test is unable to detect my_list.html file + test using deprecated method https://github.com/learn-co-curriculum/html-basics-experiencing-html-lab/issues/2
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
