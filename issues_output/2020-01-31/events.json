@@ -1,0 +1,387 @@
+[
+  {
+    "name": "A-Glazer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "COFFEEEADDICT",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes"
+  },
+  {
+    "name": "Gyurn-hash",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "Gyurn-hash",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "Gyurn-hash",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "OGonzalezNYC",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-ajax-fetch-lab"
+  },
+  {
+    "name": "Yahyagok",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-flexibility-lab"
+  },
+  {
+    "name": "alyon4a",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-javascript-eventing"
+  },
+  {
+    "name": "alyon4a",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-youre-a-dom-manipulation-master"
+  },
+  {
+    "name": "benjamin-jacobson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-welchs-ttest-lab"
+  },
+  {
+    "name": "c-shreya",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-111819"
+  },
+  {
+    "name": "ddeleon267",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/method-scope-lab"
+  },
+  {
+    "name": "ddeleon267",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/method-scope-lab"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-curse-of-dimensionality-lab"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-and-pipelines-v2-1"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-covariance-matrix-eigendecomp"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-in-scikitlearn"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-in-scikitlearn-lab"
+  },
+  {
+    "name": "h-parker",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-performing-principal-component-analysis"
+  },
+  {
+    "name": "jacquibushfi",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-data-structures-objects-readme"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/chicago-ds-012720"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "kwebster2",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-long-running-tasks-readme"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fix-schedule-repo"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle-web-111819-wb-1-jewels-and-stones"
+  },
+  {
+    "name": "levimllr",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "levimllr",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "levimllr",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/houston-ds-111819"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-project-planning"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-redux-project-planning"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-kickstarter-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-project-planning"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "ohjacksn",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/my-first-hash"
+  },
+  {
+    "name": "sbal13",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "sevans924",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "sevans924",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "sevans924",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ab-testing-recap"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-processes"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-database-admin-101-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-database-admin-101-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-database-admin-101-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-join-statements"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-join-statements-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-linalg-regression-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-linalg-regression-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-linalg-regression-codealong"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-more-practice-with-sql-queries-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sql-subqueries"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sql-subqueries"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sql-subqueries"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sql-subqueries-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-sql-with-pandas-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-sql-with-pandas-lab"
+  },
+  {
+    "name": "sumedh10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-sql-with-pandas-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-updating-state-lab"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-relationships-practice"
+  }
+]
