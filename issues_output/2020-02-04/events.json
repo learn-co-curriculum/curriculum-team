@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Amora-Miller",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-building-an-in-person-network"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/daily_challenges_seattle-ds-102819"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-resources"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ID3-trees-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-building-an-svm-from-scratch-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-building-an-svm-using-scikit-learn-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-classification-with-word-embeddings-codealong"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-curse-of-dimensionality-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-processes"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-section-intro"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-section-recap"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-with-sklearn-codealong"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods-section-intro"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods-section-recap"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-entropy-and-information-gain"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-boosting-and-weak-learners"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-boosting-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gridsearchcv"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-grouping-data-with-sql-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-decision-trees"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-join-statements"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-join-statements-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-kernels-in-scikit-learn-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-linalg-regression-codealong"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-mod-4-project-v2-1"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-one-to-many-and-many-to-many-joins"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-and-pipelines-v2-1"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-covariance-matrix-eigendecomp"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-in-scikitlearn"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-in-scikitlearn-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pca-introduction"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-python-operators-functions-and-methods"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-random-forests"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-cart-trees-codealong"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-cart-trees-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-svm-recap"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-the-kernel-trick"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-decision-trees"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-decision-trees-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-regression-trees-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-unsupervised-learning"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-while-loops-break-and-continue"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-xgboost-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/files-and-filetypes-readme"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-version-control-git-basics"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-mindset-introducing-the-flatiron-programming-process"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-expression-and-evaluation-defined"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-final-quiz"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/selecting-single-elements-lab"
+  },
+  {
+    "name": "Shifu-Engineer",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-complex-joins-readme"
+  },
+  {
+    "name": "dannmorr",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jupyter-notebook-introduction"
+  },
+  {
+    "name": "hoffm386",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "jerryjcchang",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-toy-tale"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-repetition-while-statement"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-creating-and-updating-hash-key-value-pairs"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/houston-ds-111819"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_array_element_finding"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_array_element_finding"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_array_element_finding"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_array_element_finding"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arithmetic-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arithmetic-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arithmetic-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-beatles-loops-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-beatles-loops-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-beatles-loops-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-deli-counter"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-deli-counter"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-1-welcome-rb"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-1-welcome-rb"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-5-move-rb"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ttt-5-move-rb"
+  },
+  {
+    "name": "osgoodgunawan",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-100818"
+  },
+  {
+    "name": "sevans924",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/terminal-reference"
+  },
+  {
+    "name": "sevans924",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/terminal-reference"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/code-challenge-tips"
+  },
+  {
+    "name": "telegraham",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-art-gallery-exercise"
+  },
+  {
+    "name": "vibraniumforge",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "yasmine-hj",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-creating-a-rails-api-from-scratch"
+  }
+]

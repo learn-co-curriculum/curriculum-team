@@ -1,0 +1,58 @@
+* [1578890480][mrarthurwhite]: Module Findable in ruby music library is not getting Loaded https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/57
+* [1576611493][pleugemors]: wont load lab https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/56
+* [1555710459][merecka]: Suggestions for improvement - Music Library CLI Lab https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/55
+* [1554825833][m-gamao]: The folders in the Music CLI lab cannot be opened - so I cannot do this lab at all.  Thanks https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/54
+* [1554656522][m-gamao]: Terminal keeps restarting https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/53
+* [1554656438][m-gamao]: Cannot open files in the folders in IRB https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/52
+* [1550795978][MaxBrooks114]: Song.find_by_name method spec seems broken https://github.com/learn-co-curriculum/ruby-music-library-cli/issues/51
+* [1556238028][LeeyaD]: Video is no longer available https://github.com/learn-co-curriculum/oo-ruby-video-review-music-library-cli/issues/2
+* [1580257678][fbohz]: Unable to submit https://github.com/learn-co-curriculum/ttt-with-ai-project/issues/55
+* [1553202071][marysue]: checklist disabled - working solo https://github.com/learn-co-curriculum/ttt-with-ai-project/issues/54
+* [1539021648][drakeltheryuujin]: KNOWN ISSUES https://github.com/learn-co-curriculum/ttt-with-ai-project/issues/51
+* [1577732090][theouternet]: Tic-Tac-Toe with AI lab: Mystery red bar https://github.com/learn-co-curriculum/oo-student-scraper/issues/80
+* [1554423809][marysue]: Singleton Antipattern? https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem/issues/10
+* [1554423551][marysue]: Add note on windows open in browser https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem/issues/9
+* [1554669858][marysue]: Wishlist:  OO Design exercises https://github.com/learn-co-curriculum/oo-ruby-refactoring-cli-gem-2/issues/1
+* [1580148888][Emanao]: Suggestion: Change title of the lesson for Rack::Request. https://github.com/learn-co-curriculum/rack-http-request-readme/issues/8
+* [1534443651][drakeltheryuujin]: Known issues https://github.com/learn-co-curriculum/rack-video-review-how-the-web-works-pt-1/issues/7
+* [1553706280][joanrig]: wget does not work on mac https://github.com/learn-co-curriculum/setting-up-a-new-site/issues/26
+* [1541388896][wingedmachine]: Link to github is broken https://github.com/learn-co-curriculum/setting-up-a-new-site/issues/25
+* [1537476403][hedfi-hedfi]: Run the IDE in a lesson rather then a lab https://github.com/learn-co-curriculum/setting-up-a-new-site/issues/24
+* [1527716761][kirbycampbell]: Would be nice to have a note for Windows Users on how to run httpserver via command line https://github.com/learn-co-curriculum/setting-up-a-new-site/issues/23
+* [1541577932][MrGametop1]: Cant type password in https://github.com/learn-co-curriculum/document-structure/issues/10
+* [1527872206][sgharms]: Wip rewrite readme mb https://github.com/learn-co-curriculum/document-structure/pull/9
+* [1549002970][Sdcrouse]: The instructions for accessing the real-estate-listings.html page are a little bit incomplete. https://github.com/learn-co-curriculum/html-lists/issues/3
+* [1526144939][Perchitti]: Error at end of lesson https://github.com/learn-co-curriculum/html-tables/issues/3
+* [1561670888][wilsonEl]: Unknown Failure https://github.com/learn-co-curriculum/html-album-cover/issues/29
+* [1537697539][hedfi-hedfi]: Submition doesn't go green https://github.com/learn-co-curriculum/riyadh-blog/issues/11
+* [1552290145][Sdcrouse]: The video or README needs to be updated with regards to Google Fonts. https://github.com/learn-co-curriculum/CSS-Styling/issues/17
+* [1500316806][marielfrank]: Tiny error: backup serif font https://github.com/learn-co-curriculum/CSS-Styling/issues/13
+* [1549910757][ccklight]: Link points to Unicorn in Readme NOT a Rainbow flag https://github.com/learn-co-curriculum/my-little-rainbow/issues/42
+* [1560430193][OlgaEva]: On Kitten Wheelbarrow https://github.com/learn-co-curriculum/css-kitten-wheelbarrow/issues/12
+* [1544024260][meg-gutshall]: Unclear instruction in `place-kitty.css` https://github.com/learn-co-curriculum/css-kitten-wheelbarrow/issues/11
+* [1528393758][cjbrock]: Wip fewds rewrite https://github.com/learn-co-curriculum/css-kitten-wheelbarrow/pull/10
+* [1545673480][Samoth112]: DOM https://github.com/learn-co-curriculum/css-graffiti-override/issues/9
+* [1547497387][JoeQuattrone]: domain doesnt exsist https://github.com/learn-co-curriculum/learn-deploy-on-day-one/issues/23
+* [1540501749][BenitolSantos]: imgur instructions unclear https://github.com/learn-co-curriculum/learn-deploy-on-day-one/issues/22
+* [1536605714][ValerieHMoore]: Imgur instructions need updating https://github.com/learn-co-curriculum/learn-deploy-on-day-one/issues/21
+* [1529279418][ktravers]: students.learn.co no longer exists https://github.com/learn-co-curriculum/learn-deploy-on-day-one/issues/20
+* [1579068947][pjavadi84]: gem install sinatra stops half way through installation https://github.com/learn-co-curriculum/sinatra-from-scratch-readme/issues/14
+* [1534356416][drakeltheryuujin]: Known Issues https://github.com/learn-co-curriculum/sinatra-video-review-forms/issues/13
+* [1550110984][DakotaLMartinez]: unclear reference to server side sessions  https://github.com/learn-co-curriculum/sinatra-cookies-readme/issues/17
+* [1562916806][Sdcrouse]: A few of these sections need to be updated. https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/16
+* [1558645491][atxrenegade]: [Using Sessions][secsin]  -  cryptic reference https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/15
+* [1558644774][atxrenegade]: Vague and misleading generalization https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/14
+* [1578325729][oglesbyanthony88]: BigDecimal.new issue https://github.com/learn-co-curriculum/sinatra-user-auth/issues/48
+* [1563607076][Sdcrouse]: The part of the README that discusses the Controller, needs to be re-written. https://github.com/learn-co-curriculum/sinatra-user-auth/issues/47
+* [1553541766][ccklight]: db/migrate: Update File Name Required to Pass 1st Test https://github.com/learn-co-curriculum/sinatra-user-auth/issues/46
+* [1549759834][brennanmrose]: README Incorrect - session[:id] to session[:user_id] https://github.com/learn-co-curriculum/sinatra-user-auth/issues/43
+* [1565328781][Crankums]: Continually getting a "could not find table 'users'" https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/40
+* [1564508121][aparkening]: Default ActiveRecord Migration Test Broken https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/39
+* [1563856512][Sdcrouse]: The bottom bullet point of the README need to be re-written https://github.com/learn-co-curriculum/sinatra-logging-in-and-out/issues/38
+* [1580596429][Madeline-Stark]: logged_in https://github.com/learn-co-curriculum/sinatra-password-security/issues/60
+* [1564106454][Sdcrouse]: One of the tests for the "/login" route can return a false positive https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/30
+* [1560977800][thistonyb]: To Do https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/29
+* [1553878757][helloamandamurphy]: Gems Outdated / Gemfile.lock deleted https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/27
+* [1572109524][DesterStorm]: ActiveRecord method has been changed https://github.com/learn-co-curriculum/sinatra-video-review-authentication/issues/4
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1564014377][eponsonby]: Linked Example not working https://github.com/learn-co-curriculum/sinatra-cms-app-assessment/issues/30
