@@ -1,0 +1,30 @@
+* [1569953570][Anthonyntilelli]: Dead link for 1:1 https://github.com/learn-co-curriculum/welcome-to-learn-verified/issues/11
+* [1564023954][criscros-garcia]: IDE is not Opening in ubuntu https://github.com/learn-co-curriculum/ttt-2-board-rb/issues/30
+* [1572980993][Shinelior]:  def display_board        puts ["   |   |   ","_________","   |   |   "]    puts ["   |   |   ","---------","   |   |   "]                    end   display_board https://github.com/learn-co-curriculum/ttt-3-display_board-example/issues/29
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1568683238][alexstolznut]: An issue with your test https://github.com/learn-co-curriculum/ttt-10-current-player/issues/24
+* [1570376032][paulnicholsen27]: Code coverage? https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/78
+* [1566682283][dana0522]: "Sorry, something went wrong. Please try again" error  https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/77
+* [1572284538][Emanao]: The expected output before adding markup in this lab differs across browsers https://github.com/learn-co-curriculum/experiencing-html-lab/issues/7
+* [1562030675][morganpstanley]: Spelling Error. https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/6
+* [1564076552][rohanphillips]: Multiple in-browser IDE file tabs https://github.com/learn-co-curriculum/introduction-to-css-lab/issues/14
+* [1568476164][Rpascar1]: regex example code allows for character excluded by rules of lesson https://github.com/learn-co-curriculum/regex-what-is-a-pattern/issues/7
+* [1570966812][m-cal]: Potential "reference error" :) https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/47
+* [1568171737][Edaly9392]: Fork the Lab https://github.com/learn-co-curriculum/method-arguments-lab/issues/13
+* [1568146597][ivalentine]: Question 4 incorrectly says 7 is an incorrect answer https://github.com/learn-co-curriculum/truthiness-code-challenge/issues/35
+* [1579985202][sarisgar28]: I WOULD LIKE TO REVIEW THIS  https://github.com/learn-co-curriculum/operators/issues/34
+* [1576070468][8ceg6]: IDE ISSUE https://github.com/learn-co-curriculum/operators/issues/33
+* [1571758709][NoEMP33]: Times Lab Syntax issue https://github.com/learn-co-curriculum/looping-times/issues/9
+* [1572994986][isaiahvelez611]:  answering test one with if else states manets? https://github.com/learn-co-curriculum/array-CRUD-lab/issues/25
+* [1572903100][cjilbert504]: IDE says it cannot find this lab https://github.com/learn-co-curriculum/array-CRUD-lab/issues/24
+* [1572709009][natey37]: Lab repo cannot be found  https://github.com/learn-co-curriculum/array-CRUD-lab/issues/23
+* [1572211333][TomCon3]: "open this lab" does not turn green. lab doesnt open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/22
+* [1572145205][jdeshaise]: does not  open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/21
+* [1571438825][paztoya]: Cannot find lesson with repo: array-crud-lab-cb-000. Please check your input https://github.com/learn-co-curriculum/array-CRUD-lab/issues/19
+* [1576209225][mrarthurwhite]: OPEN IDE button in Chrome Stopped working https://github.com/learn-co-curriculum/my-each/issues/33
+* [1577208506][maharvey2]: Video unavailable  https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/1
+* [1570032409][8ceg6]: sorting lab errors when trying to open IDE https://github.com/learn-co-curriculum/collections_practice/issues/42
+* [1580435114][ohjacksn]: "Open This Lab" Requirement will not show as complete. https://github.com/learn-co-curriculum/my-first-hash/issues/16
+* [1564334681][alouiscious]:  My name is not among the list of names on the pair partners form. please help https://github.com/learn-co-curriculum/nested-hashes-intro/issues/4
+* [1562628601][morganpstanley]: the binding.pry should return "Freddy", not "Jon". https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/28
+* [1567295906][CGonzalez0115]: Learn IDE issues https://github.com/learn-co-curriculum/apples-and-holidays/issues/49
