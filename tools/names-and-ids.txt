@@ -2,7 +2,7 @@
 59882	Full Stack Web Development V8
 44577	Bootcamp Prep v2
 62141	PREWORK Software Engineering
-63450 Module 1 Web Development Immersive 3 0
+63450	Module 1 Web Development Immersive 3 0
 50224	Module 1 Gap Web Development Immersive 3 0
 25055	Module 2 Web Development Immersive 2 0
 53275	Module 3 Web Development Immersive 3 1
