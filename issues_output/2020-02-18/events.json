@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Asfetaw",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "JaviFLATIRON",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/london-ds-02172020"
+  },
+  {
+    "name": "Saturn226",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dynamic-orm-lab"
+  },
+  {
+    "name": "alyon4a",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "campbelllssoup",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/npm-lab"
+  },
+  {
+    "name": "davidjohnbaker1",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/london-ds-02172020"
+  },
+  {
+    "name": "davidjohnbaker1",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/london-ds-02172020"
+  },
+  {
+    "name": "fabriciopirini",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-resume-technical-experience"
+  },
+  {
+    "name": "gzavaglia",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "johnnyboi1016",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ols-statsmodels-lab"
+  },
+  {
+    "name": "kierrakay",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-reading"
+  },
+  {
+    "name": "ktalmage",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nested-hash-iteration-code-along"
+  },
+  {
+    "name": "lewstan",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python-variables-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "nguyenlan13",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "rbhogans",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test"
+  },
+  {
+    "name": "rbhogans",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/selecting-single-elements-lab"
+  },
+  {
+    "name": "replacem3nts",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-flexibility-lab"
+  },
+  {
+    "name": "saltysk",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/debugging-with-pry"
+  },
+  {
+    "name": "stlanier",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-mongodb"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jwt-auth-rails"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jwt-auth-rails"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-component-mounting-lifecycle-readme"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-component-mounting-lifecycle-readme"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-component-mounting-lifecycle-readme"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-events-crash-course-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-events-crash-course-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-events-crash-course-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-introduction-to-react-router"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-introduction-to-react-router"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-introduction-to-react-router"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "theouternet",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-custom-errors"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-resources"
+  },
+  {
+    "name": "ztw17",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started"
+  }
+]
