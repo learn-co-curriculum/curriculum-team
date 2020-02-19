@@ -1,0 +1,5 @@
+* [1580465857][COFFEEEADDICT]: finished answers in readme, twas good :) https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/1
+* [1580940440][levimllr]: Specific bear gender https://github.com/learn-co-curriculum/sql-organizing-bears-lab/issues/2
+* [1580940407][levimllr]: Specified bear gender to align with seed data https://github.com/learn-co-curriculum/sql-organizing-bears-lab/pull/1
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17
+* [1581094175][Tororoi]: Question 12 should be ASC https://github.com/learn-co-curriculum/sql-intro-quiz/issues/3
