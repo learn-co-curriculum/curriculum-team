@@ -1,0 +1,42 @@
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1581445158][lanicemp]: Lab Complete  https://github.com/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars/pull/11
+* [1581805586][ztw17]: Unclear Wording / Possible Typo https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/5
+* [1579980746][gwhitlock8]: Type https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/4
+* [1579606987][emilia-m26]: DOM Editing Lab https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab/issues/7
+* [1573253229][PineappleGuy]: Second bullet point in section 'Working Through the Problems' https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab/issues/8
+* [1579433472][lizbur10]: Sequencing issue https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along/issues/28
+* [1580322060][alyon4a]: Content: referencing a wrong example https://github.com/learn-co-curriculum/fewpjs-youre-a-dom-manipulation-master/issues/2
+* [1580322899][alyon4a]: Wrong sequence https://github.com/learn-co-curriculum/fewpjs-javascript-eventing/issues/7
+* [1576021399][aminamos]: Hackernoon article images mostly replaced with author's avatar https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-array-o-functions/issues/10
+* [1578601683][ChrstphGrnr]: 500 error for students on Learn.co https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/11
+* [1579987663][jd2rogers2]: api doesn't work in canada https://github.com/learn-co-curriculum/fewpjs-fetch-lab/issues/13
+* [1580323542][jacquibushfi]: Object assign/Deep copy is broke https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/16
+* [1575327176][sjwakeman]: Objects in javascript : object.assign/deep copy - Link does not work! https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/15
+* [1574379524][shanisebarona]: Lesson reordering https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/14
+* [1574284675][jhcheung]: Unable to learn open https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/3
+* [1573038012][carl1984r]: Error when opening lab.  https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/2
+* [1581192946][glotzbachs]: Typo!! https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails/issues/14
+* [1574341449][blackwellsmith]: not happy https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project/issues/10
+* [1573208499][veloblank]: Broken Project example link/gif/img https://github.com/learn-co-curriculum/js-rails-as-api-pokemon-teams-project/issues/9
+* [1578623626][meg-gutshall]: README Fixes https://github.com/learn-co-curriculum/js-basics-data-types-readme/pull/7
+* [1578623467][meg-gutshall]: Formatting fixes needed https://github.com/learn-co-curriculum/js-basics-data-types-readme/issues/6
+* [1574986695][micahshute]: Weak Tests https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arithmetic-lab/issues/1
+* [1575001362][micahshute]: Backticks not displayed https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-conditionals/issues/3
+* [1579142686][meg-gutshall]: Correct example code: fn discountedAndTaxedPrice https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started/pull/12
+* [1579142639][meg-gutshall]: The example with `discountedAndTaxedPrice` function is incorrect https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started/issues/11
+* [1574811678][reneenordholm]: Material already covered https://github.com/learn-co-curriculum/fewpjs_object_assign/issues/5
+* [1575657087][Nanton83]: Return https://github.com/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab/issues/11
+* [1582135070][MiriamPeskowitz]: SelectDifferentDrivers https://github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab/issues/4
+* [1582143139][MiriamPeskowitz]: Possible to switch order, make it easier for students to understand https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab/issues/5
+* [1573157204][thistonyb]: Logic error in test... https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab/issues/4
+* [1579987783][meg-gutshall]: Add missing expected output in example code https://github.com/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree/pull/5
+* [1579987719][meg-gutshall]: Missing Expected Output in Code Example https://github.com/learn-co-curriculum/js-advanced-functions-collection-processing-methods-family-tree/issues/4
+* [1581231580][lizbur10]: Should this lab be moved to the ES6 Syntax Sugar section? https://github.com/learn-co-curriculum/fewpjs_arrow_function_shorthand/issues/7
+* [1578317295][skmcloughlin]: Math Error? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/6
+* [1578057302][skmcloughlin]: Improper math in assertion? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/5
+* [1574169571][EmanAlzariey]: fi.giveMeMore function  https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/3
+* [1574033310][merecka]: The sortBy() tests are very confusing in this lab. https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/2
+* [1579104614][wisammechano]: the error prevents lab from loading in ide https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/pull/13
+* [1582148577][PineappleGuy]: Grammatical Error https://github.com/learn-co-curriculum/fewpjs-oo-method-types/issues/2
+* [1575317758][eponsonby]: No tests for the Area setter method https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/5
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
