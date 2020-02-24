@@ -1,0 +1,2 @@
+* [1582410258][laarchambault]: Question 11 may be missing a line https://github.com/learn-co-curriculum/ruby-oo-object-relationships-quiz/issues/2
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17
