@@ -1,0 +1,11 @@
+* [1582410258][laarchambault]: Question 11 may be missing a line https://github.com/learn-co-curriculum/ruby-oo-object-relationships-quiz/issues/2
+* [1582744488][SpencerBlum]: Won't run with a rescue https://github.com/learn-co-curriculum/ruby-metaprogramming-triangle-classification-lab/issues/1
+* [1582812619][laarchambault]: [DEPRECATED] Warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/3
+* [1582812586][laarchambault]: [DEPRECATED] warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/2
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17
+* [1582848248][ryan-a-s]: Update README.md https://github.com/learn-co-curriculum/sql-table-relations-complex-joins/pull/2
+* [1582846850][laarchambault]: Typo https://github.com/learn-co-curriculum/sql-table-relations-complex-joins/issues/1
+* [1582848315][laarchambault]: Typo(s) https://github.com/learn-co-curriculum/orms-defining-object-relational-mapping/issues/1
+* [1582678970][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/orms-pokemon-scraper/pull/4
+* [1582678492][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/ruby-remote-data-practice-student-scraper-lab/pull/1
+* [1582678459][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/active-record-practice-model-class-methods-lab/pull/4
