@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Cortney786",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "Emanao",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-user-auth"
+  },
+  {
+    "name": "EvansJWang",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "iambryanhaney",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable"
+  },
+  {
+    "name": "iambryanhaney",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-enumerable-family-tree"
+  },
+  {
+    "name": "jasterix",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-042219"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-associations-and-migrations"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-associations-and-migrations"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/guided-module-one-project-assessment"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/guided-module-one-project-assessment"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/guided-module-one-project-assessment"
+  },
+  {
+    "name": "maddeno",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-functional-library-project"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-functional-library-project"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-abstracting-work-with-hashes-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-basic-hashes-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along-part-2"
+  },
+  {
+    "name": "yoshinator",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  }
+]
