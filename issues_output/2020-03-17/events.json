@@ -1,0 +1,282 @@
+[
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/approaching-salary-negotiations-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/background-checks-and-security-clearances"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/blogging-tips"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-your-in-person-network"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/csc-weekly-activity-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cybersecurity-certifications"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cybersecurity-resources"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/for-veterans"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/how-to-stay-current-in-the-tech-industry"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/linkedin-presence"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/portfolio-personal-website"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/technical-assignment-best-practices"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/technical-interview-formats"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/technical-interviewing-resources-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/the-30-second-elevator-pitch"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/the-salary-question-for-cybersecurity-professionals"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/tips-for-technical-interviews"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/writing-your-cybersecurity-resume-summary"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/your-personal-brand-building"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/your-technical-experience"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/your-technical-skills"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/your-work-and-education-experience"
+  },
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "Bibraj96",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "StrayLove",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-objects"
+  },
+  {
+    "name": "abidtalukdar",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-mini-challenge-events"
+  },
+  {
+    "name": "acasarsa",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-100818"
+  },
+  {
+    "name": "brandong1",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-dom-editing-lab"
+  },
+  {
+    "name": "dannmorr",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/single-variable-regression"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Module-4-Code-Challenge-Poesy-london-web-091619"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Module-4-Code-Challenge-Poesy-london-web-091619"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/uci-mod-5-assessment"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/uci-mod-5-assessment"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/uci-mod-5-rails-assessment"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/uci-mod-5-rails-assessment"
+  },
+  {
+    "name": "duruchima",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "emanningt",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-readme"
+  },
+  {
+    "name": "iammanyadams",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cartoon-collections"
+  },
+  {
+    "name": "ihollander",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-mini-challenge-events"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "joshmrallen",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-green-grocer-part-2"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-array-count-lab"
+  },
+  {
+    "name": "micahshute",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "reireynoso",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "saramccombs",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-project-planning"
+  },
+  {
+    "name": "sedoran",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-building-an-online-network"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-leveraging-your-network"
+  }
+]
