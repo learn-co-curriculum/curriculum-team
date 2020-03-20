@@ -1,0 +1,422 @@
+[
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/approaching-salary-negotiations-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/blogging-tips"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-your-in-person-network"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/csc-weekly-activity-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cybersecurity-certifications"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cybersecurity-resources"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/for-veterans"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/how-to-stay-current-in-the-tech-industry"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/linkedin-presence"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/portfolio-personal-website"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/technical-interviewing-resources-for-cybersecurity"
+  },
+  {
+    "name": "6enuineCo2ch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/the-salary-question-for-cybersecurity-professionals"
+  },
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "Asilver-jpg",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-intro-to-rake"
+  },
+  {
+    "name": "Asilver-jpg",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-bringing-it-all-together"
+  },
+  {
+    "name": "Bibraj96",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "CoderJay06",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-password-security"
+  },
+  {
+    "name": "MinimumViablePerson",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-pokemon-teams-project"
+  },
+  {
+    "name": "NickyEXE",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "Socjon",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "big32mike",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-video-review-intro-to-rails"
+  },
+  {
+    "name": "bumbot",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types"
+  },
+  {
+    "name": "cravalli",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "dnamgyal",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-object-initialize-lab"
+  },
+  {
+    "name": "duruchima",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "emanningt",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-readme"
+  },
+  {
+    "name": "iammanyadams",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cartoon-collections"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/mod-3-bake-off-challenge"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "jdromero88",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "jimmyle414",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/yield-and-return-values"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "joshmrallen",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "joshmrallen",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "jtskidmore",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arrays"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/BuildARailsApp"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/BuildARailsApp"
+  },
+  {
+    "name": "lynmuldrow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "m-gamao",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/devise_lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-introduction"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-array-count-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-cartoon-collections-lab-part-1"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-cartoon-collections-lab-part-2"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-cartoon-collections-lab-part-2"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-enumerable-family-tree"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-introduction-to-enumerables"
+  },
+  {
+    "name": "micahshute",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "nicklunn325",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-lab"
+  },
+  {
+    "name": "nicklunn325",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-form_tag-lab"
+  },
+  {
+    "name": "replacem3nts",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-grouping-and-sorting-readme"
+  },
+  {
+    "name": "sedoran",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "smileyicebox",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-based-js-intro-to-variables"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Pizza"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Pizza"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-associations-and-migrations"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-associations-and-migrations"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-associations-and-migrations"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-defining-object-relational-mapping"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-defining-object-relational-mapping"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-defining-object-relational-mapping"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-url-helpers-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-jsx"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-jsx"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-jsx"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-relationships-practice-mini-mock-code-challenge"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sessions_controller_lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sessions_controller_lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-table-relations-complex-joins"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-table-relations-complex-joins"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-table-relations-complex-joins"
+  },
+  {
+    "name": "telegraham",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-mechanics"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-green-grocer"
+  }
+]
