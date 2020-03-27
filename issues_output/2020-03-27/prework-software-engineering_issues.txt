@@ -1,0 +1,48 @@
+* [1579290477][jjhiggz]: The sandbox environment will not load for me https://github.com/learn-co-curriculum/cli-essentials-bash-programming/issues/6
+* [1566310138][sgharms]: Updates https://github.com/learn-co-curriculum/programming-univbasics-irb-readme/pull/2
+* [1585251717][lizbur10]: Added missing parentheses in double-bang example  https://github.com/learn-co-curriculum/programming-univbasics-boolean-expressions/pull/7
+* [1582607566][iambryanhaney]: Parenthesis missing on double-bang example https://github.com/learn-co-curriculum/programming-univbasics-boolean-expressions/issues/5
+* [1581021495][m-delarosa]: Copy correction #2 https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/issues/5
+* [1581021007][m-delarosa]: Copy Correction https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/issues/4
+* [1579013828][Socjon]: Contradiction in terms https://github.com/learn-co-curriculum/programming-univbasics-2-introduction/issues/3
+* [1582614904][iambryanhaney]: Missing escape characters in p output https://github.com/learn-co-curriculum/programming-univbasics-2-puts-prints-statements/issues/4
+* [1576016566][rrcobb]: Not clear how to run code in the sandbox https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/5
+* [1575678834][Cwill220]: Learn.co does not have questions highlighted.  I cannot ask questions. https://github.com/learn-co-curriculum/programming-univbasics-2-if-end-statement/issues/4
+* [1580747797][laarchambault]: Typo: "/-" https://github.com/learn-co-curriculum/programming-univbasics-2-repetition-while-statement/issues/2
+* [1574885147][theoluyi]: Jumbled/unclear explanation in Method Scope (Programming as Conversation pt3) reading https://github.com/learn-co-curriculum/programming-univbasics-3-introduction/issues/5
+* [1574230984][SteRobWms]: Testing problem https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/10
+* [1583979091][stellarwobble]: Hi I got a weird error in Build a Calculator Lab.  https://github.com/learn-co-curriculum/programming-univbasics-3-build-a-calculator-lab/issues/4
+* [1576081511][dwinniford]: IDE error https://github.com/learn-co-curriculum/programming-univbasics-4-square-array/issues/5
+* [1584910809][cdemarti]: Error Outside of the Example https://github.com/learn-co-curriculum/programming-univbasics-4-intro-to-hashes-lab/issues/6
+* [1576115891][dwinniford]: IDE learn command error https://github.com/learn-co-curriculum/programming-univbasics-4-intro-to-hashes-lab/issues/5
+* [1581198808][benhickson]: Fixing final question https://github.com/learn-co-curriculum/programming-univbasics-4-quiz/pull/3
+* [1581002252][ktalmage]: can't submit code snippet https://github.com/learn-co-curriculum/programming-univbasics-nds-nested-arrays-iteration-lab/issues/2
+* [1585245370][lizbur10]: Add missing commas to code snippets https://github.com/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab/pull/4
+* [1581475518][replacem3nts]: Incorrect Syntax in Example https://github.com/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab/issues/3
+* [1578450270][Jgarnes]: Understanding a provided NDS lab  https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-understand-lab/issues/6
+* [1581466499][m-delarosa]: Incorrect Answer for Question #2 https://github.com/learn-co-curriculum/programming-univbasics-nds-final-quiz/issues/13
+* [1574807712][ChrstphGrnr]: Order of methods in given 'nds_extract.rb' https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/4
+* [1574131013][JustinzGit]: Running ruby files https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods/issues/3
+* [1576174297][rrcobb]: tests check nth order method before first order method https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-methods-repetition-lab/issues/2
+* [1581811619][replacem3nts]: Typo https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-flexibility-lab/issues/4
+* [1580362806][Yahyagok]: instructions request  https://github.com/learn-co-curriculum/programming-univbasics-nds-nds-to-insight-with-flexibility-lab/issues/3
+* [1580053364][erocknine]: Green Grocer Lab tests are not running https://github.com/learn-co-curriculum/programming-univbasics-nds-green-grocer/issues/7
+* [1576174399][rrcobb]: Example for consolidate_cart method return value is not correct https://github.com/learn-co-curriculum/programming-univbasics-nds-green-grocer/issues/5
+* [1582830999][elliott-king]: Incorrect syntax in graphic https://github.com/learn-co-curriculum/ruby-enumerables-enumerable-family-tree/issues/2
+* [1583212489][iambryanhaney]: Oppressed workers already capitalized https://github.com/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable/issues/3
+* [1583094479][replacem3nts]: Formatting Issue https://github.com/learn-co-curriculum/programming-mindset-strategies-for-getting-unstuck/issues/2
+* [1575931807][ivalentine]: Test is unable to detect my_list.html file + test using deprecated method https://github.com/learn-co-curriculum/html-basics-experiencing-html-lab/issues/2
+* [1582670031][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-basics-first-html-tag-lab/pull/3
+* [1582670126][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/pull/5
+* [1582670020][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-basics-a-tag-with-href-attributes-lab/pull/4
+* [1582670157][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-document-structure-lab/pull/2
+* [1582669877][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-text-formatting-lab/pull/2
+* [1582670187][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-html-lists-lab/pull/2
+* [1582670006][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-html-tables-lab/pull/2
+* [1582670209][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-html-links-lab/pull/3
+* [1582670158][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-html-album-cover/pull/4
+* [1582670028][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-introduction-to-css-lab/pull/4
+* [1582670043][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-css-fundamentals-lab/pull/4
+* [1582670212][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/pull/4
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
+* [1582070319][SpencerBlum]: finished lab https://github.com/learn-co-curriculum/git-workflow-merge-conflicts-lab/pull/16
