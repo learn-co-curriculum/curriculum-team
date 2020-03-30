@@ -1,0 +1,252 @@
+[
+  {
+    "name": "BaAmady",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python-intro-to-strings"
+  },
+  {
+    "name": "Bmcgarry194",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-eda-with-pandas"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-campus-capstone-project-review"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-1"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-2"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-2"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-3"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-3"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-4"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-4"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-5"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-5"
+  },
+  {
+    "name": "MiraAr",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-merge-conflicts-lab"
+  },
+  {
+    "name": "Nisticism",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-password-security"
+  },
+  {
+    "name": "Socjon",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "carl1984r",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "daniellecroxton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-spa-project-instructions"
+  },
+  {
+    "name": "detinsley1s",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-looping"
+  },
+  {
+    "name": "ianpan870102",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "jubbon",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-merge-conflicts-lab"
+  },
+  {
+    "name": "kglenn10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rules-for-derivatives-lab"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-data-structures-arrays-readme"
+  },
+  {
+    "name": "lawsonhung",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/postgrad-challenge-largest-subarray-sum"
+  },
+  {
+    "name": "lizbur10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "lizbur10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-program-with-expressions"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "mrarthurwhite",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-introducing-the-dom-and-just-enough-javascript"
+  },
+  {
+    "name": "paurosero",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-static-components-lab"
+  },
+  {
+    "name": "reireynoso",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "ronsala",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/diy-json-serializer-lab"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-intro-to-programming-as-conversation"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-bringing-it-all-together"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-bringing-it-all-together"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/orms-bringing-it-all-together"
+  },
+  {
+    "name": "telegraham",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "timothylevi",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/basic-html-review-video"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/basic-html-review-video"
+  },
+  {
+    "name": "timothylevi",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-zetsy"
+  },
+  {
+    "name": "timothylevi",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-media-and-basic-styling-review-video"
+  },
+  {
+    "name": "timothylevi",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-type"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-type"
+  },
+  {
+    "name": "timothylevi",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-course-introduction"
+  },
+  {
+    "name": "timothylevi",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-course-introduction"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-course-introduction"
+  },
+  {
+    "name": "timothylevi",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/z-index"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/z-index"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/z-index"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-getting-started-on-your-design-resume"
+  }
+]
