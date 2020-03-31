@@ -1,0 +1,14 @@
+* [1582744488][SpencerBlum]: Won't run with a rescue https://github.com/learn-co-curriculum/ruby-metaprogramming-triangle-classification-lab/issues/1
+* [1582812619][laarchambault]: [DEPRECATED] Warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/3
+* [1582812586][laarchambault]: [DEPRECATED] warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/2
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17
+* [1582678970][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/orms-pokemon-scraper/pull/4
+* [1584631720][Asilver-jpg]: explain require in rake context https://github.com/learn-co-curriculum/active-record-intro-to-rake/issues/3
+* [1583001194][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/active-record-intro-to-rake/pull/2
+* [1583001215][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/active-record-querying-methods-lab/pull/5
+* [1584939678][iambryanhaney]: Question 10 does not have a correct answer available. https://github.com/learn-co-curriculum/active-record-quiz/issues/2
+* [1582678492][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/ruby-remote-data-practice-student-scraper-lab/pull/1
+* [1583001154][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/active-record-practice-model-class-methods-lab/pull/5
+* [1582678459][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/active-record-practice-model-class-methods-lab/pull/4
+* [1583001157][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/active-record-practice-playlister-lab/pull/2
+* [1583001175][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/active-record-practice-playlister-static-generator-lab/pull/1
