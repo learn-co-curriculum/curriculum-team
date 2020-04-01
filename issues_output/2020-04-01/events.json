@@ -1,0 +1,287 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "Asilver-jpg",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/basic-sinatra-forms-lab"
+  },
+  {
+    "name": "Bmcgarry194",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-kaggle-and-boston-housing-dataset"
+  },
+  {
+    "name": "Bmcgarry194",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-boston-lab"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "Rpascar1",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-applying-to-jobs-online"
+  },
+  {
+    "name": "ShivangDave1",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "WillyJGolden",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/py-lists-with-maps"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "daveajstearns",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-derivatives-intro-lab"
+  },
+  {
+    "name": "helloRupa",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-media"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-media"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "kaeland",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-hide-and-seek"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "louissemi",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hello-world-ruby"
+  },
+  {
+    "name": "maher-suleyman",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-merge-conflicts-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/flatiron-manual-setup-validator"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html-fundamentals-quiz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-if-end-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-if-end-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-if-end-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-if-end-statements"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-repetition-while-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-repetition-while-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-repetition-while-statement"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-statement-if-end"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-statement-repetition-with-while"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-statements-if-end"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-statements-if-end"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-using-if-end-statements"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-introduction"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-introduction"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nested-arrays-lab-1"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nested-structures"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-each-the-unexpressive-enumerable"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-hash-practice-emoticon-translator-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-hash-practice-emoticon-translator-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-introduction-to-enumerables"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-introduction-to-enumerables"
+  },
+  {
+    "name": "nicklunn325",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-irb-readme"
+  },
+  {
+    "name": "reireynoso",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-case-statement"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-enumerable-family-tree"
+  },
+  {
+    "name": "yoshinator",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "yoshinator",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "yoshinator",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  },
+  {
+    "name": "yoshinator",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-simple-state-lab"
+  }
+]
