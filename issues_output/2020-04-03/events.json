@@ -1,0 +1,367 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "Asilver-jpg",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-dynamic-request-readme"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-campus-capstone-project-review"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "ShivangDave1",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "Socjon",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "abhihirekhan",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-1-03-16-eda-with-pandas-using-the-boston-housing-data-lab"
+  },
+  {
+    "name": "abhihirekhan",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-eda-with-pandas"
+  },
+  {
+    "name": "atav1k",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "byrnetheweb",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html-syntax-overview"
+  },
+  {
+    "name": "cjilbert504",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/array-CRUD-lab"
+  },
+  {
+    "name": "cjilbert504",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/array-CRUD-lab"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "cybernormz",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-strings-lab"
+  },
+  {
+    "name": "daveajstearns",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-derivatives-intro-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "dlyons8",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "estherkimyunjung",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "estherkimyunjung",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-building-nested-hashes-code-along"
+  },
+  {
+    "name": "eulis01",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "helloRupa",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-media"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/responsive-media"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/chicago-ds-012720"
+  },
+  {
+    "name": "jonnelbenjamin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-010620"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/maths-for-ds-dsc"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-hello-world-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-hello-world-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-layouts-and-templates-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-layouts-and-templates-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/flatiron-manual-setup-validator"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-boolean-expressions"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-hash-of-arrays-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-presentation-components-lab"
+  },
+  {
+    "name": "nicklunn325",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-irb-readme"
+  },
+  {
+    "name": "replacem3nts",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-dynamic-request-readme"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-case-statement"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-conclusion"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-introduction"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-methods-scope"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/reading-errors-and-debugging-how-tests-work"
+  },
+  {
+    "name": "shaqqour",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prototypal-oo-js-constructor-functions-readme"
+  },
+  {
+    "name": "sik-flow",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-sql-with-pandas-lab"
+  },
+  {
+    "name": "sik-flow",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-sql-with-pandas-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-dynamic-request-readme"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-dynamic-request-readme"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-dynamic-request-readme"
+  },
+  {
+    "name": "vickiaubin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-resources"
+  },
+  {
+    "name": "wifelette",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started"
+  },
+  {
+    "name": "wifelette",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started"
+  }
+]
