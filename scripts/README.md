@@ -7,6 +7,16 @@ track repositories.
 
 The Python and Shell scripts in this folder rely on each other.
 
+## Getting ready
+In order for these scripts to run follow these steps:
+1. Clone [curriculum team repo](https://github.com/learn-co-curriculum/curriculum-team)
+2. Navigate to the curriculum folder `cd curriculum-team` and then to the scripts folder `cd scripts`
+3. If you don't have it yet, install [python3](https://programwithus.com/learn-to-code/install-python3-mac/) 
+4. Ask any member of the curriculum team for the track codes for the modules you want to clone.
+5. Run `bash trackToCSV.sh trackCode trackName`, e.g. `bash trackToCSV.sh 25054 mod1`
+6. Run `bash cloneCSVtrack.sh mod1`
+
+
 ## Uses
 
 ### Creating CSVs from Tracks
