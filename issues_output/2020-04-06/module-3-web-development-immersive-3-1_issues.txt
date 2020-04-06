@@ -1,0 +1,68 @@
+* [1583332731][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /rendering https://github.com/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render/pull/7
+* [1582670411][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /rendering https://github.com/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render/pull/5
+* [1584452900][bumbot]: Typo https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types/issues/2
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1583332695][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/12
+* [1582995384][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/11
+* [1582670442][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/9
+* [1583332769][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/11
+* [1582995429][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/10
+* [1582670446][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/8
+* [1583168892][maddeno]: generated resources https://github.com/learn-co-curriculum/fewpjs-project-mode-guidelines/pull/10
+* [1585362333][mrarthurwhite]: Issue with Learn  https://github.com/learn-co-curriculum/fewpjs-introducing-the-dom-and-just-enough-javascript/issues/10
+* [1583020613][saramccombs]: Ordered list rendering incorrectly in browser https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/6
+* [1581805586][ztw17]: Unclear Wording / Possible Typo https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/5
+* [1579980746][gwhitlock8]: Type https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/4
+* [1584245570][brandong1]: Can't run learn https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab/issues/8
+* [1573253229][PineappleGuy]: Second bullet point in section 'Working Through the Problems' https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab/issues/8
+* [1579433472][lizbur10]: Sequencing issue https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along/issues/28
+* [1580322060][alyon4a]: Content: referencing a wrong example https://github.com/learn-co-curriculum/fewpjs-youre-a-dom-manipulation-master/issues/2
+* [1580322899][alyon4a]: Wrong sequence https://github.com/learn-co-curriculum/fewpjs-javascript-eventing/issues/7
+* [1584070693][lorena57]: () fuction placement https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/5
+* [1578601683][ChrstphGrnr]: 500 error for students on Learn.co https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/11
+* [1579987663][jd2rogers2]: api doesn't work in canada https://github.com/learn-co-curriculum/fewpjs-fetch-lab/issues/13
+* [1580323542][jacquibushfi]: Object assign/Deep copy is broke https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/16
+* [1575327176][sjwakeman]: Objects in javascript : object.assign/deep copy - Link does not work! https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/15
+* [1574379524][shanisebarona]: Lesson reordering https://github.com/learn-co-curriculum/js-data-structures-objects-readme/issues/14
+* [1574284675][jhcheung]: Unable to learn open https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/3
+* [1573038012][carl1984r]: Error when opening lab.  https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/2
+* [1585022039][wifelette]: Persisten Typo—Code Block vs Code Bloc https://github.com/learn-co-curriculum/fewpjs-asynchrony/pull/4
+* [1583285005][alouiscious]: not sure that this .catch error example works https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/13
+* [1583332640][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc/pull/12
+* [1582995214][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc/pull/11
+* [1582670314][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc/pull/9
+* [1583332624][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails/pull/18
+* [1582995337][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails/pull/17
+* [1582670338][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-different-content-types-using-rails/pull/15
+* [1583332655][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-related-object-data-in-json/pull/14
+* [1582995273][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-related-object-data-in-json/pull/13
+* [1582670288][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/js-rails-as-api-rendering-related-object-data-in-json/pull/11
+* [1586018421][lizbur10]: Minor fixes and wording changes https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-class/pull/4
+* [1586016438][lizbur10]: Update location.rb to match lesson instructions https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-class/pull/3
+* [1586016351][lizbur10]: Update bird.rb to match lesson instructions https://github.com/learn-co-curriculum/js-rails-as-api-extracting-a-service-class/pull/2
+* [1586024658][lizbur10]: Fixed typos https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api/pull/13
+* [1583332613][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api/pull/12
+* [1582995403][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api/pull/11
+* [1582670238][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/js-rails-as-api-using-fast-json-api/pull/9
+* [1582743685][atxrenegade]: Dated material missing BigInt data type https://github.com/learn-co-curriculum/js-basics-data-types-readme/issues/8
+* [1574986695][micahshute]: Weak Tests https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arithmetic-lab/issues/1
+* [1575001362][micahshute]: Backticks not displayed https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-conditionals/issues/3
+* [1585779709][wifelette]: JS examples shouldn't use Ruby idioms https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started/issues/13
+* [1579142686][meg-gutshall]: Correct example code: fn discountedAndTaxedPrice https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started/pull/12
+* [1579142639][meg-gutshall]: The example with `discountedAndTaxedPrice` function is incorrect https://github.com/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started/issues/11
+* [1574811678][reneenordholm]: Material already covered https://github.com/learn-co-curriculum/fewpjs_object_assign/issues/5
+* [1575657087][Nanton83]: Return https://github.com/learn-co-curriculum/js-advanced-functions-basic-functions-review-lab/issues/11
+* [1582135070][MiriamPeskowitz]: SelectDifferentDrivers https://github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab/issues/4
+* [1582143139][MiriamPeskowitz]: Possible to switch order, make it easier for students to understand https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab/issues/5
+* [1573157204][thistonyb]: Logic error in test... https://github.com/learn-co-curriculum/js-advanced-functions-generalized-map-and-reduce-lab/issues/4
+* [1582303110][MiriamPeskowitz]: This lab is really out of order.  https://github.com/learn-co-curriculum/js-advanced-functions-context-lab/issues/11
+* [1581231580][lizbur10]: Should this lab be moved to the ES6 Syntax Sugar section? https://github.com/learn-co-curriculum/fewpjs_arrow_function_shorthand/issues/7
+* [1578317295][skmcloughlin]: Math Error? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/6
+* [1578057302][skmcloughlin]: Improper math in assertion? https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/5
+* [1574169571][EmanAlzariey]: fi.giveMeMore function  https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/3
+* [1574033310][merecka]: The sortBy() tests are very confusing in this lab. https://github.com/learn-co-curriculum/js-advanced-functions-functional-library-project/issues/2
+* [1585022063][alouiscious]: this labs test wont pass the breakfast class https://github.com/learn-co-curriculum/fewpjs-oo-initializing-instances/issues/7
+* [1579104614][wisammechano]: the error prevents lab from loading in ide https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/pull/13
+* [1575317758][eponsonby]: No tests for the Area setter method https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/5
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1585863554][shaqqour]: Typo https://github.com/learn-co-curriculum/prototypal-oo-js-constructor-functions-readme/issues/2

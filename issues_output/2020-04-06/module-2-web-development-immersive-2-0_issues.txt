@@ -1,0 +1,157 @@
+* [1581208983][twwright]: Readme no longer contains information regarding application.rb https://github.com/learn-co-curriculum/rack-intro/issues/17
+* [1580148888][Emanao]: Suggestion: Change title of the lesson for Rack::Request. https://github.com/learn-co-curriculum/rack-http-request-readme/issues/8
+* [1579068947][pjavadi84]: gem install sinatra stops half way through installation https://github.com/learn-co-curriculum/sinatra-from-scratch-readme/issues/14
+* [1583272946][Kenney-G]: "Hmm...this doesn't appear to be a Learn lesson. Are you in the right directory?" https://github.com/learn-co-curriculum/sinatra-hello-world-basics/issues/9
+* [1584716494][asif-kamal]: Lag https://github.com/learn-co-curriculum/sinatra-mvc-file-structure/issues/32
+* [1582940852][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-mvc-file-structure/pull/31
+* [1582951323][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-views/pull/15
+* [1582602374][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-views/pull/14
+* [1582943743][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-basic-views-lab/pull/9
+* [1582599093][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-basic-views-lab/pull/8
+* [1582931288][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/intro-to-capybara/pull/36
+* [1582588751][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/intro-to-capybara/pull/35
+* [1582935444][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong/pull/31
+* [1582592739][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-dynamic-routes-codealong/pull/30
+* [1582936969][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-dynamic-routes-lab/pull/29
+* [1582594096][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-dynamic-routes-lab/pull/28
+* [1585668888][Asilver-jpg]: Tests cannot find submit button https://github.com/learn-co-curriculum/basic-sinatra-forms-lab/issues/40
+* [1582941379][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/basic-sinatra-forms-lab/pull/39
+* [1582598012][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/basic-sinatra-forms-lab/pull/38
+* [1582940907][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-basic-forms-lab/pull/40
+* [1582597585][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-basic-forms-lab/pull/39
+* [1582602845][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-nested-forms/pull/30
+* [1582925230][dependabot[bot]]: Bump rake from 10.4.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros/pull/34
+* [1582583393][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-nested-forms-lab-superheros/pull/33
+* [1582599141][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-ar-crud-lab/pull/66
+* [1582634205][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/pull/34
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1582629217][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-complex-forms-associations/pull/82
+* [1582585283][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/playlister-sinatra/pull/79
+* [1582915073][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-project/pull/3
+* [1582599915][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/pull/67
+* [1583269872][dependabot[bot]]: Bump puma from 4.3.1 to 4.3.3 https://github.com/learn-co-curriculum/rails-static-request-readme/pull/18
+* [1582712419][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-static-request-readme/pull/17
+* [1575267951][TrueC-D]: Error 500 - page doesn't load https://github.com/learn-co-curriculum/rails-static-request-readme/issues/14
+* [1576034089][jermain119]:  not passing test  somethings wrong with lesson  https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/24
+* [1585785383][Asilver-jpg]: Bug on the site https://github.com/learn-co-curriculum/rails-dynamic-request-readme/issues/29
+* [1582951742][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-dynamic-request-readme/pull/28
+* [1582602561][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/rails-dynamic-request-readme/pull/27
+* [1582933096][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-restful-index-action-lab/pull/24
+* [1582590500][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/rails-restful-index-action-lab/pull/23
+* [1582938885][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/36
+* [1582595758][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-url-helpers-readme/pull/35
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1582958688][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-form_tag-readme/pull/30
+* [1582605799][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-form_tag-readme/pull/29
+* [1582958872][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-form_tag-lab/pull/20
+* [1582605991][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/rails-form_tag-lab/pull/19
+* [1573511534][Sdcrouse]: Sentence at the bottom should be deleted https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/16
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1582959069][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/pull/25
+* [1582606051][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/pull/24
+* [1581122536][shadowfox3735]: missing secret_key_base https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/issues/23
+* [1580848243][lukelin1991]: This uses rails 5.0 https://github.com/learn-co-curriculum/rails-index-show-new-create-lab/issues/22
+* [1586023038][Asilver-jpg]: Should have data in the seed file https://github.com/learn-co-curriculum/rails-edit-update-action-readme/issues/34
+* [1582951621][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/strong-params-basics/pull/22
+* [1582602472][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/strong-params-basics/pull/21
+* [1578876110][Enemy-Stand]: Be more specific with the page inspector https://github.com/learn-co-curriculum/strong-params-basics/issues/20
+* [1585961605][replacem3nts]: Put/Patch/Resources Inconsistency https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme/issues/24
+* [1582933098][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme/pull/23
+* [1582590500][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme/pull/22
+* [1582935468][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-form_for-lab/pull/14
+* [1582592769][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-form_for-lab/pull/13
+* [1582945339][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-generators-readme/pull/43
+* [1582599731][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-generators-readme/pull/42
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1582921581][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/14
+* [1582580096][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/13
+* [1582918066][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/validations-in-controller-actions-rails-lab/pull/14
+* [1582576910][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/validations-in-controller-actions-rails-lab/pull/13
+* [1582959253][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/crud-with-validations-lab/pull/31
+* [1582606137][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/crud-with-validations-lab/pull/30
+* [1582931497][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/activerecord-lifecycle-reading/pull/27
+* [1582588942][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/activerecord-lifecycle-reading/pull/26
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1582961018][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/displaying-associations-rails/pull/21
+* [1582606848][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/displaying-associations-rails/pull/20
+* [1582962162][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/24
+* [1582607402][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/displaying-associations-rails-lab/pull/23
+* [1580826451][SwellPF]: The readme lesson differs from the associated lab regarding submitting an array of values to a controller https://github.com/learn-co-curriculum/forms-and-basic-associations-rails/issues/26
+* [1577502869][Sillhouette]: Tests and solution no longer fit the original intent of the lab https://github.com/learn-co-curriculum/forms-and-basic-associations-rails-lab/issues/23
+* [1582935477][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/displaying-has-many-through-rails/pull/23
+* [1582592769][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/displaying-has-many-through-rails/pull/22
+* [1582941401][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/has-many-through-forms-rails/pull/36
+* [1582598006][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/has-many-through-forms-rails/pull/35
+* [1582935816][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/pull/22
+* [1582593063][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/has-many-through-forms-rails-labs/pull/21
+* [1582952559][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/pull/20
+* [1582602892][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/pull/19
+* [1582936714][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/simple-partials-reading/pull/22
+* [1582593879][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/simple-partials-reading/pull/21
+* [1581106242][zdsmit]: Problem with '/classrooms/show.html.erb' https://github.com/learn-co-curriculum/simple-partials-lab/issues/20
+* [1577066033][Sdcrouse]: Removes controller action and refactors test specs https://github.com/learn-co-curriculum/simple-partials-lab/pull/19
+* [1583348161][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/partial-locals-reading/pull/30
+* [1582576719][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/partial-locals-reading/pull/28
+* [1577139251][Sdcrouse]: The code in the README is inaccurate, starting in the "The Problem" section https://github.com/learn-co-curriculum/partial-locals-reading/issues/25
+* [1582949029][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/rendering-collections-reading/pull/23
+* [1582601371][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rendering-collections-reading/pull/22
+* [1582916637][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rendering-collections-lab/pull/13
+* [1582575852][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rendering-collections-lab/pull/12
+* [1578355278][thecodepixi]: Index view is tested without utilizing controller https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/26
+* [1582947791][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/sessions_controller_lab/pull/21
+* [1582600896][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/sessions_controller_lab/pull/20
+* [1578885043][Sdcrouse]: Missing tests for the homepage https://github.com/learn-co-curriculum/sessions_controller_lab/issues/18
+* [1578891362][Sdcrouse]: Edits to README https://github.com/learn-co-curriculum/login_required_readme/pull/7
+* [1582937458][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/has_secure_password_lab/pull/20
+* [1582594526][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/has_secure_password_lab/pull/19
+* [1582597782][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/omniauth_readme/pull/54
+* [1584904502][laarchambault]: Depreciation Notice: chromedrive-helper https://github.com/learn-co-curriculum/omniauth_lab/issues/23
+* [1583349031][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/omniauth_lab/pull/22
+* [1582575505][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/omniauth_lab/pull/20
+* [1579569966][Sdcrouse]: Instruct students to delete session cookie before visiting root route https://github.com/learn-co-curriculum/omniauth_lab/pull/19
+* [1579569252][Sdcrouse]: Mistake in Readme instructions for registering an OAuth app on Github https://github.com/learn-co-curriculum/omniauth_lab/issues/18
+* [1579496187][Sdcrouse]: Please update the Gemfile.lock file, and use the Thin gem instead of Puma https://github.com/learn-co-curriculum/omniauth_lab/issues/17
+* [1584573158][m-gamao]: `start_unix_server': no unix-domain acceptor (RuntimeError) https://github.com/learn-co-curriculum/devise_lab/issues/48
+* [1582602500][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/devise_lab/pull/47
+* [1582589809][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/cancan_lab/pull/18
+* [1583347727][dependabot[bot]]: build(deps): bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/devise_roles_lab/pull/34
+* [1582603872][dependabot[bot]]: build(deps): bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/devise_roles_lab/pull/32
+* [1583311546][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/rails-amusement-park-lab/pull/12
+* [1582970915][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-amusement-park-lab/pull/11
+* [1582621626][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/rails-amusement-park-lab/pull/9
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1583336173][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/9
+* [1582674621][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 https://github.com/learn-co-curriculum/Rails-RubberDucking/pull/7
+* [1582954432][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-reading/pull/22
+* [1582603712][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-reading/pull/21
+* [1582926546][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-lab/pull/19
+* [1582584529][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/refactoring-views-with-helpers-lab/pull/18
+* [1582951997][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/model-class-methods-reading/pull/18
+* [1582602634][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/model-class-methods-reading/pull/17
+* [1582672949][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/model-class-methods-lab/pull/54
+* [1582954447][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/33
+* [1582603808][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/32
+* [1577515503][Sdcrouse]: Update README https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/31
+* [1577514931][Sdcrouse]: Out of date information in the "Dynamic Route Segments" section https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/30
+* [1577493347][Sdcrouse]: Instructions for resetting the database don't work. https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/29
+* [1585764895][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.9 https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/16
+* [1585764894][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.2 https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/15
+* [1585764853][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/14
+* [1585764824][dependabot[bot]]: Bump loofah from 2.2.3 to 2.4.0 https://github.com/learn-co-curriculum/routing-nested-resources-lab/pull/13
+* [1582931453][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/modification-nested-routes-reading/pull/25
+* [1582588907][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/modification-nested-routes-reading/pull/24
+* [1582923255][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/modification-nested-routes-lab/pull/17
+* [1582581613][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/modification-nested-routes-lab/pull/16
+* [1582917921][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/namespaced-routes-lab/pull/44
+* [1582576784][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/namespaced-routes-lab/pull/43
+* [1578039815][Sdcrouse]: Instructions and tests unclear about how Preferences are associated with Artists and Songs https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/42
+* [1578038726][Sdcrouse]: `rake preferences:load` command unclear https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/41
+* [1582949390][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/42
+* [1582601550][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/41
+* [1582949390][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/42
+* [1582601550][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-pollywog-ranch/pull/41
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1583319316][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/17
+* [1582978155][dependabot[bot]]: Bump rake from 12.3.1 to 13.0.1 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/16
+* [1582631125][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 https://github.com/learn-co-curriculum/rails-challenge-practice/pull/14
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
