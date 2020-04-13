@@ -1,0 +1,31 @@
+* [1584973003][mrshappy0]: Looks like the solution is missing https://github.com/learn-co-curriculum/react-dq-props-state/issues/4
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1580141456][dependabot[bot]]: Bump handlebars from 4.2.0 to 4.7.2 https://github.com/learn-co-curriculum/a-react-app-example/pull/17
+* [1585363892][paurosero]: the tests asks for something its not described in the lab https://github.com/learn-co-curriculum/react-static-components-lab/issues/17
+* [1585304633][carl1984r]: IDE error https://github.com/learn-co-curriculum/react-dynamic-components-lab/issues/16
+* [1584138016][dependabot[bot]]: Bump acorn from 5.7.3 to 5.7.4 https://github.com/learn-co-curriculum/react-dynamic-components-lab/pull/15
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1583475857][boostinwrx]: No Test Files Found, Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/25
+* [1577887568][fbohz]: Repetitive  https://github.com/learn-co-curriculum/react-event-system/issues/9
+* [1584136603][dependabot[bot]]: Bump acorn from 5.7.3 to 5.7.4 https://github.com/learn-co-curriculum/react-forms/pull/31
+* [1576073435][Ned-el-ch]: Deprecated material https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/5
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1578688681][jasurabdullin]: Older webpack version conflicting with new webpack https://github.com/learn-co-curriculum/react-presentation-components-lab/issues/22
+* [1584838711][thistonyb]: Issue with MovieReviews Test https://github.com/learn-co-curriculum/react-container-components-lab/issues/21
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1586013116][dependabot[bot]]: Bump acorn from 5.7.3 to 5.7.4 in /lutrivia https://github.com/learn-co-curriculum/lutrivia-react/pull/5
+* [1586056236][DrVonDevious]: json-server README not clear https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/issues/15
+* [1584134837][dependabot[bot]]: Bump acorn from 5.7.3 to 5.7.4 https://github.com/learn-co-curriculum/react-components-as-routes/pull/29
+* [1583336191][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/21
+* [1582999167][dependabot[bot]]: Bump rake from 12.3.1 to 13.0.1 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/20
+* [1582674630][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/18
+* [1583336248][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/11
+* [1582674646][dependabot[bot]]: Bump nokogiri from 1.10.7 to 1.10.8 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/9
+* [1586723911][Crankums]: Redux docs links are dead https://github.com/learn-co-curriculum/redux-reducer/issues/12
+* [1583083882][jd2rogers2]: npm start doesn't work for WSL students https://github.com/learn-co-curriculum/redux-initial-dispatch/issues/11
+* [1580060736][andrew-lewell]: default code does not match readme default code.  https://github.com/learn-co-curriculum/combine-reducers/issues/20
+* [1581173264][eponsonby]: There are some typos in this codealong https://github.com/learn-co-curriculum/redux-delete-codealong/issues/25
+* [1583799927][glotzbachs]: Redux Thunk ReadME typos https://github.com/learn-co-curriculum/redux-thunk-readme/issues/15
+* [1581096567][mokolita]: Multiple missing or misspelled words https://github.com/learn-co-curriculum/redux-thunk-readme/issues/14
