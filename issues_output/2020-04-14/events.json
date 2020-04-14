@@ -1,0 +1,207 @@
+[
+  {
+    "name": "APottinger",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-objects-has-many-through-lab"
+  },
+  {
+    "name": "Bmcgarry194",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-interaction-terms-lab"
+  },
+  {
+    "name": "Crankums",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-reducer"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-queryselector-methods"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-queryselector-methods"
+  },
+  {
+    "name": "amandaben21",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-aggregate-functions-lab"
+  },
+  {
+    "name": "christoper15",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/exiting-loops-lab"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-012720"
+  },
+  {
+    "name": "dannyflatiron",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-with-validations-lab"
+  },
+  {
+    "name": "dinadeljanin",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "hornadam8",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-forms-params-readme-walkthrough"
+  },
+  {
+    "name": "hsinhinlim",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "jbyoung14",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "jirvingphd",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-setup-v2-1"
+  },
+  {
+    "name": "jmburges",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-ws-first-codealong"
+  },
+  {
+    "name": "jmburges",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-ws-strings-lab"
+  },
+  {
+    "name": "jmburges",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-enterprise-deloitte-ws-variable-assignment-lab"
+  },
+  {
+    "name": "jmburges",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "jmburges",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/yale-web-development-bootcamp-2020-technical-submission"
+  },
+  {
+    "name": "labradorescence",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-basics-online-shopping-lab"
+  },
+  {
+    "name": "linhmai19",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-eda-with-pandas"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "mkdoh3",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "mkdoh3",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "snepaul179",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-html-introduction"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/immersive-course-logistics-module-assessments"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-array-for-each"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-functions"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/learn-labs-on-your-computer"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/learn-labs-on-your-computer"
+  },
+  {
+    "name": "timothylevi",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/swapi"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/swapi"
+  },
+  {
+    "name": "yndajas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-intro-ask-a-question"
+  }
+]
