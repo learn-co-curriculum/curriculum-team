@@ -1,0 +1,437 @@
+[
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "HyeokJungKim",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "JeanmarieJackman",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nested-arrays-iteration-lab-part-1"
+  },
+  {
+    "name": "JeanmarieJackman",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-hash-practice-emoticon-translator-lab"
+  },
+  {
+    "name": "LiveGood",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-looping"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-cross-validation-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-cross-validation-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-dealing-with-categorical-variables-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-dealing-with-categorical-variables-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-feature-scaling-and-normalization-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-feature-scaling-and-normalization-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-interaction-terms-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-interaction-terms-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-kaggle-and-boston-housing-dataset"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-kaggle-and-boston-housing-dataset"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-model-fit-linear-regression-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-model-fit-linear-regression-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-multiple-linear-regression-statsmodels-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-eda-with-pandas"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-eda-with-pandas"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-boston-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-boston-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-model-validation-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-model-validation-lab"
+  },
+  {
+    "name": "NickyEXE",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-dumbo-se-012720"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-javascript-eventing"
+  },
+  {
+    "name": "adybas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/how-to-approach-offer-negotiations"
+  },
+  {
+    "name": "anahitasa",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-welcome"
+  },
+  {
+    "name": "campbelllssoup",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/getting-remote-data-apis-and-iteration"
+  },
+  {
+    "name": "chris2shehu",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/filter-readme-python"
+  },
+  {
+    "name": "chris2shehu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/filter-readme-python"
+  },
+  {
+    "name": "christoper15",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/exiting-loops-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-css-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-static-request-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-file-structure"
+  },
+  {
+    "name": "dinadeljanin",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-welcome-to-nitro-developer-bootcamp"
+  },
+  {
+    "name": "gnappo1",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-pokemon-teams-project"
+  },
+  {
+    "name": "gnappo1",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-logging-in-and-out"
+  },
+  {
+    "name": "gnappo1",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-lab"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/atlanta-web-021720"
+  },
+  {
+    "name": "ihollander",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "latinawhocodes",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-data-structures-objects-readme"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-project-planning-structured"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "lizbur10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-css-fundamentals"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-css-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-css-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-css-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-css-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-looping"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-looping"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-file-structure"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-file-structure"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-file-structure"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-mvc-file-structure"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-css-fundamentals"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-css-fundamentals"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fe-css-fundamentals"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-static-request-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-static-request-readme"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "mkdoh3",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/debugging-with-pry"
+  },
+  {
+    "name": "morgvanny",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-project-planning-structured"
+  },
+  {
+    "name": "morgvanny",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/linux-env-setup"
+  },
+  {
+    "name": "morgvanny",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-redux-assessment"
+  },
+  {
+    "name": "morgvanny",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-redux-assessment"
+  },
+  {
+    "name": "morgvanny",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-redux-assessment"
+  },
+  {
+    "name": "okj203",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-deli-counter"
+  },
+  {
+    "name": "rhaynes3k",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-logging-in-and-out"
+  },
+  {
+    "name": "schazbot",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-blog-nested-forms"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-acting-on-events"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-array-for-each"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-functions"
+  }
+]
