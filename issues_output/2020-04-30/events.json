@@ -1,0 +1,522 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "AssanSav",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/map-dispatch-to-props-readme"
+  },
+  {
+    "name": "Dbhmunro",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modules-reading"
+  },
+  {
+    "name": "ElvinGarcia",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-project-planning"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-1"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-2"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-3"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-student-survey-mod-4"
+  },
+  {
+    "name": "OGonzalezNYC",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-props-movie-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-sending-data-with-fetch"
+  },
+  {
+    "name": "aapeebles",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_101_sea_chi"
+  },
+  {
+    "name": "aapeebles",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_101_sea_chi"
+  },
+  {
+    "name": "aapeebles",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_funds_shopping_cart_chi_ds"
+  },
+  {
+    "name": "adub65",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/looping-loop"
+  },
+  {
+    "name": "andrew-k9",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/looping-loop"
+  },
+  {
+    "name": "andrew-k9",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/looping-loop"
+  },
+  {
+    "name": "ashleymader",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-from-scratch-readme"
+  },
+  {
+    "name": "avapluse",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-merge-conflicts-lab"
+  },
+  {
+    "name": "berellevy",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-curriculum-overview"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-getting-started"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-key-program-milestones"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-meet-career-services"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-navigating-curriculum-learn"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-policies-points-contact"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-your-community"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-your-schedule"
+  },
+  {
+    "name": "cernanb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-your-support-team"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-your-support-team"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-lifecycle-reading"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-with-validations-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-associations-rails-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-has-many-through-rails"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/has-many-through-forms-rails"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-dom-and-events-events-deep-dive-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-dom-and-events-events-deep-dive-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-dom-and-events-events-deep-dive-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-dom-and-events-events-deep-dive-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-components-as-routes"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-components-as-routes"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-components-as-routes-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-components-as-routes-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/westworld-command-center-react"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/westworld-command-center-react"
+  },
+  {
+    "name": "drewprice",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "elishevaelbaz",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-thinking-ahead-github"
+  },
+  {
+    "name": "elishevaelbaz",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-workflow-understanding-branches"
+  },
+  {
+    "name": "elishevaelbaz",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-mindset-strategies-for-getting-unstuck"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-github-workflow-primer-part-two"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-regex-lab"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-regex-lab"
+  },
+  {
+    "name": "j-max",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_101_sea_chi"
+  },
+  {
+    "name": "j-max",
+    "type": "MemberEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_101_sea_chi"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_101_sea_chi"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python_funds_shopping_cart_chi_ds"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz"
+  },
+  {
+    "name": "labradorescence",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-finding-the-minimum-value-in-an-array-lab"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-evernote-backend-starter"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-lifecycle-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-lifecycle-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-with-validations-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-with-validations-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-associations-rails-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-associations-rails-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-has-many-through-rails"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/displaying-has-many-through-rails"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/has-many-through-forms-rails"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/has-many-through-forms-rails"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/looping-loop"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/looping-loop"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-021720"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-post-graduate-content"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-deli-counter"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/post-grad-ruby-projects"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sql-setting-up-sqlite"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-cli"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-javascript"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-mod-1"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-mod-2"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-mod-3"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-mod-4"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-mod-5"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-rails"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-react"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/student-survey-for-sinatra"
+  },
+  {
+    "name": "paulnicholsen27",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "paulnicholsen27",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "paulnicholsen27",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-relationships-practice"
+  },
+  {
+    "name": "paulnicholsen27",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-relationships-practice"
+  },
+  {
+    "name": "rescenic",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/wsl-setup"
+  },
+  {
+    "name": "shannon-nabors",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "smithson45",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-finding-the-minimum-value-in-an-array-lab"
+  },
+  {
+    "name": "solomonp90",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/node-debugger-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-web-030920"
+  },
+  {
+    "name": "wifelette",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-modular-code"
+  },
+  {
+    "name": "wifelette",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-modular-code"
+  },
+  {
+    "name": "ykayacan",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/microservices-patterns-chapter-1-2"
+  }
+]
