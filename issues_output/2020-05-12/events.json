@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Asilver-jpg",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-initial-state-lab"
+  },
+  {
+    "name": "DallasBlackwell",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/intro-to-ruby-iterators"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "LostnAustin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-password-security"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-conditionals"
+  },
+  {
+    "name": "Thegreatesthumphrey",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-skewness-and-kurtosis"
+  },
+  {
+    "name": "Thegreatesthumphrey",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-skewness-and-kurtosis"
+  },
+  {
+    "name": "andrew-k9",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/debug-me"
+  },
+  {
+    "name": "arwitmer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "canikwe",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-web-030920"
+  },
+  {
+    "name": "dannmorr",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "danvalen1",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-derivatives-lab"
+  },
+  {
+    "name": "danvalen1",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rules-for-derivatives-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-forms-params-readme-walkthrough"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-forms-params-readme-walkthrough"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "dukegreene",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-cli-scraping-gem-project"
+  },
+  {
+    "name": "geno1957",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-banking"
+  },
+  {
+    "name": "iamkevn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-optional-setup"
+  },
+  {
+    "name": "iamkevn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rendering-collections-reading"
+  },
+  {
+    "name": "shannon-nabors",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dumbo-se-030920"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Mod4-DQ-1"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Mod4-DQ-1"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-web-030920"
+  }
+]
