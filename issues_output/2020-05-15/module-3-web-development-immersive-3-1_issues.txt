@@ -1,0 +1,12 @@
+* [1583332731][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /rendering https://github.com/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render/pull/7
+* [1582670411][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /rendering https://github.com/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render/pull/5
+* [1584452900][bumbot]: Typo https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types/issues/2
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1588165174][laarchambault]: last question unclearly written https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/issues/3
+* [1583332695][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/12
+* [1582995384][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/11
+* [1582670442][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /dogs-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a/pull/9
+* [1583332769][dependabot[bot]]: Bump puma from 3.12.2 to 3.12.4 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/11
+* [1582995429][dependabot[bot]]: Bump rake from 12.3.2 to 13.0.1 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/10
+* [1582670446][dependabot[bot]]: Bump nokogiri from 1.10.5 to 1.10.8 in /coffee-api https://github.com/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b/pull/8
+* [1583168892][maddeno]: generated resources https://github.com/learn-co-curriculum/fewpjs-project-mode-guidelines/pull/10
