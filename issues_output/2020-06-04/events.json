@@ -1,0 +1,417 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hbs-ds-060120"
+  },
+  {
+    "name": "BartTheScrivner",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-fundamentals-instance-methods-lab"
+  },
+  {
+    "name": "BartTheScrivner",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-fundamentals-instance-methods-lab"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-distributions"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-distributions"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-sampling"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-weather-probabilities"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-reviewing-presentation-content-exercises"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-reviewing-presentation-content-exercises"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-upskilling-overview"
+  },
+  {
+    "name": "PatrickCremin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-2-statement-if-end"
+  },
+  {
+    "name": "TylerWool",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "barrettanderson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-instance-variables-lab"
+  },
+  {
+    "name": "davidjohnbaker1",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/clustering-crash-course-external"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-practice-playlister-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/lutrivia-react"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-props-movie-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-project-guidelines"
+  },
+  {
+    "name": "evereichmann",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-nested-arrays-iteration-lab-part-3"
+  },
+  {
+    "name": "gabejoseph",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/css-graffiti-override-lab"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-history-to-hooks"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-hooks-effects"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-hooks-intro"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-hooks-state"
+  },
+  {
+    "name": "hoobie4792",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-update-lifecycle-readme"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/distributions_seattle-chicago-ds"
+  },
+  {
+    "name": "j-max",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sampling_and_clt_sea-chi-ds"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sampling_and_clt_sea-chi-ds"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-weather-probabilities"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-weather-probabilities"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "joshuabamboo",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/css-graffiti-override-lab"
+  },
+  {
+    "name": "kierrakay",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-js-fundamentals-scope-lab"
+  },
+  {
+    "name": "ledanh57",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/swift-podsConfetti-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-practice-playlister-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-practice-playlister-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/lutrivia-react"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/lutrivia-react"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-forms"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-props-movie-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-props-movie-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-project-guidelines"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-project-guidelines"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-ar-crud-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-ar-crud-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-ar-crud-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-ar-crud-lab"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/active-record-practice-playlister-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-how-to-get-help"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-intro-ask-a-question"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "mmelmer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/my-little-rainbow-lab"
+  },
+  {
+    "name": "reynaldoayala062",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/instance-methods-lab-ruby"
+  },
+  {
+    "name": "seyma-tas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-curse-of-dimensionality-lab"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "wifelette",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "wifelette",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-index-codealong"
+  },
+  {
+    "name": "yndajas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-to-learn-verified"
+  },
+  {
+    "name": "yordy130",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/reading-errors-and-debugging-using-pry-lab"
+  }
+]
