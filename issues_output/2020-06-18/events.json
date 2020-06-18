@@ -1,0 +1,552 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hbs-ds-060120"
+  },
+  {
+    "name": "AmyFong82",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "DanSanz",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/intro_to_neural_nets_london"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/github-to-canvas"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/houston-ds-111819"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/htx-ds-021720"
+  },
+  {
+    "name": "Kiki1022",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test"
+  },
+  {
+    "name": "ManBytesDog",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-finding-the-maximum-value-in-an-array-lab"
+  },
+  {
+    "name": "PBillingsby",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-jsf-hoisting"
+  },
+  {
+    "name": "Rene-HN",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/plotting-data-lab"
+  },
+  {
+    "name": "TJBachorz",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-nds-green-grocer-part-1"
+  },
+  {
+    "name": "VinceCaruso",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-beatles-loops-lab"
+  },
+  {
+    "name": "adiskop",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/greeting-cli"
+  },
+  {
+    "name": "afteralec",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-simple-looping-lab"
+  },
+  {
+    "name": "canikwe",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-web-030920"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Stocks"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Stocks"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Stocks"
+  },
+  {
+    "name": "cmccarthy15",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/React-Stocks"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cancan_lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/devise_roles_lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-reading"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-pca-rails-amusement-park"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-pca-rails-amusement-park"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-challenge-practice"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-pollywog-ranch"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-static-components-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-reading"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-reading"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-complex-forms-associations"
+  },
+  {
+    "name": "fwg-dev",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/interpolation-readme"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-pca-rails-amusement-park"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-pca-rails-amusement-park"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-rails-project"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-formik-intro"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-react-formik-tutorial"
+  },
+  {
+    "name": "ggboots",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-based-javascript-intro-to-flow-control"
+  },
+  {
+    "name": "laarchambault",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/linkedin-for-research-and-networking"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/M4-DQ3-Conditional-Rendering"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/a-react-app-example"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cancan_lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cancan_lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/devise_roles_lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/devise_roles_lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dunder-mifflin-rails-review"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-a"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-design-documentation-exercise-b"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-discussion-questions-mvc-render"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/modification-nested-routes-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/namespaced-routes-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-challenge-practice"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-challenge-practice"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-pollywog-ranch"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-pollywog-ranch"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-static-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-static-components-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/refactoring-views-with-helpers-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-reading"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/routing-nested-resources-reading"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "marioa7770",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-variable-assignment"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/github-to-canvas"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/model-class-methods-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/tic-tac-toe-rb"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/tic-tac-toe-rb"
+  },
+  {
+    "name": "mhwhite22",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "nicholas-wilson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-context-lab"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "zkobrinsky",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-how-to-get-help"
+  }
+]

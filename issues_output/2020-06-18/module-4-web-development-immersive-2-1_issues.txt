@@ -1,0 +1,76 @@
+* [1584973003][mrshappy0]: Looks like the solution is missing https://github.com/learn-co-curriculum/react-dq-props-state/issues/4
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1585363892][paurosero]: the tests asks for something its not described in the lab https://github.com/learn-co-curriculum/react-static-components-lab/issues/17
+* [1591445077][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-props-movie-lab/pull/14
+* [1588105951][OGonzalezNYC]: Browser functionality. https://github.com/learn-co-curriculum/react-props-movie-lab/issues/11
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1591444783][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/27
+* [1589242705][Asilver-jpg]: Ran learn got mocha error https://github.com/learn-co-curriculum/react-initial-state-lab/issues/26
+* [1583475857][boostinwrx]: No Test Files Found, Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/25
+* [1591487943][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-simple-state-lab/pull/17
+* [1590436231][justindhall]: Update README.md https://github.com/learn-co-curriculum/react-simple-state-lab/pull/16
+* [1591527410][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-information-flow-code-along/pull/4
+* [1589291155][Asilver-jpg]: running the final code and clicking a child div returns maximum depth exceeded https://github.com/learn-co-curriculum/react-information-flow-code-along/issues/3
+* [1591699240][reddevilcero]: Update README.md https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/15
+* [1591522551][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/14
+* [1591444329][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/12
+* [1577887568][fbohz]: Repetitive  https://github.com/learn-co-curriculum/react-event-system/issues/9
+* [1591445141][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-updating-state/pull/22
+* [1589328240][Asilver-jpg]: Problem with tests and bitrate. https://github.com/learn-co-curriculum/react-updating-state-lab/issues/14
+* [1591445017][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-forms/pull/32
+* [1591517266][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-forms-lab/pull/42
+* [1591444566][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/42
+* [1590001867][wifelette]: Inaccurate prose about rendering `getDerivedStateFromProps` https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/6
+* [1591445995][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/10
+* [1590081962][wifelette]: Test description doesn't make sense—copy/pasta? https://github.com/learn-co-curriculum/react-component-mounting-lab/issues/9
+* [1591445386][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-component-mounting-and-unmounting-lab/pull/31
+* [1591238729][hoobie4792]: Render in wrong place on ordered list? https://github.com/learn-co-curriculum/react-update-lifecycle-readme/issues/7
+* [1587730629][laarchambault]: Text Revision https://github.com/learn-co-curriculum/react-async-readme/issues/10
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1591445374][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/25
+* [1587732391][laarchambault]: Text Revisions https://github.com/learn-co-curriculum/react-async-gif-search-lab/issues/24
+* [1591444627][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-presentation-components-lab/pull/25
+* [1578688681][jasurabdullin]: Older webpack version conflicting with new webpack https://github.com/learn-co-curriculum/react-presentation-components-lab/issues/22
+* [1589776110][OGonzalezNYC]: The data IS getting fetched. https://github.com/learn-co-curriculum/react-container-components-lab/issues/22
+* [1584838711][thistonyb]: Issue with MovieReviews Test https://github.com/learn-co-curriculum/react-container-components-lab/issues/21
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1591482713][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 in /lutrivia https://github.com/learn-co-curriculum/lutrivia-react/pull/6
+* [1591454349][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 in /sushi-saga-client https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/pull/16
+* [1586056236][DrVonDevious]: json-server README not clear https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/issues/15
+* [1591450567][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/React-Stocks/pull/10
+* [1591448756][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/westworld-command-center-react/pull/10
+* [1591443309][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-components-as-routes/pull/31
+* [1591445108][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/30
+* [1591444729][dependabot[bot]]: Bump websocket-extensions from 0.1.1 to 0.1.4 https://github.com/learn-co-curriculum/react-router-nested-routes-code-along/pull/22
+* [1591485214][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 in /frontend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/25
+* [1591409044][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.5 in /backend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/24
+* [1591408706][dependabot[bot]]: Bump websocket-extensions from 0.1.4 to 0.1.5 in /server https://github.com/learn-co-curriculum/jwt-auth-rails/pull/13
+* [1586723911][Crankums]: Redux docs links are dead https://github.com/learn-co-curriculum/redux-reducer/issues/12
+* [1583083882][jd2rogers2]: npm start doesn't work for WSL students https://github.com/learn-co-curriculum/redux-initial-dispatch/issues/11
+* [1591445148][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/34
+* [1588033379][AssanSav]: Previous lab was re-rendering https://github.com/learn-co-curriculum/map-state-to-props-readme/issues/11
+* [1591444937][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/map-state-to-props-lab/pull/22
+* [1591445174][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/21
+* [1590811552][OGonzalezNYC]: Defective code. https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/issues/20
+* [1588185179][AssanSav]: Mistype  https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/issues/19
+* [1591444552][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/17
+* [1591445110][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/combine-reducers/pull/21
+* [1580060736][andrew-lewell]: default code does not match readme default code.  https://github.com/learn-co-curriculum/combine-reducers/issues/20
+* [1591445216][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/23
+* [1591444967][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/25
+* [1591128860][wifelette]: Should use spread operator instead of `concat`, in reducer https://github.com/learn-co-curriculum/redux-forms-codealong/issues/24
+* [1591444988][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/redux-index-codealong/pull/19
+* [1591139312][wifelette]: Instructions tell us to do something that's already done... https://github.com/learn-co-curriculum/redux-index-codealong/issues/18
+* [1591444774][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/building-forms-lab/pull/29
+* [1590790700][dwinniford]: test does not change input value https://github.com/learn-co-curriculum/building-forms-lab/issues/28
+* [1591445133][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/26
+* [1581173264][eponsonby]: There are some typos in this codealong https://github.com/learn-co-curriculum/redux-delete-codealong/issues/25
+* [1591445149][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/redux-delete-lab/pull/27
+* [1591475752][kwebster2]: Test should be clear about structure of expected redux state https://github.com/learn-co-curriculum/crud-lab/issues/25
+* [1589407339][scrabill]: Hyphen and em-dash corrections in introduction section https://github.com/learn-co-curriculum/redux-thunk-readme/pull/17
+* [1589337596][Richard-Burd]: Final version of fetchAstronauts() function not working. https://github.com/learn-co-curriculum/redux-thunk-readme/issues/16
+* [1583799927][glotzbachs]: Redux Thunk ReadME typos https://github.com/learn-co-curriculum/redux-thunk-readme/issues/15
+* [1581096567][mokolita]: Multiple missing or misspelled words https://github.com/learn-co-curriculum/redux-thunk-readme/issues/14
+* [1591597439][dependabot[bot]]: Bump websocket-extensions from 0.1.3 to 0.1.4 https://github.com/learn-co-curriculum/redux-thunk-lab/pull/27
