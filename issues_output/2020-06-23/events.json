@@ -1,0 +1,262 @@
+[
+  {
+    "name": "AmmarAli118",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hbs-ds-060120"
+  },
+  {
+    "name": "Anthonyntilelli",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth-review-lecture-in-todomvc"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-regularization"
+  },
+  {
+    "name": "Ben-Oren",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmups-grad-desc"
+  },
+  {
+    "name": "Branjosef",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hello-world-ruby"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Canvas_Illumidesk_Github_Link_Generator"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Canvas_Illumidesk_Github_Link_Generator"
+  },
+  {
+    "name": "Donnadieu",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-introduction-to-context-lab"
+  },
+  {
+    "name": "MatthewPalmer9",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-initial-state-lab"
+  },
+  {
+    "name": "MauryRB",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "VinceCaruso",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-basics-online-shopping-lab"
+  },
+  {
+    "name": "danhales",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-intro-to-probability"
+  },
+  {
+    "name": "daniel-dawson",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/postgrad-challenge-largest-subarray-sum"
+  },
+  {
+    "name": "daniel-dawson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/postgrad-challenge-largest-subarray-sum"
+  },
+  {
+    "name": "daniel-dawson",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/postgrad-challenge-largest-subarray-sum"
+  },
+  {
+    "name": "dinadeljanin",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-mini-challenge-dom"
+  },
+  {
+    "name": "emilia-m26",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab"
+  },
+  {
+    "name": "emilia-m26",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-logging-lab"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-fundamentals"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-more-concepts"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-queries"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-queries-part-two"
+  },
+  {
+    "name": "ggboots",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test"
+  },
+  {
+    "name": "helloRupa",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  },
+  {
+    "name": "helloRupa",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-project-mode-guidelines"
+  },
+  {
+    "name": "iambryanhaney",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "jmm4lakings",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-OOP"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-OOP"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-morse-code"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-chi-warmup-morse-code"
+  },
+  {
+    "name": "lavsz",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-more-practice-with-matplotlib-lab"
+  },
+  {
+    "name": "lavsz",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-subplots-and-enumeration-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-introduction-to-context-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-advanced-functions-introduction-to-context-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-objects-has-many-through-lab"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "mattenbar",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "mhwhite22",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "reece314",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-lab"
+  },
+  {
+    "name": "ryanmeinzer",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/partial-locals-reading"
+  },
+  {
+    "name": "tcondon1218",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/gradient-descent-step-sizes-lab"
+  },
+  {
+    "name": "tcondon1218",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/introduction-to-derivatives"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Mod4-DQ-1"
+  },
+  {
+    "name": "thuyanduong-flatiron",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-seng-042020"
+  },
+  {
+    "name": "ushanarayanan-github",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/skills-based-js-intro-to-functions"
+  },
+  {
+    "name": "wickbushong",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-methods-readme"
+  },
+  {
+    "name": "wkdewey",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Box-Model"
+  }
+]
