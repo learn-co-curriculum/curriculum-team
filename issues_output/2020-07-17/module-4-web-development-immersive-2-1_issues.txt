@@ -1,0 +1,73 @@
+* [1584973003][mrshappy0]: Looks like the solution is missing https://github.com/learn-co-curriculum/react-dq-props-state/issues/4
+* [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1594883747][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/a-react-app-example/pull/20
+* [1594883730][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-static-components-lab/pull/21
+* [1593820096][Sdcrouse]: Lab requires knowledge of material not yet covered https://github.com/learn-co-curriculum/react-static-components-lab/issues/20
+* [1593402778][iambryanhaney]: "What JSX Looks Like" line 11 brace misplaced https://github.com/learn-co-curriculum/react-jsx/issues/23
+* [1594883658][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-dynamic-components-lab/pull/18
+* [1594883854][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-props-movie-lab/pull/15
+* [1588105951][OGonzalezNYC]: Browser functionality. https://github.com/learn-co-curriculum/react-props-movie-lab/issues/11
+* [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
+* [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
+* [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1594883738][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-initial-state-lab/pull/29
+* [1592843776][MatthewPalmer9]: Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/28
+* [1589242705][Asilver-jpg]: Ran learn got mocha error https://github.com/learn-co-curriculum/react-initial-state-lab/issues/26
+* [1583475857][boostinwrx]: No Test Files Found, Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/25
+* [1590436231][justindhall]: Update README.md https://github.com/learn-co-curriculum/react-simple-state-lab/pull/16
+* [1589291155][Asilver-jpg]: running the final code and clicking a child div returns maximum depth exceeded https://github.com/learn-co-curriculum/react-information-flow-code-along/issues/3
+* [1591699240][lorrydriveloper]: Update README.md https://github.com/learn-co-curriculum/react-using-callbacks-to-pass-information-lab/pull/15
+* [1594883593][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-events-crash-course-lab/pull/13
+* [1577887568][fbohz]: Repetitive  https://github.com/learn-co-curriculum/react-event-system/issues/9
+* [1594932177][Sdcrouse]: Typo fixes https://github.com/learn-co-curriculum/react-event-system-lab/pull/10
+* [1594884581][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-updating-state/pull/23
+* [1589328240][Asilver-jpg]: Problem with tests and bitrate. https://github.com/learn-co-curriculum/react-updating-state-lab/issues/14
+* [1594884672][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-forms/pull/33
+* [1594883241][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-props-and-state-lab/pull/43
+* [1590001867][wifelette]: Inaccurate prose about rendering `getDerivedStateFromProps` https://github.com/learn-co-curriculum/react-component-lifecycle-overview/issues/6
+* [1594894061][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-component-mounting-lab/pull/11
+* [1590081962][wifelette]: Test description doesn't make sense—copy/pasta? https://github.com/learn-co-curriculum/react-component-mounting-lab/issues/9
+* [1594884594][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-component-mounting-and-unmounting-lab/pull/32
+* [1591238729][hoobie4792]: Render in wrong place on ordered list? https://github.com/learn-co-curriculum/react-update-lifecycle-readme/issues/7
+* [1587730629][laarchambault]: Text Revision https://github.com/learn-co-curriculum/react-async-readme/issues/10
+* [1576517161][helloamandamurphy]: Tests Don't Test for State or Rendered Output https://github.com/learn-co-curriculum/react-async-fetch-lab/issues/5
+* [1594889242][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-async-gif-search-lab/pull/26
+* [1587732391][laarchambault]: Text Revisions https://github.com/learn-co-curriculum/react-async-gif-search-lab/issues/24
+* [1594884115][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-presentation-components-lab/pull/26
+* [1578688681][jasurabdullin]: Older webpack version conflicting with new webpack https://github.com/learn-co-curriculum/react-presentation-components-lab/issues/22
+* [1589776110][OGonzalezNYC]: The data IS getting fetched. https://github.com/learn-co-curriculum/react-container-components-lab/issues/22
+* [1584838711][thistonyb]: Issue with MovieReviews Test https://github.com/learn-co-curriculum/react-container-components-lab/issues/21
+* [1576513910][helloamandamurphy]: Error with ReactDOM.render in Index.js https://github.com/learn-co-curriculum/react-container-components-lab/issues/20
+* [1586056236][DrVonDevious]: json-server README not clear https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/issues/15
+* [1594923799][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/React-Stocks/pull/12
+* [1594916060][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/westworld-command-center-react/pull/11
+* [1594884212][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/react-components-as-routes-lab/pull/31
+* [1594884177][dependabot[bot]]: Bump lodash from 4.17.10 to 4.17.19 https://github.com/learn-co-curriculum/redux-reducer/pull/13
+* [1586723911][Crankums]: Redux docs links are dead https://github.com/learn-co-curriculum/redux-reducer/issues/12
+* [1583083882][jd2rogers2]: npm start doesn't work for WSL students https://github.com/learn-co-curriculum/redux-initial-dispatch/issues/11
+* [1594884311][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/redux-create-store-lab/pull/9
+* [1594884706][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/35
+* [1588033379][AssanSav]: Previous lab was re-rendering https://github.com/learn-co-curriculum/map-state-to-props-readme/issues/11
+* [1594884324][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/review-map-state-to-props-readme/pull/25
+* [1594884328][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/map-state-to-props-lab/pull/23
+* [1594884365][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/22
+* [1590811552][OGonzalezNYC]: Defective code. https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/issues/20
+* [1594884368][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/18
+* [1594886217][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/combine-reducers/pull/22
+* [1580060736][andrew-lewell]: default code does not match readme default code.  https://github.com/learn-co-curriculum/combine-reducers/issues/20
+* [1594886198][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/24
+* [1594884500][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/26
+* [1591128860][wifelette]: Should use spread operator instead of `concat`, in reducer https://github.com/learn-co-curriculum/redux-forms-codealong/issues/24
+* [1594884511][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/redux-index-codealong/pull/20
+* [1591139312][wifelette]: Instructions tell us to do something that's already done... https://github.com/learn-co-curriculum/redux-index-codealong/issues/18
+* [1594884707][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/building-forms-lab/pull/30
+* [1590790700][dwinniford]: test does not change input value https://github.com/learn-co-curriculum/building-forms-lab/issues/28
+* [1594884520][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/28
+* [1581173264][eponsonby]: There are some typos in this codealong https://github.com/learn-co-curriculum/redux-delete-codealong/issues/25
+* [1594884737][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/redux-delete-lab/pull/28
+* [1594885652][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/crud-lab/pull/26
+* [1591475752][kwebster2]: Test should be clear about structure of expected redux state https://github.com/learn-co-curriculum/crud-lab/issues/25
+* [1589407339][scrabill]: Hyphen and em-dash corrections in introduction section https://github.com/learn-co-curriculum/redux-thunk-readme/pull/17
+* [1589337596][Richard-Burd]: Final version of fetchAstronauts() function not working. https://github.com/learn-co-curriculum/redux-thunk-readme/issues/16
+* [1583799927][glotzbachs]: Redux Thunk ReadME typos https://github.com/learn-co-curriculum/redux-thunk-readme/issues/15
+* [1581096567][mokolita]: Multiple missing or misspelled words https://github.com/learn-co-curriculum/redux-thunk-readme/issues/14
