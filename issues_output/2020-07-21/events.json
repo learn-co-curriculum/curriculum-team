@@ -1,0 +1,382 @@
+[
+  {
+    "name": "Ben-Oren",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-feature-engineering-for-text-data"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-regular-expressions"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-neural-networks-with-normalization"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-neural-networks-with-regularization"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-using-word2vec"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-updating-state-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-updating-state-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-updating-state-lab"
+  },
+  {
+    "name": "Snowing222",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html-forms"
+  },
+  {
+    "name": "anewt225",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-lineq-numpy-codealong"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Module-4-Code-Challenge-Poesy-london-web-091619"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/Module-4-Code-Challenge-Poesy-london-web-091619"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-forms-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/copy-of-fetch-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/copy-of-fetch-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-filter-lab-2"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-filter-lab-2"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-map-lab-2"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-map-lab-2"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars-new"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars-new"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arrays"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arrays"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-objects"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-objects"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jquery-selectors-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-hoisting-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-hoisting-readme"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/moving-things-with-javascript"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/moving-things-with-javascript"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/quote-maker-react-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-index-codealong"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-lab"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-lab"
+  },
+  {
+    "name": "epicpathways",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-js-spa-project"
+  },
+  {
+    "name": "indiejesus2",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-secure-password-lab"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dtsc-chi-warmup-joke-recommender"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dtsc-chi-warmup-joke-recommender"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dtsc-chi-warmup-web-scraping"
+  },
+  {
+    "name": "joelsewhere",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dtsc-chi-warmup-web-scraping"
+  },
+  {
+    "name": "kusiko",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/evaluating-regression-lines"
+  },
+  {
+    "name": "kusiko",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nonlinear-derivatives-readme"
+  },
+  {
+    "name": "kusiko",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nonlinear-derivatives-readme"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-forms-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/building-forms-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/git-version-control-getting-code-with-git"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/quote-maker-react-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/quote-maker-react-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-codealong"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-delete-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-index-codealong"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-index-codealong"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "stevens714",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-lab"
+  }
+]
