@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Ahmed-aleryani",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/fewpjs_default_rest_spread_as_function_arguments-to-get-started"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-cumulative-distribution-function"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-distributions-section-recap-v2-1"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-distributions-section-recap-v2-1"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-intro-to-sets"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-skewness-and-kurtosis"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-the-assignment-expression"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-1-project-campus"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-1-project-online"
+  },
+  {
+    "name": "JacksonBey",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-4-array-simple-array-manipulations-part-2"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-git-practice"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-running-jupyter-locally"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-running-jupyter-locally"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-running-jupyter-locally-lab"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-your-first-jupyter-notebook"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-your-first-jupyter-notebook"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dq-props-state"
+  },
+  {
+    "name": "dependabot[bot]",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dq-props-state"
+  },
+  {
+    "name": "dkw22",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/playlister-sinatra"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-technical-interview-tips"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-sql-interview-questions-lab"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/module-6-post-work"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dq-props-state"
+  },
+  {
+    "name": "drew-beckmen",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sending-thank-yous-after-interview"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-apollo-tutorial"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-discussion-questions"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-nitro-exploration"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-graphql-quiz"
+  },
+  {
+    "name": "hoffm386",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "kesgyatso",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-intro-ask-a-question"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-css-code-along"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-installation-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-html-css-scraping-intro-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-html-introduction"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-separating-content-and-presentation"
+  },
+  {
+    "name": "mamitch",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "michaelbiya",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-to-bootcamp-prep"
+  },
+  {
+    "name": "ssolomon9",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/debugging-with-pry"
+  },
+  {
+    "name": "yoonassanai",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/map-filter-lab-python"
+  }
+]
