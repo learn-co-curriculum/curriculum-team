@@ -1,0 +1,367 @@
+[
+  {
+    "name": "Ben-Oren",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dc-ds-060120"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-confusion-matrices"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-oop-recap-v2-1"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-1-project-campus"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-1-project-online"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-submissions-campus"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-submissions-online"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-project-submissions-online"
+  },
+  {
+    "name": "DenisKorolevWeb",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/calculating-distance-lab"
+  },
+  {
+    "name": "JOCOghub",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-costume-store-todo"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-initial-dispatch"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-initial-dispatch"
+  },
+  {
+    "name": "Stenke",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "Tellenwong",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-roc-curves-and-auc-lab"
+  },
+  {
+    "name": "afteralec",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-layouts-and-templates"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-arithmetic-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-fix-the-scope-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-intro-to-functions-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-from-dom-to-node"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-if-else-files-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-node-practice-lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-what-is-a-test-lab"
+  },
+  {
+    "name": "caitlinhinshaw",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/collaborating-objects-tdd-sample"
+  },
+  {
+    "name": "carriemathieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/prework-videos-enumerables-each"
+  },
+  {
+    "name": "cmljones",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "helloRupa",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-metaprogramming-mass-assignment-and-class-initialization"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-metaprogramming-mass-assignment-and-class-initialization"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-metaprogramming-mass-assignment-and-class-initialization"
+  },
+  {
+    "name": "hellonathanchung",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/validations-with-form_tag-rails"
+  },
+  {
+    "name": "hoffm386",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/seattle_chicago_ds_051120"
+  },
+  {
+    "name": "iuriseara",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nyc-web-100818"
+  },
+  {
+    "name": "j-max",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ds-west-082420"
+  },
+  {
+    "name": "j-max",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/master-ds-west-082420"
+  },
+  {
+    "name": "j-max",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/master-ds-west-082420"
+  },
+  {
+    "name": "kstough00",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-collaborating-objects-lab"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-bayes-theorem"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-coefficient-of-determination"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-config"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-confirm-install"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-confirm-install"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-introduction"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-introduction"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-mac-installation"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-mac-installation"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-windows-installation"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-windows-installation"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-processes"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-dealing-with-categorical-variables"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-experimental-design"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-extensions-to-linear-models-intro-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-full-ds-regression-intro"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-git-intro"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-git-intro"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-json-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-json-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-linear-regression-section-recap-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-poisson-distribution"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-recursive-functions-lab"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-running-jupyter-locally"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-stat-learning-theory"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-stat-learning-theory"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-uniform-distribution"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-uniform-distribution"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-toy-tale"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "melalat910",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/array-readme-qualifying"
+  },
+  {
+    "name": "muazzamnashat",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab-ghe-compat"
+  },
+  {
+    "name": "spasatel13",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "sylwiavargas",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-fundamentals-object-initialization"
+  },
+  {
+    "name": "wkhearn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  }
+]
