@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Brandthomas",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hello-world-ruby"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-big-data-analytics-apache-spark"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-clustering-intro"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-clustering-recap"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-clustering-recap"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-common-problems-with-clustering"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-data-science-env-config"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-hierarchical-agglomerative-clustering"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-parallel-and-distributed-computing-with-mapreduce"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-recommendation-system-introduction"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-recommendation-system-introduction"
+  },
+  {
+    "name": "RefinedSilver",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/creating-and-inserting-dom-nodes"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-technical-interview-formats"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-technical-interviewing-resources"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/careers-technical-interviewing-resources"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-create-store-lab"
+  },
+  {
+    "name": "adarvin14",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/variable-readme"
+  },
+  {
+    "name": "barrettanderson",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/omniauth_lab"
+  },
+  {
+    "name": "brianfranklin12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/javascript-objects-lab"
+  },
+  {
+    "name": "cernanb",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-data-gem-assessment"
+  },
+  {
+    "name": "cernanb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-data-gem-assessment"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-data-gem-assessment"
+  },
+  {
+    "name": "cernanb",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-project-planning"
+  },
+  {
+    "name": "cernanb",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-project-planning"
+  },
+  {
+    "name": "cernanb",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-project-planning"
+  },
+  {
+    "name": "jirvingphd",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/my_learn_homepage_template"
+  },
+  {
+    "name": "learn-co-curriculum",
+    "type": "PublicEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/aug-ds-ft-2020-notebooks"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-bayesian-classification-intro-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-bayesian-classification-recap-v2-1"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-building-an-object-oriented-simulation-lab"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-classifiers-with-bayes"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-lab"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-with-sklearn-codealong"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-decision-trees-with-sklearn-codealong"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-ensemble-methods-section-recap"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-entropy-and-information-gain"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-entropy-and-information-gain"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-boosting-and-weak-learners"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-descent-review"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-descent-review"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-to-cost-function-appendix"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-gradient-to-cost-function-appendix"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-decision-trees"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-introduction-to-support-vector-machines"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-mle-review"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-pipelines-recap"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-svm-recap"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-the-kernel-trick"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-visualizing-confusion-matrices-lab"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "oliverbebber",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rspec-fizzbuzz"
+  },
+  {
+    "name": "pdbradley",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-dynamic-components"
+  },
+  {
+    "name": "spasatel13",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/applying-gradient-descent-lab"
+  }
+]
