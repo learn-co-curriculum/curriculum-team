@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Amberlynnyandow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/online-ds-pt-052620"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-structure-of-this-course"
+  },
+  {
+    "name": "DmitriyMalayev",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-nested-forms-readme"
+  },
+  {
+    "name": "DmitriyMalayev",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/sinatra-yield-readme"
+  },
+  {
+    "name": "Muhammad-cp",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hello-world-ruby"
+  },
+  {
+    "name": "SVRourke",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/example-sinatra-assessment"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-forms-codealong"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-index-codealong"
+  },
+  {
+    "name": "Shailu81",
+    "type": "CommitCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/python-dictionaries-lab"
+  },
+  {
+    "name": "WatheqAlshowaiter",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge"
+  },
+  {
+    "name": "ap0ught",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/hs-mario-stretch-lab"
+  },
+  {
+    "name": "brandonbrown4792",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-update-lifecycle-readme"
+  },
+  {
+    "name": "carriemathieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "colerau",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-rails-as-api-extracting-a-service-class"
+  },
+  {
+    "name": "dwyn",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-application-basics-readme"
+  },
+  {
+    "name": "edwardcheng22",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-word-vectorization-lab"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/aug-ds-ft-2020-notebooks"
+  },
+  {
+    "name": "erdosn",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/online-dsc-assessments"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/online-dsc-assessments"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/warmups"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-cobra-intro"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-jenkins"
+  },
+  {
+    "name": "garettarrowood",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/phrg-nitro-final-project"
+  },
+  {
+    "name": "ismayton",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/positioning-elements-with-css"
+  },
+  {
+    "name": "jonathanx111",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/programming-univbasics-3-methods-scope"
+  },
+  {
+    "name": "laflaren",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-functions-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "lizbur10",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/advanced-hashes-hashketball"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rspec-fizzbuzz"
+  },
+  {
+    "name": "maxwellbenton",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/curriculum-team"
+  },
+  {
+    "name": "sPesce",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-reducer"
+  },
+  {
+    "name": "sandienunez",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/strong-params-basics"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-getting-help"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/welcome-introduction"
+  }
+]
