@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-installing-r"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-intro-to-tidyverse"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-project-presentation-planning"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-project-slide-design"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-repo-content-exercises"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-postgrad-repo-readability"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-r-base-ics-1"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-r-base-ics-2"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-r-to-python-an-overview"
+  },
+  {
+    "name": "GabSoh",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/the-learn-ide-getting-set-up"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html-iframes"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html5-semantic-containers-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/html5-video-embed-lab"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-readme"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-readme"
+  },
+  {
+    "name": "adam-larosa",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-enumerables-hash-practice-emoticon-translator-lab"
+  },
+  {
+    "name": "adeebarivera",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/artist-song-modules"
+  },
+  {
+    "name": "canering",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/environment-mac-os-catalina-setup"
+  },
+  {
+    "name": "carriemathieu",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/translating-orm-to-ar"
+  },
+  {
+    "name": "cosmos101",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-ide-lab"
+  },
+  {
+    "name": "crutell331",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-async-gif-search-lab"
+  },
+  {
+    "name": "foxten",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/react-async-gif-search-lab"
+  },
+  {
+    "name": "halented",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cohort-names"
+  },
+  {
+    "name": "helenalvp",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-deli-counter"
+  },
+  {
+    "name": "helloRupa",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "helloRupa",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "helloRupa",
+    "type": "DeleteEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  },
+  {
+    "name": "helloRupa",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  },
+  {
+    "name": "kierrakay",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/map-state-to-props-lab"
+  },
+  {
+    "name": "kierrakay",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/review-map-state-to-props-readme"
+  },
+  {
+    "name": "knbrlo",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-intro-to-hashes-lab"
+  },
+  {
+    "name": "krishnadevz",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-data-structures-objects-readme"
+  },
+  {
+    "name": "morristech",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/cli-data-gem-assessment"
+  },
+  {
+    "name": "morristech",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  },
+  {
+    "name": "morristech",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-student-scraper"
+  },
+  {
+    "name": "nicklunn325",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/jsdom-dom-challenge"
+  },
+  {
+    "name": "oliverbebber",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/oo-ruby-video-object-orientation-overview"
+  },
+  {
+    "name": "taoliu12",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/rails-amusement-park"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PullRequestReviewCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PullRequestReviewEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-validations-readme"
+  },
+  {
+    "name": "timothylevi",
+    "type": "PullRequestReviewEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/forms-and-basic-associations-rails"
+  }
+]
