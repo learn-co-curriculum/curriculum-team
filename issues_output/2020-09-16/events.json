@@ -1,0 +1,77 @@
+[
+  {
+    "name": "CelinaJackson",
+    "type": "WatchEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/example-sinatra-assessment"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-2-project-campus"
+  },
+  {
+    "name": "DavidBraslow",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-phase-2-project-online"
+  },
+  {
+    "name": "LoreDirick",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/getting-started"
+  },
+  {
+    "name": "Sdcrouse",
+    "type": "IssueCommentEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-readme"
+  },
+  {
+    "name": "Veenie",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/activerecord-costume-store-todo"
+  },
+  {
+    "name": "aliyamerali",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-getting-started"
+  },
+  {
+    "name": "aliyamerali",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/first-mile-getting-started"
+  },
+  {
+    "name": "aliyamerali",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/getting-started"
+  },
+  {
+    "name": "aliyamerali",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/getting-started"
+  },
+  {
+    "name": "erdosn",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-capstone-examples"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/data-science-capstone-examples"
+  },
+  {
+    "name": "lindseyberlin",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-time-series-decomposition"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/crud-lab"
+  },
+  {
+    "name": "nlnlvlc",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-analyzing-macbeth-project-v2-1"
+  }
+]
