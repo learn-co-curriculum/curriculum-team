@@ -1,0 +1,79 @@
+* [1593127659][btbacker]: Readme typo fixes https://github.com/learn-co-curriculum/terminal-reference/pull/4
+* [1596817865][afteralec]: Typo in #4 - 'preform' https://github.com/learn-co-curriculum/week-4-day-2-discussion/issues/2
+* [1600266487][paulnicholsen27]: All questions are #1 https://github.com/learn-co-curriculum/rest-discussion-questions/issues/3
+* [1598632720][fbado66]: Perhaps a typo? https://github.com/learn-co-curriculum/rest-discussion-questions/issues/2
+* [1597334971][bdb2381]: ActiveRecord::Base vs  ApplicationRecrod https://github.com/learn-co-curriculum/restful-kickstarter-challenge/issues/2
+* [1581208983][twwright]: Readme no longer contains information regarding application.rb https://github.com/learn-co-curriculum/rack-intro/issues/17
+* [1580148888][Emanao]: Suggestion: Change title of the lesson for Rack::Request. https://github.com/learn-co-curriculum/rack-http-request-readme/issues/8
+* [1579068947][pjavadi84]: gem install sinatra stops half way through installation https://github.com/learn-co-curriculum/sinatra-from-scratch-readme/issues/14
+* [1599859051][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-hello-world-basics/pull/12
+* [1599859037][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.10 https://github.com/learn-co-curriculum/sinatra-hello-world-basics/pull/11
+* [1599859005][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.3 https://github.com/learn-co-curriculum/sinatra-hello-world-basics/pull/10
+* [1583272946][Kenney-G]: "Hmm...this doesn't appear to be a Learn lesson. Are you in the right directory?" https://github.com/learn-co-curriculum/sinatra-hello-world-basics/issues/9
+* [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1593057797][chienleow]: 4 tests in '/owners/:id/edit' are BROKEN https://github.com/learn-co-curriculum/sinatra-complex-forms-associations/issues/85
+* [1592362214][drew-beckmen]: Refers to ERB tags when discussing Ruby code in application_controller.rb https://github.com/learn-co-curriculum/sinatra-complex-forms-associations/issues/83
+* [1596399238][dkw22]: Losing Connection https://github.com/learn-co-curriculum/playlister-sinatra/issues/83
+* [1593987394][JoaoCardoso193]: Error https://github.com/learn-co-curriculum/playlister-sinatra/issues/82
+* [1589062194][ashleymader]: Rack-flash issues https://github.com/learn-co-curriculum/playlister-sinatra/issues/80
+* [1600109587][IgoVeyner]: Test in wrong section https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/74
+* [1600019643][IgoVeyner]: Spec logic error, will always pass, useless test https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/73
+* [1600016914][IgoVeyner]: Two Submit Buttons inside of Form https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/72
+* [1598475309][Directrix777]: Logout view contradicts logout test https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/71
+* [1590768178][critsmet]: No information about slugs anywhere https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/69
+* [1597786529][gnappo1]: Webpacker configuration file not found https://github.com/learn-co-curriculum/rails-application-basics-readme/issues/19
+* [1576034089][jermain119]:  not passing test  somethings wrong with lesson  https://github.com/learn-co-curriculum/rails-hello-world-lab/issues/24
+* [1573206350][Sdcrouse]: The "activate page" part needs to be modified or removed https://github.com/learn-co-curriculum/rails-url-helpers-lab/issues/27
+* [1600262834][paulnicholsen27]: Replace Post with literally anything else https://github.com/learn-co-curriculum/rails-form_tag-readme/issues/34
+* [1600262871][paulnicholsen27]: Replace Post with another model https://github.com/learn-co-curriculum/rails-form_tag-lab/issues/24
+* [1573722958][Sdcrouse]: This lesson should be updated for Rails 5 and above. https://github.com/learn-co-curriculum/rails-create-action-readme/issues/19
+* [1586023038][Asilver-jpg]: Should have data in the seed file https://github.com/learn-co-curriculum/rails-edit-update-action-readme/issues/34
+* [1598216651][sandienunez]: "whitelist" word used in paragraph 1 is not inclusive towards all races, please remove immediately. https://github.com/learn-co-curriculum/strong-params-basics/issues/26
+* [1585961605][replacem3nts]: Put/Patch/Resources Inconsistency https://github.com/learn-co-curriculum/rails-form_for-on-edit-readme/issues/24
+* [1573163433][rohanphillips]: Failing Test https://github.com/learn-co-curriculum/rails-cru-form_for-lab/issues/22
+* [1597334971][bdb2381]: ActiveRecord::Base vs  ApplicationRecrod https://github.com/learn-co-curriculum/restful-kickstarter-challenge/issues/2
+* [1588724476][Anthonyntilelli]: Update README.md https://github.com/learn-co-curriculum/activerecord-validations-readme/pull/14
+* [1589149066][twwright]: Use ActiveModel::Validation solution from previous readme https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/15
+* [1590609348][epittab]: Problem with Rspec after using Rails Testing Readme  https://github.com/learn-co-curriculum/ruby-rails-testing/issues/5
+* [1592508771][ryanmeinzer]: all specs need " require 'rails_helper' " https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/35
+* [1586575369][dannyflatiron]: Link_to create new song https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/33
+* [1586575258][dannyflatiron]: Test Suite for show view file is not active https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/32
+* [1586188542][Asilver-jpg]: link to the definition persists https://github.com/learn-co-curriculum/activerecord-associations-review/issues/14
+* [1586189888][Asilver-jpg]: Error on rake db:migrate https://github.com/learn-co-curriculum/join-the-fun-rails/issues/9
+* [1596672129][afteralec]: Error with rails db:migrate https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/33
+* [1572908608][sgharms]: KNOWN ISSUES: Rewritten Version Pending Upload / Deploy https://github.com/learn-co-curriculum/flatiron-bnb-methods/issues/32
+* [1593534410][gabejoseph]: Lab is broken https://github.com/learn-co-curriculum/displaying-associations-rails/issues/24
+* [1592753433][mattenbar]: unclear input / output https://github.com/learn-co-curriculum/forms-and-basic-associations-rails/issues/27
+* [1580826451][SwellPF]: The readme lesson differs from the associated lab regarding submitting an array of values to a controller https://github.com/learn-co-curriculum/forms-and-basic-associations-rails/issues/26
+* [1586300135][Asilver-jpg]: Following the information in the lab, running addresses_attributes= returns nothing https://github.com/learn-co-curriculum/basic-nested-forms/issues/33
+* [1586300660][Asilver-jpg]: Directory has no specs https://github.com/learn-co-curriculum/displaying-has-many-through-rails/issues/24
+* [1596777498][afteralec]: Lab Missing manifest.js and rails_helper.rb https://github.com/learn-co-curriculum/rails-blog-associations-validations/issues/21
+* [1597094701][afteralec]: Rspec Method missing Gem https://github.com/learn-co-curriculum/rails-layouts-and-templates/issues/9
+* [1599340916][dougschallmoser]: Deprecated code in test specs https://github.com/learn-co-curriculum/rails-layouts-and-templates-lab/issues/21
+* [1581106242][zdsmit]: Problem with '/classrooms/show.html.erb' https://github.com/learn-co-curriculum/simple-partials-lab/issues/20
+* [1577066033][Sdcrouse]: Removes controller action and refactors test specs https://github.com/learn-co-curriculum/simple-partials-lab/pull/19
+* [1592668124][ryanmeinzer]: ReadMe is incorrect https://github.com/learn-co-curriculum/partial-locals-reading/issues/33
+* [1577139251][Sdcrouse]: The code in the README is inaccurate, starting in the "The Problem" section https://github.com/learn-co-curriculum/partial-locals-reading/issues/25
+* [1596743596][charlie763]: products_index_spec seems wacky https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/27
+* [1578355278][thecodepixi]: Index view is tested without utilizing controller https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/26
+* [1588460791][neosaurrrus]: Resources link behind a paywall https://github.com/learn-co-curriculum/sessions_controller_readme/issues/11
+* [1593027640][ryanmeinzer]: protect_from_forgery with: :exception needs to be removed from Controller for lab to work in browser https://github.com/learn-co-curriculum/sessions_controller_lab/issues/23
+* [1578885043][Sdcrouse]: Missing tests for the homepage https://github.com/learn-co-curriculum/sessions_controller_lab/issues/18
+* [1578891362][Sdcrouse]: Edits to README https://github.com/learn-co-curriculum/login_required_readme/pull/7
+* [1597270776][afteralec]: This Lab Requires bcrypt But Has It Commented Out In the Gemfile https://github.com/learn-co-curriculum/has_secure_password_lab/issues/23
+* [1597505724][barrettanderson]: Register a new OAuth Application Issue with Github https://github.com/learn-co-curriculum/omniauth_lab/issues/27
+* [1584904502][laarchambault]: Depreciation Notice: chromedrive-helper https://github.com/learn-co-curriculum/omniauth_lab/issues/23
+* [1579569252][Sdcrouse]: Mistake in Readme instructions for registering an OAuth app on Github https://github.com/learn-co-curriculum/omniauth_lab/issues/18
+* [1579496187][Sdcrouse]: Please update the Gemfile.lock file, and use the Thin gem instead of Puma https://github.com/learn-co-curriculum/omniauth_lab/issues/17
+* [1597346255][afteralec]: Issue w/ Devise Installing & FaceBook OAuth https://github.com/learn-co-curriculum/devise_lab/issues/51
+* [1584573158][m-gamao]: `start_unix_server': no unix-domain acceptor (RuntimeError) https://github.com/learn-co-curriculum/devise_lab/issues/48
+* [1598493917][chienleow]: Capybara Error "Unable to find visible field 'password' that is not disabled" https://github.com/learn-co-curriculum/rails-amusement-park/issues/26
+* [1572899313][drakeltheryuujin]: KNOWN ISSUE https://github.com/learn-co-curriculum/flatiron-store-project/issues/28
+* [1577515503][Sdcrouse]: Update README https://github.com/learn-co-curriculum/routing-nested-resources-reading/pull/31
+* [1577514931][Sdcrouse]: Out of date information in the "Dynamic Route Segments" section https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/30
+* [1577493347][Sdcrouse]: Instructions for resetting the database don't work. https://github.com/learn-co-curriculum/routing-nested-resources-reading/issues/29
+* [1578039815][Sdcrouse]: Instructions and tests unclear about how Preferences are associated with Artists and Songs https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/42
+* [1578038726][Sdcrouse]: `rake preferences:load` command unclear https://github.com/learn-co-curriculum/namespaced-routes-lab/issues/41
+* [1586460438][Asilver-jpg]: seeds broken https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/issues/15
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1532726869][realAndrewCohn]: Wip solution @sbal13 pls review https://github.com/learn-co-curriculum/rails-challenge-practice/pull/6
