@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Cheffrey2000",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-assumptions"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-regression-assumptions"
+  },
+  {
+    "name": "Cheffrey2000",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/dsc-tuning-decision-trees-lab"
+  },
+  {
+    "name": "David-Zeak",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/nearest-neighbors-lab"
+  },
+  {
+    "name": "afteralec",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/boozer-react"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/aug-ds-ft-2020-notebooks"
+  },
+  {
+    "name": "erdosn",
+    "type": "PushEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/warmups"
+  },
+  {
+    "name": "lizbur10",
+    "type": "CreateEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-lab"
+  },
+  {
+    "name": "lizbur10",
+    "type": "PullRequestEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/redux-thunk-lab"
+  },
+  {
+    "name": "rtetelbaum",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/ruby-oo-object-relationships-has-many-through-lab"
+  },
+  {
+    "name": "skabe89",
+    "type": "IssuesEvent",
+    "repo": "https://api.github.com/repos/learn-co-curriculum/js-basics-online-shopping-lab"
+  }
+]
