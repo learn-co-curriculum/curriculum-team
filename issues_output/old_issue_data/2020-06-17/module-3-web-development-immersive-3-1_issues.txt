@@ -1,8 +1,0 @@
-* [1584452900][bumbot]: Typo https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types/issues/2
-* [1589728096][hoobie4792]: Readme example GIF does not load https://github.com/learn-co-curriculum/bookliker-practice-challenge/issues/2
-* [1589553405][elliott-king]: Question clarification https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz/issues/4
-* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
-* [1590562564][Sdcrouse]: Quiz is improperly formatted - it has questions, but no answer options https://github.com/learn-co-curriculum/fewpjs-oo-predicting-constructor-effects-instrumental/issues/1
-* [1590008422][hoobie4792]: Question 2 Animal class appears that it should be the Mammal class https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/issues/4
-* [1588165174][laarchambault]: last question unclearly written https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/issues/3
-* [1583168892][maddeno]: generated resources https://github.com/learn-co-curriculum/fewpjs-project-mode-guidelines/pull/10

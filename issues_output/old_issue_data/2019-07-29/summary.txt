@@ -1,8 +1,0 @@
-    64 mod1_issues.md
-   336 mod2_issues.md
-     7 mod3_1_issues.md
-   153 mod4_issues.md
-     0 pfwtfp_issues.md
-     3 prework_issues.md
-   759 v7_issues.md
-  1322 total

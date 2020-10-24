@@ -1,1 +1,0 @@
-* [1483316821][dustinlikens]: Incorrect / unclear sequence https://github.com/learn-co-curriculum/project-euler-sum-square-difference/pull/2

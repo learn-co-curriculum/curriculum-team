@@ -1,6 +1,0 @@
-https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/issues/2
-https://github.com/learn-co-curriculum/programming-univbasics-working-with-string/issues/2
-https://github.com/learn-co-curriculum/programming-univbasics-3-ruby-method-arguments-lab/issues/1
-https://github.com/learn-co-curriculum/programming-univbasics-4-array-simple-array-manipulations/issues/3
-https://github.com/learn-co-curriculum/ruby-enumerables-introduction-to-map-and-reduce-lab/issues/4
-https://github.com/learn-co-curriculum/ruby-enumerables-generalized-map-and-reduce-lab/issues/2

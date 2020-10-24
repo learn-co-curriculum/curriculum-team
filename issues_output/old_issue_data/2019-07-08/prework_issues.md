@@ -1,9 +1,0 @@
-* https://github.com/learn-co-curriculum/programming-univbasics-working-with-string/issues/3
-* https://github.com/learn-co-curriculum/programming-univbasics-program-with-expressions/issues/2
-* https://github.com/learn-co-curriculum/programming-univbasics-1-quiz/issues/2
-* https://github.com/learn-co-curriculum/programming-univbasics-3-methods-default-values-lab/issues/5
-* https://github.com/learn-co-curriculum/programming-univbasics-3-methods-scope/issues/2
-* https://github.com/learn-co-curriculum/programming-univbasics-4-array-concept-review-lab/issues/5
-* https://github.com/learn-co-curriculum/ruby-enumerables-introduction-to-enumerables/issues/3
-* https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/issues/3
-* https://github.com/learn-co-curriculum/git-version-control-pushing-code-with-git/issues/3

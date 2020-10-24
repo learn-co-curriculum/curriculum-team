@@ -1,3 +1,0 @@
-* [1483316821][dustinlikens]: Incorrect / unclear sequence https://github.com/learn-co-curriculum/project-euler-sum-square-difference/pull/2
-* [1575558769][rrcobb]: Updates to team documentation https://github.com/learn-co-curriculum/curriculum-team/pull/28
-* [1543408707][aviflombaum]: `learn new` vs custom shell script https://github.com/learn-co-curriculum/curriculum-team/issues/12

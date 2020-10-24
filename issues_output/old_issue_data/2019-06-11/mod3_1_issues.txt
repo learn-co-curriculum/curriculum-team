@@ -1,2 +1,0 @@
-https://github.com/learn-co-curriculum/traversing-nested-objects/pull/25
-https://github.com/learn-co-curriculum/curriculum-team/issues/12

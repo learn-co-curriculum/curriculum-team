@@ -1,1 +1,0 @@
-* [1527021381][micahshute]: Equation in "Simplifying Time Complexity" Paragraph https://github.com/learn-co-curriculum/big-o-approximation/issues/2

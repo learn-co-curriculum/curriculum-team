@@ -1,3 +1,0 @@
-* [1576014214][christinamcmahon]: Open This Lab Doesn't Work https://github.com/learn-co-curriculum/ruby-oo-fundamentals-classes-and-instances-lab/issues/1
-* [1576016684][brookebachman00]: This line doesnt make sense, typo? https://github.com/learn-co-curriculum/ruby-oo-fundamentals-attribute-accessors/issues/1
-* [1576000844][alyon4a]: #10 is incorrect https://github.com/learn-co-curriculum/ruby-oo-introduction-quiz/issues/5
