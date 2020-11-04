@@ -13,6 +13,7 @@
 * [1581850305][rbhogans]: Selecting single elements labq 0 https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/55
 * [1526400512][FreeBreadsticks]: Image included to show students how to use the Console https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/35
 * [1517264342][sgharms]: Known Issues https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/28
+* [1603753941][rauggie]: getting past learn IDE https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/100
 * [1602605044][Malessi5]: From DOM To Node and the IDE - Cannot clone lesson https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/99
 * [1602595669][silverFactory]: Empty File Tree https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/98
 * [1601779499][nrymarz]: Done. https://github.com/learn-co-curriculum/js-from-dom-to-node/pull/97
@@ -156,19 +157,11 @@
 * [1598297045][jessebrown8895]: About Variable Assignment IDE button https://github.com/learn-co-curriculum/variable-readme/issues/32
 * [1588257794][CaptainBasch]: Sandbox takes a full minute or more to open when clicked on. https://github.com/learn-co-curriculum/variable-readme/issues/31
 * [1603264256][jabbasi09]: commit tree 8622ab02709d2ff437da5892b4bd16ed6610f60e https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/104
-* [1601479152][mariah622]: Solution https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/103
-* [1601405261][rtyenriques]: ruby-variable-assignment https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/102
-* [1601344623][galvezn]: Update variable.rb https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/100
 * [1599582269][doosemavis]: Ruby-Variable-Assignment Bug?  https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/99
 * [1594569539][Kokhob]: lesson will not load https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/96
 * [1601516835][jayy5919]: improved docs https://github.com/learn-co-curriculum/data-types-readme/pull/21
 * [1601470353][anubha-v-ardhan]: Update README.md https://github.com/learn-co-curriculum/data-types-readme/pull/20
 * [1597046858][melalat910]: Grammatical error, extra word https://github.com/learn-co-curriculum/array-readme-qualifying/issues/19
-* [1601776268][kerryannharry]: Lab complete https://github.com/learn-co-curriculum/ruby-methods-readme/pull/49
-* [1601618040][jmsimmons90]: Done. https://github.com/learn-co-curriculum/ruby-methods-readme/pull/48
-* [1601440846][rtyenriques]: methods-in-ruby https://github.com/learn-co-curriculum/ruby-methods-readme/pull/47
-* [1603242989][CodeMama96]: commit tree 63fd630c37054b15f80f7135c9d534b47e458f3c https://github.com/learn-co-curriculum/interpolation-readme/pull/24
-* [1597784240][SophiaGrace16]: I think there is a typo in the lesson https://github.com/learn-co-curriculum/puts-print-and-return-readme/issues/35
 * [1572980993][Shinelior]:  def display_board        puts ["   |   |   ","_________","   |   |   "]    puts ["   |   |   ","---------","   |   |   "]                    end   display_board https://github.com/learn-co-curriculum/ttt-3-display_board-example/issues/29
 * [1588684172][gennetteg]: video https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/48
 * [1596835082][atBeatty]: syntax error for require_relative https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn/issues/62

@@ -20,11 +20,13 @@
 * [1485725767][michaelsimon]: former link to action verbs broken (found a new list) https://github.com/learn-co-curriculum/careers-resume-work-experience/pull/5
 * [1485703059][ghost]: Broken Link https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/4
 * [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1603794267][LizLaffitte]: Removed broken email finder tools, added a new one. https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/8
 * [1603435928][Sdcrouse]: Remove links to nonexistent sites https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/7
 * [1603435580][Sdcrouse]: Two of the websites for finding email addresses no longer exist https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/6
 * [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
 * [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
 * [1592248949][laarchambault]: Duplicate Bullet Points https://github.com/learn-co-curriculum/linkedin-for-research-and-networking/issues/4
+* [1604213998][Sdcrouse]: Typo fixes https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication/pull/3
 * [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
 * [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
 * [1485871267][ghost]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
@@ -39,7 +41,14 @@
 * [1597645002][Sdcrouse]: Broken links in the "Problem Sets" and "Books" sections https://github.com/learn-co-curriculum/careers-technical-interviewing-resources/issues/3
 * [1579102017][dannylee8]: URL changes from university to personal https://github.com/learn-co-curriculum/careers-technical-interviewing-resources/pull/2
 * [1579542772][dannylee8]: Blockquotes adding an extra '>' on new line https://github.com/learn-co-curriculum/careers-following-up/issues/6
+* [1604291202][Sdcrouse]: Add example email about job offer clarification https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/pull/3
+* [1604285940][Sdcrouse]: Missing example email https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/issues/2
 * [1586883720][adybas]: Link to Salary Question content goes no where https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/issues/1
+* [1604291265][Sdcrouse]: Remove example email, and fix broken link https://github.com/learn-co-curriculum/approaching-salary-negotiations/pull/5
+* [1604285724][Sdcrouse]: Move the example email into the previous lesson, "How to Approach Offer Negotiations" https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/4
+* [1604285141][Sdcrouse]: Second link from the bottom is broken https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/3
+* [1604449041][Sdcrouse]: Fix 2 out of 3 broken links https://github.com/learn-co-curriculum/careers-staying-current-in-the-tech-industry/pull/3
+* [1604448121][Sdcrouse]: Broken links in the README https://github.com/learn-co-curriculum/careers-staying-current-in-the-tech-industry/issues/2
 * [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
 * [1602193581][anewt225]: Update "new career as a software engineer" to be more general https://github.com/learn-co-curriculum/building-a-strong-job-search-foundation/issues/5
 * [1602195812][anewt225]: premium account update https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/4
@@ -55,11 +64,13 @@
 * [1590582042][BryantIT]: fixed typo https://github.com/learn-co-curriculum/careers-blogging/pull/6
 * [1581186173][helloamandamurphy]: Hyperlink on Learn gives 404 Error https://github.com/learn-co-curriculum/careers-blogging/issues/5
 * [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1603794267][LizLaffitte]: Removed broken email finder tools, added a new one. https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/8
 * [1603435928][Sdcrouse]: Remove links to nonexistent sites https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/7
 * [1603435580][Sdcrouse]: Two of the websites for finding email addresses no longer exist https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/6
 * [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
 * [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
 * [1592248949][laarchambault]: Duplicate Bullet Points https://github.com/learn-co-curriculum/linkedin-for-research-and-networking/issues/4
+* [1604213998][Sdcrouse]: Typo fixes https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication/pull/3
 * [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
 * [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
 * [1485871267][ghost]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
@@ -68,4 +79,9 @@
 * [1486404196][ghost]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
 * [1598384324][Sdcrouse]: Duplicate Lessons in the Career Prep track https://github.com/learn-co-curriculum/sending-thank-yous-after-interview/issues/3
 * [1579542772][dannylee8]: Blockquotes adding an extra '>' on new line https://github.com/learn-co-curriculum/careers-following-up/issues/6
+* [1604291202][Sdcrouse]: Add example email about job offer clarification https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/pull/3
+* [1604285940][Sdcrouse]: Missing example email https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/issues/2
 * [1586883720][adybas]: Link to Salary Question content goes no where https://github.com/learn-co-curriculum/how-to-approach-offer-negotiations/issues/1
+* [1604291265][Sdcrouse]: Remove example email, and fix broken link https://github.com/learn-co-curriculum/approaching-salary-negotiations/pull/5
+* [1604285724][Sdcrouse]: Move the example email into the previous lesson, "How to Approach Offer Negotiations" https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/4
+* [1604285141][Sdcrouse]: Second link from the bottom is broken https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/3
