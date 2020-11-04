@@ -1,5 +1,6 @@
 bootcamp-prep-v2_issues 196
 career-prep_issues 71
+events 37
 full-stack-web-development-v8_issues 166
 phase_1_online_issues 148
 phase_1_sync_issues 51
@@ -13,3 +14,4 @@ phase_5_online_issues 0
 post-graduate-track_issues 30
 prework-software-engineering_issues 27
 sec-development_issues 35
+summary 16

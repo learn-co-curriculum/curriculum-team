@@ -1,4 +1,5 @@
 * [1584452900][bumbot]: Typo https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types/issues/2
+* [1603761749][cedric-joaquin]: Odd Errors won't pass test https://github.com/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars-new/issues/4
 * [1595452291][Jonnyghan]: open command doesn't work for windows users https://github.com/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars-new/issues/2
 * [1595257821][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-stitching-together-the-three-pillars-new/pull/1
 * [1591984946][Emanao]: the DOM, a JavaScript object ... https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/7
@@ -16,11 +17,14 @@
 * [1586738042][Sdcrouse]: Suggested Edit: Add information about using `:scope` in the querySelectorAll method https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/issues/3
 * [1586736769][Sdcrouse]: Fix inaccurate information in README https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/pull/2
 * [1586736202][Sdcrouse]: Slightly inaccurate information in the lesson https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/issues/1
+* [1603590455][Rollo510]: Timeout exceeded for all JS labs https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/issues/9
 * [1598297857][solomonfy]: Issue with passing test https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/issues/8
 * [1594903716][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/pull/7
 * [1580322060][alyon4a]: Content: referencing a wrong example https://github.com/learn-co-curriculum/fewpjs-youre-a-dom-manipulation-master/issues/2
 * [1580322899][alyon4a]: Wrong sequence https://github.com/learn-co-curriculum/fewpjs-javascript-eventing/issues/7
 * [1594903558][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-event-listening/pull/6
+* [1603975839][chihempat]: Update README.md https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/pull/8
+* [1603743127][zkobrinsky]: Typo https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/7
 * [1600091173][Eisea904]: Mozart is not Baroque, 'Define Abstraction' section https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/6
 * [1584070693][lorena57]: () fuction placement https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/5
 * [1594903553][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior/pull/15
@@ -28,6 +32,7 @@
 * [1594903553][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-array-o-functions/pull/11
 * [1594903559][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-acting-on-events/pull/12
 * [1594903558][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-document-onload/pull/7
+* [1603914378][dickm19]: done https://github.com/learn-co-curriculum/jsdom-dom-challenge/pull/13
 * [1598763603][nicklunn325]: Disable buttons https://github.com/learn-co-curriculum/jsdom-dom-challenge/pull/12
 * [1578601683][ChrstphGrnr]: 500 error for students on Learn.co https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/11
 * [1599817884][dependabot[bot]]: Bump node-fetch from 2.3.0 to 2.6.1 https://github.com/learn-co-curriculum/fewpjs-fetch-lab/pull/18
@@ -51,6 +56,7 @@
 * [1573038012][carl1984r]: Error when opening lab.  https://github.com/learn-co-curriculum/jsdom-fetch-dog-ceo-challenge/issues/2
 * [1591569232][PhantasticHenry]: update SoundCoud to SoundCloud https://github.com/learn-co-curriculum/fewpjs-asynchrony/pull/5
 * [1585022039][wifelette]: Persisten Typo—Code Block vs Code Bloc https://github.com/learn-co-curriculum/fewpjs-asynchrony/pull/4
+* [1604267487][baker615512]: Submit key value pair https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/20
 * [1602161547][rohanphillips]: errors running npm install -g json-server https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/19
 * [1599810385][dependabot[bot]]: Bump node-fetch from 2.3.0 to 2.6.1 https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/18
 * [1594906601][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/17
@@ -58,6 +64,7 @@
 * [1589548567][elliott-king]: Fix unclear test output https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/15
 * [1588232331][Sdcrouse]: README is unclear about where to write its example code, if at all https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/14
 * [1583285005][alouiscious]: not sure that this .catch error example works https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/13
+* [1604009557][mkirby]: Solution code has a significant flaw https://github.com/learn-co-curriculum/fewpjs-build-the-example/issues/12
 * [1594908077][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-build-the-example/pull/11
 * [1587395927][garettarrowood]: Needs tests https://github.com/learn-co-curriculum/fewpjs-build-the-example/issues/10
 * [1593968108][Emanao]: Code Along Error when running rails db:migrate in the Learn IDE env. https://github.com/learn-co-curriculum/js-rails-as-api-review-of-rails-mvc/issues/16
@@ -162,5 +169,7 @@
 * [1594481119][MaoZiming]: Done. https://github.com/learn-co-curriculum/debugging-workshop/pull/2
 * [1602460405][devindavis5]: Demo not displaying https://github.com/learn-co-curriculum/woof-woof-js-practice/issues/2
 * [1589728096][brandonbrown4792]: Readme example GIF does not load https://github.com/learn-co-curriculum/bookliker-practice-challenge/issues/2
+* [1604367372][dickm19]: done https://github.com/learn-co-curriculum/js-quotes-practice/pull/7
+* [1603914378][dickm19]: done https://github.com/learn-co-curriculum/jsdom-dom-challenge/pull/13
 * [1598763603][nicklunn325]: Disable buttons https://github.com/learn-co-curriculum/jsdom-dom-challenge/pull/12
 * [1578601683][ChrstphGrnr]: 500 error for students on Learn.co https://github.com/learn-co-curriculum/jsdom-dom-challenge/issues/11

@@ -1,10 +1,12 @@
 * [1581208983][twwright]: Readme no longer contains information regarding application.rb https://github.com/learn-co-curriculum/rack-intro/issues/17
 * [1601858206][mkirby]: Time.new (Fails) vs Time.now (Passes) https://github.com/learn-co-curriculum/rack-responses-lab/issues/11
 * [1580148888][Emanao]: Suggestion: Change title of the lesson for Rack::Request. https://github.com/learn-co-curriculum/rack-http-request-readme/issues/8
+* [1603811154][Lewiss-codes]: Fis wip https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/pull/7
 * [1595910730][dependabot[bot]]: Bump json from 2.2.0 to 2.3.1 https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/pull/6
 * [1582670126][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-basics-well-formed-html-document-lab/pull/5
 * [1595910365][dependabot[bot]]: Bump json from 2.2.0 to 2.3.1 https://github.com/learn-co-curriculum/html-basics-a-tag-with-href-attributes-lab/pull/5
 * [1582670020][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-basics-a-tag-with-href-attributes-lab/pull/4
+* [1603811490][Lewiss-codes]: Done. https://github.com/learn-co-curriculum/html-fundamentals-text-formatting-lab/pull/4
 * [1595910350][dependabot[bot]]: Bump json from 2.1.0 to 2.3.1 https://github.com/learn-co-curriculum/html-fundamentals-text-formatting-lab/pull/3
 * [1582669877][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/html-fundamentals-text-formatting-lab/pull/2
 * [1595910273][dependabot[bot]]: Bump json from 2.1.0 to 2.3.1 https://github.com/learn-co-curriculum/html-fundamentals-html-lists-lab/pull/3
@@ -22,6 +24,9 @@
 * [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
 * [1579068947][pjavadi84]: gem install sinatra stops half way through installation https://github.com/learn-co-curriculum/sinatra-from-scratch-readme/issues/14
 * [1583272946][Kenney-G]: "Hmm...this doesn't appear to be a Learn lesson. Are you in the right directory?" https://github.com/learn-co-curriculum/sinatra-hello-world-basics/issues/9
+* [1603718495][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.10 https://github.com/learn-co-curriculum/sinatra-basic-routes-lab/pull/11
+* [1603718494][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-basic-routes-lab/pull/10
+* [1603718489][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.3 https://github.com/learn-co-curriculum/sinatra-basic-routes-lab/pull/9
 * [1534356416][drakeltheryuujin]: Known Issues https://github.com/learn-co-curriculum/sinatra-video-review-forms/issues/13
 * [1602871473][doosemavis]: Sinatra Basics and UP -- gem 'thin' issue https://github.com/learn-co-curriculum/sinatra-integrating-models-walkthrough/issues/42
 * [1550110984][DakotaLMartinez]: unclear reference to server side sessions  https://github.com/learn-co-curriculum/sinatra-cookies-readme/issues/17
@@ -30,6 +35,9 @@
 * [1558644774][atxrenegade]: Vague and misleading generalization https://github.com/learn-co-curriculum/sinatra-mechanics-of-sessions-readme/issues/14
 * [1600981074][milos381]: bundle install not working https://github.com/learn-co-curriculum/sinatra-activerecord-setup/issues/20
 * [1601475205][codyalvarez]: NotImplementedError https://github.com/learn-co-curriculum/sinatra-ar-crud-lab/issues/72
+* [1603720250][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.10 https://github.com/learn-co-curriculum/sinatra-user-auth/pull/56
+* [1603720249][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.3 https://github.com/learn-co-curriculum/sinatra-user-auth/pull/55
+* [1603720248][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-user-auth/pull/54
 * [1599076614][ismayton]: Code-Along pre-completed https://github.com/learn-co-curriculum/sinatra-user-auth/issues/53
 * [1597431177][dougschallmoser]: Instance Variables In POST route https://github.com/learn-co-curriculum/sinatra-user-auth/issues/52
 * [1583187093][Emanao]: Test "fails to log in with an incorrect password" could be improved https://github.com/learn-co-curriculum/sinatra-user-auth/issues/51
@@ -45,6 +53,9 @@
 * [1585369070][Nisticism]: session[:id] inconsistency https://github.com/learn-co-curriculum/sinatra-password-security/issues/65
 * [1584589455][CoderJay06]: Mistake in the read me https://github.com/learn-co-curriculum/sinatra-password-security/issues/64
 * [1581357405][mrarthurwhite]: Typo in Securing Passwords in Sinatra https://github.com/learn-co-curriculum/sinatra-password-security/issues/61
+* [1603720243][dependabot[bot]]: Bump nokogiri from 1.10.1 to 1.10.10 https://github.com/learn-co-curriculum/sinatra-secure-password-lab/pull/34
+* [1603720242][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.3 https://github.com/learn-co-curriculum/sinatra-secure-password-lab/pull/33
+* [1603720241][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-secure-password-lab/pull/32
 * [1587683739][Salaizrm]: solution to this lab doesnt save user info https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/31
 * [1564106454][Sdcrouse]: One of the tests for the "/login" route can return a false positive https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/30
 * [1560977800][thistonyb]: To Do https://github.com/learn-co-curriculum/sinatra-secure-password-lab/issues/29
@@ -52,6 +63,9 @@
 * [1601506402][gnappo1]: Recipe App new page '/recipes/new' posts the form back to create a new recipe https://github.com/learn-co-curriculum/sinatra-video-review-authentication/issues/5
 * [1572109524][DesterStorm]: ActiveRecord method has been changed https://github.com/learn-co-curriculum/sinatra-video-review-authentication/issues/4
 * [1573436716][axiswolf]: BigDecimal.new is deprecated error message https://github.com/learn-co-curriculum/sinatra-restful-routes-lab/issues/30
+* [1603720208][dependabot[bot]]: Bump activerecord from 4.2.0 to 4.2.7.1 https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux/pull/29
+* [1603720204][dependabot[bot]]: Bump rack from 2.0.6 to 2.2.3 https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux/pull/28
+* [1603720204][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux/pull/27
 * [1553967863][helloamandamurphy]: Several issues before Tux would run https://github.com/learn-co-curriculum/sinatra-activerecord-using-tux/issues/26
 * [1593057797][chienleow]: 4 tests in '/owners/:id/edit' are BROKEN https://github.com/learn-co-curriculum/sinatra-complex-forms-associations/issues/85
 * [1592362214][drew-beckmen]: Refers to ERB tags when discussing Ruby code in application_controller.rb https://github.com/learn-co-curriculum/sinatra-complex-forms-associations/issues/83
@@ -65,5 +79,6 @@
 * [1600016914][IgoVeyner]: Two Submit Buttons inside of Form https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/72
 * [1598475309][Directrix777]: Logout view contradicts logout test https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/71
 * [1590768178][critsmet]: No information about slugs anywhere https://github.com/learn-co-curriculum/sinatra-fwitter-group-project/issues/69
+* [1604360572][allisonkadel]: Adds link to CMS resource https://github.com/learn-co-curriculum/sinatra-cms-app-assessment/pull/32
 * [1588263176][ashleymader]: Resources https://github.com/learn-co-curriculum/sinatra-cms-app-assessment/issues/31
 * [1564014377][eponsonby]: Linked Example not working https://github.com/learn-co-curriculum/sinatra-cms-app-assessment/issues/30

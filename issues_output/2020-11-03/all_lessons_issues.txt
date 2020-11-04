@@ -1,0 +1,294 @@
+* [1593033581][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/Active-Record-Association-Methods/pull/30
+* [1592756783][wkdewey]: Some content appears to be missing https://github.com/learn-co-curriculum/Box-Model/issues/6
+* [1542475376][BenitolSantos]: Page layout video format learning issues https://github.com/learn-co-curriculum/Box-Model/issues/5
+* [1598474724][IgoVeyner]: Typo in Readme https://github.com/learn-co-curriculum/CSS-Flexbox-Code-Along/issues/7
+* [1595520990][Ahmed-aleryani]: just like the previous 2 lessons :C learn passes without anything https://github.com/learn-co-curriculum/CSS-Flexbox-Code-Along/issues/6
+* [1594757746][Sdcrouse]: Fix typos and update information in the README https://github.com/learn-co-curriculum/CSS-Flexbox-Code-Along/pull/5
+* [1574791692][TrueC-D]: Spec not complete? https://github.com/learn-co-curriculum/CSS-Fundamentals-Lab/issues/5
+* [1574204095][lauratravin]: There is an error in one example using an Id element twice. https://github.com/learn-co-curriculum/CSS-Fundamentals-Lab/issues/4
+* [1600291849][afteralec]: yarn.lock already present in repo https://github.com/learn-co-curriculum/Flatipotle-Debugging-Lab/issues/2
+* [1595443396][raulsposito]: Presentation Slides link not working https://github.com/learn-co-curriculum/HTML5-Semantic-Elements/issues/11
+* [1567999648][carnold18]: updated seeds file to reflect faker gem updates https://github.com/learn-co-curriculum/Rails-Practice-Code-Challenge-Travelatr/pull/3
+* [1586056236][DrVonDevious]: json-server README not clear https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/issues/15
+* [1573123702][AdamWeissman]: Can't Fork. Same ISSUE as past two commenters. https://github.com/learn-co-curriculum/SQL-bear-organizer-lab/issues/41
+* [1603675341][KaladaJumbo]: p tag in quotes  https://github.com/learn-co-curriculum/a-react-app-example/issues/23
+* [1593798608][kylejb]: Mistake in lesson's README.md doc https://github.com/learn-co-curriculum/active-record-associations-and-migrations/issues/4
+* [1595015460][paulnicholsen27]: Lab needs a second look https://github.com/learn-co-curriculum/active-record-associations-project/issues/1
+* [1584631720][Asilver-jpg]: explain require in rake context https://github.com/learn-co-curriculum/active-record-intro-to-rake/issues/3
+* [1591922096][devslife7]: typo, repeated "to" https://github.com/learn-co-curriculum/active-record-mechanics/issues/1
+* [1604358555][JesseNReynolds]: Just a typo in the lesson https://github.com/learn-co-curriculum/active-record-migrations/issues/3
+* [1595911283][dependabot[bot]]: Bump json from 1.8.6 to 2.3.0 https://github.com/learn-co-curriculum/active-record-translating-from-orm-to-ar/pull/3
+* [1593033785][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/activerecord-associations-intro/pull/30
+* [1590522720][dependabot[bot]]: Bump activesupport from 5.2.2 to 6.0.3.1 https://github.com/learn-co-curriculum/activerecord-associations-intro/pull/29
+* [1582945475][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/activerecord-associations-intro/pull/28
+* [1586188542][Asilver-jpg]: link to the definition persists https://github.com/learn-co-curriculum/activerecord-associations-review/issues/14
+* [1519753966][curiositypaths]: Known Issues https://github.com/learn-co-curriculum/activerecord-associations-video-review-ii/issues/3
+* [1600225074][Veenie]: sqlite error https://github.com/learn-co-curriculum/activerecord-costume-store-todo/issues/76
+* [1599494201][lizaetillman]: Typo In Reading https://github.com/learn-co-curriculum/activerecord-costume-store-todo/issues/75
+* [1597172564][JOCOghub]: Can't see specs for this lab https://github.com/learn-co-curriculum/activerecord-costume-store-todo/issues/74
+* [1593075154][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/activerecord-costume-store-todo/pull/73
+* [1593075071][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/activerecord-crud/pull/70
+* [1593020604][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/activerecord-tvland/pull/26
+* [1587670551][ashleymader]: Shows incomplete on Learnco https://github.com/learn-co-curriculum/activerecord-tvland/issues/25
+* [1593065685][dependabot[bot]]: Bump rack from 2.0.8 to 2.2.3 https://github.com/learn-co-curriculum/activerecord-tvshow/pull/43
+* [1590523008][dependabot[bot]]: Bump activesupport from 5.2.3 to 6.0.3.1 https://github.com/learn-co-curriculum/activerecord-tvshow/pull/42
+* [1582948926][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/activerecord-tvshow/pull/41
+* [1589149066][twwright]: Use ActiveModel::Validation solution from previous readme https://github.com/learn-co-curriculum/activerecord-validations-lab/pull/15
+* [1588724476][Anthonyntilelli]: Update README.md https://github.com/learn-co-curriculum/activerecord-validations-readme/pull/14
+* [1601168599][afteralec]: Spec tests for solution branch don't match the master branch https://github.com/learn-co-curriculum/activerecord-yelp-exercises/issues/6
+* [1595435584][mkirby]: team_name test does not accurately log passing and failing https://github.com/learn-co-curriculum/advanced-hashes-hashketball/issues/57
+* [1589237622][drew-beckmen]: Expected output of player_stats https://github.com/learn-co-curriculum/advanced-hashes-hashketball/issues/56
+* [1587461805][btbacker]: YouTube link removed https://github.com/learn-co-curriculum/advanced-hashes-hashketball/issues/55
+* [1595520692][Ahmed-aleryani]: Empty & then solved with learn test https://github.com/learn-co-curriculum/animal-save-lab/issues/5
+* [1588315304][abdulbasit-web]: How to submit https://github.com/learn-co-curriculum/animal-save-lab/issues/4
+* [1588030718][joshuaAjack]: Tests https://github.com/learn-co-curriculum/animal-save-lab/issues/3
+* [1565033539][LmLutec]: Animal Save Lab number 5 https://github.com/learn-co-curriculum/animal-save-lab/issues/2
+* [1604076695][jabbasi09]: commit tree ab553a32f7522afa8d0963b510ffea2e151cfdf2 https://github.com/learn-co-curriculum/apples-and-holidays/pull/50
+* [1567295906][CGonzalez0115]: Learn IDE issues https://github.com/learn-co-curriculum/apples-and-holidays/issues/49
+* [1604291265][Sdcrouse]: Remove example email, and fix broken link https://github.com/learn-co-curriculum/approaching-salary-negotiations/pull/5
+* [1604285724][Sdcrouse]: Move the example email into the previous lesson, "How to Approach Offer Negotiations" https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/4
+* [1604285141][Sdcrouse]: Second link from the bottom is broken https://github.com/learn-co-curriculum/approaching-salary-negotiations/issues/3
+* [1603437923][jabbasi09]: commit tree 73c381d5e244cfc008d596027efcc77437c4440b https://github.com/learn-co-curriculum/array-CRUD-lab/pull/27
+* [1602049568][jmsimmons90]: Done. https://github.com/learn-co-curriculum/array-CRUD-lab/pull/26
+* [1572994986][isaiahvelez611]:  answering test one with if else states manets? https://github.com/learn-co-curriculum/array-CRUD-lab/issues/25
+* [1572709009][natey37]: Lab repo cannot be found  https://github.com/learn-co-curriculum/array-CRUD-lab/issues/23
+* [1572211333][TomCon3]: "open this lab" does not turn green. lab doesnt open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/22
+* [1572145205][jdeshaise]: does not  open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/21
+* [1571438825][paztoya]: Cannot find lesson with repo: array-crud-lab-cb-000. Please check your input https://github.com/learn-co-curriculum/array-CRUD-lab/issues/19
+* [1603949520][nanaama527]: Update array_methods.rb https://github.com/learn-co-curriculum/array-methods-lab/pull/15
+* [1603438517][jabbasi09]: commit tree 5ffbb05112e10fa49ba398a8cb212b5016ea3c3c https://github.com/learn-co-curriculum/array-methods-lab/pull/14
+* [1602051428][jmsimmons90]: Done. https://github.com/learn-co-curriculum/array-methods-lab/pull/13
+* [1601486472][karegan4]: done https://github.com/learn-co-curriculum/array-methods-lab/pull/12
+* [1597046858][melalat910]: Grammatical error, extra word https://github.com/learn-co-curriculum/array-readme-qualifying/issues/19
+* [1535140403][breadoliveoilsalt]: Summary paragraph of lesson https://github.com/learn-co-curriculum/arrays-underneath/issues/3
+* [1598650335][adeebarivera]: Need help for intro to modules lab https://github.com/learn-co-curriculum/artist-song-modules/issues/48
+* [1591331379][ParishBen]: Towards the End- On nested (Memorable) Modules https://github.com/learn-co-curriculum/artist-song-modules/issues/47
+* [1603530606][jabbasi09]: commit tree a042d5f557571428e61c4df479c31a533cfb1600 https://github.com/learn-co-curriculum/badges-and-schedules/pull/30
+* [1588784347][Adamlatorraca]: Misleading instructions https://github.com/learn-co-curriculum/badges-and-schedules/issues/28
+* [1586300135][Asilver-jpg]: Following the information in the lab, running addresses_attributes= returns nothing https://github.com/learn-co-curriculum/basic-nested-forms/issues/33
+* [1501719239][mikeries]: predecessors https://github.com/learn-co-curriculum/bfs-lab/issues/1
+* [1527021381][micahshute]: Equation in "Simplifying Time Complexity" Paragraph https://github.com/learn-co-curriculum/big-o-approximation/issues/2
+* [1556835067][geluso]: replacing tree built out of plain objects with using ListNode class https://github.com/learn-co-curriculum/binary-search-trees/pull/6
+* [1556833896][geluso]: improve sample implementation using classes https://github.com/learn-co-curriculum/binary-search-trees/issues/5
+* [1589728096][brandonbrown4792]: Readme example GIF does not load https://github.com/learn-co-curriculum/bookliker-practice-challenge/issues/2
+* [1600372810][afteralec]: Rails API out-of-date https://github.com/learn-co-curriculum/boozer-react/issues/1
+* [1559944837][helloamandamurphy]: All tests are passing at start https://github.com/learn-co-curriculum/box-style-lab/issues/1
+* [1602193581][anewt225]: Update "new career as a software engineer" to be more general https://github.com/learn-co-curriculum/building-a-strong-job-search-foundation/issues/5
+* [1599139872][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/building-forms-lab/pull/32
+* [1590790700][dwinniford]: test does not change input value https://github.com/learn-co-curriculum/building-forms-lab/issues/28
+* [1603959577][jabbasi09]: done building-nested-hashes with bonus lab https://github.com/learn-co-curriculum/building-nested-hashes/pull/26
+* [1579979727][Anthonyntilelli]: adding firefox to documentation https://github.com/learn-co-curriculum/building-responsive-sites/pull/17
+* [1570155442][ryanwevans]: Effective Networking unit is before this lesson, not after https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/3
+* [1569432512][ajsultanov]: Broken Link https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/issues/2
+* [1485871267][ghost]: Missing word https://github.com/learn-co-curriculum/careers-applying-to-jobs-online/pull/1
+* [1602010422][uharston]: Update README.md https://github.com/learn-co-curriculum/careers-blogging/pull/8
+* [1596750380][inception88]: Update README.md https://github.com/learn-co-curriculum/careers-blogging/pull/7
+* [1590582042][BryantIT]: fixed typo https://github.com/learn-co-curriculum/careers-blogging/pull/6
+* [1581186173][helloamandamurphy]: Hyperlink on Learn gives 404 Error https://github.com/learn-co-curriculum/careers-blogging/issues/5
+* [1603794267][LizLaffitte]: Removed broken email finder tools, added a new one. https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/8
+* [1603435928][Sdcrouse]: Remove links to nonexistent sites https://github.com/learn-co-curriculum/careers-building-an-online-network/pull/7
+* [1603435580][Sdcrouse]: Two of the websites for finding email addresses no longer exist https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/6
+* [1553878435][BrittanyTinnin]: the index link not working https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/4
+* [1494943144][CorinneKelly]: you should add Hunter https://github.com/learn-co-curriculum/careers-building-an-online-network/issues/3
+* [1602293067][anewt225]: Removed redundant link in readme https://github.com/learn-co-curriculum/careers-building-your-resume/pull/5
+* [1460502986][Lukeghenco]: Resume link https://github.com/learn-co-curriculum/careers-building-your-resume/issues/1
+* [1570324739][ryanwevans]: Improve headings related to text; Fix italicized text and content flow https://github.com/learn-co-curriculum/careers-communicating-with-recruiters-and-hr-professionals/pull/3
+* [1547608660][JCesana]: broken link https://github.com/learn-co-curriculum/careers-cover-letters/issues/3
+* [1486404196][ghost]: Added missing word and removed extra word https://github.com/learn-co-curriculum/careers-cultural-hr-interview-questions/pull/3
+* [1579542772][dannylee8]: Blockquotes adding an extra '>' on new line https://github.com/learn-co-curriculum/careers-following-up/issues/6
+* [1602195812][anewt225]: premium account update https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/4
+* [1595380504][Sdcrouse]: Possibly out-of-date information https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/3
+* [1547933190][ValerieHMoore]: Stress hyperlink doesn't work https://github.com/learn-co-curriculum/careers-job-search-mindset/issues/2
+* [1494942724][CorinneKelly]: image doesnt work https://github.com/learn-co-curriculum/careers-leveraging-your-network/issues/3
+* [1602007534][uharston]: Update README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/3
+* [1478536980][kaileeagray]: Updated README.md https://github.com/learn-co-curriculum/careers-linkedin/pull/1
+* [1601351911][ghost]: Link website doesn't exist https://github.com/learn-co-curriculum/careers-online-presence-github/issues/6
+* [1604213998][Sdcrouse]: Typo fixes https://github.com/learn-co-curriculum/careers-opening-the-line-of-communication/pull/3
+* [1536326967][kreopelle]: Web Development Curriculum Reverts to V5 https://github.com/learn-co-curriculum/careers-personal-brand-building/issues/3
+* [1574878250][dgrilly]: Dead link in Career Prep Track - Technical Experience https://github.com/learn-co-curriculum/careers-resume-technical-experience/issues/4
+* [1549900290][aulorbe]: It would be nice to have some data science-specific advice in here. https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/6
+* [1485725767][michaelsimon]: former link to action verbs broken (found a new list) https://github.com/learn-co-curriculum/careers-resume-work-experience/pull/5
+* [1485703059][ghost]: Broken Link https://github.com/learn-co-curriculum/careers-resume-work-experience/issues/4
+* [1577557382][Nerajno]: Simple edits = grammar Nazi https://github.com/learn-co-curriculum/careers-technical-interview-formats/pull/4
+* [1546727538][BarbaraPruz]: Technical Interviewing lesson - broken link? https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/3
+* [1537277745][codingkasia]: broken link https://github.com/learn-co-curriculum/careers-technical-interview-formats/issues/2
+* [1575435168][95north]:  Broken Link! https://github.com/learn-co-curriculum/careers-technical-interview-tips/issues/1
+* [1597645002][Sdcrouse]: Broken links in the "Problem Sets" and "Books" sections https://github.com/learn-co-curriculum/careers-technical-interviewing-resources/issues/3
+* [1579102017][dannylee8]: URL changes from university to personal https://github.com/learn-co-curriculum/careers-technical-interviewing-resources/pull/2
+* [1602915175][Sdcrouse]: Fix outdated link https://github.com/learn-co-curriculum/careers-twitter/pull/5
+* [1602912013][Sdcrouse]: Broken Link in README https://github.com/learn-co-curriculum/careers-twitter/issues/4
+* [1567285413][wendisha]: Suggestion https://github.com/learn-co-curriculum/careers-welcome/issues/3
+* [1603789061][jabbasi09]: commit tree e6fe7a2b5c2ee3c83a50e8ecb314e8e1ac903987 https://github.com/learn-co-curriculum/cartoon-collections/pull/38
+* [1599766395][kjoos22]: Question #2 - .. operator https://github.com/learn-co-curriculum/case-statements-quiz/issues/12
+* [1589394824][smithspencer817]: Issue with tests passing even with functional code https://github.com/learn-co-curriculum/cli-applications-guessing-game/issues/2
+* [1583780952][Perez-png]:  cant find my original project. https://github.com/learn-co-curriculum/cli-data-gem-assessment/issues/37
+* [1579290477][jjhiggz]: The sandbox environment will not load for me https://github.com/learn-co-curriculum/cli-essentials-bash-programming/issues/6
+* [1603871138][jabbasi09]: commit tree 3100137b1bb6051a20fffd94615a3558d4f7bb15 https://github.com/learn-co-curriculum/collections_practice/pull/43
+* [1570032409][8ceg6]: sorting lab errors when trying to open IDE https://github.com/learn-co-curriculum/collections_practice/issues/42
+* [1599004330][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/combine-reducers/pull/25
+* [1597892123][Sdcrouse]: Typo fixes and minor improvements to README https://github.com/learn-co-curriculum/combine-reducers/pull/24
+* [1580060736][andrew-lewell]: default code does not match readme default code.  https://github.com/learn-co-curriculum/combine-reducers/issues/20
+* [1596743596][charlie763]: products_index_spec seems wacky https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/27
+* [1578355278][thecodepixi]: Index view is tested without utilizing controller https://github.com/learn-co-curriculum/cookies_and_sessions_lab/issues/26
+* [1603230509][CodeMama96]: commit tree d0f76442092b2a4f5762821a15ec02747972d429 https://github.com/learn-co-curriculum/countdown-to-midnight/pull/22
+* [1602047462][jmsimmons90]: Done. https://github.com/learn-co-curriculum/countdown-to-midnight/pull/21
+* [1596222853][kstough00]: Countdown to 0  https://github.com/learn-co-curriculum/countdown-to-midnight/issues/20
+* [1584892641][halfields]: This lesson and the following lesson, 'HTML Introduction' are almost identical https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/7
+* [1562030675][morganpstanley]: Spelling Error. https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/6
+* [1549576873][playto]:  Lesson Needs to be Set as a Readme https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/25
+* [1519656507][telegraham]: element.remove() isn't well-supported https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues/20
+* [1602379975][Sdcrouse]: iframes won't render in the lesson https://github.com/learn-co-curriculum/creating-column-based-layouts-in-css/issues/5
+* [1602378498][Sdcrouse]: Typo in the section about Flexbox https://github.com/learn-co-curriculum/creating-column-based-layouts-in-css/issues/4
+* [1588352665][maharvey2]: double tap https://github.com/learn-co-curriculum/creating-column-based-layouts-in-css/issues/2
+* [1604005904][dependabot[bot]]: Bump dot-prop from 4.2.0 to 4.2.1 https://github.com/learn-co-curriculum/crud-lab/pull/29
+* [1592508771][ryanmeinzer]: all specs need " require 'rails_helper' " https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/35
+* [1586575369][dannyflatiron]: Link_to create new song https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/33
+* [1586575258][dannyflatiron]: Test Suite for show view file is not active https://github.com/learn-co-curriculum/crud-with-validations-lab/issues/32
+* [1598471995][IgoVeyner]: Media size discrepancy  https://github.com/learn-co-curriculum/css-adding-responsive-features/issues/3
+* [1598471681][IgoVeyner]: Missing instruction for 1100px breakpoint https://github.com/learn-co-curriculum/css-adding-responsive-features/issues/2
+* [1595520252][Ahmed-aleryani]: Learn test is solved automatically  https://github.com/learn-co-curriculum/css-adding-responsive-features/issues/1
+* [1582670043][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-css-fundamentals-lab/pull/4
+* [1601578749][KaladaJumbo]: Learn https://github.com/learn-co-curriculum/css-essentials-introduction-to-css-lab/issues/6
+* [1595911101][dependabot[bot]]: Bump json from 2.2.0 to 2.3.1 https://github.com/learn-co-curriculum/css-essentials-introduction-to-css-lab/pull/5
+* [1582670028][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-introduction-to-css-lab/pull/4
+* [1582670212][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/pull/4
+* [1574888856][brookebachman00]: The same question with 2 different answers in Nested Data Structure Transformation Quiz https://github.com/learn-co-curriculum/css-essentials-my-little-rainbow-lab/issues/3
+* [1591231374][gabejoseph]: paint.css file size issue https://github.com/learn-co-curriculum/css-graffiti-override-lab/issues/2
+* [1558379121][eyaltoledano]: Test "css/cleanup.css has overrides added" is looking for a cleanup.css at least 300b large https://github.com/learn-co-curriculum/css-graffiti-override-lab/issues/1
+* [1594786273][Sdcrouse]: Suggested Edit: Update example for grid-auto-columns and grid-auto-rows properties https://github.com/learn-co-curriculum/css-grid-lab/pull/5
+* [1594784982][Sdcrouse]: Possibly inaccurate information about `grid-area` in the README https://github.com/learn-co-curriculum/css-grid-lab/issues/4
+* [1586295992][schanrai]: The answer solution is provided in the initial repo https://github.com/learn-co-curriculum/css-issue-bot-9000/issues/5
+* [1601516835][jayy5919]: improved docs https://github.com/learn-co-curriculum/data-types-readme/pull/21
+* [1601470353][anubha-v-ardhan]: Update README.md https://github.com/learn-co-curriculum/data-types-readme/pull/20
+* [1603301850][may-arden]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/52
+* [1603226607][nmhummel]: commit tree 4e8fed2790cdcfe19030176c5b716e45b0a54705 https://github.com/learn-co-curriculum/debugging-with-pry/pull/51
+* [1603150507][reyes2981]: Add Existing File https://github.com/learn-co-curriculum/debugging-with-pry/pull/49
+* [1603130184][andrudog7]: Done.  Testing Pull Requests https://github.com/learn-co-curriculum/debugging-with-pry/pull/48
+* [1601713964][angelomilien]: Done fixing bug  https://github.com/learn-co-curriculum/debugging-with-pry/pull/47
+* [1601451044][rtyenriques]: debugging-with-pry https://github.com/learn-co-curriculum/debugging-with-pry/pull/46
+* [1601323870][karegan4]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/45
+* [1601314473][smassarsky]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/44
+* [1599867408][timothylevi]: Correct list item numbering https://github.com/learn-co-curriculum/debugging-with-pry/issues/43
+* [1588723896][KevinXirum]: I need help with the Method Scope Lab https://github.com/learn-co-curriculum/debugging-with-pry/issues/42
+* [1581977863][saltysk]: pry https://github.com/learn-co-curriculum/debugging-with-pry/issues/41
+* [1594481119][MaoZiming]: Done. https://github.com/learn-co-curriculum/debugging-workshop/pull/2
+* [1603610524][jabbasi09]: commit tree ee6d33a2187e348d2ced8e258b193419e4082573 https://github.com/learn-co-curriculum/deli-counter/pull/25
+* [1603749466][mixinspace]: Islam https://github.com/learn-co-curriculum/deploy-on-day-1/pull/113
+* [1603745462][oac89]: first time upload https://github.com/learn-co-curriculum/deploy-on-day-1/pull/112
+* [1603731461][matthewogtong]: matt-ogtong-profile-update https://github.com/learn-co-curriculum/deploy-on-day-1/pull/111
+* [1603730293][dashdavid13]: Dashdavid13 https://github.com/learn-co-curriculum/deploy-on-day-1/pull/110
+* [1603729564][ConnorMul]: Connor mulholland https://github.com/learn-co-curriculum/deploy-on-day-1/pull/109
+* [1603725710][ConnorMul]: Connor mulholland https://github.com/learn-co-curriculum/deploy-on-day-1/pull/108
+* [1602170715][sannydo]: Sannydo https://github.com/learn-co-curriculum/deploy-on-day-1/pull/107
+* [1601951155][tolentinoel]: Kim nguyen https://github.com/learn-co-curriculum/deploy-on-day-1/pull/105
+* [1600100807][jonathanx111]: First Try https://github.com/learn-co-curriculum/deploy-on-day-1/pull/102
+* [1600096026][jayelle0]: Update index.html https://github.com/learn-co-curriculum/deploy-on-day-1/pull/101
+* [1530225211][hambrice]: Order of visited vertices https://github.com/learn-co-curriculum/depth-first-search-lab/issues/2
+* [1496689343][lair001]: Faulty expectation value https://github.com/learn-co-curriculum/depth-first-search-lab/issues/1
+* [1597346255][afteralec]: Issue w/ Devise Installing & FaceBook OAuth https://github.com/learn-co-curriculum/devise_lab/issues/51
+* [1584573158][m-gamao]: `start_unix_server': no unix-domain acceptor (RuntimeError) https://github.com/learn-co-curriculum/devise_lab/issues/48
+* [1603997355][wlytle]: README content missing on canvas https://github.com/learn-co-curriculum/displaying-associations-rails/issues/25
+* [1593534410][gabejoseph]: Lab is broken https://github.com/learn-co-curriculum/displaying-associations-rails/issues/24
+* [1603660658][IgoVeyner]: Schema file includes a column for songs table that does not exist https://github.com/learn-co-curriculum/displaying-associations-rails-lab/issues/28
+* [1601577408][zkobrinsky]: unclear directions https://github.com/learn-co-curriculum/displaying-associations-rails-lab/issues/27
+* [1586300660][Asilver-jpg]: Directory has no specs https://github.com/learn-co-curriculum/displaying-has-many-through-rails/issues/24
+* [1586460438][Asilver-jpg]: seeds broken https://github.com/learn-co-curriculum/dunder-mifflin-rails-review/issues/15
+* [1589730590][jackcooper1245]: Wrong version of sqlite3 https://github.com/learn-co-curriculum/dynamic-orm-lab/issues/25
+* [1577581407][ChrstphGrnr]: Previously fixed issue still happening https://github.com/learn-co-curriculum/dynamic-orm-lab/issues/24
+* [1581214383][ottocedeno]: The lab isn't being marked as "OPEN thus Impossible to mark as "IM DONE" https://github.com/learn-co-curriculum/dynamic-orms-readme/issues/50
+* [1572284538][Emanao]: The expected output before adding markup in this lab differs across browsers https://github.com/learn-co-curriculum/experiencing-html-lab/issues/7
+* [1595909235][dependabot[bot]]: Bump json from 2.2.0 to 2.3.1 https://github.com/learn-co-curriculum/fe-zetsy/pull/28
+* [1582630174][dependabot[bot]]: Bump nokogiri from 1.10.4 to 1.10.8 https://github.com/learn-co-curriculum/fe-zetsy/pull/27
+* [1570818919][boom100100]: All Module 11 Section 2 labs - tests never fail https://github.com/learn-co-curriculum/fe-zetsy/issues/25
+* [1535127329][trevor-jameson]: Lab requires missing local tests to pass https://github.com/learn-co-curriculum/fe-zetsy/issues/21
+* [1529795057][FreeBreadsticks]: Tests missing https://github.com/learn-co-curriculum/fe-zetsy/issues/19
+* [1594903559][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-acting-on-events/pull/12
+* [1594906268][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/pull/14
+* [1579104614][wisammechano]: the error prevents lab from loading in ide https://github.com/learn-co-curriculum/fewpjs-adding-behavior-with-methods/pull/13
+* [1591569232][PhantasticHenry]: update SoundCoud to SoundCloud https://github.com/learn-co-curriculum/fewpjs-asynchrony/pull/5
+* [1585022039][wifelette]: Persisten Typo—Code Block vs Code Bloc https://github.com/learn-co-curriculum/fewpjs-asynchrony/pull/4
+* [1604009557][mkirby]: Solution code has a significant flaw https://github.com/learn-co-curriculum/fewpjs-build-the-example/issues/12
+* [1594908077][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-build-the-example/pull/11
+* [1587395927][garettarrowood]: Needs tests https://github.com/learn-co-curriculum/fewpjs-build-the-example/issues/10
+* [1594908050][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-class-extensions-extends-lab/pull/19
+* [1594909008][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-class-extensions-super-lab/pull/5
+* [1584452900][bumbot]: Typo https://github.com/learn-co-curriculum/fewpjs-discussion-questions-thinking-in-types/issues/2
+* [1594903558][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-document-onload/pull/7
+* [1595590569][Ahmed-aleryani]: when I used learn open to fetch this lesson the directory retrieved was empty https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab/issues/12
+* [1594903713][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab/pull/11
+* [1584245570][brandong1]: Can't run learn https://github.com/learn-co-curriculum/fewpjs-dom-editing-lab/issues/8
+* [1594903558][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-event-listening/pull/6
+* [1599817884][dependabot[bot]]: Bump node-fetch from 2.3.0 to 2.6.1 https://github.com/learn-co-curriculum/fewpjs-fetch-lab/pull/18
+* [1596713730][kylejb]: Issue with learn and mocha –– `results`: undefined method`[]' for nil:NilClass (NoMethodError) https://github.com/learn-co-curriculum/fewpjs-fetch-lab/issues/17
+* [1594906310][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-fetch-lab/pull/16
+* [1587741422][Joeycho]: cors proxy issue(currently the solution has a common issue) https://github.com/learn-co-curriculum/fewpjs-fetch-lab/pull/14
+* [1579987663][jd2rogers2]: api doesn't work in canada https://github.com/learn-co-curriculum/fewpjs-fetch-lab/issues/13
+* [1594903553][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-array-o-functions/pull/11
+* [1594903553][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior/pull/15
+* [1587490566][Asilver-jpg]: Shows message in greeting tag https://github.com/learn-co-curriculum/fewpjs-fns-as-first-class-data-do-behavior/issues/14
+* [1603975839][chihempat]: Update README.md https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/pull/8
+* [1603743127][zkobrinsky]: Typo https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/7
+* [1600091173][Eisea904]: Mozart is not Baroque, 'Define Abstraction' section https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/6
+* [1584070693][lorena57]: () fuction placement https://github.com/learn-co-curriculum/fewpjs-functions-in-javascript/issues/5
+* [1596657454][Ahmed-aleryani]: running learn test pass without doing anything https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/9
+* [1594906623][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/pull/8
+* [1593715073][sjwakeman]: Typo in last sentence in Introduction paragraph https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/7
+* [1590539256][Sdcrouse]: Fix issue and typos https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/pull/6
+* [1575317758][eponsonby]: No tests for the Area setter method https://github.com/learn-co-curriculum/fewpjs-getter-and-setter-methods/issues/5
+* [1591984946][Emanao]: the DOM, a JavaScript object ... https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/7
+* [1583020613][saramccombs]: Ordered list rendering incorrectly in browser https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/6
+* [1581805586][ztw17]: Unclear Wording / Possible Typo https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/5
+* [1579980746][gwhitlock8]: Type https://github.com/learn-co-curriculum/fewpjs-introduction-to-the-dom-to-get-started/issues/4
+* [1594939635][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-filter-lab/pull/9
+* [1589756134][Sdcrouse]: Combine duplicate tests into one https://github.com/learn-co-curriculum/fewpjs-iterators-filter-lab/pull/8
+* [1594923857][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-find-lab/pull/8
+* [1589752279][Sdcrouse]: Fix issue and add minor changes to README https://github.com/learn-co-curriculum/fewpjs-iterators-find-lab/pull/7
+* [1582163467][MiriamPeskowitz]: change filter https://github.com/learn-co-curriculum/fewpjs-iterators-find-lab/issues/6
+* [1594948949][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-filter-lab/pull/4
+* [1594948956][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-find-lab/pull/5
+* [1594948971][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-map-lab/pull/4
+* [1594948948][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-fndcl-fnexpr-reduce-lab/pull/6
+* [1594923785][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-map-lab/pull/10
+* [1571270955][MiriamPeskowitz]: Solution code doesn't use .map, which is fine except that the lab is about map.... https://github.com/learn-co-curriculum/fewpjs-iterators-map-lab/issues/7
+* [1594939664][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-iterators-reduce-lab/pull/10
+* [1591741800][BenitolSantos]: IndexTest.js mislabel https://github.com/learn-co-curriculum/fewpjs-iterators-reduce-lab/issues/9
+* [1580322899][alyon4a]: Wrong sequence https://github.com/learn-co-curriculum/fewpjs-javascript-eventing/issues/7
+* [1574986695][micahshute]: Weak Tests https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-arithmetic-lab/issues/1
+* [1575001362][micahshute]: Backticks not displayed https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-conditionals/issues/3
+* [1603996199][zkobrinsky]: Typo https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-lexical-scoping/issues/3
+* [1591199761][kierrakay]: error in lecture https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-scope-lab/issues/3
+* [1586480892][Sdcrouse]: Minor edits to README https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab/pull/9
+* [1573253229][PineappleGuy]: Second bullet point in section 'Working Through the Problems' https://github.com/learn-co-curriculum/fewpjs-js-fundamentals-variables-lab/issues/8
+* [1592404344][PBillingsby]: Fix spelling error in header https://github.com/learn-co-curriculum/fewpjs-jsf-hoisting/pull/3
+* [1595907797][Anthonyntilelli]: Dead link https://github.com/learn-co-curriculum/fewpjs-object-orientation-in-javascript/issues/5
+* [1599084143][charlie763]: grammar/type in Readme https://github.com/learn-co-curriculum/fewpjs-oo-class-extension-and-inheritance-extends/issues/13
+* [1592009861][cjilbert504]: Update grammar https://github.com/learn-co-curriculum/fewpjs-oo-class-extension-and-inheritance-extends/pull/12
+* [1592009491][cjilbert504]: Update readability https://github.com/learn-co-curriculum/fewpjs-oo-class-extension-and-inheritance-extends/pull/11
+* [1594908736][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-oo-initializing-instances/pull/8
+* [1585022063][alouiscious]: this labs test wont pass the breakfast class https://github.com/learn-co-curriculum/fewpjs-oo-initializing-instances/issues/7
+* [1592032569][cjilbert504]: Update README https://github.com/learn-co-curriculum/fewpjs-oo-liskovs-substitution-principle/pull/3
+* [1592029111][cjilbert504]: Update README.md https://github.com/learn-co-curriculum/fewpjs-oo-liskovs-substitution-principle/pull/2
+* [1590562564][Sdcrouse]: Quiz is improperly formatted - it has questions, but no answer options https://github.com/learn-co-curriculum/fewpjs-oo-predicting-constructor-effects-instrumental/issues/1
+* [1592958658][helloRupa]: Clean up confusing questions https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/pull/5
+* [1590008422][brandonbrown4792]: Question 2 Animal class appears that it should be the Mammal class https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/issues/4
+* [1588165174][laarchambault]: last question unclearly written https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-inheritance-quiz/issues/3
+* [1574703147][merecka]: Why is the dot notation syntax incorrect for Questions #2 & #3? https://github.com/learn-co-curriculum/fewpjs-oo-reviewing-javascript-object-orientation-quiz/issues/5
+* [1594907847][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-oo-static-methods-lab/pull/2
+* [1586738042][Sdcrouse]: Suggested Edit: Add information about using `:scope` in the querySelectorAll method https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/issues/3
+* [1586736769][Sdcrouse]: Fix inaccurate information in README https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/pull/2
+* [1586736202][Sdcrouse]: Slightly inaccurate information in the lesson https://github.com/learn-co-curriculum/fewpjs-queryselector-methods/issues/1
+* [1603590455][Rollo510]: Timeout exceeded for all JS labs https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/issues/9
+* [1598297857][solomonfy]: Issue with passing test https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/issues/8
+* [1594903716][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-removing-altering-and-inserting-html-lab/pull/7
+* [1592954646][helloRupa]: Fix HTML snippet and simplify cobra answer https://github.com/learn-co-curriculum/fewpjs-reviewing-dom-manipulation-quiz/pull/7
+* [1592955419][helloRupa]: Replace confusing incorrect answer https://github.com/learn-co-curriculum/fewpjs-reviewing-javascript-events-quiz/pull/5
+* [1592956258][helloRupa]: Clarify confusing questions and answers https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz/pull/5
+* [1589553405][elliott-king]: Question clarification https://github.com/learn-co-curriculum/fewpjs-reviewing-server-communication-quiz/issues/4
+* [1604267487][baker615512]: Submit key value pair https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/20
+* [1602161547][rohanphillips]: errors running npm install -g json-server https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/19
+* [1599810385][dependabot[bot]]: Bump node-fetch from 2.3.0 to 2.6.1 https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/18
+* [1594906601][dependabot[bot]]: Bump lodash from 4.17.15 to 4.17.19 https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/17
+* [1593631921][Emanao]: json-server: command not found when running json-server --watch db.json https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/16
+* [1589548567][elliott-king]: Fix unclear test output https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/pull/15
+* [1588232331][Sdcrouse]: README is unclear about where to write its example code, if at all https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/14
+* [1583285005][alouiscious]: not sure that this .catch error example works https://github.com/learn-co-curriculum/fewpjs-sending-data-with-fetch/issues/13

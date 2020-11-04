@@ -13,6 +13,7 @@
 * [1581850305][rbhogans]: Selecting single elements labq 0 https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/55
 * [1526400512][FreeBreadsticks]: Image included to show students how to use the Console https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/35
 * [1517264342][sgharms]: Known Issues https://github.com/learn-co-curriculum/selecting-single-elements-lab/issues/28
+* [1603753941][rauggie]: getting past learn IDE https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/100
 * [1602605044][Malessi5]: From DOM To Node and the IDE - Cannot clone lesson https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/99
 * [1602595669][silverFactory]: Empty File Tree https://github.com/learn-co-curriculum/js-from-dom-to-node/issues/98
 * [1601779499][nrymarz]: Done. https://github.com/learn-co-curriculum/js-from-dom-to-node/pull/97

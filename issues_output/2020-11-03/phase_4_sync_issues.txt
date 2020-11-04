@@ -1,12 +1,16 @@
 * [1584973003][mrshappy0]: Looks like the solution is missing https://github.com/learn-co-curriculum/react-dq-props-state/issues/4
 * [1570151353][maxwellbenton]: Known Issues - React https://github.com/learn-co-curriculum/this-is-react-readme/issues/3
+* [1603675341][KaladaJumbo]: p tag in quotes  https://github.com/learn-co-curriculum/a-react-app-example/issues/23
+* [1603751225][milolynch]: some html in the lesson https://github.com/learn-co-curriculum/some-useful-tools-for-writing-react/issues/3
 * [1599936848][afteralec]: Option flag in mocha.opts deprecated https://github.com/learn-co-curriculum/react-static-components-lab/issues/24
 * [1593820096][Sdcrouse]: Lab requires knowledge of material not yet covered https://github.com/learn-co-curriculum/react-static-components-lab/issues/20
 * [1597552432][pdbradley]: remove accidental x in example https://github.com/learn-co-curriculum/react-dynamic-components/pull/2
+* [1604333173][eleetyson]: Setting default browser error https://github.com/learn-co-curriculum/react-dynamic-components-lab/issues/21
 * [1588105951][OGonzalezNYC]: Browser functionality. https://github.com/learn-co-curriculum/react-props-movie-lab/issues/11
 * [1576593877][rrcobb]: WIP - simplify solution https://github.com/learn-co-curriculum/react-props-movie-lab/pull/10
 * [1576593833][rrcobb]: WIP - simplify props lab https://github.com/learn-co-curriculum/react-props-movie-lab/pull/9
 * [1576003080][stephenkeating]: difficulty ramp-up https://github.com/learn-co-curriculum/react-props-movie-lab/issues/8
+* [1603723796][KaladaJumbo]: link is broken and displayed wrong ... middle of page ...  https://github.com/learn-co-curriculum/react-state-readme/issues/3
 * [1592843776][MatthewPalmer9]: Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/28
 * [1589242705][Asilver-jpg]: Ran learn got mocha error https://github.com/learn-co-curriculum/react-initial-state-lab/issues/26
 * [1583475857][boostinwrx]: No Test Files Found, Cannot Run Learn Tests https://github.com/learn-co-curriculum/react-initial-state-lab/issues/25
@@ -45,72 +49,44 @@
 * [1586056236][DrVonDevious]: json-server README not clear https://github.com/learn-co-curriculum/React-Practice-Code-Challenge/issues/15
 * [1600291849][afteralec]: yarn.lock already present in repo https://github.com/learn-co-curriculum/Flatipotle-Debugging-Lab/issues/2
 * [1600372810][afteralec]: Rails API out-of-date https://github.com/learn-co-curriculum/boozer-react/issues/1
-* [1599676250][dependabot[bot]]: Bump http-proxy from 1.18.0 to 1.18.1 in /frontend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/28
-* [1596158995][dependabot[bot]]: Bump elliptic from 6.5.2 to 6.5.3 in /frontend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/27
+* [1604002539][dependabot[bot]]: Bump dot-prop from 4.2.0 to 4.2.1 in /frontend https://github.com/learn-co-curriculum/react-evernote-guided-project/pull/29
 * [1583083882][jd2rogers2]: npm start doesn't work for WSL students https://github.com/learn-co-curriculum/redux-initial-dispatch/issues/11
 * [1601688696][MiriamPeskowitz]: Fix grammar https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/issues/40
-* [1599354217][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/39
-* [1599217409][dependabot[bot]]: Bump handlebars from 4.4.2 to 4.7.6 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/38
-* [1596079209][dependabot[bot]]: Bump elliptic from 6.4.1 to 6.5.3 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/37
 * [1596036044][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/intro-to-redux-library-codealong/pull/36
 * [1596036152][lizbur10]: Lizbur10 patch 2 https://github.com/learn-co-curriculum/map-state-to-props-readme/pull/12
 * [1588033379][AssanSav]: Previous lab was re-rendering https://github.com/learn-co-curriculum/map-state-to-props-readme/issues/11
 * [1601481212][charlie763]: code doesn't initially work https://github.com/learn-co-curriculum/review-map-state-to-props-readme/issues/31
-* [1599352065][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/review-map-state-to-props-readme/pull/30
 * [1598826869][kierrakay]: handleOnClickItems ()  https://github.com/learn-co-curriculum/review-map-state-to-props-readme/issues/29
 * [1598324069][ryanmeinzer]: Incorrect references, non-updated screenshot and incorrect props https://github.com/learn-co-curriculum/review-map-state-to-props-readme/issues/28
 * [1596136428][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/review-map-state-to-props-readme/pull/27
-* [1596078900][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/review-map-state-to-props-readme/pull/26
-* [1599352114][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/map-state-to-props-lab/pull/28
-* [1599217019][dependabot[bot]]: Bump handlebars from 4.4.3 to 4.7.6 https://github.com/learn-co-curriculum/map-state-to-props-lab/pull/27
-* [1596078886][dependabot[bot]]: Bump elliptic from 6.4.1 to 6.5.3 https://github.com/learn-co-curriculum/map-state-to-props-lab/pull/24
 * [1598995702][lizbur10]: Lizbur10 patch 2 https://github.com/learn-co-curriculum/redux-action-creators/pull/10
-* [1599352945][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/25
 * [1598998279][lizbur10]: Lizbur10 patch 2 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/24
-* [1596079050][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/pull/23
 * [1590811552][OGonzalezNYC]: Defective code. https://github.com/learn-co-curriculum/map-dispatch-to-props-readme/issues/20
-* [1599352887][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/21
 * [1599000524][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/20
-* [1596079043][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/map-dispatch-to-props-lab/pull/19
-* [1599359598][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/combine-reducers/pull/26
 * [1599004330][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/combine-reducers/pull/25
 * [1597892123][Sdcrouse]: Typo fixes and minor improvements to README https://github.com/learn-co-curriculum/combine-reducers/pull/24
-* [1596080204][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/combine-reducers/pull/23
 * [1580060736][andrew-lewell]: default code does not match readme default code.  https://github.com/learn-co-curriculum/combine-reducers/issues/20
-* [1599359494][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/28
 * [1599232961][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/27
 * [1598600979][Sdcrouse]: Lesson Placement https://github.com/learn-co-curriculum/quote-maker-react-lab/issues/26
-* [1596080179][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/quote-maker-react-lab/pull/25
 * [1600827885][afteralec]: Example code produces a different result than noted https://github.com/learn-co-curriculum/redux-forms-codealong/issues/32
-* [1599353606][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/31
 * [1599074155][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/30
 * [1598063931][Sdcrouse]: Typos, issue, readability, and consistency fixes https://github.com/learn-co-curriculum/redux-forms-codealong/pull/29
-* [1596079151][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/redux-forms-codealong/pull/28
 * [1595420534][SantiagoSalazarPavajeau]: Two 'the' in handleSubmit section 👍  https://github.com/learn-co-curriculum/redux-forms-codealong/issues/27
 * [1591128860][wifelette]: Should use spread operator instead of `concat`, in reducer https://github.com/learn-co-curriculum/redux-forms-codealong/issues/24
 * [1600828897][afteralec]: Codealong Uses Index as Key https://github.com/learn-co-curriculum/redux-index-codealong/issues/26
-* [1599353658][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/redux-index-codealong/pull/25
-* [1599217772][dependabot[bot]]: Bump handlebars from 4.4.3 to 4.7.6 https://github.com/learn-co-curriculum/redux-index-codealong/pull/24
 * [1599075679][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/redux-index-codealong/pull/23
 * [1598073423][Sdcrouse]: Typo fixes https://github.com/learn-co-curriculum/redux-index-codealong/pull/22
-* [1596079124][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/redux-index-codealong/pull/21
 * [1591139312][wifelette]: Instructions tell us to do something that's already done... https://github.com/learn-co-curriculum/redux-index-codealong/issues/18
-* [1599354198][dependabot[bot]]: Bump http-proxy from 1.18.0 to 1.18.1 https://github.com/learn-co-curriculum/building-forms-lab/pull/34
-* [1599217558][dependabot[bot]]: Bump handlebars from 4.4.3 to 4.7.6 https://github.com/learn-co-curriculum/building-forms-lab/pull/33
 * [1599139872][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/building-forms-lab/pull/32
-* [1596079299][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/building-forms-lab/pull/31
 * [1590790700][dwinniford]: test does not change input value https://github.com/learn-co-curriculum/building-forms-lab/issues/28
-* [1599353719][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/32
+* [1604005758][dependabot[bot]]: Bump dot-prop from 4.2.0 to 4.2.1 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/33
 * [1599160717][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/31
 * [1598427183][Sdcrouse]: Suggested change to README at the very end https://github.com/learn-co-curriculum/redux-delete-codealong/issues/30
-* [1596079168][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/redux-delete-codealong/pull/29
 * [1581173264][eponsonby]: There are some typos in this codealong https://github.com/learn-co-curriculum/redux-delete-codealong/issues/25
+* [1604005917][dependabot[bot]]: Bump dot-prop from 4.2.0 to 4.2.1 https://github.com/learn-co-curriculum/redux-delete-lab/pull/33
 * [1600833220][afteralec]: Tests using different data types https://github.com/learn-co-curriculum/redux-delete-lab/issues/32
-* [1599354339][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/redux-delete-lab/pull/31
 * [1599167749][lizbur10]: Lizbur10 patch 1 https://github.com/learn-co-curriculum/redux-delete-lab/pull/30
-* [1596079259][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/redux-delete-lab/pull/29
-* [1599357397][dependabot[bot]]: Bump http-proxy from 1.17.0 to 1.18.1 https://github.com/learn-co-curriculum/crud-lab/pull/28
-* [1596079709][dependabot[bot]]: Bump elliptic from 6.4.0 to 6.5.3 https://github.com/learn-co-curriculum/crud-lab/pull/27
+* [1604005904][dependabot[bot]]: Bump dot-prop from 4.2.0 to 4.2.1 https://github.com/learn-co-curriculum/crud-lab/pull/29
 * [1589337596][Richard-Burd]: Final version of fetchAstronauts() function not working. https://github.com/learn-co-curriculum/redux-thunk-readme/issues/16
 * [1600723879][uharston]: Typo https://github.com/learn-co-curriculum/redux-thunk-lab/pull/35
 * [1600360771][lizbur10]: minor edits for clarity https://github.com/learn-co-curriculum/redux-thunk-lab/pull/34
