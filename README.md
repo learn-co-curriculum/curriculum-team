@@ -21,7 +21,7 @@ We want to empower the team to
 
 ### There's an urgent curriculum issue
 
-Slack #se-curriculum-questions. Tag `@rob` and `@maxwell benton`.
+Slack #se-curriculum-questions. Tag `@liz` and `@maxwell benton`.
 
 ### There's an urgent technical issue
 
