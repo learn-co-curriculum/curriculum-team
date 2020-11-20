@@ -1,0 +1,51 @@
+* [1602003998][betalantz]: Markdown not displaying correctly in Canvas https://github.com/learn-co-curriculum/mod-1-discussion-questions-ruby-fundamentals-review/issues/3
+* [1601995209][purisquiri]: typing error https://github.com/learn-co-curriculum/mod-1-discussion-questions-ruby-fundamentals-review/issues/2
+* [1601995106][paulnicholsen27]: Long discussion question https://github.com/learn-co-curriculum/mod-1-discussion-questions-ruby-fundamentals-review/issues/1
+* [1602251937][paulnicholsen27]: Much too difficult https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/issues/9
+* [1596730753][fbado66]: Pull request  https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/8
+* [1590770299][robertalopez]: Group DQ  https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/7
+* [1587949537][ronaldabreu-dev]: Done. https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/6
+* [1587737157][ktomanelli]: table 7 discussion questions https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/5
+* [1585927994][joannaylin]: Done. https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/4
+* [1585923278][theluispestana]: answered questions week1 table 1 https://github.com/learn-co-curriculum/mod-1-discussion-questions-collections-and-classes/pull/3
+* [1588081312][jlangley3]: Persistence  https://github.com/learn-co-curriculum/mod-1-discussion-questions-sql/issues/1
+* [1602681863][paulnicholsen27]: Need to replace example https://github.com/learn-co-curriculum/mod-1-discussion-questions-domain-modeling/issues/1
+* [1591968451][ianmcknnn]: what is xcrun? https://github.com/learn-co-curriculum/mod-1-discussion-questions-active-record/issues/1
+* [1591898804][Jonkavaliauskas]: Done https://github.com/learn-co-curriculum/mod-1-whiteboard-challenge-move-zeroes-and-two-sum/pull/2
+* [1602170715][sannydo]: Sannydo https://github.com/learn-co-curriculum/deploy-on-day-1/pull/107
+* [1601951155][tolentinoel]: Kim nguyen https://github.com/learn-co-curriculum/deploy-on-day-1/pull/105
+* [1600100807][jonathanx111]: First Try https://github.com/learn-co-curriculum/deploy-on-day-1/pull/102
+* [1600096026][jayelle0]: Update index.html https://github.com/learn-co-curriculum/deploy-on-day-1/pull/101
+* [1596576576][valnuccio]: uu¨ https://github.com/learn-co-curriculum/ruby-oo-fundamentals-email-parser-lab/issues/1
+* [1602126269][inee-ader]: Code-along doesn't seem complete https://github.com/learn-co-curriculum/ruby-oo-self-basics/issues/2
+* [1602121150][kgrowkgrow]: code snippet missing  https://github.com/learn-co-curriculum/ruby-oo-self-basics/issues/1
+* [1602263311][jrshort89]: rename method reset_all https://github.com/learn-co-curriculum/ruby-oo-object-relationships-my-pets/issues/1
+* [1598905971][shannon-nabors]: Adding change to transfer#valid? test https://github.com/learn-co-curriculum/ruby-oo-object-relationships-banking-lab/pull/1
+* [1600396877][rtetelbaum]: ReadMe Correction https://github.com/learn-co-curriculum/ruby-oo-object-relationships-has-many-through-lab/issues/2
+* [1593462294][mnavoy4]: Possible mistakes in the doctor_spec.rb and patient_spec.rb files https://github.com/learn-co-curriculum/ruby-oo-object-relationships-has-many-through-lab/issues/1
+* [1602791226][wlytle]: Lesson missing Content https://github.com/learn-co-curriculum/ruby-metaprogramming-keyword-arguments-and-mass-assignment/issues/4
+* [1602718770][stephenvincentibanez]: No read me https://github.com/learn-co-curriculum/ruby-metaprogramming-keyword-arguments-and-mass-assignment/issues/3
+* [1602711991][kgrowkgrow]: I don't think this learn page is displaying what it is supposed to https://github.com/learn-co-curriculum/ruby-metaprogramming-keyword-arguments-and-mass-assignment/issues/2
+* [1602540137][jomariepolanco]: Not properly loading on canvas https://github.com/learn-co-curriculum/ruby-metaprogramming-keyword-arguments-and-mass-assignment/issues/1
+* [1582744488][SpencerBlum]: Won't run with a rescue https://github.com/learn-co-curriculum/ruby-metaprogramming-triangle-classification-lab/issues/1
+* [1582812619][laarchambault]: [DEPRECATED] Warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/3
+* [1582812586][laarchambault]: [DEPRECATED] warning message during tests https://github.com/learn-co-curriculum/ruby-building-applications-gems-and-bundler/issues/2
+* [1602707853][mathlete01]: From the mention of the .help command on down, the rest of the page is all in "code" script. And the .help content is a total mess. https://github.com/learn-co-curriculum/sql-database-basics/issues/3
+* [1602707005][mathlete01]: snake case is demonstrated using italics instead of underscores. https://github.com/learn-co-curriculum/sql-database-basics/issues/2
+* [1599999719][vkassingh]: Update README.md https://github.com/learn-co-curriculum/sql-database-basics/pull/1
+* [1602777889][ArielVGrubbs]: Trouble with last deliverable https://github.com/learn-co-curriculum/sql-organizing-bears-lab/issues/3
+* [1579722149][mrarthurwhite]: Asked to comment out Test Case because identical Output Not recognized by Test Case https://github.com/learn-co-curriculum/sql-aggregate-functions-readme/issues/17
+* [1594801803][iammanyadams]: can't submit https://github.com/learn-co-curriculum/sql-aggregate-functions-lab/issues/15
+* [1586652111][amandaben21]: lab won't open up https://github.com/learn-co-curriculum/sql-aggregate-functions-lab/issues/14
+* [1586034209][neilmryan]: Completed lab https://github.com/learn-co-curriculum/sql-aggregate-functions-lab/pull/13
+* [1591922096][devslife7]: typo, repeated "to" https://github.com/learn-co-curriculum/active-record-mechanics/issues/1
+* [1595911283][dependabot[bot]]: Bump json from 1.8.6 to 2.3.0 https://github.com/learn-co-curriculum/active-record-translating-from-orm-to-ar/pull/3
+* [1584631720][Asilver-jpg]: explain require in rake context https://github.com/learn-co-curriculum/active-record-intro-to-rake/issues/3
+* [1593798608][kylejb]: Mistake in lesson's README.md doc https://github.com/learn-co-curriculum/active-record-associations-and-migrations/issues/4
+* [1595015460][paulnicholsen27]: Lab needs a second look https://github.com/learn-co-curriculum/active-record-associations-project/issues/1
+* [1597425940][kstough00]: "Read the test error messages for additional as you work for additional information." https://github.com/learn-co-curriculum/ruby-getting-remote-data-lab/issues/2
+* [1601312943][timothylevi]: Add Gemfile with at least 'pry' https://github.com/learn-co-curriculum/getting-remote-data-apis-and-iteration/issues/1
+* [1603226983][mandareis]: Amanda https://github.com/learn-co-curriculum/ruby-project-guidelines/pull/13
+* [1603157443][stephenvincentibanez]: Main https://github.com/learn-co-curriculum/ruby-project-guidelines/pull/12
+* [1601484005][Noble-Webb]: Justin https://github.com/learn-co-curriculum/ruby-project-guidelines/pull/8
+* [1595966331][yordy130]: Branch1 user https://github.com/learn-co-curriculum/ruby-project-guidelines/pull/6
