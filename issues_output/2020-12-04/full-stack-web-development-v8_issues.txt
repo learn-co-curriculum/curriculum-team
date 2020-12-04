@@ -1,0 +1,166 @@
+* [1591203362][yndajas]: Outdated information; omitted word; video embed https://github.com/learn-co-curriculum/welcome-to-learn-verified/issues/13
+* [1569953570][Anthonyntilelli]: Dead link for 1:1 https://github.com/learn-co-curriculum/welcome-to-learn-verified/issues/11
+* [1602006871][kosmos02]: Needs updated https://github.com/learn-co-curriculum/git-version-control-getting-code-with-git/issues/9
+* [1590692605][mhdhassan99]: git-basics-lab https://github.com/learn-co-curriculum/git-basics-lab/issues/12
+* [1590684572][jamesjlandry]: git and learn not syncing https://github.com/learn-co-curriculum/git-basics-lab/issues/11
+* [1601351911][ghost]: Link website doesn't exist https://github.com/learn-co-curriculum/careers-online-presence-github/issues/6
+* [1596835082][atBeatty]: syntax error for require_relative https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn/issues/62
+* [1593905278][Tiwalola-G]: having a problem in opening a new project on my IDE https://github.com/learn-co-curriculum/ruby-lecture-intro-what-is-a-program/issues/34
+* [1598630113][shabaz1080]: How do you save https://github.com/learn-co-curriculum/hello-world-ruby/issues/104
+* [1597678905][Brandthomas]: Ruby help needed https://github.com/learn-co-curriculum/hello-world-ruby/issues/103
+* [1585623727][louissemi]: Second lab  https://github.com/learn-co-curriculum/hello-world-ruby/issues/98
+* [1598297045][jessebrown8895]: About Variable Assignment IDE button https://github.com/learn-co-curriculum/variable-readme/issues/32
+* [1588257794][CaptainBasch]: Sandbox takes a full minute or more to open when clicked on. https://github.com/learn-co-curriculum/variable-readme/issues/31
+* [1603264256][jabbasi09]: commit tree 8622ab02709d2ff437da5892b4bd16ed6610f60e https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/104
+* [1601479152][mariah622]: Solution https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/103
+* [1601405261][rtyenriques]: ruby-variable-assignment https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/102
+* [1601344623][galvezn]: Update variable.rb https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/100
+* [1599582269][doosemavis]: Ruby-Variable-Assignment Bug?  https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/99
+* [1594569539][Kokhob]: lesson will not load https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/96
+* [1601516835][jayy5919]: improved docs https://github.com/learn-co-curriculum/data-types-readme/pull/21
+* [1601470353][anubha-v-ardhan]: Update README.md https://github.com/learn-co-curriculum/data-types-readme/pull/20
+* [1597046858][melalat910]: Grammatical error, extra word https://github.com/learn-co-curriculum/array-readme-qualifying/issues/19
+* [1596835082][atBeatty]: syntax error for require_relative https://github.com/learn-co-curriculum/intro-to-tdd-rspec-and-learn/issues/62
+* [1588016813][JLPinthecity]: hello https://github.com/learn-co-curriculum/prework-videos-intro-to-tests/issues/3
+* [1601776268][kerryannharry]: Lab complete https://github.com/learn-co-curriculum/ruby-methods-readme/pull/49
+* [1601618040][jmsimmons90]: Done. https://github.com/learn-co-curriculum/ruby-methods-readme/pull/48
+* [1601440846][rtyenriques]: methods-in-ruby https://github.com/learn-co-curriculum/ruby-methods-readme/pull/47
+* [1603242989][CodeMama96]: commit tree 63fd630c37054b15f80f7135c9d534b47e458f3c https://github.com/learn-co-curriculum/interpolation-readme/pull/24
+* [1597784240][SophiaGrace16]: I think there is a typo in the lesson https://github.com/learn-co-curriculum/puts-print-and-return-readme/issues/35
+* [1572980993][Shinelior]:  def display_board        puts ["   |   |   ","_________","   |   |   "]    puts ["   |   |   ","---------","   |   |   "]                    end   display_board https://github.com/learn-co-curriculum/ttt-3-display_board-example/issues/29
+* [1588684172][gennetteg]: video https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/48
+* [1603265489][jabbasi09]: commit tree 48a01a6ecbd6c694b52eab2045477d3891a6c749 https://github.com/learn-co-curriculum/say-hello-ruby/pull/25
+* [1601751738][jmsimmons90]: Done. https://github.com/learn-co-curriculum/say-hello-ruby/pull/24
+* [1601608851][galvezn]: Second branch https://github.com/learn-co-curriculum/say-hello-ruby/pull/23
+* [1601597038][angelomilien]: Done adding say_hello method https://github.com/learn-co-curriculum/say-hello-ruby/pull/22
+* [1601442488][rtyenriques]: say_hello https://github.com/learn-co-curriculum/say-hello-ruby/pull/21
+* [1593548838][bradpetersen]: Learn.co not receiving completed lab https://github.com/learn-co-curriculum/interpolation-super-power/issues/27
+* [1603245810][bolloland]: I feel like I cheated this one, but did I?... https://github.com/learn-co-curriculum/ttt-4-display-board-rb/issues/37
+* [1600077910][billstoneberg]: learn - Interpolation Lesson https://github.com/learn-co-curriculum/ttt-4-display-board-rb/issues/36
+* [1586380264][Calls4ever]: default value for third argument https://github.com/learn-co-curriculum/ttt-4-display-board-rb/issues/34
+* [1592407038][adiskop]: Issue with content https://github.com/learn-co-curriculum/greeting-cli/issues/32
+* [1588471447][Elhombredelacasa]: Me genera un error que no comprendo https://github.com/learn-co-curriculum/greeting-cli/issues/31
+* [1586317478][batsaikhan84]: My portal being buggy https://github.com/learn-co-curriculum/ttt-6-position-taken-rb/issues/44
+* [1588609788][RyanL2020]: no sandbox tab https://github.com/learn-co-curriculum/while-and-until-looping-readme/issues/7
+* [1603434878][jabbasi09]: commit tree 3a88173a5252367df8a084f10aca73057050d5fb https://github.com/learn-co-curriculum/looping-while-until/pull/30
+* [1602529081][GregS1290]: Error in Looping-While-Until lab https://github.com/learn-co-curriculum/looping-while-until/issues/29
+* [1602045110][jmsimmons90]: Done. https://github.com/learn-co-curriculum/looping-while-until/pull/28
+* [1587121455][hp77-creator]: Can't run local test but the work is submitted https://github.com/learn-co-curriculum/ttt-8-turn/issues/37
+* [1589216048][DallasBlackwell]: Issue about study material providing false information https://github.com/learn-co-curriculum/intro-to-ruby-iterators/issues/28
+* [1568683238][alexstolznut]: An issue with your test https://github.com/learn-co-curriculum/ttt-10-current-player/issues/24
+* [1603207925][dependabot[bot]]: Bump json from 2.2.0 to 2.3.1 https://github.com/learn-co-curriculum/tic-tac-toe-rb/pull/82
+* [1603207922][dependabot[bot]]: Bump rake from 12.3.2 to 12.3.3 https://github.com/learn-co-curriculum/tic-tac-toe-rb/pull/81
+* [1570376032][paulnicholsen27]: Code coverage? https://github.com/learn-co-curriculum/tic-tac-toe-rb/issues/78
+* [1572284538][Emanao]: The expected output before adding markup in this lab differs across browsers https://github.com/learn-co-curriculum/experiencing-html-lab/issues/7
+* [1584892641][halfields]: This lesson and the following lesson, 'HTML Introduction' are almost identical https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/7
+* [1562030675][morganpstanley]: Spelling Error. https://github.com/learn-co-curriculum/crafting-html-docs-readme/issues/6
+* [1568476164][Rpascar1]: regex example code allows for character excluded by rules of lesson https://github.com/learn-co-curriculum/regex-what-is-a-pattern/issues/7
+* [1598297045][jessebrown8895]: About Variable Assignment IDE button https://github.com/learn-co-curriculum/variable-readme/issues/32
+* [1588257794][CaptainBasch]: Sandbox takes a full minute or more to open when clicked on. https://github.com/learn-co-curriculum/variable-readme/issues/31
+* [1603264256][jabbasi09]: commit tree 8622ab02709d2ff437da5892b4bd16ed6610f60e https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/104
+* [1601479152][mariah622]: Solution https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/103
+* [1601405261][rtyenriques]: ruby-variable-assignment https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/102
+* [1601344623][galvezn]: Update variable.rb https://github.com/learn-co-curriculum/ruby-variable-assignment/pull/100
+* [1599582269][doosemavis]: Ruby-Variable-Assignment Bug?  https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/99
+* [1594569539][Kokhob]: lesson will not load https://github.com/learn-co-curriculum/ruby-variable-assignment/issues/96
+* [1603242989][CodeMama96]: commit tree 63fd630c37054b15f80f7135c9d534b47e458f3c https://github.com/learn-co-curriculum/interpolation-readme/pull/24
+* [1601776268][kerryannharry]: Lab complete https://github.com/learn-co-curriculum/ruby-methods-readme/pull/49
+* [1601618040][jmsimmons90]: Done. https://github.com/learn-co-curriculum/ruby-methods-readme/pull/48
+* [1601440846][rtyenriques]: methods-in-ruby https://github.com/learn-co-curriculum/ruby-methods-readme/pull/47
+* [1588684172][gennetteg]: video https://github.com/learn-co-curriculum/ruby-arguments-readme/issues/48
+* [1603214900][killacalical]: done https://github.com/learn-co-curriculum/method-arguments-lab/pull/16
+* [1601750689][jmsimmons90]: Done. https://github.com/learn-co-curriculum/method-arguments-lab/pull/15
+* [1601441380][rtyenriques]: Method-Arguments-Lab. https://github.com/learn-co-curriculum/method-arguments-lab/pull/14
+* [1568171737][Edaly9392]: Fork the Lab https://github.com/learn-co-curriculum/method-arguments-lab/issues/13
+* [1603265489][jabbasi09]: commit tree 48a01a6ecbd6c694b52eab2045477d3891a6c749 https://github.com/learn-co-curriculum/say-hello-ruby/pull/25
+* [1601751738][jmsimmons90]: Done. https://github.com/learn-co-curriculum/say-hello-ruby/pull/24
+* [1601608851][galvezn]: Second branch https://github.com/learn-co-curriculum/say-hello-ruby/pull/23
+* [1601597038][angelomilien]: Done adding say_hello method https://github.com/learn-co-curriculum/say-hello-ruby/pull/22
+* [1601442488][rtyenriques]: say_hello https://github.com/learn-co-curriculum/say-hello-ruby/pull/21
+* [1597784240][SophiaGrace16]: I think there is a typo in the lesson https://github.com/learn-co-curriculum/puts-print-and-return-readme/issues/35
+* [1603316565][jabbasi09]: commit tree 59f106209287ff034ae2606f3c51b291fb2a6b6f https://github.com/learn-co-curriculum/parrot-ruby/pull/28
+* [1602281316][handsomemolly]: Parrot Ruby Lab Fails to Load https://github.com/learn-co-curriculum/parrot-ruby/issues/27
+* [1601753571][jmsimmons90]: Done. https://github.com/learn-co-curriculum/parrot-ruby/pull/26
+* [1601443378][rtyenriques]: parrot-ruby https://github.com/learn-co-curriculum/parrot-ruby/pull/25
+* [1583476507][Robaledo11]: return values lab https://github.com/learn-co-curriculum/parrot-ruby/issues/24
+* [1603301850][may-arden]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/52
+* [1603226607][nmhummel]: commit tree 4e8fed2790cdcfe19030176c5b716e45b0a54705 https://github.com/learn-co-curriculum/debugging-with-pry/pull/51
+* [1603223426][imcarissa]: Pry Documentation link broken https://github.com/learn-co-curriculum/debugging-with-pry/issues/50
+* [1603150507][reyes2981]: Add Existing File https://github.com/learn-co-curriculum/debugging-with-pry/pull/49
+* [1603130184][andrudog7]: Done.  Testing Pull Requests https://github.com/learn-co-curriculum/debugging-with-pry/pull/48
+* [1601713964][angelomilien]: Done fixing bug  https://github.com/learn-co-curriculum/debugging-with-pry/pull/47
+* [1601451044][rtyenriques]: debugging-with-pry https://github.com/learn-co-curriculum/debugging-with-pry/pull/46
+* [1601323870][karegan4]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/45
+* [1601314473][smassarsky]: Done. https://github.com/learn-co-curriculum/debugging-with-pry/pull/44
+* [1599867408][timothylevi]: Correct list item numbering https://github.com/learn-co-curriculum/debugging-with-pry/issues/43
+* [1588723896][KevinXirum]: I need help with the Method Scope Lab https://github.com/learn-co-curriculum/debugging-with-pry/issues/42
+* [1581977863][saltysk]: pry https://github.com/learn-co-curriculum/debugging-with-pry/issues/41
+* [1603320465][jabbasi09]: commit tree fa39f1553c3d12dde5333b6cb54a56beb260bc85 https://github.com/learn-co-curriculum/method-scope-lab/pull/29
+* [1601756479][jmsimmons90]: Done. https://github.com/learn-co-curriculum/method-scope-lab/pull/28
+* [1601450450][rtyenriques]: method-scope-lab https://github.com/learn-co-curriculum/method-scope-lab/pull/27
+* [1568146597][ivalentine]: Question 4 incorrectly says 7 is an incorrect answer https://github.com/learn-co-curriculum/truthiness-code-challenge/issues/35
+* [1603346391][jabbasi09]: commit tree 515025515780b82667d0d1eecc6a24e5daa50eed https://github.com/learn-co-curriculum/speaking-grandma/pull/26
+* [1602039158][jmsimmons90]: Done. https://github.com/learn-co-curriculum/speaking-grandma/pull/25
+* [1601496903][rtyenriques]: Speak-to-grandma https://github.com/learn-co-curriculum/speaking-grandma/pull/24
+* [1603243801][SauvageRene]: done https://github.com/learn-co-curriculum/operators/pull/38
+* [1602040660][jmsimmons90]: Done. https://github.com/learn-co-curriculum/operators/pull/37
+* [1601534193][rtyenriques]: operators https://github.com/learn-co-curriculum/operators/pull/36
+* [1597813413][oliverbebber]: Posted solution is different from instructions solution, please review. https://github.com/learn-co-curriculum/operators/issues/35
+* [1579985202][sarisgar28]: I WOULD LIKE TO REVIEW THIS  https://github.com/learn-co-curriculum/operators/issues/34
+* [1576070468][8ceg6]: IDE ISSUE https://github.com/learn-co-curriculum/operators/issues/33
+* [1599766395][kjoos22]: Question #2 - .. operator https://github.com/learn-co-curriculum/case-statements-quiz/issues/12
+* [1603417628][adrianapicado]: Update looping.rb https://github.com/learn-co-curriculum/looping-loop/pull/30
+* [1589080188][CatheryneS]: Looping Lab Wording Confusion https://github.com/learn-co-curriculum/looping-loop/issues/29
+* [1588168425][adub65]: loop https://github.com/learn-co-curriculum/looping-loop/pull/28
+* [1603403971][jabbasi09]: commit tree 9e3890519ca0ee8f8192ed8877ae3616f0d7a1a5 https://github.com/learn-co-curriculum/looping-times/pull/12
+* [1602043893][jmsimmons90]: Done. https://github.com/learn-co-curriculum/looping-times/pull/11
+* [1601573553][rtyenriques]: looping-times. https://github.com/learn-co-curriculum/looping-times/pull/10
+* [1571758709][ghost]: Times Lab Syntax issue https://github.com/learn-co-curriculum/looping-times/issues/9
+* [1588609788][RyanL2020]: no sandbox tab https://github.com/learn-co-curriculum/while-and-until-looping-readme/issues/7
+* [1603434878][jabbasi09]: commit tree 3a88173a5252367df8a084f10aca73057050d5fb https://github.com/learn-co-curriculum/looping-while-until/pull/30
+* [1602529081][GregS1290]: Error in Looping-While-Until lab https://github.com/learn-co-curriculum/looping-while-until/issues/29
+* [1602045110][jmsimmons90]: Done. https://github.com/learn-co-curriculum/looping-while-until/pull/28
+* [1603230509][CodeMama96]: commit tree d0f76442092b2a4f5762821a15ec02747972d429 https://github.com/learn-co-curriculum/countdown-to-midnight/pull/22
+* [1602047462][jmsimmons90]: Done. https://github.com/learn-co-curriculum/countdown-to-midnight/pull/21
+* [1596222853][kstough00]: Countdown to 0  https://github.com/learn-co-curriculum/countdown-to-midnight/issues/20
+* [1603437923][jabbasi09]: commit tree 73c381d5e244cfc008d596027efcc77437c4440b https://github.com/learn-co-curriculum/array-CRUD-lab/pull/27
+* [1602049568][jmsimmons90]: Done. https://github.com/learn-co-curriculum/array-CRUD-lab/pull/26
+* [1572994986][isaiahvelez611]:  answering test one with if else states manets? https://github.com/learn-co-curriculum/array-CRUD-lab/issues/25
+* [1572709009][natey37]: Lab repo cannot be found  https://github.com/learn-co-curriculum/array-CRUD-lab/issues/23
+* [1572211333][TomCon3]: "open this lab" does not turn green. lab doesnt open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/22
+* [1572145205][jdeshaise]: does not  open https://github.com/learn-co-curriculum/array-CRUD-lab/issues/21
+* [1571438825][paztoya]: Cannot find lesson with repo: array-crud-lab-cb-000. Please check your input https://github.com/learn-co-curriculum/array-CRUD-lab/issues/19
+* [1603438517][jabbasi09]: commit tree 5ffbb05112e10fa49ba398a8cb212b5016ea3c3c https://github.com/learn-co-curriculum/array-methods-lab/pull/14
+* [1602051428][jmsimmons90]: Done. https://github.com/learn-co-curriculum/array-methods-lab/pull/13
+* [1601486472][karegan4]: done https://github.com/learn-co-curriculum/array-methods-lab/pull/12
+* [1589216048][DallasBlackwell]: Issue about study material providing false information https://github.com/learn-co-curriculum/intro-to-ruby-iterators/issues/28
+* [1603507467][jabbasi09]: built square array using .each https://github.com/learn-co-curriculum/square_array/pull/20
+* [1602373881][jmsimmons90]: Done. https://github.com/learn-co-curriculum/square_array/pull/19
+* [1602093784][angelomilien]: Task https://github.com/learn-co-curriculum/square_array/pull/18
+* [1603530606][jabbasi09]: commit tree a042d5f557571428e61c4df479c31a533cfb1600 https://github.com/learn-co-curriculum/badges-and-schedules/pull/30
+* [1588784347][Adamlatorraca]: Misleading instructions https://github.com/learn-co-curriculum/badges-and-schedules/issues/28
+* [1593180216][KingKatraz]: Oxford https://github.com/learn-co-curriculum/oxford-comma/issues/16
+* [1589615834][arwitmer]: AAQ froze https://github.com/learn-co-curriculum/oxford-comma/issues/14
+* [1603381861][CodeMama96]: commit tree 45e799c5a0e9853ab7863491cb0af7815c4a0b3d https://github.com/learn-co-curriculum/my-each/pull/34
+* [1576209225][mrarthurwhite]: OPEN IDE button in Chrome Stopped working https://github.com/learn-co-curriculum/my-each/issues/33
+* [1596997243][carriemathieu]: video unavailable on Learn.co (but is available on youtube) https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/4
+* [1589582003][wkdewey]: Video does not work https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/3
+* [1582638535][ashleymader]: Video unavailable https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/2
+* [1577208506][maharvey2]: Video unavailable  https://github.com/learn-co-curriculum/prework-videos-enumerables-each/issues/1
+* [1603400538][CodeMama96]: commit tree 110ef856280dc38b8e9f728c60bd4c13fa224608 https://github.com/learn-co-curriculum/yield-and-return-values/pull/18
+* [1584688204][jimmyle414]: Return from Yield Statement https://github.com/learn-co-curriculum/yield-and-return-values/issues/16
+* [1582397075][kiranram90]: My Spec file is missing https://github.com/learn-co-curriculum/yield-and-return-values/issues/14
+* [1603382873][CodeMama96]: commit tree 84d580536b85ca432529543818f6326074b73ff8 https://github.com/learn-co-curriculum/my-collect/pull/33
+* [1600094984][doosemavis]: Blog Post Bug https://github.com/learn-co-curriculum/my_all/issues/8
+* [1570032409][8ceg6]: sorting lab errors when trying to open IDE https://github.com/learn-co-curriculum/collections_practice/issues/42
+* [1596116376][trevismcgill]: Video Quality https://github.com/learn-co-curriculum/hash-overview-readme/issues/30
+* [1602433228][Jmacklin1]: Lab not saving in Github https://github.com/learn-co-curriculum/my-first-hash/issues/17
+* [1580435114][jackismoe]: "Open This Lab" Requirement will not show as complete. https://github.com/learn-co-curriculum/my-first-hash/issues/16
+* [1594820246][ayo3able]: Hash Iteration with Each https://github.com/learn-co-curriculum/hash-iteration/issues/20
+* [1564334681][alouiscious]:  My name is not among the list of names on the pair partners form. please help https://github.com/learn-co-curriculum/nested-hashes-intro/issues/4
+* [1598745695][knbrlo]: "hash rocket" must to be used when assigning mortgage_value for each railroad to pass tests https://github.com/learn-co-curriculum/ruby-intro-to-hashes-lab/issues/32
+* [1588294119][jake0988]: Incorrect https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/30
+* [1581714528][ktalmage]: Is this missing first level labels?  https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/29
+* [1562628601][morganpstanley]: the binding.pry should return "Freddy", not "Jon". https://github.com/learn-co-curriculum/nested-hash-iteration-code-along/issues/28
+* [1588297173][jake0988]: Typo https://github.com/learn-co-curriculum/other-hash-methods-code-along/issues/27
+* [1567295906][CGonzalez0115]: Learn IDE issues https://github.com/learn-co-curriculum/apples-and-holidays/issues/49
