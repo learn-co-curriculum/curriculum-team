@@ -4,6 +4,6 @@ It looks like this pull request was submitted as proof of your completion of thi
 
 If you are completing the prework, please [review these instructions](https://learning.flatironschool.com/courses/3280/assignments/73666?module_item_id=142646) for completing and submitting your work. If, after reviewing the procedures, you are still having difficulty submitting your labs, please use the #js-prework-support Slack channel to get assistance.
 
-If you have started the coursework and set up the learn-co gem, please [review these instructions](https://github.com/learn-co-curriculum/macos-env-flatiron-student-portal). If, after reviewing the procedures, you are still having difficulty submitting your labs, please contact your cohort lead, section lead or [Ask a Question](http://help.learn.co/ask-a-question/where-can-i-ask-a-question-about-a-lesson), as appropriate.
+If you have set up the learn-co gem and started the regular coursework, please [review these instructions](https://github.com/learn-co-curriculum/macos-env-flatiron-student-portal) for completing and submitting your work. If, after reviewing the procedures, you are still having difficulty submitting your labs, please contact your cohort lead, section lead or [Ask a Question](http://help.learn.co/ask-a-question/where-can-i-ask-a-question-about-a-lesson). to get assistance, as appropriate.
 
 Thanks! 💙
