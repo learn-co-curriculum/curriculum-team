@@ -6,6 +6,6 @@ If you are working in Canvas, please [review these instructions](https://github.
 
 If you are working in Learn, please refer to [this article](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab) on how to manually fork and clone a lab from the correct repository.
 
-If you continue to have difficulties, you can reach out to your instructors or to [Ask a Question](http://help.learn.co/ask-a-question/where-can-i-ask-a-question-about-a-lesson) for assistance.
+If you continue to have difficulties, you can reach out to your instructors or Pair with a Coach for assistance.
 
 Thanks! 💙
