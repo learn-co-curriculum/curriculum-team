@@ -1,0 +1,1 @@
+Thanks for raising this issue! The lesson in question has been updated in Canvas for future cohorts, so they'll see the same information that is presently in the Github repo. Those Canvas changes won't be visible to your cohort, so you'll have to look at the instructions for this particular lesson on Github.
