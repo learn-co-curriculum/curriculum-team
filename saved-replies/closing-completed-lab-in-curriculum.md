@@ -1,6 +1,6 @@
 Hi there,
 
-It looks like this pull request was submitted as proof of your completion of this lab/assignment by running `learn submit`.. This pull request will not submit your work correctly so I am closing it. 
+It looks like this pull request was submitted as proof of your completion of this lab/assignment by running `learn submit`. This pull request will not submit your work correctly so I am closing it. 
 
 `learn submit` was only meant to be used with curriculum on our old Learn.co platform. Students working on Canvas only need to run `learn test` to update their assignment in Canvas and submit their work.
 
