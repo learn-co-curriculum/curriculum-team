@@ -8,6 +8,10 @@ In the future, please refrain from using `learn submit` as it doesn't submit you
 
 If you are working in Canvas, please [review these instructions](https://github.com/learn-co-curriculum/welcome-completing-assignments) on completing and submitting your work. 
 
-If you continue to have difficulties, you can reach out to your instructors or Pair with a Coach for assistance.
+If you continue to have difficulties, you can either: 
+
+- Reach out to your instructor (if you've started the program and have an instructor)
+- Use the [#js-prework-support](https://flatiron-school.slack.com/archives/C01KEEVJU3Y) Slack channel (if you're working on the prework)
+- Use the [Pair with a TC](https://docs.google.com/document/d/1Gko5UFzCBhpo1R0V_Tx2JHSK9cRC2b_53Ky3u5Qtzlk/edit) feature in Canvas to connect with a Technical Coach on the Academic Success Team
 
 Thanks! 💙
