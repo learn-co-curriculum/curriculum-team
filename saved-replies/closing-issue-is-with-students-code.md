@@ -8,3 +8,5 @@ To get help with your question, you should either:
 - Use the [Pair with a TC](https://docs.google.com/document/d/1Gko5UFzCBhpo1R0V_Tx2JHSK9cRC2b_53Ky3u5Qtzlk/edit) feature in Canvas to connect with a Technical Coach on the Academic Success Team
 
 Please re-open this issue if you believe the lesson needs to be updated.
+
+Hope you are able to get this resolved! 💙
