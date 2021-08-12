@@ -1,7 +1,13 @@
 Closes #
 
-Hello,
+Hello, and thank you for spotting this issue and providing feedback.
 
-We've created a pull request for this issue, and merged it in. Thank you for submitting this issue and for contributing to a learn-co-curriculum repository!
+We have updated the GitHub repo and believe your issue to have been resolved. 
+Note, however, that if you are working in Canvas the changes may not show up 
+there, but they will for future students.
 
+We apologize for any frustration you might have encountered during this process
+but thank you for helping us ensure that those who follow in your path will not!
 We appreciate your support! 💙
+
+	
