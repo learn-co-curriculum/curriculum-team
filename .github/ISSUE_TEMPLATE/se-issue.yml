@@ -21,7 +21,7 @@ body:
     attributes:
       label: Concern
       description: |
-        Describe why this code or markdown is causing an issue. Include the file and line number(s) if possible.
+        Describe what code or text in the README is causing an issue. Include the file and line number(s) if possible.
       placeholder: Tell us what you see!
     validations:
       required: true
