@@ -1,6 +1,6 @@
 name: Bug Report
 description: Report issues in a lesson's source code
-title: ""
+title: "[SE] "
 labels: ["bug"]
 body:
   - type: markdown
