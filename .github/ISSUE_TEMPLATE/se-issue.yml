@@ -1,7 +1,6 @@
-name: Bug Report
-description: Report issues in a lesson's source code
-title: "[SE] "
-labels: ["bug"]
+name: SE Report
+description: Report issues in a Software Engineering lesson's source code
+title: "[SE Issue] "
 body:
   - type: markdown
     attributes:
@@ -20,9 +19,9 @@ body:
   - type: textarea
     id: what-happened
     attributes:
-      label: What happened?
+      label: Concern
       description: |
-        Write a clear and concise description of what the bug is. Include the file and line number(s) if possible.
+        Describe why this code or markdown is causing an issue. Include the file and line number(s) if possible.
       placeholder: Tell us what you see!
     validations:
       required: true
